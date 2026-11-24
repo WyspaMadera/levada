@@ -1,0 +1,175 @@
+[
+  {
+    "id": "sc-w07-cafe",
+    "titlePl": "Śniadanie w kawiarni",
+    "topicPl": "Kawiarnia i płacenie",
+    "level": "A1",
+    "unlockAfterLessonId": "w07-l42",
+    "contextPl": "Rano wchodzisz do kawiarni Ruiego. Jesteście po imieniu, ale zamawiasz grzecznie (queria…, se faz favor). Zamów to, na co masz ochotę — ceny są przykładowe.",
+    "turns": [
+      {
+        "speaker": "Rui",
+        "promptItemId": "bom-dia-tudo-bem-q",
+        "taskPl": "Odpowiedz i zamów coś do picia.",
+        "answerItemIds": [
+          "tudo-bem-obrigado-queria-um-galao-sfv",
+          "queria-um-galao-sfv",
+          "um-sumo-de-laranja-sfv",
+          "bom-dia-um-cafe-sfv"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "e-para-comer-q",
+        "taskPl": "Zamów coś do jedzenia albo podziękuj.",
+        "answerItemIds": [
+          "uma-torrada-sfv",
+          "um-pastel-de-nata-sfv",
+          "nao-quero-obrigado"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "mais-alguma-coisa-q",
+        "taskPl": "Poproś o szklankę wody albo powiedz, że to wszystko.",
+        "answerItemIds": [
+          "um-copo-de-agua-sfv",
+          "nao-e-tudo-obrigado",
+          "cs-e-tudo-obrigado"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "sao-tres-euros-e-vinte",
+        "taskPl": "Zapytaj, czy możesz zapłacić kartą, albo podaj pieniądze.",
+        "answerItemIds": [
+          "cs-posso-pagar-com-cartao",
+          "aqui-esta"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "obrigado-bom-dia",
+        "taskPl": "Pożegnaj się.",
+        "answerItemIds": [
+          "obrigado-ate-logo",
+          "ate-amanha",
+          "adeus-ate-logo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w08-caminho",
+    "titlePl": "Apteka i autobus",
+    "topicPl": "Miasto i transport",
+    "level": "A1",
+    "unlockAfterLessonId": "w08-l48",
+    "contextPl": "Jesteś w mieście i szukasz apteki, a potem chcesz wrócić autobusem. Spotykasz Martę. Rozmowa grzeczna (o senhor / a senhora). Godziny są przykładowe.",
+    "turns": [
+      {
+        "speaker": "Marta",
+        "promptItemId": "boa-tarde-precisa-de-ajuda-q",
+        "taskPl": "Zapytaj, czy w pobliżu jest apteka (albo gdzie jest apteka).",
+        "answerItemIds": [
+          "ha-uma-farmacia-aqui-perto-q",
+          "onde-fica-a-farmacia-q"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "siga-em-frente-e-vire-na-primeira-rua-a-direita",
+        "taskPl": "Zapytaj, czy to daleko.",
+        "answerItemIds": [
+          "e-longe-q",
+          "a-farmacia-e-longe-q"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "nao-e-muito-perto",
+        "taskPl": "Zapytaj, o której odjeżdża autobus do centrum (albo do Funchal).",
+        "answerItemIds": [
+          "a-que-horas-parte-o-autocarro-para-o-centro-q",
+          "a-que-horas-parte-o-autocarro-para-o-funchal-q"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "o-proximo-parte-as-dez-e-meia",
+        "taskPl": "Zapytaj, gdzie jest przystanek.",
+        "answerItemIds": [
+          "onde-fica-a-paragem-q",
+          "cs-onde-e-a-paragem"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "e-ao-lado-do-mercado",
+        "taskPl": "Podziękuj i pożegnaj się.",
+        "answerItemIds": [
+          "muito-obrigado",
+          "obrigado-ate-logo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w08-tempo",
+    "titlePl": "Pogoda i plany",
+    "topicPl": "Pogoda i pory roku",
+    "level": "A1",
+    "unlockAfterLessonId": "w08-l47",
+    "contextPl": "Dzwoni Ana. Jesteście po imieniu (tu). Mów o prawdziwej pogodzie u Ciebie — wzory to tylko przykłady.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "como-esta-o-tempo-q",
+        "taskPl": "Opisz pogodę u Ciebie (teraz, dziś).",
+        "answerItemIds": [
+          "hoje-esta-sol-e-esta-calor",
+          "hoje-esta-muito-frio",
+          "esta-a-chover",
+          "hoje-esta-muito-vento"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "vamos-a-praia-amanha-q",
+        "taskPl": "Zgódź się (zapytaj o godzinę) albo odmów.",
+        "answerItemIds": [
+          "sim-a-que-horas-q",
+          "amanha-nao-posso-trabalho"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "tu-gostas-do-inverno-q",
+        "taskPl": "Powiedz, którą porę roku lubisz.",
+        "answerItemIds": [
+          "gosto-muito-do-verao",
+          "gosto-da-primavera",
+          "gosto-mais-do-inverno"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "na-polonia-esta-muito-frio-no-inverno-q",
+        "taskPl": "Odpowiedz o zimie w Polsce (albo w Twoim kraju).",
+        "answerItemIds": [
+          "na-polonia-no-inverno-esta-muito-frio",
+          "esta-sim-e-aqui-esta-calor-todo-o-ano-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "esta-bem-ate-logo",
+        "taskPl": "Pożegnaj się.",
+        "answerItemIds": [
+          "ate-logo",
+          "adeus-ate-logo"
+        ]
+      }
+    ]
+  }
+]

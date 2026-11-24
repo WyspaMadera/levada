@@ -1,0 +1,594 @@
+[
+  {
+    "id": "przedszkole",
+    "order": 10,
+    "group": "dziecko",
+    "titlePl": "Przedszkole",
+    "descriptionPl": "Przyprowadzanie i odbiór, jak minął dzień, choroba i nieobecność, wiadomość do wychowawczyni.",
+    "disclaimerPl": "Zwroty ogólne. Zasady (godziny, zgłaszanie nieobecności) ustala placówka. Zamiast „o meu filho” mów „a minha filha”, jeśli chodzi o córkę.",
+    "phrases": [
+      {
+        "itemId": "cs-venho-buscar-o-meu-filho"
+      },
+      {
+        "itemId": "cs-hoje-ele-esta-um-pouco-cansado"
+      },
+      {
+        "itemId": "cs-hoje-o-meu-filho-nao-vem"
+      },
+      {
+        "itemId": "cs-o-meu-filho-esta-doente"
+      },
+      {
+        "itemId": "cs-hoje-venho-busca-lo-mais-cedo",
+        "harder": true
+      },
+      {
+        "itemId": "cs-a-que-horas-posso-vir-busca-lo",
+        "harder": true
+      },
+      {
+        "itemId": "cs-como-correu-o-dia",
+        "harder": true
+      },
+      {
+        "itemId": "cs-queria-falar-com-a-educadora"
+      },
+      {
+        "itemId": "cs-pode-dar-este-recado-a-educadora",
+        "harder": true
+      },
+      {
+        "itemId": "cs-pode-escrever"
+      }
+    ]
+  },
+  {
+    "id": "transport-prawo-jazdy",
+    "order": 20,
+    "group": "urzedy",
+    "titlePl": "Urząd: transport i prawo jazdy",
+    "descriptionPl": "Umawianie wizyty, pytanie o dokumenty i formularze, wyjaśnienie, po co przychodzisz.",
+    "disclaimerPl": "Zwroty ogólne — nie opisują procedur urzędowych. Wymagania sprawdzaj w danej instytucji.",
+    "phrases": [
+      {
+        "itemId": "cs-queria-fazer-uma-marcacao"
+      },
+      {
+        "itemId": "cs-tenho-uma-marcacao-as-dez"
+      },
+      {
+        "itemId": "cs-venho-por-causa-de"
+      },
+      {
+        "itemId": "cs-venho-tratar-da-carta-de-conducao",
+        "harder": true
+      },
+      {
+        "itemId": "cs-queria-pedir-uma-informacao"
+      },
+      {
+        "itemId": "cs-que-documentos-sao-precisos"
+      },
+      {
+        "itemId": "cs-pode-dar-me-o-formulario"
+      },
+      {
+        "itemId": "cs-preciso-de-preencher-algum-formulario",
+        "harder": true
+      },
+      {
+        "itemId": "cs-pode-explicar-me"
+      },
+      {
+        "itemId": "cs-pode-escrever"
+      }
+    ],
+    "institution": {
+      "namePt": "Instituto de Mobilidade e Transportes, IP-RAM",
+      "namePl": "Regionalny instytut mobilności i transportu Madery (m.in. prawo jazdy, pojazdy)",
+      "url": "https://imt.madeira.gov.pt/",
+      "verifiedAt": "2026-11-24",
+      "verifiedHow": "search",
+      "notePl": "Na Maderze sprawy kierowców i pojazdów prowadzi instytut regionalny (nie krajowy IMT, I.P.). Starsze źródła podają dawną nazwę DRETT. Adres biura różni się w dokumentach — sprawdź na stronie przed wizytą."
+    }
+  },
+  {
+    "id": "seguranca-social",
+    "order": 30,
+    "group": "urzedy",
+    "titlePl": "Segurança Social",
+    "descriptionPl": "Numer identyfikacyjny, wizyta, dokumenty i wymagania, prośba o wyjaśnienie.",
+    "disclaimerPl": "Zwroty ogólne — nie opisują procedur urzędowych. Wymagania sprawdzaj w danej instytucji.",
+    "phrases": [
+      {
+        "itemId": "cs-o-meu-numero-de-seguranca-social-e"
+      },
+      {
+        "itemId": "cs-queria-fazer-uma-marcacao"
+      },
+      {
+        "itemId": "cs-venho-por-causa-de"
+      },
+      {
+        "itemId": "cs-que-documentos-sao-precisos"
+      },
+      {
+        "itemId": "cs-quais-sao-os-requisitos",
+        "harder": true
+      },
+      {
+        "itemId": "cs-tenho-aqui-os-documentos"
+      },
+      {
+        "itemId": "cs-pode-explicar-me"
+      },
+      {
+        "itemId": "cs-pode-dar-me-isso-por-escrito"
+      },
+      {
+        "itemId": "cs-onde-tenho-de-ir",
+        "harder": true
+      },
+      {
+        "itemId": "pode-repetir"
+      }
+    ],
+    "institution": {
+      "namePt": "Instituto de Segurança Social da Madeira, IP-RAM (ISSM)",
+      "namePl": "Regionalny instytut ubezpieczeń społecznych Madery",
+      "url": "https://seg-social.pt/in/quem-somos-issm",
+      "verifiedAt": "2026-11-24",
+      "verifiedHow": "search",
+      "notePl": "Instytut nie ma osobnej domeny — jego strony są w serwisie seg-social.pt."
+    }
+  },
+  {
+    "id": "turystyka",
+    "order": 40,
+    "group": "praca-turystyka",
+    "titlePl": "Turystyka: obsługa gości",
+    "descriptionPl": "Powitanie klienta, rezerwacje, proste pytania i kontakt.",
+    "phrases": [
+      {
+        "itemId": "cs-bom-dia-em-que-posso-ajudar"
+      },
+      {
+        "itemId": "cs-tem-reserva"
+      },
+      {
+        "itemId": "cs-em-nome-de-quem"
+      },
+      {
+        "itemId": "cs-para-quantas-pessoas"
+      },
+      {
+        "itemId": "cs-um-momento-sfv"
+      },
+      {
+        "itemId": "cs-vou-verificar"
+      },
+      {
+        "itemId": "cs-o-pequeno-almoco-esta-incluido"
+      },
+      {
+        "itemId": "cs-qual-e-o-seu-numero-de-telemovel"
+      },
+      {
+        "itemId": "cs-a-que-horas-fecha"
+      },
+      {
+        "itemId": "mais-devagar"
+      }
+    ]
+  },
+  {
+    "id": "rezerwacje-online",
+    "order": 50,
+    "group": "praca-turystyka",
+    "titlePl": "Rezerwacje online",
+    "descriptionPl": "Potwierdzenie, zmiana terminu, anulowanie, problem z rezerwacją lub formularzem.",
+    "disclaimerPl": "Zwroty ogólne. Warunki zmiany i anulowania rezerwacji zależą od danej firmy.",
+    "phrases": [
+      {
+        "itemId": "cs-ja-fiz-a-reserva",
+        "harder": true
+      },
+      {
+        "itemId": "cs-queria-confirmar-a-minha-reserva"
+      },
+      {
+        "itemId": "cs-a-reserva-esta-em-nome-de"
+      },
+      {
+        "itemId": "cs-queria-mudar-a-data-da-reserva"
+      },
+      {
+        "itemId": "cs-queria-cancelar-a-reserva"
+      },
+      {
+        "itemId": "cs-tenho-um-problema-com-a-reserva"
+      },
+      {
+        "itemId": "cs-nao-recebi-a-confirmacao",
+        "harder": true
+      },
+      {
+        "itemId": "cs-o-formulario-nao-funciona"
+      },
+      {
+        "itemId": "cs-pode-enviar-me-a-confirmacao",
+        "harder": true
+      },
+      {
+        "itemId": "pode-repetir"
+      }
+    ]
+  },
+  {
+    "id": "lekarz",
+    "order": 60,
+    "group": "codziennosc",
+    "titlePl": "U lekarza",
+    "descriptionPl": "Umawianie wizyty, objawy, alergie, recepta.",
+    "disclaimerPl": "Zwroty ogólne — nie zastępują porady medycznej. W nagłym wypadku dzwoń pod 112.",
+    "phrases": [
+      {
+        "itemId": "cs-queria-marcar-uma-consulta"
+      },
+      {
+        "itemId": "cs-tenho-uma-consulta-marcada"
+      },
+      {
+        "itemId": "cs-estou-doente"
+      },
+      {
+        "itemId": "cs-tenho-febre"
+      },
+      {
+        "itemId": "cs-doi-me-aqui"
+      },
+      {
+        "itemId": "cs-doi-me-a-cabeca"
+      },
+      {
+        "itemId": "cs-ha-tres-dias"
+      },
+      {
+        "itemId": "cs-sou-alergico-a"
+      },
+      {
+        "itemId": "cs-preciso-de-uma-receita"
+      },
+      {
+        "itemId": "cs-pode-escrever"
+      }
+    ],
+    "institution": {
+      "namePt": "SESARAM — Serviço de Saúde da Região Autónoma da Madeira",
+      "namePl": "Regionalna służba zdrowia Madery",
+      "url": "https://www.sesaram.pt/portal/",
+      "verifiedAt": "2026-11-24",
+      "verifiedHow": "search",
+      "notePl": "SESARAM publikuje własną linię zdrowia „SRS24 Madeira” (800 24 24 20). Numer znaleziony tylko w wynikach wyszukiwania — potwierdź go na stronie SESARAM. W nagłym wypadku dzwoń pod 112."
+    }
+  },
+  {
+    "id": "apteka",
+    "order": 70,
+    "group": "codziennosc",
+    "titlePl": "W aptece",
+    "descriptionPl": "Recepta, leki na typowe dolegliwości, jak i kiedy przyjmować.",
+    "disclaimerPl": "Zwroty ogólne — nie zastępują porady farmaceuty ani lekarza.",
+    "phrases": [
+      {
+        "itemId": "cs-tenho-uma-receita"
+      },
+      {
+        "itemId": "cs-e-preciso-receita"
+      },
+      {
+        "itemId": "cs-tem-alguma-coisa-para-a-dor-de-cabeca"
+      },
+      {
+        "itemId": "cs-queria-alguma-coisa-para-a-tosse"
+      },
+      {
+        "itemId": "cs-e-para-uma-crianca"
+      },
+      {
+        "itemId": "cs-como-devo-tomar",
+        "harder": true
+      },
+      {
+        "itemId": "cs-quantas-vezes-por-dia"
+      },
+      {
+        "itemId": "cs-antes-ou-depois-de-comer"
+      },
+      {
+        "itemId": "quanto-custa-q"
+      },
+      {
+        "itemId": "pode-repetir"
+      }
+    ]
+  },
+  {
+    "id": "warsztat",
+    "order": 80,
+    "group": "codziennosc",
+    "titlePl": "W warsztacie",
+    "descriptionPl": "Usterka, przegląd, termin odbioru i koszt naprawy.",
+    "phrases": [
+      {
+        "itemId": "cs-o-meu-carro-tem-um-problema"
+      },
+      {
+        "itemId": "cs-o-carro-nao-pega"
+      },
+      {
+        "itemId": "cs-faz-um-barulho-estranho"
+      },
+      {
+        "itemId": "cs-tenho-um-pneu-furado"
+      },
+      {
+        "itemId": "cs-queria-fazer-a-revisao"
+      },
+      {
+        "itemId": "cs-posso-deixar-o-carro-aqui"
+      },
+      {
+        "itemId": "cs-quando-fica-pronto"
+      },
+      {
+        "itemId": "cs-quanto-vai-custar"
+      },
+      {
+        "itemId": "cs-pode-fazer-um-orcamento",
+        "harder": true
+      },
+      {
+        "itemId": "cs-pode-escrever"
+      }
+    ]
+  },
+  {
+    "id": "restauracja",
+    "order": 90,
+    "group": "codziennosc",
+    "titlePl": "W restauracji",
+    "descriptionPl": "Stolik, karta, zamówienie, alergie, rachunek.",
+    "phrases": [
+      {
+        "itemId": "cs-uma-mesa-para-dois-sfv"
+      },
+      {
+        "itemId": "cs-pode-trazer-a-ementa"
+      },
+      {
+        "itemId": "cs-o-que-recomenda"
+      },
+      {
+        "itemId": "cs-queria-o-prato-do-dia"
+      },
+      {
+        "itemId": "cs-nao-posso-comer"
+      },
+      {
+        "itemId": "cs-onde-e-a-casa-de-banho"
+      },
+      {
+        "itemId": "cs-a-conta-sfv"
+      },
+      {
+        "itemId": "cs-posso-pagar-com-cartao"
+      },
+      {
+        "itemId": "cs-estava-muito-bom-obrigado",
+        "harder": true
+      },
+      {
+        "itemId": "desculpe-nao-percebo"
+      }
+    ]
+  },
+  {
+    "id": "sklep",
+    "order": 100,
+    "group": "codziennosc",
+    "titlePl": "W sklepie",
+    "descriptionPl": "Szukanie produktu, rozmiar, kasa, płatność, numer podatnika na paragonie.",
+    "phrases": [
+      {
+        "itemId": "quanto-custa-q"
+      },
+      {
+        "itemId": "cs-onde-posso-encontrar"
+      },
+      {
+        "itemId": "cs-so-estou-a-ver-obrigado"
+      },
+      {
+        "itemId": "cs-tem-isto-noutro-tamanho",
+        "harder": true
+      },
+      {
+        "itemId": "cs-queria-um-saco-sfv"
+      },
+      {
+        "itemId": "cs-onde-e-a-caixa"
+      },
+      {
+        "itemId": "cs-aceitam-cartao"
+      },
+      {
+        "itemId": "cs-com-numero-de-contribuinte-sfv",
+        "harder": true
+      },
+      {
+        "itemId": "cs-e-tudo-obrigado"
+      },
+      {
+        "itemId": "pode-repetir"
+      }
+    ]
+  },
+  {
+    "id": "poczta",
+    "order": 110,
+    "group": "codziennosc",
+    "titlePl": "Na poczcie",
+    "descriptionPl": "Wysyłka listu i paczki, znaczki, odbiór przesyłki z awizo.",
+    "disclaimerPl": "Zwroty ogólne. Ceny i terminy doręczenia sprawdzaj na miejscu.",
+    "phrases": [
+      {
+        "itemId": "cs-queria-enviar-uma-encomenda-para-a-polonia"
+      },
+      {
+        "itemId": "cs-queria-enviar-esta-carta-registada",
+        "harder": true
+      },
+      {
+        "itemId": "cs-quanto-custa-enviar-para-a-polonia"
+      },
+      {
+        "itemId": "cs-quanto-tempo-demora"
+      },
+      {
+        "itemId": "cs-venho-levantar-uma-encomenda"
+      },
+      {
+        "itemId": "cs-tenho-este-aviso"
+      },
+      {
+        "itemId": "cs-queria-selos-para-a-polonia"
+      },
+      {
+        "itemId": "cs-pode-escrever"
+      },
+      {
+        "itemId": "podia-ajudar-me-sfv-q"
+      }
+    ]
+  },
+  {
+    "id": "sasiedzi",
+    "order": 120,
+    "group": "codziennosc",
+    "titlePl": "Sąsiedzi",
+    "descriptionPl": "Przedstawienie się, drobne przeprosiny, propozycja pomocy, podziękowanie.",
+    "phrases": [
+      {
+        "itemId": "cs-sou-o-novo-vizinho"
+      },
+      {
+        "itemId": "chamo-me"
+      },
+      {
+        "itemId": "cs-moro-no-segundo-andar"
+      },
+      {
+        "itemId": "cs-desculpe-o-barulho"
+      },
+      {
+        "itemId": "cs-precisa-de-alguma-coisa"
+      },
+      {
+        "itemId": "cs-se-precisar-de-alguma-coisa-diga",
+        "harder": true
+      },
+      {
+        "itemId": "cs-obrigado-pela-ajuda"
+      },
+      {
+        "itemId": "pode-ajudar-me-q"
+      },
+      {
+        "itemId": "mais-devagar"
+      }
+    ]
+  },
+  {
+    "id": "transport",
+    "order": 130,
+    "group": "codziennosc",
+    "titlePl": "Autobus i bilety",
+    "descriptionPl": "Przystanek, kierunek, bilet, kiedy wysiąść.",
+    "phrases": [
+      {
+        "itemId": "cs-este-autocarro-vai-para-o-funchal"
+      },
+      {
+        "itemId": "cs-onde-e-a-paragem"
+      },
+      {
+        "itemId": "cs-um-bilhete-para-sfv"
+      },
+      {
+        "itemId": "cs-ida-e-volta-sfv"
+      },
+      {
+        "itemId": "cs-quanto-custa-o-bilhete"
+      },
+      {
+        "itemId": "cs-posso-pagar-ao-motorista"
+      },
+      {
+        "itemId": "cs-a-que-horas-passa-o-proximo-autocarro",
+        "harder": true
+      },
+      {
+        "itemId": "cs-pode-dizer-me-onde-devo-sair",
+        "harder": true
+      },
+      {
+        "itemId": "cs-desculpe-este-lugar-esta-livre"
+      },
+      {
+        "itemId": "pode-repetir"
+      }
+    ]
+  },
+  {
+    "id": "telefon",
+    "order": 140,
+    "group": "codziennosc",
+    "titlePl": "Rozmowa telefoniczna",
+    "descriptionPl": "Przedstawienie się, prośba o rozmowę, gdy słabo słychać, literowanie, oddzwonienie.",
+    "phrases": [
+      {
+        "itemId": "cs-esta-la"
+      },
+      {
+        "itemId": "cs-daqui-fala"
+      },
+      {
+        "itemId": "cs-queria-falar-com"
+      },
+      {
+        "itemId": "cs-pode-falar-mais-devagar"
+      },
+      {
+        "itemId": "cs-nao-ouco-bem"
+      },
+      {
+        "itemId": "cs-pode-repetir-o-numero"
+      },
+      {
+        "itemId": "cs-pode-soletrar-sfv"
+      },
+      {
+        "itemId": "cs-ligo-mais-tarde"
+      },
+      {
+        "itemId": "cs-pode-ligar-me-mais-tarde"
+      },
+      {
+        "itemId": "cs-desculpe-enganei-me-no-numero",
+        "harder": true
+      }
+    ]
+  }
+]

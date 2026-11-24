@@ -1,0 +1,199 @@
+[
+  {
+    "id": "w02-d07",
+    "titlePl": "Kto to jest?",
+    "contextPl": "Na festynie w Funchal Ana pokazuje Ci znajomych.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "como-se-chama-ele"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ele-chama-se-rui"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-ela"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ela-chama-se-marta"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ela-fala-ingles-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "sim-ela-fala-ingles"
+      }
+    ]
+  },
+  {
+    "id": "w02-d08",
+    "titlePl": "Skąd Pan jest?",
+    "contextPl": "Rui, barista, jest ciekaw, skąd jesteś. Rozmowa jest grzeczna (o senhor).",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "o-senhor-e-ingles-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-nao-sou-ingles-sou-polaco"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "ah-e-da-polonia"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-sou-da-polonia-e-o-senhor"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "sou-portugues-sou-da-madeira"
+      }
+    ]
+  },
+  {
+    "id": "w02-d09",
+    "titlePl": "Telefon od Any",
+    "contextPl": "Ana dzwoni wieczorem. Jesteście już po imieniu (tu).",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-como-estas"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "estou-bem-obrigado-e-tu"
+      },
+      {
+        "speaker": "Ana",
+        "fem": true,
+        "itemId": "estou-cansado"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "estas-em-casa-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "sim-estou-em-casa-e-tu"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "estou-no-funchal"
+      }
+    ]
+  },
+  {
+    "id": "w02-d10",
+    "titlePl": "Głodny czy spragniony?",
+    "contextPl": "Po południu w kawiarni Ruiego.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "boa-tarde-tem-fome-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-tenho-fome-tenho-sede"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "um-cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-um-cafe-sfv"
+      }
+    ]
+  },
+  {
+    "id": "w02-d11",
+    "titlePl": "Ile kaw?",
+    "contextPl": "Zamawiasz kawę dla siebie i znajomego — i się mylisz.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bom-dia-tres-cafes-sfv"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "tres-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-dois-dois-cafes"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "dois-cafes-muito-bem"
+      }
+    ]
+  },
+  {
+    "id": "w02-d12",
+    "titlePl": "Nowy znajomy",
+    "contextPl": "Rui po pracy przedstawia się nieformalnie (tu) — tak rozmawiają ze sobą młodsi ludzie.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-chamo-me-rui-e-tu"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "chamo-me-tomasz-muito-prazer"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "es-ingles-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-sou-polaco"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "falas-portugues-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "falo-um-pouco"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "eu-tambem-falo-um-pouco-de-polaco"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "muito-bem"
+      }
+    ]
+  }
+]

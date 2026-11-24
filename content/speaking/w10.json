@@ -1,0 +1,188 @@
+[
+  {
+    "id": "w10-l55-s01",
+    "promptPl": "Co robisz dziś wieczorem? Powiedz swój prawdziwy plan (vou + bezokolicznik).",
+    "modelItemIds": [
+      "logo-a-noite-vou-ver-televisao",
+      "hoje-nao-vou-sair",
+      "vou-trabalhar-ate-as-oito-e-tu"
+    ],
+    "hintPl": "Logo à noite vou… / Hoje não vou… Odmieniasz tylko „ir”, drugi czasownik zostaje w bezokoliczniku."
+  },
+  {
+    "id": "w10-l55-s02",
+    "promptPl": "Powiedz, co będziesz robić jutro (2 zdania).",
+    "modelItemIds": [
+      "vou-trabalhar-amanha",
+      "amanha-vou-trabalhar-em-casa",
+      "amanha-nao-vou-trabalhar"
+    ]
+  },
+  {
+    "id": "w10-l55-s03",
+    "promptPl": "Zapytaj kolegę (tu), co robi dziś wieczorem, i zaproponuj kolację na mieście.",
+    "modelItemIds": [
+      "o-que-vais-fazer-logo-a-noite-q",
+      "vamos-jantar-fora-q"
+    ]
+  },
+  {
+    "id": "w10-l56-s01",
+    "promptPl": "Jakie masz plany na ten weekend? Powiedz 2–3 prawdziwe zdania.",
+    "modelItemIds": [
+      "no-sabado-vou-trabalhar-mas-no-domingo-vou-descansar",
+      "este-fim-de-semana-vou-ficar-em-casa",
+      "no-fim-de-semana-vamos-a-praia"
+    ]
+  },
+  {
+    "id": "w10-l56-s02",
+    "promptPl": "Powiedz, co robisz jutro rano, a co pojutrze.",
+    "modelItemIds": [
+      "amanha-de-manha-vou-ao-mercado",
+      "depois-de-amanha-vou-descansar"
+    ]
+  },
+  {
+    "id": "w10-l56-s03",
+    "promptPl": "Zapytaj kolegę o plany na weekend.",
+    "modelItemIds": [
+      "o-que-vais-fazer-no-fim-de-semana-q"
+    ]
+  },
+  {
+    "id": "w10-l57-s01",
+    "promptPl": "Jakie masz plany na przyszły tydzień i przyszły miesiąc? Powiedz 2 zdania.",
+    "modelItemIds": [
+      "para-a-semana-vou-de-ferias",
+      "no-proximo-mes-vou-a-polonia",
+      "vou-visitar-os-meus-pais"
+    ],
+    "hintPl": "Para a semana… / Na próxima semana… / No próximo mês… — mów o prawdziwych planach."
+  },
+  {
+    "id": "w10-l57-s02",
+    "promptPl": "Uprzedź Martę, że w przyszłym tygodniu Twój syn nie przyjdzie do przedszkola.",
+    "modelItemIds": [
+      "na-proxima-semana-o-meu-filho-nao-vem"
+    ]
+  },
+  {
+    "id": "w10-l57-s03",
+    "promptPl": "Zapytaj kolegę (tu), kiedy jedzie na urlop.",
+    "modelItemIds": [
+      "quando-vais-de-ferias-q"
+    ]
+  },
+  {
+    "id": "w10-l57-s04",
+    "promptPl": "Kto i kiedy przyjeżdża do Ciebie na Maderę?",
+    "modelItemIds": [
+      "para-a-semana-os-meus-pais-vem-a-madeira"
+    ],
+    "hintPl": "Jedna osoba → vem; kilka osób → vêm."
+  },
+  {
+    "id": "w10-l58-s01",
+    "promptPl": "Zaproś kolegę na prawdziwy plan: kino, kolacja na mieście albo plaża.",
+    "modelItemIds": [
+      "queres-ir-ao-cinema-q",
+      "vamos-jantar-fora-q",
+      "vamos-ao-cinema-no-sabado-q"
+    ]
+  },
+  {
+    "id": "w10-l58-s02",
+    "promptPl": "Kolega Cię zaprasza. Odmów i podaj powód (porque…).",
+    "modelItemIds": [
+      "no-sabado-nao-posso-porque-vou-trabalhar",
+      "nao-posso-porque-vou-trabalhar"
+    ]
+  },
+  {
+    "id": "w10-l58-s03",
+    "promptPl": "Zgódź się i ustal godzinę.",
+    "modelItemIds": [
+      "claro-a-que-horas-q",
+      "as-seis-combinado"
+    ]
+  },
+  {
+    "id": "w10-l59-s01",
+    "promptPl": "Co chciałbyś robić w ten weekend? Powiedz 2 zdania z „gostava de…”.",
+    "modelItemIds": [
+      "gostava-de-ir-a-praia",
+      "no-sabado-gostava-de-ir-a-praia",
+      "gostava-de-nadar-mas-hoje-esta-frio"
+    ]
+  },
+  {
+    "id": "w10-l59-s02",
+    "promptPl": "Zaproś kolegę grzecznie (Gostavas de…?) i zaproponuj spacer.",
+    "modelItemIds": [
+      "gostavas-de-vir-tambem-q",
+      "vamos-dar-um-passeio-q"
+    ]
+  },
+  {
+    "id": "w10-l59-s03",
+    "promptPl": "Powiedz, co lubisz robić, a czego nie lubisz (np. plaża, pływanie, spacery).",
+    "modelItemIds": [
+      "gosto-da-praia-mas-nao-gosto-de-nadar",
+      "gostas-de-nadar-q"
+    ],
+    "hintPl": "gosto de… = lubię; gostava de… = chciałbym."
+  },
+  {
+    "id": "w10-l60-s01",
+    "promptPl": "Kolega zaprasza Cię dziś na kolację. Odmów, podaj powód i zakończ uprzejmie.",
+    "modelItemIds": [
+      "hoje-nao-da-vou-sair-do-trabalho-muito-tarde",
+      "hoje-nao-da-fica-para-a-proxima",
+      "nao-posso-porque-vou-trabalhar"
+    ]
+  },
+  {
+    "id": "w10-l60-s02",
+    "promptPl": "Powiedz, co MOŻE będziesz robić w ten weekend (se calhar…).",
+    "modelItemIds": [
+      "se-calhar-vou-a-praia",
+      "se-calhar-vou-trabalhar-amanha"
+    ]
+  },
+  {
+    "id": "w10-l60-s03",
+    "promptPl": "Umów się z kolegą: zaproponuj dzień, ustal godzinę i potwierdź.",
+    "modelItemIds": [
+      "vamos-ao-cinema-no-sabado-q",
+      "claro-a-que-horas-q",
+      "combinado-domingo-as-dez"
+    ]
+  },
+  {
+    "id": "w10-t-s01",
+    "promptPl": "Opowiedz o swoich planach na jutro i na weekend.",
+    "modelItemIds": [
+      "vou-trabalhar-amanha",
+      "este-fim-de-semana-vou-ficar-em-casa",
+      "no-domingo-vamos-dar-um-passeio"
+    ]
+  },
+  {
+    "id": "w10-t-s02",
+    "promptPl": "Zaproś kolegę do kina w sobotę i ustal godzinę.",
+    "modelItemIds": [
+      "queres-ir-ao-cinema-no-sabado-q",
+      "as-seis-combinado"
+    ]
+  },
+  {
+    "id": "w10-t-s03",
+    "promptPl": "Odmów zaproszenia: podaj powód i zaproponuj inny dzień.",
+    "modelItemIds": [
+      "no-sabado-nao-posso-porque-vou-trabalhar",
+      "e-no-domingo-q",
+      "fica-para-a-proxima"
+    ]
+  }
+]

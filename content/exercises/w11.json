@@ -1,0 +1,1141 @@
+[
+  {
+    "id": "w11-l61-e01",
+    "type": "listenChoose",
+    "targetItemId": "ontem-trabalhei-em-casa",
+    "optionItemIds": [
+      "ontem-trabalhei-em-casa",
+      "trabalho-em-casa",
+      "amanha-vou-trabalhar-em-casa"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l61-e02",
+    "type": "readChoose",
+    "targetItemId": "falar-falou",
+    "optionItemIds": [
+      "falar-falou",
+      "falar-falei",
+      "falar-fala"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l61-e03",
+    "type": "recallChoose",
+    "targetItemId": "ontem-jantei-fora",
+    "optionItemIds": [
+      "ontem-jantei-fora",
+      "vamos-jantar-fora-q",
+      "ontem-trabalhei-em-casa"
+    ],
+    "promptPl": "Powiedz: „Wczoraj jadłem kolację na mieście.”"
+  },
+  {
+    "id": "w11-l61-e04",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ com a Ana.",
+    "sentencePl": "Wczoraj rozmawiałem z Aną.",
+    "options": [
+      "falei",
+      "falo",
+      "falou"
+    ],
+    "answer": "falei",
+    "fullItemId": "ontem-falei-com-a-ana",
+    "wrongExplanations": {
+      "falo": "„falo” = mówię (teraz, zwykle). Wczoraj → falei.",
+      "falou": "„falou” = on / ona / Pan / Pani rozmawiał(a). Ja → falei."
+    },
+    "explanationPl": "Ja + czas przeszły: fal- + -ei → falei.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l61-e05",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ português.",
+    "sentencePl": "Wczoraj mówiliśmy po portugalsku.",
+    "options": [
+      "falámos",
+      "falamos"
+    ],
+    "answer": "falámos",
+    "fullItemId": "ontem-falamos-portugues",
+    "wrongExplanations": {
+      "falamos": "„falamos” bez akcentu = mówimy (teraz). Czas przeszły w pt-PT piszemy z akcentem: falámos."
+    },
+    "explanationPl": "My w czasie przeszłym: falámos — z akcentem i z otwartym a (fă-LA-musz).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l61-e06",
+    "type": "buildSentence",
+    "targetItemId": "a-marta-falou-com-o-meu-filho",
+    "tiles": [
+      "A",
+      "Marta",
+      "falou",
+      "com",
+      "o",
+      "meu",
+      "filho"
+    ],
+    "distractors": [
+      "falei",
+      "fala"
+    ],
+    "promptPl": "Powiedz: „Marta rozmawiała z moim synem.”"
+  },
+  {
+    "id": "w11-l61-e07",
+    "type": "transform",
+    "baseItemId": "trabalho-em-casa",
+    "instructionPl": "Powiedz, że tak było wczoraj: Ontem + czas przeszły.",
+    "targetItemId": "ontem-trabalhei-em-casa",
+    "tiles": [
+      "Ontem",
+      "trabalhei",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "trabalho",
+      "falou"
+    ]
+  },
+  {
+    "id": "w11-l61-e08",
+    "type": "transform",
+    "baseItemId": "as-vezes-falamos-portugues",
+    "instructionPl": "Zamień na czas przeszły: „Wczoraj mówiliśmy po portugalsku.”",
+    "targetItemId": "ontem-falamos-portugues",
+    "tiles": [
+      "Ontem",
+      "falámos",
+      "português"
+    ],
+    "distractors": [
+      "falaram",
+      "falou"
+    ]
+  },
+  {
+    "id": "w11-l61-e09",
+    "type": "recallSay",
+    "targetItemId": "ontem-trabalhei-em-casa",
+    "promptPl": "Powiedz, że wczoraj pracowałeś w domu."
+  },
+  {
+    "id": "w11-l61-e10",
+    "type": "recallSay",
+    "targetItemId": "falaste-com-o-rui-q",
+    "promptPl": "Zapytaj kolegę (tu), czy rozmawiał z Ruim."
+  },
+  {
+    "id": "w11-l61-e11",
+    "type": "typeAnswer",
+    "targetItemId": "ontem",
+    "promptPl": "Napisz: „wczoraj”."
+  },
+  {
+    "id": "w11-l62-e01",
+    "type": "listenChoose",
+    "targetItemId": "comi-sopa-e-bebi-uma-agua",
+    "optionItemIds": [
+      "comi-sopa-e-bebi-uma-agua",
+      "como-sopa-e-pao-e-bebo-uma-agua",
+      "ontem-comi-peixe"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l62-e02",
+    "type": "readChoose",
+    "targetItemId": "sair-sai-pp",
+    "optionItemIds": [
+      "sair-sai-pp",
+      "sair-sai",
+      "sair-saiu"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l62-e03",
+    "type": "recallChoose",
+    "targetItemId": "o-que-comeste-ao-almoco-q",
+    "optionItemIds": [
+      "o-que-comeste-ao-almoco-q",
+      "o-que-fazes-hoje-q",
+      "comes-sempre-aqui-q"
+    ],
+    "promptPl": "Zapytaj kolegę, co jadł na obiad."
+  },
+  {
+    "id": "w11-l62-e04",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ peixe.",
+    "sentencePl": "Wczoraj jadłem rybę.",
+    "options": [
+      "comi",
+      "como",
+      "comeu"
+    ],
+    "answer": "comi",
+    "fullItemId": "ontem-comi-peixe",
+    "wrongExplanations": {
+      "como": "„como” = jem (teraz, zwykle).",
+      "comeu": "„comeu” = on / ona zjadł(a)."
+    },
+    "explanationPl": "Czasowniki na -er: ja w czasie przeszłym → -i: comi.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l62-e05",
+    "type": "fillGap",
+    "sentencePt": "O Rui ___ do café às três.",
+    "sentencePl": "Rui wyszedł z kawiarni o trzeciej.",
+    "options": [
+      "saiu",
+      "saí",
+      "sai"
+    ],
+    "answer": "saiu",
+    "fullItemId": "o-rui-saiu-do-cafe-as-tres",
+    "wrongExplanations": {
+      "saí": "„saí” = ja wyszedłem.",
+      "sai": "„sai” = wychodzi (teraz, zwykle)."
+    },
+    "explanationPl": "On / ona w czasie przeszłym (-ir): -iu → saiu.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l62-e06",
+    "type": "fillGap",
+    "sentencePt": "Ontem à noite ___ em casa.",
+    "sentencePl": "Wczoraj wieczorem jedliśmy w domu.",
+    "options": [
+      "comemos",
+      "comeram",
+      "comi"
+    ],
+    "answer": "comemos",
+    "fullItemId": "ontem-a-noite-comemos-em-casa",
+    "wrongExplanations": {
+      "comeram": "„comeram” = oni / Państwo zjedli.",
+      "comi": "„comi” = ja zjadłem."
+    },
+    "explanationPl": "My: comemos — ta sama forma co w teraźniejszym; czas wskazuje „ontem à noite”.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l62-e07",
+    "type": "buildSentence",
+    "targetItemId": "comi-sopa-e-bebi-uma-agua",
+    "tiles": [
+      "Comi",
+      "sopa",
+      "e",
+      "bebi",
+      "uma",
+      "água"
+    ],
+    "distractors": [
+      "bebo",
+      "como"
+    ],
+    "promptPl": "Powiedz: „Zjadłem zupę i wypiłem wodę.”"
+  },
+  {
+    "id": "w11-l62-e08",
+    "type": "transform",
+    "baseItemId": "saio-do-trabalho-as-cinco",
+    "instructionPl": "Zamień na czas przeszły: wczoraj wyszedłeś z pracy o szóstej.",
+    "targetItemId": "ontem-sai-do-trabalho-as-seis",
+    "tiles": [
+      "Ontem",
+      "saí",
+      "do",
+      "trabalho",
+      "às",
+      "seis"
+    ],
+    "distractors": [
+      "saio",
+      "saiu"
+    ]
+  },
+  {
+    "id": "w11-l62-e09",
+    "type": "recallSay",
+    "targetItemId": "o-que-comeste-ao-almoco-q",
+    "promptPl": "Zapytaj kolegę (tu), co jadł na obiad."
+  },
+  {
+    "id": "w11-l62-e10",
+    "type": "recallSay",
+    "targetItemId": "ontem-sai-do-trabalho-as-seis",
+    "promptPl": "Powiedz, że wczoraj wyszedłeś z pracy o szóstej."
+  },
+  {
+    "id": "w11-l62-e11",
+    "type": "typeAnswer",
+    "targetItemId": "comer-comi",
+    "promptPl": "Napisz: „(ja) zjadłem”."
+  },
+  {
+    "id": "w11-l63-e01",
+    "type": "listenChoose",
+    "targetItemId": "no-sabado-passado-fomos-a-praia",
+    "optionItemIds": [
+      "no-sabado-passado-fomos-a-praia",
+      "no-sabado-vou-a-praia",
+      "vamos-a-praia-amanha-q"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l63-e02",
+    "type": "readChoose",
+    "targetItemId": "na-semana-passada",
+    "optionItemIds": [
+      "na-semana-passada",
+      "para-a-semana",
+      "fim-de-semana"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l63-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-foi-o-fim-de-semana-q",
+    "optionItemIds": [
+      "como-foi-o-fim-de-semana-q",
+      "o-que-vais-fazer-no-fim-de-semana-q",
+      "como-esta"
+    ],
+    "promptPl": "Zapytaj: „Jak minął weekend?”"
+  },
+  {
+    "id": "w11-l63-e04",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ ao supermercado.",
+    "sentencePl": "Wczoraj byłem w supermarkecie.",
+    "options": [
+      "fui",
+      "foi",
+      "vou"
+    ],
+    "answer": "fui",
+    "fullItemId": "ontem-fui-ao-supermercado",
+    "wrongExplanations": {
+      "foi": "„foi” = on / ona poszedł / poszła (albo: było).",
+      "vou": "„vou” = idę / pójdę. Wczoraj → fui."
+    },
+    "explanationPl": "Ja w czasie przeszłym od „ir”: fui.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l63-e05",
+    "type": "fillGap",
+    "sentencePt": "___ muito bom!",
+    "sentencePl": "Było bardzo fajnie!",
+    "options": [
+      "Foi",
+      "Fui",
+      "É"
+    ],
+    "answer": "Foi",
+    "fullItemId": "foi-muito-bom",
+    "wrongExplanations": {
+      "Fui": "„fui” = ja byłem / poszedłem.",
+      "É": "„é” = jest (teraz). Było → foi."
+    },
+    "explanationPl": "„Było” (ocena) = foi — czas przeszły od „ser”.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l63-e06",
+    "type": "fillGap",
+    "sentencePt": "No sábado ___ fomos à praia.",
+    "sentencePl": "W zeszłą sobotę byliśmy na plaży.",
+    "options": [
+      "passado",
+      "passada"
+    ],
+    "answer": "passado",
+    "fullItemId": "no-sabado-passado-fomos-a-praia",
+    "wrongExplanations": {
+      "passada": "„passada” — z rzeczownikami żeńskimi: a semana passada."
+    },
+    "explanationPl": "o sábado (męski) → passado; a semana (żeńska) → passada.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w11-l63-e07",
+    "type": "buildSentence",
+    "targetItemId": "na-semana-passada-eles-foram-de-ferias",
+    "tiles": [
+      "Na",
+      "semana",
+      "passada",
+      "eles",
+      "foram",
+      "de",
+      "férias"
+    ],
+    "distractors": [
+      "fomos",
+      "passado"
+    ],
+    "promptPl": "Powiedz: „W zeszłym tygodniu oni pojechali na urlop.”"
+  },
+  {
+    "id": "w11-l63-e08",
+    "type": "transform",
+    "baseItemId": "no-sabado-vou-a-praia",
+    "instructionPl": "Zamień na przeszłość: w ZESZŁĄ sobotę byliśmy (my) na plaży.",
+    "targetItemId": "no-sabado-passado-fomos-a-praia",
+    "tiles": [
+      "No",
+      "sábado",
+      "passado",
+      "fomos",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "vamos",
+      "foram"
+    ]
+  },
+  {
+    "id": "w11-l63-e09",
+    "type": "recallSay",
+    "targetItemId": "como-foi-o-fim-de-semana-q",
+    "promptPl": "Zapytaj znajomą, jak minął weekend."
+  },
+  {
+    "id": "w11-l63-e10",
+    "type": "recallSay",
+    "targetItemId": "foi-muito-bom",
+    "promptPl": "Odpowiedz z entuzjazmem: „Było bardzo fajnie!”"
+  },
+  {
+    "id": "w11-l63-e11",
+    "type": "typeAnswer",
+    "targetItemId": "anteontem",
+    "promptPl": "Napisz: „przedwczoraj”."
+  },
+  {
+    "id": "w11-l64-e01",
+    "type": "listenChoose",
+    "targetItemId": "ontem-nao-tive-tempo",
+    "optionItemIds": [
+      "ontem-nao-tive-tempo",
+      "ontem-tive-muito-trabalho",
+      "hoje-nao-da"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l64-e02",
+    "type": "readChoose",
+    "targetItemId": "ha-dois-dias",
+    "optionItemIds": [
+      "ha-dois-dias",
+      "depois-de-amanha",
+      "na-semana-passada"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l64-e03",
+    "type": "recallChoose",
+    "targetItemId": "onde-estiveste-ontem-q",
+    "optionItemIds": [
+      "onde-estiveste-ontem-q",
+      "de-onde-vens-q",
+      "onde-esta-q"
+    ],
+    "promptPl": "Zapytaj kolegę, GDZIE był wczoraj."
+  },
+  {
+    "id": "w11-l64-e04",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ muito trabalho.",
+    "sentencePl": "Wczoraj miałem dużo pracy.",
+    "options": [
+      "tive",
+      "teve",
+      "tenho"
+    ],
+    "answer": "tive",
+    "fullItemId": "ontem-tive-muito-trabalho",
+    "wrongExplanations": {
+      "teve": "„teve” = on / ona miał(a). Ja → tive.",
+      "tenho": "„tenho” = mam (teraz)."
+    },
+    "explanationPl": "Ja: tive (z i). On / ona: teve (z e).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l64-e05",
+    "type": "fillGap",
+    "sentencePt": "O meu filho ___ doente.",
+    "sentencePl": "Mój syn był chory.",
+    "options": [
+      "esteve",
+      "foi",
+      "estive"
+    ],
+    "answer": "esteve",
+    "wrongExplanations": {
+      "foi": "„foi” — od „ser” / „ir”. Choroba to stan → esteve.",
+      "estive": "„estive” = ja byłem."
+    },
+    "explanationPl": "Stan chwilowy (choroba) → estar; on → esteve.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w11-l64-e06",
+    "type": "fillGap",
+    "sentencePt": "Fui ao médico ___ dois dias.",
+    "sentencePl": "Byłem u lekarza dwa dni temu.",
+    "options": [
+      "há",
+      "depois de",
+      "em"
+    ],
+    "answer": "há",
+    "fullItemId": "fui-ao-medico-ha-dois-dias",
+    "wrongExplanations": {
+      "depois de": "„depois de” = po (czymś).",
+      "em": "„em” = w."
+    },
+    "explanationPl": "„… temu” = há + czas: há dois dias.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w11-l64-e07",
+    "type": "buildSentence",
+    "targetItemId": "estive-na-polonia-ha-duas-semanas",
+    "tiles": [
+      "Estive",
+      "na",
+      "Polónia",
+      "há",
+      "duas",
+      "semanas"
+    ],
+    "distractors": [
+      "fui",
+      "dois"
+    ],
+    "promptPl": "Powiedz: „Byłem w Polsce dwa tygodnie temu.”"
+  },
+  {
+    "id": "w11-l64-e08",
+    "type": "transform",
+    "baseItemId": "no-domingo-estou-em-casa",
+    "instructionPl": "Powiedz w czasie przeszłym, zaczynając od „Ontem”: wczoraj byłeś w domu.",
+    "targetItemId": "ontem-estive-em-casa",
+    "tiles": [
+      "Ontem",
+      "estive",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "estou",
+      "esteve"
+    ]
+  },
+  {
+    "id": "w11-l64-e09",
+    "type": "recallSay",
+    "targetItemId": "ontem-tive-muito-trabalho",
+    "promptPl": "Powiedz, że wczoraj miałeś dużo pracy."
+  },
+  {
+    "id": "w11-l64-e10",
+    "type": "recallSay",
+    "targetItemId": "onde-estiveste-ontem-q",
+    "promptPl": "Zapytaj kolegę (tu), gdzie był wczoraj."
+  },
+  {
+    "id": "w11-l64-e11",
+    "type": "typeAnswer",
+    "targetItemId": "doente",
+    "promptPl": "Napisz: „chory”."
+  },
+  {
+    "id": "w11-l65-e01",
+    "type": "listenChoose",
+    "targetItemId": "nao-fiz-nada",
+    "optionItemIds": [
+      "nao-fiz-nada",
+      "nada-de-especial",
+      "nao-faz-mal"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l65-e02",
+    "type": "readChoose",
+    "targetItemId": "o-que-fez-no-fim-de-semana-q",
+    "optionItemIds": [
+      "o-que-fez-no-fim-de-semana-q",
+      "o-que-vai-fazer-no-fim-de-semana-q",
+      "o-que-faz-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l65-e03",
+    "type": "recallChoose",
+    "targetItemId": "fiquei-em-casa",
+    "optionItemIds": [
+      "fiquei-em-casa",
+      "vou-ficar-em-casa",
+      "ontem-estive-em-casa"
+    ],
+    "promptPl": "Powiedz: „Zostałem w domu.”"
+  },
+  {
+    "id": "w11-l65-e04",
+    "type": "fillGap",
+    "sentencePt": "O que ___ ontem?",
+    "sentencePl": "Co robiłeś wczoraj? (do kolegi)",
+    "options": [
+      "fizeste",
+      "fez",
+      "fazes"
+    ],
+    "answer": "fizeste",
+    "fullItemId": "o-que-fizeste-ontem-q",
+    "wrongExplanations": {
+      "fez": "„fez” = Pan / Pani / on / ona — do kolegi (tu) → fizeste.",
+      "fazes": "„fazes” = robisz (teraz)."
+    },
+    "explanationPl": "Ty w czasie przeszłym od „fazer”: fizeste.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l65-e05",
+    "type": "fillGap",
+    "sentencePt": "A Ana ___ uma sopa.",
+    "sentencePl": "Ana zrobiła zupę.",
+    "options": [
+      "fez",
+      "fiz",
+      "faz"
+    ],
+    "answer": "fez",
+    "fullItemId": "a-ana-fez-uma-sopa",
+    "wrongExplanations": {
+      "fiz": "„fiz” = ja zrobiłem.",
+      "faz": "„faz” = robi (teraz)."
+    },
+    "explanationPl": "On / ona: fez (z ê). Ja: fiz (z i).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l65-e06",
+    "type": "fillGap",
+    "sentencePt": "Não fiz ___.",
+    "sentencePl": "Nic nie robiłem.",
+    "options": [
+      "nada",
+      "tudo"
+    ],
+    "answer": "nada",
+    "fullItemId": "nao-fiz-nada",
+    "wrongExplanations": {
+      "tudo": "„tudo” = wszystko."
+    },
+    "explanationPl": "Podwójne przeczenie: não… nada = nic nie.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w11-l65-e07",
+    "type": "buildSentence",
+    "targetItemId": "o-que-fez-no-fim-de-semana-q",
+    "tiles": [
+      "O",
+      "que",
+      "fez",
+      "no",
+      "fim",
+      "de",
+      "semana"
+    ],
+    "distractors": [
+      "fiz",
+      "vai"
+    ],
+    "promptPl": "Zapytaj grzecznie (Pan / Pani): „Co Pan robił w weekend?”"
+  },
+  {
+    "id": "w11-l65-e08",
+    "type": "transform",
+    "baseItemId": "vou-ficar-em-casa",
+    "instructionPl": "Plan → przeszłość: powiedz, że zostałeś w domu.",
+    "targetItemId": "fiquei-em-casa",
+    "tiles": [
+      "Fiquei",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "ficar",
+      "vou"
+    ]
+  },
+  {
+    "id": "w11-l65-e09",
+    "type": "recallSay",
+    "targetItemId": "o-que-fizeste-no-fim-de-semana-q",
+    "promptPl": "Zapytaj kolegę (tu), co robił w weekend."
+  },
+  {
+    "id": "w11-l65-e10",
+    "type": "recallSay",
+    "targetItemId": "nada-de-especial",
+    "promptPl": "Odpowiedz: „Nic specjalnego.”"
+  },
+  {
+    "id": "w11-l65-e11",
+    "type": "typeAnswer",
+    "targetItemId": "fiz",
+    "promptPl": "Napisz: „(ja) zrobiłem”."
+  },
+  {
+    "id": "w11-l66-e01",
+    "type": "listenChoose",
+    "targetItemId": "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema",
+    "optionItemIds": [
+      "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema",
+      "vamos-jantar-fora-logo-a-noite-q",
+      "queres-ir-ao-cinema-q"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w11-l66-e02",
+    "type": "readChoose",
+    "targetItemId": "a-seguir",
+    "optionItemIds": [
+      "a-seguir",
+      "mais-tarde",
+      "depois-de-amanha"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w11-l66-e03",
+    "type": "recallChoose",
+    "targetItemId": "boa-noite-como-correu-o-dia-q",
+    "optionItemIds": [
+      "boa-noite-como-correu-o-dia-q",
+      "como-foi-o-fim-de-semana-q",
+      "o-que-fizeste-ontem-q"
+    ],
+    "promptPl": "Zapytaj sąsiadkę wieczorem: „Jak minął dzień?”"
+  },
+  {
+    "id": "w11-l66-e04",
+    "type": "fillGap",
+    "sentencePt": "No sábado ___ à praia.",
+    "sentencePl": "W sobotę byłem na plaży.",
+    "options": [
+      "fui",
+      "estive",
+      "fiz"
+    ],
+    "answer": "fui",
+    "fullItemId": "no-sabado-fui-a-praia",
+    "wrongExplanations": {
+      "estive": "„estive” + na: estive na praia (byłem NA plaży). Z „à” (dokąd) → fui.",
+      "fiz": "„fiz” = zrobiłem."
+    },
+    "explanationPl": "Dokąd? (à praia) → ir: fui.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l66-e05",
+    "type": "fillGap",
+    "sentencePt": "À tarde ___ com o meu filho na praia.",
+    "sentencePl": "Po południu byłem z synem na plaży.",
+    "options": [
+      "estive",
+      "fui",
+      "tive"
+    ],
+    "answer": "estive",
+    "fullItemId": "a-tarde-estive-com-o-meu-filho-na-praia",
+    "wrongExplanations": {
+      "fui": "„fui” + dokąd: fui à praia. Tu jest „na praia” (gdzie) → estive.",
+      "tive": "„tive” = miałem."
+    },
+    "explanationPl": "Gdzie byłem? (na praia) → estar: estive.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w11-l66-e06",
+    "type": "fillGap",
+    "sentencePt": "O que ___ no sábado?",
+    "sentencePl": "Co robiliście w sobotę?",
+    "options": [
+      "fizeram",
+      "fizemos",
+      "fez"
+    ],
+    "answer": "fizeram",
+    "fullItemId": "o-que-fizeram-no-sabado-q",
+    "wrongExplanations": {
+      "fizemos": "„fizemos” = my zrobiliśmy.",
+      "fez": "„fez” = on / ona / Pan / Pani."
+    },
+    "explanationPl": "Wy (vocês) / oni / Państwo → fizeram.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-l66-e07",
+    "type": "buildSentence",
+    "targetItemId": "de-manha-trabalhei-e-a-seguir-fui-ao-cafe",
+    "tiles": [
+      "De",
+      "manhã",
+      "trabalhei",
+      "e",
+      "a",
+      "seguir",
+      "fui",
+      "ao",
+      "café"
+    ],
+    "distractors": [
+      "trabalho",
+      "vou"
+    ],
+    "promptPl": "Powiedz: „Rano pracowałem, a potem poszedłem do kawiarni.”"
+  },
+  {
+    "id": "w11-l66-e08",
+    "type": "transform",
+    "baseItemId": "no-sabado-vou-a-praia",
+    "instructionPl": "Plan → przeszłość: powiedz, że w sobotę BYŁEŚ na plaży.",
+    "targetItemId": "no-sabado-fui-a-praia",
+    "tiles": [
+      "No",
+      "sábado",
+      "fui",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "vou",
+      "foi"
+    ]
+  },
+  {
+    "id": "w11-l66-e09",
+    "type": "recallSay",
+    "targetItemId": "correu-bem",
+    "promptPl": "Odpowiedz: „Poszło dobrze, dziękuję.”"
+  },
+  {
+    "id": "w11-l66-e10",
+    "type": "recallSay",
+    "targetItemId": "primeiro-fui-ao-mercado-depois-fui-a-praia",
+    "promptPl": "Powiedz: „Najpierw poszedłem na targ. Potem poszedłem na plażę.”"
+  },
+  {
+    "id": "w11-l66-e11",
+    "type": "typeAnswer",
+    "targetItemId": "a-seguir",
+    "promptPl": "Napisz: „potem, następnie” (dwa słowa)."
+  },
+  {
+    "id": "w11-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "ontem-falei-com-a-ana",
+    "optionItemIds": [
+      "ontem-falei-com-a-ana",
+      "a-ana-fala-ingles",
+      "falaste-com-o-rui-q"
+    ]
+  },
+  {
+    "id": "w11-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "ontem-sai-do-trabalho-as-seis",
+    "optionItemIds": [
+      "ontem-sai-do-trabalho-as-seis",
+      "saio-do-trabalho-as-cinco",
+      "o-rui-saiu-do-cafe-as-tres"
+    ]
+  },
+  {
+    "id": "w11-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "foi-muito-bom",
+    "optionItemIds": [
+      "foi-muito-bom",
+      "muito-bem",
+      "boa-ideia"
+    ]
+  },
+  {
+    "id": "w11-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "estive-na-polonia-ha-duas-semanas",
+    "optionItemIds": [
+      "estive-na-polonia-ha-duas-semanas",
+      "no-proximo-mes-vou-a-polonia",
+      "fui-ao-medico-ha-dois-dias"
+    ]
+  },
+  {
+    "id": "w11-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "o-que-fizeste-ontem-q",
+    "optionItemIds": [
+      "o-que-fizeste-ontem-q",
+      "o-que-fazes-hoje-q",
+      "onde-estiveste-ontem-q"
+    ]
+  },
+  {
+    "id": "w11-t-e06",
+    "type": "readChoose",
+    "targetItemId": "anteontem",
+    "optionItemIds": [
+      "anteontem",
+      "depois-de-amanha",
+      "ontem"
+    ]
+  },
+  {
+    "id": "w11-t-e07",
+    "type": "readChoose",
+    "targetItemId": "falar-falamos-pp",
+    "optionItemIds": [
+      "falar-falamos-pp",
+      "falar-falamos",
+      "falar-falaram"
+    ]
+  },
+  {
+    "id": "w11-t-e08",
+    "type": "readChoose",
+    "targetItemId": "nada-de-especial",
+    "optionItemIds": [
+      "nada-de-especial",
+      "nao-faz-mal",
+      "nao-fiz-nada"
+    ]
+  },
+  {
+    "id": "w11-t-e09",
+    "type": "readChoose",
+    "targetItemId": "correu-bem",
+    "optionItemIds": [
+      "correu-bem",
+      "tudo-bem-obrigado",
+      "boa-ideia"
+    ]
+  },
+  {
+    "id": "w11-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ fora.",
+    "sentencePl": "Wczoraj zjadłem kolację na mieście.",
+    "options": [
+      "jantei",
+      "jantar",
+      "vou jantar"
+    ],
+    "answer": "jantei",
+    "fullItemId": "ontem-jantei-fora",
+    "wrongExplanations": {
+      "jantar": "„jantar” to bezokolicznik (jeść kolację). Wczoraj (ja) → jantei.",
+      "vou jantar": "„vou jantar” = zjem (plan). Wczoraj → jantei."
+    },
+    "explanationPl": "Ja, czas przeszły -ar: -ei → jantei.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e11",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ português.",
+    "sentencePl": "Wczoraj mówiliśmy po portugalsku.",
+    "options": [
+      "falámos",
+      "falamos"
+    ],
+    "answer": "falámos",
+    "fullItemId": "ontem-falamos-portugues",
+    "wrongExplanations": {
+      "falamos": "„falamos” = mówimy (teraz)."
+    },
+    "explanationPl": "Czas przeszły, my: falámos (z akcentem, otwarte a).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e12",
+    "type": "fillGap",
+    "sentencePt": "O que ___ ao almoço?",
+    "sentencePl": "Co jadłeś na obiad?",
+    "options": [
+      "comeste",
+      "comeu",
+      "comes"
+    ],
+    "answer": "comeste",
+    "fullItemId": "o-que-comeste-ao-almoco-q",
+    "wrongExplanations": {
+      "comeu": "„comeu” = on / ona / Pan / Pani.",
+      "comes": "„comes” = jesz (teraz)."
+    },
+    "explanationPl": "Ty, czas przeszły -er: comeste.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e13",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ ao supermercado.",
+    "sentencePl": "Wczoraj byłem w supermarkecie.",
+    "options": [
+      "fui",
+      "foi"
+    ],
+    "answer": "fui",
+    "fullItemId": "ontem-fui-ao-supermercado",
+    "wrongExplanations": {
+      "foi": "„foi” = on / ona (albo „było”)."
+    },
+    "explanationPl": "Ja → fui.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e14",
+    "type": "fillGap",
+    "sentencePt": "Ontem não ___ tempo.",
+    "sentencePl": "Wczoraj nie miałem czasu.",
+    "options": [
+      "tive",
+      "teve"
+    ],
+    "answer": "tive",
+    "fullItemId": "ontem-nao-tive-tempo",
+    "wrongExplanations": {
+      "teve": "„teve” = on / ona."
+    },
+    "explanationPl": "Ja → tive.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e15",
+    "type": "fillGap",
+    "sentencePt": "O meu filho ___ doente na semana passada.",
+    "sentencePl": "Mój syn był chory w zeszłym tygodniu.",
+    "options": [
+      "esteve",
+      "foi"
+    ],
+    "answer": "esteve",
+    "fullItemId": "o-meu-filho-esteve-doente-na-semana-passada",
+    "wrongExplanations": {
+      "foi": "„foi” — od „ser” / „ir”. Choroba → esteve."
+    },
+    "explanationPl": "Stan (choroba) → estar: esteve.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w11-t-e16",
+    "type": "fillGap",
+    "sentencePt": "A Ana ___ uma sopa.",
+    "sentencePl": "Ana zrobiła zupę.",
+    "options": [
+      "fez",
+      "fiz"
+    ],
+    "answer": "fez",
+    "fullItemId": "a-ana-fez-uma-sopa",
+    "wrongExplanations": {
+      "fiz": "„fiz” = ja."
+    },
+    "explanationPl": "On / ona → fez.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w11-t-e17",
+    "type": "buildSentence",
+    "targetItemId": "no-sabado-passado-fomos-a-praia",
+    "tiles": [
+      "No",
+      "sábado",
+      "passado",
+      "fomos",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "passada",
+      "vamos"
+    ],
+    "promptPl": "Powiedz: „W zeszłą sobotę byliśmy na plaży.”"
+  },
+  {
+    "id": "w11-t-e18",
+    "type": "transform",
+    "baseItemId": "vou-ficar-em-casa",
+    "instructionPl": "Plan → przeszłość: zostałeś w domu.",
+    "targetItemId": "fiquei-em-casa",
+    "tiles": [
+      "Fiquei",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "ficar",
+      "vou"
+    ]
+  },
+  {
+    "id": "w11-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "ontem",
+    "promptPl": "Napisz: „wczoraj”."
+  },
+  {
+    "id": "w11-t-e20",
+    "type": "typeAnswer",
+    "targetItemId": "foi-muito-bom",
+    "promptPl": "Napisz: „Było bardzo fajnie!”"
+  },
+  {
+    "id": "w11-t-e21",
+    "type": "recallChoose",
+    "targetItemId": "como-foi-o-fim-de-semana-q",
+    "optionItemIds": [
+      "como-foi-o-fim-de-semana-q",
+      "o-que-vais-fazer-no-fim-de-semana-q",
+      "o-que-fez-no-fim-de-semana-q"
+    ],
+    "promptPl": "Zapytaj: „Jak minął weekend?”"
+  },
+  {
+    "id": "w11-t-e22",
+    "type": "recallChoose",
+    "targetItemId": "fui-ao-medico-ha-dois-dias",
+    "optionItemIds": [
+      "fui-ao-medico-ha-dois-dias",
+      "anteontem-fui-ao-medico",
+      "estive-doente"
+    ],
+    "promptPl": "Powiedz: „Byłem u lekarza dwa dni temu.”"
+  }
+]

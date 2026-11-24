@@ -1,0 +1,118 @@
+[
+  {
+    "id": "q-w09-trabalho",
+    "questionItemId": "o-que-faz-q",
+    "unlockAfterLessonId": "w09-l49",
+    "topicPl": "Praca",
+    "hintPl": "Powiedz, czym się zajmujesz: Sou + zawód (bez rodzajnika) albo Trabalho como… / Trabalho com… Możesz dodać, gdzie pracujesz.",
+    "exampleAnswerItemIds": [
+      "sou-medico",
+      "trabalho-com-computadores",
+      "trabalho-em-casa"
+    ],
+    "usefulItemIds": [
+      "trabalho-como",
+      "computador",
+      "trabalhar-trabalho",
+      "medico"
+    ]
+  },
+  {
+    "id": "q-w09-manha",
+    "questionItemId": "a-que-horas-sai-de-casa-q",
+    "unlockAfterLessonId": "w09-l50",
+    "topicPl": "Rano i dojazd",
+    "hintPl": "Powiedz, o której wychodzisz z domu i dokąd jedziesz (Saio de casa às… e vou para…).",
+    "exampleAnswerItemIds": [
+      "saio-de-casa-as-oito",
+      "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+      "nos-saimos-cedo"
+    ],
+    "usefulItemIds": [
+      "sair-saio",
+      "cedo",
+      "escritorio",
+      "de-autocarro",
+      "a-pe"
+    ]
+  },
+  {
+    "id": "q-w09-noite",
+    "questionItemId": "o-que-faz-a-noite-q",
+    "unlockAfterLessonId": "w09-l52",
+    "topicPl": "Wieczór",
+    "hintPl": "Powiedz, co zwykle robisz wieczorem po pracy (Depois do trabalho… À noite vejo… / faço…).",
+    "exampleAnswerItemIds": [
+      "depois-do-trabalho-vejo-televisao",
+      "depois-do-trabalho-como-em-casa-e-vejo-televisao",
+      "a-noite-nao-vejo-televisao"
+    ],
+    "usefulItemIds": [
+      "ver-vejo",
+      "televisao",
+      "depois",
+      "fazer-faco",
+      "sempre",
+      "nunca"
+    ]
+  },
+  {
+    "id": "q-w10-amanha",
+    "questionItemId": "o-que-vai-fazer-amanha-q",
+    "unlockAfterLessonId": "w10-l55",
+    "topicPl": "Jutro",
+    "hintPl": "Powiedz, co będziesz robić jutro: Vou + bezokolicznik (vou trabalhar, vou almoçar fora…).",
+    "exampleAnswerItemIds": [
+      "vou-trabalhar-amanha",
+      "amanha-vou-trabalhar-em-casa",
+      "amanha-nao-vou-trabalhar"
+    ],
+    "usefulItemIds": [
+      "ir",
+      "mais-tarde",
+      "logo-a-noite",
+      "jantar",
+      "almocar",
+      "fora"
+    ]
+  },
+  {
+    "id": "q-w10-fim-de-semana",
+    "questionItemId": "o-que-vai-fazer-no-fim-de-semana-q",
+    "unlockAfterLessonId": "w10-l56",
+    "topicPl": "Weekend",
+    "hintPl": "Powiedz, co będziesz robić w weekend. Możesz dodać, co chciałbyś robić (gostava de…) albo co może zrobisz (se calhar…).",
+    "exampleAnswerItemIds": [
+      "no-sabado-vou-trabalhar-mas-no-domingo-vou-descansar",
+      "este-fim-de-semana-vou-ficar-em-casa",
+      "no-fim-de-semana-vamos-a-praia"
+    ],
+    "usefulItemIds": [
+      "fim-de-semana",
+      "ficar",
+      "descansar",
+      "depois-de-amanha",
+      "sabado",
+      "domingo"
+    ]
+  },
+  {
+    "id": "q-w10-ferias",
+    "questionItemId": "quando-vai-de-ferias-q",
+    "unlockAfterLessonId": "w10-l57",
+    "topicPl": "Urlop",
+    "hintPl": "Powiedz, kiedy jedziesz na urlop i dokąd — albo kogo odwiedzisz.",
+    "exampleAnswerItemIds": [
+      "para-a-semana-vou-de-ferias",
+      "no-proximo-mes-vou-a-polonia",
+      "vou-visitar-os-meus-pais"
+    ],
+    "usefulItemIds": [
+      "para-a-semana",
+      "mes",
+      "proximo",
+      "ferias",
+      "visitar"
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "w09-test",
+    "week": 9,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 9",
+    "introPl": "Około 10 minut. Czasowniki nieregularne fazer, sair, vir, ver, dizer, dar (zwłaszcza formy „eu”: faço, saio, venho, vejo, digo, dou), vir czy ir, praca i rytm dnia. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w09-t-e01",
+          "w09-t-e02",
+          "w09-t-e03",
+          "w09-t-e04",
+          "w09-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w09-t-e06",
+          "w09-t-e07",
+          "w09-t-e08",
+          "w09-t-e09"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w09-t-e10",
+          "w09-t-e11",
+          "w09-t-e12",
+          "w09-t-e13",
+          "w09-t-e14",
+          "w09-t-e15",
+          "w09-t-e16",
+          "w09-t-e17",
+          "w09-t-e18"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w09-t-e19",
+          "w09-t-e20",
+          "w09-t-e21",
+          "w09-t-e22"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w09-t-s01",
+      "w09-t-s02",
+      "w09-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w09-t-m01",
+        "promptPl": "Opowiedz o swojej pracy i zwykłym dniu roboczym — około minuty, bez przygotowania.",
+        "hintPl": "Sou… / Trabalho como… / Trabalho com… Saio de casa às… Vou para… de autocarro / de carro / a pé. Saio do trabalho às… Depois… À noite vejo… / faço…",
+        "targetSeconds": 60,
+        "checklistPl": [
+          "Powiedziałem/powiedziałam, czym się zajmuję (Sou… / Trabalho como… / Trabalho com…)",
+          "Powiedziałem/powiedziałam, o której wychodzę z domu i z pracy (Saio de casa às… / Saio do trabalho às…)",
+          "Powiedziałem/powiedziałam, jak dojeżdżam (de autocarro, de carro, a pé)",
+          "Powiedziałem/powiedziałam, co robię wieczorem (vejo…, faço…)",
+          "Użyłem/użyłam nieregularnych form „eu”: faço, saio, venho, vejo, digo, dou",
+          "Połączyłem/połączyłam zdania (e, mas, depois)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w09-trabalho"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w09-l49",
+      "w09-l50",
+      "w09-l51",
+      "w09-l52",
+      "w09-l53",
+      "w09-l54"
+    ]
+  }
+]

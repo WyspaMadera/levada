@@ -1,0 +1,1733 @@
+[
+  {
+    "id": "alto",
+    "kind": "word",
+    "pt": "alto",
+    "ptFem": "alta",
+    "pl": "wysoki",
+    "plFem": "wysoka",
+    "pronunciation": {
+      "plSlow": "Aɫ-tu",
+      "ipa": "ˈaɫtu",
+      "notePl": "l przed spółgłoską = ciemne ɫ (to NIE jest polskie ł).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "Aɫ-tă",
+      "ipa": "ˈaɫtɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "baixo",
+    "kind": "word",
+    "pt": "baixo",
+    "ptFem": "baixa",
+    "pl": "niski",
+    "plFem": "niska",
+    "pronunciation": {
+      "plSlow": "BAJ-szu",
+      "ipa": "ˈbajʃu",
+      "notePl": "x po „ai” = sz.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "BAJ-sză",
+      "ipa": "ˈbajʃɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "simpatico",
+    "kind": "word",
+    "pt": "simpático",
+    "ptFem": "simpática",
+    "pl": "miły, sympatyczny",
+    "plFem": "miła, sympatyczna",
+    "pronunciation": {
+      "plSlow": "sĩ-PA-ti-ku",
+      "ipa": "sĩˈpatiku",
+      "notePl": "im przed p = nosowe ĩ. Akcent na PA (á).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "sĩ-PA-ti-kă",
+      "ipa": "sĩˈpatikɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "usagePl": "Najczęstszy komplement o osobie: É muito simpático / simpática! (= bardzo miły / miła).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "velho",
+    "kind": "word",
+    "pt": "velho",
+    "ptFem": "velha",
+    "pl": "stary",
+    "plFem": "stara",
+    "pronunciation": {
+      "plSlow": "WE-lju",
+      "ipa": "ˈvɛʎu",
+      "notePl": "Otwarte e + lh (lj). W normie lizbońskiej e przed lh bywa wymawiane bliżej „ă” („WĂ-lju”) — do weryfikacji ze słuchu.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "WE-ljă",
+      "ipa": "ˈvɛʎɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "usagePl": "O rzeczach — bez problemu (o carro é velho). O ludziach bywa niegrzeczne; lepiej powiedzieć, że ktoś jest „mais velho” (starszy).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jovem",
+    "kind": "word",
+    "pt": "jovem",
+    "pl": "młody (o osobach)",
+    "pronunciation": {
+      "plSlow": "ŻO-wãj",
+      "ipa": "ˈʒɔvɐ̃j̃",
+      "notePl": "j = ż, otwarte o; końcowe -em = nosowe „ãj” (jak w „tem”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "usagePl": "Jedna forma dla obu rodzajów: o Rui é jovem, a Marta é jovem (l.mn.: jovens). O osobach mówi się też „novo / nova” = młody / młoda.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-e-q",
+    "kind": "phrase",
+    "pt": "Como é…?",
+    "pl": "Jaki / jaka jest…? (wygląd, charakter)",
+    "tts": "Como é?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu E …?",
+      "ipa": "ˈkomu ɛ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki",
+      "pytania"
+    ],
+    "usagePl": "Como é o Rui? — pytanie o cechy (ser). Como está o Rui? — pytanie o samopoczucie teraz (estar).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-e-alto-e-simpatico",
+    "kind": "sentence",
+    "pt": "O Rui é alto e simpático.",
+    "pl": "Rui jest wysoki i miły.",
+    "pronunciation": {
+      "plSlow": "u RRUJ E Aɫ-tu i sĩ-PA-ti-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-e-baixa-e-muito-simpatica",
+    "kind": "sentence",
+    "pt": "A Ana é baixa e muito simpática.",
+    "pl": "Ana jest niska i bardzo miła.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă E BAJ-sză i MŨJ-tu sĩ-PA-ti-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-e-jovem",
+    "kind": "sentence",
+    "pt": "A Marta é jovem.",
+    "pl": "Marta jest młoda.",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă E ŻO-wãj.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-e-alta-e-simpatica",
+    "kind": "sentence",
+    "pt": "A Marta é alta e simpática.",
+    "pl": "Marta jest wysoka i miła.",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă E Aɫ-tă i sĩ-PA-ti-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-carro-e-velho",
+    "kind": "sentence",
+    "pt": "O meu carro é velho.",
+    "pl": "Mój samochód jest stary.",
+    "pronunciation": {
+      "plSlow": "u MÊU KA-rru E WE-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-alto-e-simpatico",
+    "kind": "sentence",
+    "pt": "Sou alto e simpático.",
+    "ptFem": "Sou alta e simpática.",
+    "pl": "Jestem wysoki i miły.",
+    "plFem": "Jestem wysoka i miła.",
+    "pronunciation": {
+      "plSlow": "SÔ Aɫ-tu i sĩ-PA-ti-ku.",
+      "notePl": "Kobieta mówi o sobie: alta, simpática.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SÔ Aɫ-tă i sĩ-PA-ti-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-e-o-rui-q",
+    "kind": "sentence",
+    "pt": "Como é o Rui?",
+    "pl": "Jaki jest Rui?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu E u RRUJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-esta-o-rui-q",
+    "kind": "sentence",
+    "pt": "Como está o Rui?",
+    "pl": "Jak się czuje Rui? / Co u Ruiego?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ysz-TA u RRUJ?",
+      "plNatural": "KÔ-mu‿SZTA u RRUJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-e-a-marta-q",
+    "kind": "sentence",
+    "pt": "Como é a Marta?",
+    "pl": "Jaka jest Marta?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu E ă MAR-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-alta-e-muito-simpatica",
+    "kind": "sentence",
+    "pt": "É alta e muito simpática.",
+    "pl": "Jest wysoka i bardzo miła.",
+    "pronunciation": {
+      "plSlow": "E Aɫ-tă i MŨJ-tu sĩ-PA-ti-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-jovem-q",
+    "kind": "sentence",
+    "pt": "É jovem?",
+    "pl": "Jest młoda?",
+    "pronunciation": {
+      "plSlow": "E ŻO-wãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-sim-e-e-da-madeira",
+    "kind": "sentence",
+    "pt": "É, sim. E é da Madeira.",
+    "pl": "Tak (jest). I jest z Madery.",
+    "pronunciation": {
+      "plSlow": "E, SĨ. i E dă mă-DĂJ-ră.",
+      "notePl": "Odpowiadamy „tak”, powtarzając czasownik: É, sim.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-fala-ingles-q",
+    "kind": "sentence",
+    "pt": "E fala inglês?",
+    "pl": "A mówi po angielsku?",
+    "pronunciation": {
+      "plSlow": "i FA-lă ĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fala-sim-fala-muito-bem",
+    "kind": "sentence",
+    "pt": "Fala, sim. Fala muito bem!",
+    "pl": "Tak, mówi. Mówi bardzo dobrze!",
+    "pronunciation": {
+      "plSlow": "FA-lă, SĨ. FA-lă MŨJ-tu BÃJ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "opis-osob",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meus",
+    "kind": "word",
+    "pt": "meus",
+    "pl": "moi (l.mn., r. męski)",
+    "pronunciation": {
+      "plSlow": "MÊUSZ",
+      "ipa": "mewʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "os meus pais, os meus filhos — z rodzajnikiem „os”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "minhas",
+    "kind": "word",
+    "pt": "minhas",
+    "pl": "moje (l.mn., r. żeński)",
+    "pronunciation": {
+      "plSlow": "MI-ńăsz",
+      "ipa": "ˈmiɲɐʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "as minhas irmãs, as minhas filhas — z rodzajnikiem „as”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seu",
+    "kind": "word",
+    "pt": "seu",
+    "pl": "Pana / Pani (przed rzeczownikiem r. męskiego)",
+    "pronunciation": {
+      "plSlow": "SÊU",
+      "ipa": "sew",
+      "notePl": "Zamknięte ê + krótkie u, jak w „meu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "o seu filho = Pana / Pani syn. L.mn.: os seus pais.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sua",
+    "kind": "word",
+    "pt": "sua",
+    "pl": "Pana / Pani (przed rzeczownikiem r. żeńskiego)",
+    "pronunciation": {
+      "plSlow": "SU-ă",
+      "ipa": "ˈsuɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "a sua casa = Pana / Pani dom. L.mn.: as suas filhas.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pais",
+    "kind": "word",
+    "pt": "pais",
+    "pl": "rodzice",
+    "pronunciation": {
+      "plSlow": "PAJSZ",
+      "ipa": "pajʃ",
+      "notePl": "pai + s. Porównaj: pai „PAJ” (tata) — pais „PAJSZ” (rodzice).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "usagePl": "os pais = rodzice (mama i tata). os meus pais = moi rodzice.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "filhos",
+    "kind": "word",
+    "pt": "filhos",
+    "pl": "dzieci (czyjeś); synowie",
+    "pronunciation": {
+      "plSlow": "FI-ljusz",
+      "ipa": "ˈfiʎuʃ",
+      "notePl": "lh = lj.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "usagePl": "O dzieciach w rodzinie (synowie i córki razem) mówimy „os filhos”: Tem filhos? = Ma Pan / Pani dzieci?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-meus-pais-moram-na-polonia",
+    "kind": "sentence",
+    "pt": "Os meus pais moram na Polónia.",
+    "pl": "Moi rodzice mieszkają w Polsce.",
+    "pronunciation": {
+      "plSlow": "uż MÊUSZ PAJŻ MO-rãu nă pu-LO-ni-ă.",
+      "notePl": "os przed dźwięcznym m → „uż”; pais przed m → „PAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-minhas-irmas-sao-altas",
+    "kind": "sentence",
+    "pt": "As minhas irmãs são altas.",
+    "pl": "Moje siostry są wysokie.",
+    "pronunciation": {
+      "plSlow": "ăż MI-ńăz ir-MÃSZ SÃU Aɫ-tăsz.",
+      "notePl": "Wszystko w liczbie mnogiej żeńskiej: as minhas irmãs… altas.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-chama-o-seu-filho-q",
+    "kind": "sentence",
+    "pt": "Como se chama o seu filho?",
+    "pl": "Jak ma na imię Pana / Pani syn?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy SZĂ-mă u SÊU FI-lju?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "pytania",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-sua-casa-e-muito-bonita",
+    "kind": "sentence",
+    "pt": "A sua casa é muito bonita!",
+    "pl": "Pana / Pani dom jest bardzo ładny!",
+    "pronunciation": {
+      "plSlow": "ă SU-ă KA-ză E MŨJ-tu bu-NI-tă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "dom"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-meus-filhos-falam-portugues",
+    "kind": "sentence",
+    "pt": "Os meus filhos falam português.",
+    "pl": "Moje dzieci mówią po portugalsku.",
+    "pronunciation": {
+      "plSlow": "uż MÊUSZ FI-ljusz FA-lãu pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-seus-pais-moram-na-madeira-q",
+    "kind": "sentence",
+    "pt": "Os seus pais moram na Madeira?",
+    "pl": "Czy Pana rodzice mieszkają na Maderze?",
+    "pronunciation": {
+      "plSlow": "usz SÊUSZ PAJŻ MO-rãu nă mă-DĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-os-meus-pais-moram-na-polonia",
+    "kind": "sentence",
+    "pt": "Não, os meus pais moram na Polónia.",
+    "pl": "Nie, moi rodzice mieszkają w Polsce.",
+    "pronunciation": {
+      "plSlow": "NÃU, uż MÊUSZ PAJŻ MO-rãu nă pu-LO-ni-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-sua-mulher-e-polaca-q",
+    "kind": "sentence",
+    "pt": "E a sua mulher? É polaca?",
+    "pl": "A Pana żona? Jest Polką?",
+    "pronunciation": {
+      "plSlow": "i ă SU-ă mu-LJER? E pu-LA-kă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-sim-tambem-e-polaca",
+    "kind": "sentence",
+    "pt": "É, sim. Também é polaca.",
+    "pl": "Tak. Też jest Polką.",
+    "pronunciation": {
+      "plSlow": "E, SĨ. tã-BÃJ E pu-LA-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-seu-filho-e-muito-simpatico",
+    "kind": "sentence",
+    "pt": "O seu filho é muito simpático!",
+    "pl": "Pana / Pani syn jest bardzo miły!",
+    "pronunciation": {
+      "plSlow": "u SÊU FI-lju E MŨJ-tu sĩ-PA-ti-ku!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quarto",
+    "kind": "word",
+    "pt": "quarto",
+    "pl": "pokój; sypialnia",
+    "pronunciation": {
+      "plSlow": "KUAR-tu",
+      "ipa": "ˈkwaɾtu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "usagePl": "Znasz „um quarto” (kwadrans) — to samo słowo. W domu: o quarto = pokój (zwykle sypialnia).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sala",
+    "kind": "word",
+    "pt": "sala",
+    "pl": "salon, pokój dzienny",
+    "pronunciation": {
+      "plSlow": "SA-lă",
+      "ipa": "ˈsalɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "usagePl": "a sala — rodzaj żeński.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "casa-de-banho",
+    "kind": "phrase",
+    "pt": "casa de banho",
+    "pl": "łazienka",
+    "pronunciation": {
+      "plSlow": "KA-ză dy BĂ-ńu",
+      "ipa": "ˈkazɐ ðɨ ˈβɐɲu",
+      "notePl": "Akcentowane a przed nh = ă. nh = ń.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "usagePl": "a casa de banho (rodzaj żeński, jak casa). W Portugalii tylko tak — słowo brazylijskie jest inne.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "varanda",
+    "kind": "word",
+    "pt": "varanda",
+    "pl": "balkon; taras",
+    "pronunciation": {
+      "plSlow": "wă-RÃ-dă",
+      "ipa": "vɐˈɾɐ̃dɐ",
+      "notePl": "an przed d = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "usagePl": "a varanda — rodzaj żeński.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "apartamento",
+    "kind": "word",
+    "pt": "apartamento",
+    "pl": "mieszkanie (w bloku)",
+    "pronunciation": {
+      "plSlow": "ă-păr-tă-MẼ-tu",
+      "ipa": "ɐpɐɾtɐˈmẽtu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "usagePl": "o apartamento (męski). W ogłoszeniach liczbę sypialni podaje się jako T1, T2, T3… (T2 = dwie sypialnie + salon).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-e-a-sua-casa-q",
+    "kind": "sentence",
+    "pt": "Como é a sua casa?",
+    "pl": "Jaki jest Pana / Pani dom?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu E ă SU-ă KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-minha-casa-tem-dois-quartos",
+    "kind": "sentence",
+    "pt": "A minha casa tem dois quartos.",
+    "pl": "Mój dom ma dwa pokoje.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă KA-ză TÃJ DÔJSZ KUAR-tusz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-apartamento-e-pequeno",
+    "kind": "sentence",
+    "pt": "O meu apartamento é pequeno.",
+    "pl": "Moje mieszkanie jest małe.",
+    "pronunciation": {
+      "plSlow": "u MÊU ă-păr-tă-MẼ-tu E py-KÊ-nu.",
+      "notePl": "apartamento jest męski → pequeno.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-sala-e-grande-e-tem-uma-varanda",
+    "kind": "sentence",
+    "pt": "A sala é grande e tem uma varanda.",
+    "pl": "Salon jest duży i ma balkon.",
+    "pronunciation": {
+      "plSlow": "ă SA-lă E GRÃ-dy i TÃJ U-mă wă-RÃ-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-filho-esta-no-quarto",
+    "kind": "sentence",
+    "pt": "O meu filho está no quarto.",
+    "pl": "Mój syn jest w pokoju.",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju ysz-TA nu KUAR-tu.",
+      "plNatural": "u MÊU FI-lju SZTA nu KUAR-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-posso-entrar-q",
+    "kind": "sentence",
+    "pt": "Olá! Posso entrar?",
+    "pl": "Cześć! Mogę wejść?",
+    "pronunciation": {
+      "plSlow": "o-LA! PO-su ẽ-TRAR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-este-e-o-meu-apartamento",
+    "kind": "sentence",
+    "pt": "Sim! Este é o meu apartamento.",
+    "pl": "Tak! To jest moje mieszkanie.",
+    "pronunciation": {
+      "plSlow": "SĨ! ÊSZ-ty E u MÊU ă-păr-tă-MẼ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-muito-bonito-quantos-quartos-tem-q",
+    "kind": "sentence",
+    "pt": "É muito bonito! Quantos quartos tem?",
+    "pl": "Jest bardzo ładne! Ile ma pokoi?",
+    "pronunciation": {
+      "plSlow": "E MŨJ-tu bu-NI-tu! KUÃ-tusz KUAR-tusz TÃJ?",
+      "notePl": "bonito — bo „o apartamento” (męski).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-dois-quartos-e-uma-sala",
+    "kind": "sentence",
+    "pt": "Tem dois quartos e uma sala.",
+    "pl": "Ma dwie sypialnie i salon.",
+    "pronunciation": {
+      "plSlow": "TÃJ DÔJSZ KUAR-tuz i U-mă SA-lă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-tem-varanda-q",
+    "kind": "sentence",
+    "pt": "E tem varanda?",
+    "pl": "A ma balkon?",
+    "pronunciation": {
+      "plSlow": "i TÃJ wă-RÃ-dă?",
+      "notePl": "W pytaniach o wyposażenie rodzajnik często się pomija: Tem varanda?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-sim-e-pequena-mas-e-bonita",
+    "kind": "sentence",
+    "pt": "Tem, sim. É pequena, mas é bonita!",
+    "pl": "Tak, ma. Jest mały, ale ładny!",
+    "pronunciation": {
+      "plSlow": "TÃJ, SĨ. E py-KÊ-nă, măz E bu-NI-tă!",
+      "notePl": "pequena, bonita — bo „a varanda” (żeńska), choć po polsku „balkon” jest męski.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-de",
+    "kind": "phrase",
+    "pt": "gosto de…",
+    "pl": "lubię…",
+    "tts": "gosto de",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu dy …",
+      "ipa": "ˈɡɔʃtu ðɨ",
+      "notePl": "gosto (czasownik) — OTWARTE o; s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "usagePl": "Zawsze z „de”: gosto de café, gosto de brincar. de + o = do, de + a = da: gosto da praia.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosta-de",
+    "kind": "phrase",
+    "pt": "gosta de…",
+    "pl": "lubi… (on / ona / Pan / Pani)",
+    "tts": "gosta de",
+    "pronunciation": {
+      "plSlow": "GOSZ-tă dy …",
+      "ipa": "ˈɡɔʃtɐ ðɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "usagePl": "O senhor gosta de…? = Czy Pan lubi…?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "brincar",
+    "kind": "word",
+    "pt": "brincar",
+    "pl": "bawić się",
+    "pronunciation": {
+      "plSlow": "brĩ-KAR",
+      "ipa": "bɾĩˈkaɾ",
+      "notePl": "in przed k = nosowe ĩ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "usagePl": "O dzieciach: brincar = bawić się (po portugalsku bez „się”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desenhar",
+    "kind": "word",
+    "pt": "desenhar",
+    "pl": "rysować",
+    "pronunciation": {
+      "plSlow": "dy-zy-ŃAR",
+      "ipa": "dɨzɨˈɲaɾ",
+      "notePl": "Dwa pierwsze e zredukowane (y); s między samogłoskami = z; nh = ń.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "educadora",
+    "kind": "word",
+    "pt": "educadora",
+    "pl": "wychowawczyni (w przedszkolu)",
+    "pronunciation": {
+      "plSlow": "i-du-kă-DÔ-ră",
+      "notePl": "Początkowe e zapisano jako „i” — jakość tej samogłoski do weryfikacji.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "usagePl": "Pełna nazwa: educadora de infância. Wychowawca-mężczyzna: o educador.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amigos",
+    "kind": "word",
+    "pt": "amigos",
+    "pl": "przyjaciele; koledzy",
+    "pronunciation": {
+      "plSlow": "ă-MI-gusz",
+      "ipa": "ɐˈmiɣuʃ",
+      "notePl": "g między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "usagePl": "o amigo / a amiga. O kolegach dziecka z grupy też często mówi się „os amigos”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-filho-gosta-de-desenhar",
+    "kind": "sentence",
+    "pt": "O meu filho gosta de desenhar.",
+    "pl": "Mój syn lubi rysować.",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju GOSZ-tă dy dy-zy-ŃAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-muito-de-cafe",
+    "kind": "sentence",
+    "pt": "Gosto muito de café.",
+    "pl": "Bardzo lubię kawę.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MŨJ-tu dy kă-FE.",
+      "notePl": "„muito” stoi między „gosto” a „de”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-gosto-de-cafe",
+    "kind": "sentence",
+    "pt": "Não gosto de café.",
+    "pl": "Nie lubię kawy.",
+    "pronunciation": {
+      "plSlow": "NÃU GOSZ-tu dy kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-nao-gosta-de-cha",
+    "kind": "sentence",
+    "pt": "Ela não gosta de chá.",
+    "pl": "Ona nie lubi herbaty.",
+    "pronunciation": {
+      "plSlow": "E-lă NÃU GOSZ-tă dy SZA.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-gosta-muito-da-sopa",
+    "kind": "sentence",
+    "pt": "Ele gosta muito da sopa.",
+    "pl": "On bardzo lubi (tę) zupę.",
+    "pronunciation": {
+      "plSlow": "Ê-ly GOSZ-tă MŨJ-tu dă SÔ-pă.",
+      "notePl": "de + a (sopa) = da.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-gosta-da-madeira-q",
+    "kind": "sentence",
+    "pt": "O senhor gosta da Madeira?",
+    "pl": "Czy Pan lubi Maderę?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR GOSZ-tă dă mă-DĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-muito-da-madeira",
+    "kind": "sentence",
+    "pt": "Gosto muito da Madeira!",
+    "pl": "Bardzo lubię Maderę!",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MŨJ-tu dă mă-DĂJ-ră!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-o-seu-filho-gosta-muito-de-desenhar",
+    "kind": "sentence",
+    "pt": "Boa tarde! O seu filho gosta muito de desenhar!",
+    "pl": "Dzień dobry! Pana syn bardzo lubi rysować!",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! u SÊU FI-lju GOSZ-tă MŨJ-tu dy dy-zy-ŃAR!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-em-casa-tambem",
+    "kind": "sentence",
+    "pt": "Sim, em casa também!",
+    "pl": "Tak, w domu też!",
+    "pronunciation": {
+      "plSlow": "SĨ, ãj KA-ză tã-BÃJ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-gosta-de-brincar-com-os-amigos",
+    "kind": "sentence",
+    "pt": "E gosta de brincar com os amigos.",
+    "pl": "I lubi bawić się z kolegami.",
+    "pronunciation": {
+      "plSlow": "i GOSZ-tă dy brĩ-KAR kõ uz ă-MI-gusz.",
+      "notePl": "os przed samogłoską → „uz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-come-bem-aqui-q",
+    "kind": "sentence",
+    "pt": "Ele come bem aqui?",
+    "pl": "Czy on tu dobrze je?",
+    "pronunciation": {
+      "plSlow": "Ê-ly KO-my BÃJ ă-KI?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "come-sim-gosta-muito-da-sopa",
+    "kind": "sentence",
+    "pt": "Come, sim. Gosta muito da sopa!",
+    "pl": "Tak, je. Bardzo lubi zupę!",
+    "pronunciation": {
+      "plSlow": "KO-my, SĨ. GOSZ-tă MŨJ-tu dă SÔ-pă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-faz-mal-ate-amanha",
+    "kind": "sentence",
+    "pt": "Não faz mal. Até amanhã!",
+    "pl": "Nic nie szkodzi. Do jutra!",
+    "pronunciation": {
+      "plSlow": "NÃU FAŻ MAɫ. ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-irmaos-q",
+    "kind": "sentence",
+    "pt": "Tem irmãos?",
+    "pl": "Ma Pan / Pani rodzeństwo?",
+    "pronunciation": {
+      "plSlow": "TÃJ ir-MÃUSZ?",
+      "ipa": "tɐ̃j̃ iɾˈmɐ̃w̃ʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "pytania"
+    ],
+    "usagePl": "irmãos = bracia ALBO rodzeństwo (brat i siostra). Do kolegi: Tens irmãos?",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-velho",
+    "kind": "phrase",
+    "pt": "mais velho",
+    "ptFem": "mais velha",
+    "pl": "starszy",
+    "plFem": "starsza",
+    "pronunciation": {
+      "plSlow": "MAJŻ WE-lju",
+      "ipa": "majʒ ˈvɛʎu",
+      "notePl": "s przed dźwięcznym v → ż. velho: zob. uwagę przy słowie „velho”.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "MAJŻ WE-ljă",
+      "ipa": "majʒ ˈvɛʎɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "usagePl": "o meu irmão mais velho = mój starszy brat (dosł. „bardziej stary”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-novo",
+    "kind": "phrase",
+    "pt": "mais novo",
+    "ptFem": "mais nova",
+    "pl": "młodszy",
+    "plFem": "młodsza",
+    "pronunciation": {
+      "plSlow": "MAJŻ NÔ-wu",
+      "ipa": "majʒ ˈnovu",
+      "notePl": "novo — zamknięte ô; nova, novos — otwarte o.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "MAJŻ NO-wă",
+      "ipa": "majʒ ˈnɔvɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "usagePl": "a minha irmã mais nova = moja młodsza siostra.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "filho-unico",
+    "kind": "phrase",
+    "pt": "filho único",
+    "ptFem": "filha única",
+    "pl": "jedynak",
+    "plFem": "jedynaczka",
+    "pronunciation": {
+      "plSlow": "FI-lju U-ni-ku",
+      "ipa": "ˈfiʎu ˈuniku",
+      "notePl": "Akcent na U (ú).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "FI-ljă U-ni-kă",
+      "ipa": "ˈfiʎɐ ˈunikɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-um-irmao-e-uma-irma",
+    "kind": "sentence",
+    "pt": "Tenho um irmão e uma irmã.",
+    "pl": "Mam brata i siostrę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ũ ir-MÃU i U-mă ir-MÃ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-irmao-e-mais-velho",
+    "kind": "sentence",
+    "pt": "O meu irmão é mais velho.",
+    "pl": "Mój brat jest starszy.",
+    "pronunciation": {
+      "plSlow": "u MÊU ir-MÃU E MAJŻ WE-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-minha-irma-e-mais-nova",
+    "kind": "sentence",
+    "pt": "A minha irmã é mais nova.",
+    "pl": "Moja siostra jest młodsza.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă ir-MÃ E MAJŻ NO-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-sou-filho-unico",
+    "kind": "sentence",
+    "pt": "Não, sou filho único.",
+    "ptFem": "Não, sou filha única.",
+    "pl": "Nie, jestem jedynakiem.",
+    "plFem": "Nie, jestem jedynaczką.",
+    "pronunciation": {
+      "plSlow": "NÃU, SÔ FI-lju U-ni-ku.",
+      "notePl": "Odpowiedź na „Tem irmãos?”: nie (mam rodzeństwa), jestem jedynakiem.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, SÔ FI-ljă U-ni-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-minha-avo-mora-na-polonia",
+    "kind": "sentence",
+    "pt": "A minha avó mora na Polónia.",
+    "pl": "Moja babcia mieszka w Polsce.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă ă-WO MO-ră nă pu-LO-ni-ă.",
+      "notePl": "avó (babcia) — otwarte o na końcu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tens-irmaos-q",
+    "kind": "sentence",
+    "pt": "Tens irmãos?",
+    "pl": "Masz rodzeństwo?",
+    "pronunciation": {
+      "plSlow": "TÃJZ ir-MÃUSZ?",
+      "notePl": "tens przed samogłoską: s → z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-sao-mais-velhos-ou-mais-novos-q",
+    "kind": "sentence",
+    "pt": "E são mais velhos ou mais novos?",
+    "pl": "A są starsi czy młodsi?",
+    "pronunciation": {
+      "plSlow": "i SÃU MAJŻ WE-ljuz ô MAJŻ NO-wusz?",
+      "notePl": "novos — otwarte o (jak nova).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-irmao-e-mais-velho-e-a-minha-irma-e-mais-nova",
+    "kind": "sentence",
+    "pt": "O meu irmão é mais velho e a minha irmã é mais nova.",
+    "pl": "Mój brat jest starszy, a moja siostra młodsza.",
+    "pronunciation": {
+      "plSlow": "u MÊU ir-MÃU E MAJŻ WE-lju i ă MI-ńă ir-MÃ E MAJŻ NO-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-moram-na-polonia-q",
+    "kind": "sentence",
+    "pt": "E moram na Polónia?",
+    "pl": "A mieszkają w Polsce?",
+    "pronunciation": {
+      "plSlow": "i MO-rãu nă pu-LO-ni-ă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-moram-na-polonia-e-tu-tens-irmaos-q",
+    "kind": "sentence",
+    "pt": "Sim, moram na Polónia. E tu? Tens irmãos?",
+    "pl": "Tak, mieszkają w Polsce. A ty? Masz rodzeństwo?",
+    "pronunciation": {
+      "plSlow": "SĨ, MO-rãu nă pu-LO-ni-ă. i TU? TÃJZ ir-MÃUSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "familia",
+    "kind": "word",
+    "pt": "família",
+    "pl": "rodzina",
+    "pronunciation": {
+      "plSlow": "fă-MI-li-ă",
+      "ipa": "fɐˈmiljɐ",
+      "notePl": "Akcent na MI (í). Końcówka „-lia” = zwykłe l + i (jak w „Polónia”), nie „lj”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostam-de",
+    "kind": "phrase",
+    "pt": "gostam de…",
+    "pl": "lubią… (oni / one / Państwo)",
+    "tts": "gostam de",
+    "pronunciation": {
+      "plSlow": "GOSZ-tãu dy …",
+      "ipa": "ˈɡɔʃtɐ̃w̃ ðɨ",
+      "notePl": "Końcówka -am = nosowe „ãu”, jak w „falam”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-como-esta-a-sua-familia-q",
+    "kind": "sentence",
+    "pt": "Boa tarde! Como está a sua família?",
+    "pl": "Dzień dobry! Jak się ma Pana rodzina?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! KÔ-mu ysz-TA ă SU-ă fă-MI-li-ă?",
+      "plNatural": "BÔ-ă TAR-dy! KÔ-mu‿SZTA ă SU-ă fă-MI-li-ă?",
+      "notePl": "a família = jedna rodzina → czasownik w l.poj.: está.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bem-obrigado-os-meus-pais-estao-aqui-na-madeira",
+    "kind": "sentence",
+    "pt": "Bem, obrigado. Os meus pais estão aqui, na Madeira!",
+    "ptFem": "Bem, obrigada. Os meus pais estão aqui, na Madeira!",
+    "pl": "Dobrze, dziękuję. Moi rodzice są tutaj, na Maderze!",
+    "pronunciation": {
+      "plSlow": "BÃJ, o-bri-GA-du. uż MÊUSZ PAJZ ysz-TÃU ă-KI, nă mă-DĂJ-ră!",
+      "plNatural": "BÃJ, o-bri-GA-du. uż MÊUSZ PAJ‿SZTÃU ă-KI, nă mă-DĂJ-ră!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "BÃJ, o-bri-GA-dă. uż MÊUSZ PAJZ ysz-TÃU ă-KI, nă mă-DĂJ-ră!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-gostam-da-madeira-q",
+    "kind": "sentence",
+    "pt": "E gostam da Madeira?",
+    "pl": "I podoba im się na Maderze? (dosł. Lubią Maderę?)",
+    "pronunciation": {
+      "plSlow": "i GOSZ-tãu dă mă-DĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostam-muito-a-minha-mae-gosta-muito-da-praia",
+    "kind": "sentence",
+    "pt": "Gostam muito! A minha mãe gosta muito da praia.",
+    "pl": "Bardzo! Moja mama bardzo lubi plażę.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tãu MŨJ-tu! ă MI-ńă MÃJ GOSZ-tă MŨJ-tu dă PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-seu-pai-q",
+    "kind": "sentence",
+    "pt": "E o seu pai?",
+    "pl": "A Pana tata?",
+    "pronunciation": {
+      "plSlow": "i u SÊU PAJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-pai-gosta-de-tudo",
+    "kind": "sentence",
+    "pt": "O meu pai gosta de tudo!",
+    "pl": "Mój tata lubi wszystko!",
+    "pronunciation": {
+      "plSlow": "u MÊU PAJ GOSZ-tă dy TU-du!",
+      "notePl": "tudo = wszystko (jak w „tudo bem”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-ate-amanha",
+    "kind": "sentence",
+    "pt": "Muito bem! Até amanhã!",
+    "pl": "Świetnie! Do jutra!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w06",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  }
+]

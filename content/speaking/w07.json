@@ -1,0 +1,198 @@
+[
+  {
+    "id": "w07-l37-s01",
+    "promptPl": "Zamów w kawiarni coś do picia i coś do jedzenia.",
+    "modelItemIds": [
+      "queria-um-galao-sfv",
+      "queria-uma-torrada-e-um-cha"
+    ],
+    "hintPl": "Queria… / Um… / Uma…, se faz favor."
+  },
+  {
+    "id": "w07-l37-s02",
+    "promptPl": "Zamawiasz w grupie. Zacznij od „Para mim…”.",
+    "modelItemIds": [
+      "para-mim-um-cafe",
+      "para-mim-um-sumo-de-laranja-e-um-pastel-de-nata"
+    ]
+  },
+  {
+    "id": "w07-l37-s03",
+    "promptPl": "Co naprawdę pijesz rano? Powiedz, co zwykle zamawiasz w kawiarni (kawa, galão, herbata, sok).",
+    "modelItemIds": [
+      "bebo-muito-cafe",
+      "queria-um-galao-sfv",
+      "um-galao-e-cafe-com-leite"
+    ],
+    "hintPl": "Mów o sobie — wzory to tylko przykłady."
+  },
+  {
+    "id": "w07-l38-s01",
+    "promptPl": "Poproś o jeszcze jedną kawę i o szklankę wody.",
+    "modelItemIds": [
+      "mais-um-cafe-sfv",
+      "um-copo-de-agua-sfv"
+    ]
+  },
+  {
+    "id": "w07-l38-s02",
+    "promptPl": "Kelner pyta: „Mais alguma coisa?”. Powiedz, że to wszystko, i poproś o rachunek.",
+    "modelItemIds": [
+      "nao-e-tudo-obrigado",
+      "cs-a-conta-sfv"
+    ],
+    "hintPl": "Kobieta mówi „obrigada”."
+  },
+  {
+    "id": "w07-l38-s03",
+    "promptPl": "Zapytaj, ile płacisz, a potem powtórz cenę, którą słyszysz.",
+    "modelItemIds": [
+      "quanto-e-q",
+      "sao-seis-euros"
+    ]
+  },
+  {
+    "id": "w07-l39-s01",
+    "promptPl": "Zapytaj o cenę jednej rzeczy, a potem kilku rzeczy.",
+    "modelItemIds": [
+      "quanto-custa-o-pastel-de-nata-q",
+      "quanto-custam-os-bolos-q"
+    ],
+    "hintPl": "Jedna rzecz → custa. Kilka → custam."
+  },
+  {
+    "id": "w07-l39-s02",
+    "promptPl": "Powiedz na głos ceny: 1,20 €, 2,50 € i 0,50 €.",
+    "modelItemIds": [
+      "custa-um-euro-e-vinte",
+      "sao-dois-euros-e-cinquenta",
+      "custa-cinquenta-centimos"
+    ]
+  },
+  {
+    "id": "w07-l39-s03",
+    "promptPl": "Ile kosztuje kawa w kawiarni, do której chodzisz? Podaj cenę i powiedz, czy to tanio, czy drogo.",
+    "modelItemIds": [
+      "custa-um-euro-e-vinte",
+      "e-barato",
+      "e-muito-caro"
+    ],
+    "hintPl": "Podaj prawdziwą cenę, jeśli ją znasz."
+  },
+  {
+    "id": "w07-l40-s01",
+    "promptPl": "Na targu poproś o kilo bananów i pół kilo pomidorów.",
+    "modelItemIds": [
+      "um-quilo-de-bananas-sfv",
+      "meio-quilo-de-tomates"
+    ]
+  },
+  {
+    "id": "w07-l40-s02",
+    "promptPl": "Ana jedzie do sklepu. Powiedz, czego potrzebujesz (2–3 rzeczy).",
+    "modelItemIds": [
+      "meio-quilo-de-tomates-e-uma-garrafa-de-agua",
+      "sim-sfv-um-quilo-de-bananas"
+    ]
+  },
+  {
+    "id": "w07-l40-s03",
+    "promptPl": "Zapytaj o cenę sera i powiedz, ile kosztuje kilo bananów.",
+    "modelItemIds": [
+      "quanto-custa-o-queijo-q",
+      "o-quilo-de-bananas-custa-dois-euros"
+    ]
+  },
+  {
+    "id": "w07-l40-s04",
+    "promptPl": "Co masz teraz w domu? Powiedz, czy masz ser, chleb, wodę.",
+    "modelItemIds": [
+      "tenho-queijo-e-pao-em-casa"
+    ],
+    "hintPl": "Tenho… em casa. / Não tenho…"
+  },
+  {
+    "id": "w07-l41-s01",
+    "promptPl": "Sprzedawca pyta: „Posso ajudar?”. Powiedz, że tylko się rozglądasz.",
+    "modelItemIds": [
+      "cs-so-estou-a-ver-obrigado"
+    ],
+    "hintPl": "Kobieta mówi „obrigada”."
+  },
+  {
+    "id": "w07-l41-s02",
+    "promptPl": "Zapytaj w sklepie, czy jest sok pomarańczowy, a potem, ile kosztuje rzecz, którą pokazujesz.",
+    "modelItemIds": [
+      "tem-sumo-de-laranja-q",
+      "quanto-custa-isto-q"
+    ]
+  },
+  {
+    "id": "w07-l41-s03",
+    "promptPl": "Przy kasie: zapytaj o płatność kartą i poproś o torbę.",
+    "modelItemIds": [
+      "cs-posso-pagar-com-cartao",
+      "cs-queria-um-saco-sfv"
+    ]
+  },
+  {
+    "id": "w07-l41-s04",
+    "promptPl": "Podajesz sprzedawcy pieniądze. Co mówisz?",
+    "modelItemIds": [
+      "aqui-esta"
+    ]
+  },
+  {
+    "id": "w07-l42-s01",
+    "promptPl": "Zapytaj Anę, co to jest espetada, i zamów coś maderskiego.",
+    "modelItemIds": [
+      "ana-o-que-e-a-espetada-q",
+      "para-mim-uma-espetada-e-um-bolo-do-caco"
+    ]
+  },
+  {
+    "id": "w07-l42-s02",
+    "promptPl": "Powiedz, co naprawdę lubisz jeść: mięso, ryby, ser…",
+    "modelItemIds": [
+      "gosto-muito-de-peixe",
+      "gosto-muito-de-carne-e-de-peixe",
+      "nao-gosto-de-cafe"
+    ]
+  },
+  {
+    "id": "w07-l42-s03",
+    "promptPl": "Ana proponuje ponchę. Odmów grzecznie i zamów wodę.",
+    "modelItemIds": [
+      "nao-obrigado-uma-agua-sfv",
+      "nao-bebo-poncha"
+    ],
+    "hintPl": "Poncha zawiera alkohol."
+  },
+  {
+    "id": "w07-t-s01",
+    "promptPl": "Zamów w kawiarni coś do picia i do jedzenia dla siebie, a potem poproś o rachunek.",
+    "modelItemIds": [
+      "queria-um-galao-sfv",
+      "uma-torrada-sfv",
+      "e-a-conta-sfv-quanto-e-q"
+    ]
+  },
+  {
+    "id": "w07-t-s02",
+    "promptPl": "Zapytaj o cenę jednej rzeczy i kilku rzeczy. Powiedz, czy to tanio.",
+    "modelItemIds": [
+      "quanto-custa-isto-q",
+      "quanto-custam-os-bolos-q",
+      "e-barato"
+    ]
+  },
+  {
+    "id": "w07-t-s03",
+    "promptPl": "Na targu kup 2–3 rzeczy (podaj ilość).",
+    "modelItemIds": [
+      "um-quilo-de-bananas-sfv",
+      "meio-quilo-de-tomates",
+      "uma-garrafa-de-agua"
+    ]
+  }
+]

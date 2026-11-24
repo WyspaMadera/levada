@@ -1,0 +1,211 @@
+[
+  {
+    "id": "w11-d61",
+    "titlePl": "Kolacja z Aną",
+    "contextPl": "Rano w kawiarni. Rui pyta o wczorajszy wieczór. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "bom-dia-ontem-falaste-com-a-ana-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "falei-sim-ontem-jantei-fora-com-a-ana",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-falaram-portugues-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "falamos-portugues-e-um-pouco-de-ingles",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "muito-bem-e-hoje-trabalhas-aqui-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "hoje-nao-ontem-trabalhei-aqui-hoje-trabalho-em-casa",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w11-d62",
+    "titlePl": "Trzy kawy",
+    "contextPl": "Południe w kawiarni Ruiego. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-hoje-nao-comes-nada-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-obrigado-comi-muito-ao-pequeno-almoco",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-um-cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "hoje-nao-bebi-tres-cafes-no-escritorio",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "tres-eu-hoje-bebi-so-um"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "ontem-sai-do-escritorio-muito-tarde",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w11-d63",
+    "titlePl": "Jak minął weekend?",
+    "contextPl": "Poniedziałek rano. Spotykasz Anę na schodach. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-como-foi-o-fim-de-semana-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "foi-muito-bom-no-sabado-fomos-a-praia",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "a-praia-e-no-domingo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-domingo-fui-ao-cafe-do-rui-e-tu-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "eu-fui-ao-cinema-foi-muito-bom-tambem"
+      }
+    ]
+  },
+  {
+    "id": "w11-d64",
+    "titlePl": "Syn był chory",
+    "contextPl": "Rano w przedszkolu. Syn wraca po dwóch dniach w domu. Marta mówi do Ciebie grzecznie (o senhor).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "bom-dia-o-seu-filho-esteve-doente-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "esteve-sim-esteve-dois-dias-em-casa",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-agora-esta-bem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "esta-muito-bem-obrigado-eu-estive-em-casa-com-ele",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-o-senhor-nao-esteve-doente-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-eu-estou-bem-mas-tive-muito-trabalho",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w11-d65",
+    "titlePl": "Ciasto z synem",
+    "contextPl": "Poniedziałek w kawiarni. Rui pyta, co robiłeś w weekend. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-o-que-fizeste-no-fim-de-semana-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nada-de-especial-no-sabado-fiquei-em-casa",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-no-domingo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-domingo-fiz-um-bolo-com-o-meu-filho",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "muito-bem-e-comeram-tudo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "comemos-tudo-foi-muito-bom",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w11-d66",
+    "titlePl": "Jak minął dzień?",
+    "contextPl": "Wieczorem spotykasz Anę przed domem. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "boa-noite-como-correu-o-dia-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "correu-bem-de-manha-trabalhei-em-casa-e-a-seguir-fui-ao-mercado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-a-tarde-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "a-tarde-estive-com-o-meu-filho-na-praia",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "eu-nao-sai-de-casa-tive-muito-trabalho"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "amanha-vamos-jantar-fora-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "boa-ideia-combinado"
+      }
+    ]
+  }
+]

@@ -1,0 +1,829 @@
+[
+  {
+    "id": "avo-f",
+    "kind": "word",
+    "pt": "avó",
+    "pl": "babcia",
+    "pronunciation": {
+      "plSlow": "ă-WO",
+      "ipa": "ɐˈvɔ",
+      "notePl": "Końcowe ó — OTWARTE, jak polskie o.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "avo-m",
+    "kind": "word",
+    "pt": "avô",
+    "pl": "dziadek",
+    "pronunciation": {
+      "plSlow": "ă-WÔ",
+      "ipa": "ɐˈvo",
+      "notePl": "Końcowe ô — ZAMKNIĘTE: usta bardziej zaokrąglone, w stronę u.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode",
+    "kind": "word",
+    "pt": "pode",
+    "pl": "może (on/ona/Pan/Pani)",
+    "pronunciation": {
+      "plSlow": "PO-dy",
+      "ipa": "ˈpɔðɨ",
+      "notePl": "Otwarte o, końcowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-past",
+    "kind": "word",
+    "pt": "pôde",
+    "pl": "mógł / mogła (w przeszłości)",
+    "pronunciation": {
+      "plSlow": "PÔ-dy",
+      "ipa": "ˈpoðɨ",
+      "notePl": "Zamknięte ô. Forma przeszła — tu tylko do ćwiczenia słuchu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pe",
+    "kind": "word",
+    "pt": "pé",
+    "pl": "stopa",
+    "pronunciation": {
+      "plSlow": "PE",
+      "ipa": "pɛ",
+      "notePl": "Otwarte e.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pe-letra",
+    "kind": "word",
+    "pt": "pê",
+    "pl": "litera P",
+    "pronunciation": {
+      "plSlow": "PÊ",
+      "ipa": "pe",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "la",
+    "kind": "word",
+    "pt": "lá",
+    "pl": "tam",
+    "pronunciation": {
+      "plSlow": "LA",
+      "ipa": "la",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "la-la",
+    "kind": "word",
+    "pt": "lã",
+    "pl": "wełna",
+    "pronunciation": {
+      "plSlow": "LÃ",
+      "ipa": "lɐ̃",
+      "notePl": "ã: przytłumione a przez nos, bez n na końcu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mau",
+    "kind": "word",
+    "pt": "mau",
+    "pl": "zły",
+    "pronunciation": {
+      "plSlow": "MAU",
+      "ipa": "maw",
+      "notePl": "au = a + krótkie u (jak polskie „ał”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mao",
+    "kind": "word",
+    "pt": "mão",
+    "pl": "ręka, dłoń",
+    "pronunciation": {
+      "plSlow": "MÃU",
+      "ipa": "mɐ̃w̃",
+      "notePl": "Cały dyftong nosowy. Nie „mau” i nie „mąo”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mal",
+    "kind": "word",
+    "pt": "mal",
+    "pl": "źle",
+    "pronunciation": {
+      "plSlow": "MAɫ",
+      "ipa": "maɫ",
+      "notePl": "Ciemne l — język dotyka zębów! Nie mów „mał”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "caro",
+    "kind": "word",
+    "pt": "caro",
+    "pl": "drogi (cena)",
+    "pronunciation": {
+      "plSlow": "KA-ru",
+      "ipa": "ˈkaɾu",
+      "notePl": "Pojedyncze r: jedno uderzenie języka.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carro",
+    "kind": "word",
+    "pt": "carro",
+    "pl": "samochód",
+    "pronunciation": {
+      "plSlow": "KA-rru",
+      "ipa": "ˈkaʁu",
+      "notePl": "rr: mocne r — gardłowe (jak francuskie r); mocno zwibrowane polskie r też jest zrozumiałe.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fila",
+    "kind": "word",
+    "pt": "fila",
+    "pl": "kolejka",
+    "pronunciation": {
+      "plSlow": "FI-lă",
+      "ipa": "ˈfilɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "filha",
+    "kind": "word",
+    "pt": "filha",
+    "pl": "córka",
+    "pronunciation": {
+      "plSlow": "FI-ljă",
+      "ipa": "ˈfiʎɐ",
+      "notePl": "lh = jeden dźwięk: środek języka przy podniebieniu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sono",
+    "kind": "word",
+    "pt": "sono",
+    "pl": "senność, sen (fizjologiczny)",
+    "pronunciation": {
+      "plSlow": "SÔ-nu",
+      "ipa": "ˈsonu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sonho",
+    "kind": "word",
+    "pt": "sonho",
+    "pl": "marzenie, sen (marzenie senne)",
+    "pronunciation": {
+      "plSlow": "SÔ-ńu",
+      "ipa": "ˈsoɲu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "caca",
+    "kind": "word",
+    "pt": "caça",
+    "pl": "polowanie",
+    "pronunciation": {
+      "plSlow": "KA-să",
+      "ipa": "ˈkasɐ",
+      "notePl": "ç = s (bezdźwięczne).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "casa",
+    "kind": "word",
+    "pt": "casa",
+    "pl": "dom",
+    "pronunciation": {
+      "plSlow": "KA-ză",
+      "ipa": "ˈkazɐ",
+      "notePl": "s między samogłoskami = z. Końcowe a — krótkie, przytłumione (ă).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta",
+    "kind": "word",
+    "pt": "esta",
+    "pl": "ta (ta tutaj)",
+    "pronunciation": {
+      "plSlow": "ESZ-tă",
+      "ipa": "ˈɛʃtɐ",
+      "notePl": "Akcent na PIERWSZEJ sylabie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-verb",
+    "kind": "word",
+    "pt": "está",
+    "pl": "jest (estar)",
+    "pronunciation": {
+      "plSlow": "ysz-TA",
+      "plNatural": "SZTA",
+      "ipa": "ɨʃˈta",
+      "notePl": "Akcent na OSTATNIEJ sylabie; początkowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sete",
+    "kind": "word",
+    "pt": "sete",
+    "pl": "siedem",
+    "pronunciation": {
+      "plSlow": "SE-ty",
+      "plNatural": "SET(y)",
+      "ipa": "ˈsɛtɨ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "verde",
+    "kind": "word",
+    "pt": "verde",
+    "pl": "zielony",
+    "pronunciation": {
+      "plSlow": "WÊR-dy",
+      "plNatural": "WÊRD(y)",
+      "ipa": "ˈveɾðɨ",
+      "notePl": "Zamknięte ê; końcowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "telefone",
+    "kind": "word",
+    "pt": "telefone",
+    "pl": "telefon",
+    "pronunciation": {
+      "plSlow": "ty-ly-FO-ny",
+      "plNatural": "tly-FON(y)",
+      "ipa": "tɨlɨˈfɔnɨ",
+      "notePl": "Trzy nieakcentowane e są zredukowane — w szybkiej mowie prawie znikają.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ana",
+    "kind": "word",
+    "pt": "Ana",
+    "pl": "Ana (imię)",
+    "pronunciation": {
+      "plSlow": "Ă-nă",
+      "ipa": "ˈɐnɐ",
+      "notePl": "Akcentowane a przed n brzmi jak ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "imiona"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar",
+    "kind": "word",
+    "pt": "falar",
+    "pl": "mówić",
+    "pronunciation": {
+      "plSlow": "fă-LAR",
+      "ipa": "fɐˈlaɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tempo",
+    "kind": "word",
+    "pt": "tempo",
+    "pl": "czas; pogoda",
+    "pronunciation": {
+      "plSlow": "TẼ-pu",
+      "ipa": "ˈtẽpu",
+      "notePl": "ẽ — e nosowe; m nie jest wymawiane osobno.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mundo",
+    "kind": "word",
+    "pt": "mundo",
+    "pl": "świat",
+    "pronunciation": {
+      "plSlow": "MŨ-du",
+      "ipa": "ˈmũdu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pao",
+    "kind": "word",
+    "pt": "pão",
+    "pl": "chleb",
+    "pronunciation": {
+      "plSlow": "PÃU",
+      "ipa": "pɐ̃w̃",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mae",
+    "kind": "word",
+    "pt": "mãe",
+    "pl": "mama, matka",
+    "pronunciation": {
+      "plSlow": "MÃJ",
+      "ipa": "mɐ̃j̃",
+      "notePl": "ãe = ă nosowe + j nosowe.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poe",
+    "kind": "word",
+    "pt": "põe",
+    "pl": "kładzie",
+    "pronunciation": {
+      "plSlow": "PÕJ",
+      "ipa": "põj̃",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sol",
+    "kind": "word",
+    "pt": "sol",
+    "pl": "słońce",
+    "pronunciation": {
+      "plSlow": "SOɫ",
+      "ipa": "sɔɫ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "azul",
+    "kind": "word",
+    "pt": "azul",
+    "pl": "niebieski",
+    "pronunciation": {
+      "plSlow": "ă-ZUɫ",
+      "ipa": "ɐˈzuɫ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para",
+    "kind": "word",
+    "pt": "para",
+    "pl": "dla; do (kierunek)",
+    "pronunciation": {
+      "plSlow": "PĂ-ră",
+      "plNatural": "PRĂ",
+      "ipa": "ˈpɐɾɐ",
+      "notePl": "W szybkiej mowie często skracane do „pra”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hora",
+    "kind": "word",
+    "pt": "hora",
+    "pl": "godzina",
+    "pronunciation": {
+      "plSlow": "O-ră",
+      "ipa": "ˈɔɾɐ",
+      "notePl": "h jest nieme.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rua",
+    "kind": "word",
+    "pt": "rua",
+    "pl": "ulica",
+    "pronunciation": {
+      "plSlow": "RRU-ă",
+      "ipa": "ˈʁuɐ",
+      "notePl": "r na początku wyrazu = mocne r.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rui",
+    "kind": "word",
+    "pt": "Rui",
+    "pl": "Rui (imię)",
+    "pronunciation": {
+      "plSlow": "RRUJ",
+      "ipa": "ʁuj",
+      "notePl": "Mocne r na początku + dyftong uj.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "imiona"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho",
+    "kind": "word",
+    "pt": "trabalho",
+    "pl": "praca",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju",
+      "ipa": "tɾɐˈβaʎu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vinho",
+    "kind": "word",
+    "pt": "vinho",
+    "pl": "wino",
+    "pronunciation": {
+      "plSlow": "WI-ńu",
+      "ipa": "ˈviɲu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cha",
+    "kind": "word",
+    "pt": "chá",
+    "pl": "herbata",
+    "pronunciation": {
+      "plSlow": "SZA",
+      "ipa": "ʃa",
+      "notePl": "ch = miękkie sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje",
+    "kind": "word",
+    "pt": "hoje",
+    "pl": "dzisiaj",
+    "pronunciation": {
+      "plSlow": "Ô-ży",
+      "ipa": "ˈoʒɨ",
+      "notePl": "h nieme, j = ż, zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mesmo",
+    "kind": "word",
+    "pt": "mesmo",
+    "pl": "ten sam; naprawdę",
+    "pronunciation": {
+      "plSlow": "MÊŻ-mu",
+      "ipa": "ˈmeʒmu",
+      "notePl": "s przed dźwięcznym m = ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "lisboa",
+    "kind": "word",
+    "pt": "Lisboa",
+    "pl": "Lizbona",
+    "pronunciation": {
+      "plSlow": "liż-BÔ-ă",
+      "ipa": "liʒˈβoɐ",
+      "notePl": "s przed b = ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mesa",
+    "kind": "word",
+    "pt": "mesa",
+    "pl": "stół",
+    "pronunciation": {
+      "plSlow": "MÊ-ză",
+      "ipa": "ˈmezɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sopa",
+    "kind": "word",
+    "pt": "sopa",
+    "pl": "zupa",
+    "pronunciation": {
+      "plSlow": "SÔ-pă",
+      "ipa": "ˈsopɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vida",
+    "kind": "word",
+    "pt": "vida",
+    "pl": "życie",
+    "pronunciation": {
+      "plSlow": "WI-dă",
+      "ipa": "ˈviðɐ",
+      "notePl": "d między samogłoskami miękkie (język tylko zbliża się do zębów).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pai",
+    "kind": "word",
+    "pt": "pai",
+    "pl": "tata, ojciec",
+    "pronunciation": {
+      "plSlow": "PAJ",
+      "ipa": "paj",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "dzwieki",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fala-ingles-stmt",
+    "kind": "sentence",
+    "pt": "Fala inglês.",
+    "pl": "On/Ona/Pan/Pani mówi po angielsku.",
+    "pronunciation": {
+      "plSlow": "FA-lă ĩ-GLÊSZ",
+      "ipa": "ˈfalɐ ĩˈɡleʃ",
+      "notePl": "Zdanie oznajmujące: intonacja opada na końcu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "dzwieki",
+      "intonacja"
+    ],
+    "reviewStatus": "draft"
+  }
+]

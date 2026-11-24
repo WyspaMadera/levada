@@ -1,0 +1,368 @@
+[
+  {
+    "id": "sc-cafe",
+    "titlePl": "Kawa u Ruiego",
+    "topicPl": "Kawiarnia",
+    "level": "A0",
+    "unlockAfterLessonId": "w01-l03",
+    "contextPl": "Wchodzisz rano do kawiarni. Rui stoi za ladą.",
+    "turns": [
+      {
+        "speaker": "Rui",
+        "promptItemId": "bom-dia",
+        "taskPl": "Przywitaj się.",
+        "answerItemIds": [
+          "bom-dia",
+          "ola-bom-dia"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "cafe-q",
+        "taskPl": "Powiedz, że tak — chcesz kawę.",
+        "answerItemIds": [
+          "sim-cafe",
+          "um-cafe-sfv"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "ate-logo",
+        "taskPl": "Podziękuj i pożegnaj się.",
+        "answerItemIds": [
+          "muito-obrigado",
+          "adeus",
+          "ate-logo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-vizinha",
+    "titlePl": "Nowa sąsiadka",
+    "topicPl": "Przedstawianie się",
+    "level": "A0",
+    "unlockAfterLessonId": "w01-l04",
+    "contextPl": "Na klatce schodowej spotykasz nową sąsiadkę. Rozmowa grzeczna (Pan/Pani).",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "ola-bom-dia",
+        "taskPl": "Przywitaj się.",
+        "answerItemIds": [
+          "bom-dia",
+          "ola-bom-dia"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "como-se-chama",
+        "taskPl": "Powiedz, jak się nazywasz.",
+        "answerItemIds": [
+          "chamo-me-ana"
+        ],
+        "personal": {
+          "field": "name",
+          "templatePt": "Chamo-me {name}.",
+          "templateItemId": "chamo-me"
+        }
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "chamo-me-ana-muito-prazer",
+        "taskPl": "Odpowiedz uprzejmie.",
+        "answerItemIds": [
+          "igualmente",
+          "muito-prazer"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-nao-percebo",
+    "titlePl": "Za szybko!",
+    "topicPl": "Gdy nie rozumiem",
+    "level": "A0",
+    "unlockAfterLessonId": "w01-l05",
+    "contextPl": "Ktoś mówi do Ciebie szybko na ulicy. Nie musisz rozumieć — poradź sobie.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "hoje-esta-muito-calor",
+        "taskPl": "Powiedz, że nie rozumiesz, albo poproś o powtórzenie lub wolniejsze tempo.",
+        "answerItemIds": [
+          "desculpe-nao-percebo",
+          "pode-repetir",
+          "mais-devagar"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "fala-ingles-q",
+        "taskPl": "Odpowiedz zgodnie z prawdą.",
+        "answerItemIds": [
+          "sim",
+          "nao-falo-ingles"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "nao-faz-mal",
+        "taskPl": "Podziękuj.",
+        "answerItemIds": [
+          "muito-obrigado",
+          "obrigado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-quem-es",
+    "titlePl": "Po pracy z Ruim",
+    "topicPl": "Ja i inni",
+    "level": "A0",
+    "unlockAfterLessonId": "w02-l12",
+    "contextPl": "Rui po pracy zaczyna rozmowę — po imieniu (tu).",
+    "turns": [
+      {
+        "speaker": "Rui",
+        "promptItemId": "ola-chamo-me-rui-e-tu",
+        "taskPl": "Przedstaw się.",
+        "answerItemIds": [
+          "chamo-me-tomasz-muito-prazer"
+        ],
+        "personal": {
+          "field": "name",
+          "templatePt": "Chamo-me {name}.",
+          "templateItemId": "chamo-me"
+        }
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "es-ingles-q",
+        "taskPl": "Odpowiedz, skąd jesteś.",
+        "answerItemIds": [
+          "nao-sou-polaco",
+          "nao-sou-ingles"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "falas-portugues-q",
+        "taskPl": "Odpowiedz zgodnie z prawdą.",
+        "answerItemIds": [
+          "falo-um-pouco",
+          "falo-um-pouco-de-portugues"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-telefone",
+    "titlePl": "Telefon wieczorem",
+    "topicPl": "Samopoczucie i miejsce",
+    "level": "A0",
+    "unlockAfterLessonId": "w02-l09",
+    "contextPl": "Dzwoni Ana. Jesteście po imieniu.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "ola-como-estas",
+        "taskPl": "Powiedz, jak się masz, i zapytaj o nią.",
+        "answerItemIds": [
+          "estou-bem-obrigado-e-tu",
+          "estou-cansado"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "estas-em-casa-q",
+        "taskPl": "Powiedz, gdzie jesteś.",
+        "answerItemIds": [
+          "sim-estou-em-casa-e-tu",
+          "estou-no-funchal"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-loja",
+    "titlePl": "Stół z drugiej ręki",
+    "topicPl": "Zakupy i ceny",
+    "level": "A1",
+    "unlockAfterLessonId": "w03-l17",
+    "contextPl": "Ana sprzedaje meble. Chcesz kupić stół.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "precisa-de-ajuda-q",
+        "taskPl": "Zapytaj o cenę.",
+        "answerItemIds": [
+          "quanto-custa-q",
+          "quanto-custa-a-mesa-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "a-mesa-pequena-custa-dezoito-euros",
+        "taskPl": "Powiedz, że chcesz mały stół, albo zapytaj o duży.",
+        "answerItemIds": [
+          "queria-a-mesa-pequena-sfv",
+          "dezoito-e-a-mesa-grande-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "muito-bem-sao-dezoito-euros",
+        "taskPl": "Podziękuj.",
+        "answerItemIds": [
+          "muito-obrigado",
+          "obrigado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-dados",
+    "titlePl": "Kilka pytań w przedszkolu",
+    "topicPl": "Informacje o sobie",
+    "level": "A1",
+    "unlockAfterLessonId": "w03-l18",
+    "contextPl": "Wychowawczyni uzupełnia kartę. Mówi grzecznie (Pan/Pani).",
+    "turns": [
+      {
+        "speaker": "Marta",
+        "promptItemId": "quantos-anos-tem-q",
+        "taskPl": "Powiedz, ile masz lat (możesz podać inną liczbę).",
+        "answerItemIds": [
+          "tenho-trinta-e-cinco-anos"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "onde-mora-q",
+        "taskPl": "Powiedz, gdzie mieszkasz.",
+        "answerItemIds": [
+          "moro-no-funchal",
+          "moro-na-madeira"
+        ],
+        "personal": {
+          "field": "city",
+          "templatePt": "Moro em {city}.",
+          "templateItemId": "moro-em"
+        }
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "fala-portugues-q",
+        "taskPl": "Odpowiedz zgodnie z prawdą.",
+        "answerItemIds": [
+          "falo-um-pouco-de-portugues",
+          "nao-falo-bem"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-onde-esta",
+    "titlePl": "Gdzie jest telefon?",
+    "topicPl": "Gdzie coś jest",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l20",
+    "contextPl": "Szukasz telefonu w kawiarni. Rui chce pomóc.",
+    "turns": [
+      {
+        "speaker": "Rui",
+        "promptItemId": "precisa-de-ajuda-q",
+        "taskPl": "Powiedz, że potrzebujesz telefonu i zapytaj, czy jest tutaj.",
+        "answerItemIds": [
+          "preciso-do-telemovel-esta-aqui-q",
+          "preciso-de-ajuda"
+        ]
+      },
+      {
+        "speaker": "Rui",
+        "promptItemId": "o-telemovel-sim-esta-aqui-na-mesa",
+        "taskPl": "Podziękuj.",
+        "answerItemIds": [
+          "muito-obrigado",
+          "obrigado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-praia",
+    "titlePl": "Umawiamy się na plażę",
+    "topicPl": "Plany, dni i godziny",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l22",
+    "contextPl": "Ana proponuje wyjście na plażę.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "vamos-a-praia-amanha-q",
+        "taskPl": "Zgódź się i zapytaj o godzinę — albo powiedz, że dziś nie możesz.",
+        "answerItemIds": [
+          "sim-a-que-horas-q",
+          "hoje-nao-posso-amanha-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "as-dez-q",
+        "taskPl": "Zaproponuj inną godzinę albo się zgódź.",
+        "answerItemIds": [
+          "as-dez-nao-posso-ao-meio-dia-q",
+          "esta-bem-ate-amanha"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "ao-meio-dia-esta-bem",
+        "taskPl": "Pożegnaj się do jutra.",
+        "answerItemIds": [
+          "esta-bem-ate-amanha",
+          "ate-amanha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-familia",
+    "titlePl": "Rozmowa z sąsiadką",
+    "topicPl": "Rodzina i pochodzenie",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l23",
+    "contextPl": "Starsza sąsiadka zaczepia Cię na ulicy. Mówi do Ciebie „o senhor”. Pytania o rodzinę są osobiste — możesz odpowiedzieć ogólnie.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "boa-tarde-como-esta",
+        "taskPl": "Odpowiedz i zapytaj, jak ona się ma.",
+        "answerItemIds": [
+          "estou-bem-obrigado-e-a-senhora"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "bem-obrigada-de-onde-e-o-senhor-q",
+        "taskPl": "Powiedz, skąd jesteś i gdzie mieszkasz.",
+        "answerItemIds": [
+          "sou-da-polonia-mas-moro-no-funchal",
+          "sou-da-polonia"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "tem-filhos-q",
+        "taskPl": "Odpowiedz (jeśli chcesz — możesz też odpowiedzieć wymijająco).",
+        "answerItemIds": [
+          "tenho-um-filho",
+          "o-meu-filho-tem-cinco-anos",
+          "nao-tenho-filhos"
+        ]
+      }
+    ]
+  }
+]

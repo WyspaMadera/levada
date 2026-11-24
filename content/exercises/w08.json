@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "w08-l43-e01",
+    "type": "listenChoose",
+    "targetItemId": "longe",
+    "optionItemIds": [
+      "longe",
+      "perto",
+      "aqui"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w08-l43-e02",
+    "type": "readChoose",
+    "targetItemId": "farmacia",
+    "optionItemIds": [
+      "farmacia",
+      "banco",
+      "mercado"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l43-e03",
+    "type": "recallChoose",
+    "targetItemId": "ha-uma-farmacia-aqui-perto-q",
+    "optionItemIds": [
+      "ha-uma-farmacia-aqui-perto-q",
+      "a-farmacia-e-ao-lado-do-banco",
+      "ha-um-supermercado-aqui-perto-q"
+    ],
+    "promptPl": "Zapytaj, czy w pobliżu jest apteka."
+  },
+  {
+    "id": "w08-l43-e04",
+    "type": "fillGap",
+    "sentencePt": "___ uma farmácia aqui perto?",
+    "sentencePl": "Czy jest tu w pobliżu apteka?",
+    "options": [
+      "Há",
+      "É",
+      "Tem"
+    ],
+    "answer": "Há",
+    "fullItemId": "ha-uma-farmacia-aqui-perto-q",
+    "wrongExplanations": {
+      "É": "„É uma farmácia?” = Czy to (jest) apteka?",
+      "Tem": "„Tem…?” — pytanie do osoby, czy MA (np. w sklepie). O okolicę pytamy: Há…?"
+    },
+    "explanationPl": "Pytamy, czy coś w ogóle jest w okolicy → Há…?",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w08-l43-e05",
+    "type": "fillGap",
+    "sentencePt": "A farmácia é ao lado ___ banco.",
+    "sentencePl": "Apteka jest obok banku.",
+    "options": [
+      "do",
+      "da",
+      "de"
+    ],
+    "answer": "do",
+    "fullItemId": "a-farmacia-e-ao-lado-do-banco",
+    "wrongExplanations": {
+      "da": "„da” — przed żeńskimi (ao lado da farmácia).",
+      "de": "Przed „o banco” de łączy się z rodzajnikiem: do."
+    },
+    "explanationPl": "o banco (męski) → de + o = do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l43-e06",
+    "type": "fillGap",
+    "sentencePt": "O mercado é perto ___ minha casa.",
+    "sentencePl": "Targ jest blisko mojego domu.",
+    "options": [
+      "da",
+      "do"
+    ],
+    "answer": "da",
+    "fullItemId": "o-mercado-e-perto-da-minha-casa",
+    "wrongExplanations": {
+      "do": "„do” — przed męskimi (perto do banco)."
+    },
+    "explanationPl": "a minha casa (żeńska) → de + a = da.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l43-e07",
+    "type": "buildSentence",
+    "targetItemId": "a-farmacia-e-ao-lado-do-banco",
+    "tiles": [
+      "A",
+      "farmácia",
+      "é",
+      "ao",
+      "lado",
+      "do",
+      "banco"
+    ],
+    "distractors": [
+      "da",
+      "perto"
+    ],
+    "promptPl": "Powiedz: „Apteka jest obok banku.”"
+  },
+  {
+    "id": "w08-l43-e08",
+    "type": "transform",
+    "baseItemId": "o-banco-e-longe-q",
+    "instructionPl": "Odpowiedz: nie, jest bardzo blisko.",
+    "targetItemId": "nao-e-muito-perto",
+    "tiles": [
+      "Não",
+      "é",
+      "muito",
+      "perto"
+    ],
+    "distractors": [
+      "longe",
+      "há"
+    ]
+  },
+  {
+    "id": "w08-l43-e09",
+    "type": "recallSay",
+    "targetItemId": "ha-uma-farmacia-aqui-perto-q",
+    "promptPl": "Jesteś w nowym miejscu. Zapytaj, czy jest tu w pobliżu apteka."
+  },
+  {
+    "id": "w08-l43-e10",
+    "type": "recallSay",
+    "targetItemId": "ha-um-supermercado-aqui-perto-q",
+    "promptPl": "Zapytaj, czy jest tu w pobliżu supermarket."
+  },
+  {
+    "id": "w08-l43-e11",
+    "type": "typeAnswer",
+    "targetItemId": "perto",
+    "promptPl": "Napisz: „blisko”."
+  },
+  {
+    "id": "w08-l44-e01",
+    "type": "listenChoose",
+    "targetItemId": "a-esquerda",
+    "optionItemIds": [
+      "a-esquerda",
+      "a-direita",
+      "em-frente"
+    ],
+    "promptPl": "Posłuchaj. Dokąd?"
+  },
+  {
+    "id": "w08-l44-e02",
+    "type": "readChoose",
+    "targetItemId": "siga-em-frente",
+    "optionItemIds": [
+      "siga-em-frente",
+      "vire-a-direita",
+      "e-a-segunda-rua-a-direita"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l44-e03",
+    "type": "recallChoose",
+    "targetItemId": "vire-a-direita",
+    "optionItemIds": [
+      "vire-a-direita",
+      "siga-em-frente",
+      "vire-a-esquerda"
+    ],
+    "promptPl": "Powiedz grzecznie: „Proszę skręcić w prawo.”"
+  },
+  {
+    "id": "w08-l44-e04",
+    "type": "fillGap",
+    "sentencePt": "Vire ___ primeira rua à esquerda.",
+    "sentencePl": "Proszę skręcić w pierwszą ulicę w lewo.",
+    "options": [
+      "na",
+      "no",
+      "à"
+    ],
+    "answer": "na",
+    "fullItemId": "vire-na-primeira-rua-a-esquerda",
+    "wrongExplanations": {
+      "no": "„no” = em + o (męski). Rua jest żeńska → na.",
+      "à": "„à” = w stronę (à direita). Skręcamy w ulicę → na primeira rua."
+    },
+    "explanationPl": "Skręcamy W ulicę: em + a (a primeira rua) = na.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l44-e05",
+    "type": "fillGap",
+    "sentencePt": "Siga em ___.",
+    "sentencePl": "Proszę iść prosto.",
+    "options": [
+      "frente",
+      "direita"
+    ],
+    "answer": "frente",
+    "fullItemId": "siga-em-frente",
+    "wrongExplanations": {
+      "direita": "Tak się nie mówi; w prawo = à direita."
+    },
+    "explanationPl": "prosto = em frente.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w08-l44-e06",
+    "type": "fillGap",
+    "sentencePt": "É a ___ rua à direita.",
+    "sentencePl": "To pierwsza ulica po prawej.",
+    "options": [
+      "primeira",
+      "primeiro"
+    ],
+    "answer": "primeira",
+    "wrongExplanations": {
+      "primeiro": "„primeiro” — przed męskimi (o primeiro dia)."
+    },
+    "explanationPl": "a rua (żeńska) → primeira.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l44-e07",
+    "type": "buildSentence",
+    "targetItemId": "vire-na-primeira-rua-a-esquerda",
+    "tiles": [
+      "Vire",
+      "na",
+      "primeira",
+      "rua",
+      "à",
+      "esquerda"
+    ],
+    "distractors": [
+      "primeiro",
+      "no"
+    ],
+    "promptPl": "Powiedz: „Proszę skręcić w pierwszą ulicę w lewo.”"
+  },
+  {
+    "id": "w08-l44-e08",
+    "type": "transform",
+    "baseItemId": "vire-a-direita",
+    "instructionPl": "Zamień kierunek: w lewo.",
+    "targetItemId": "vire-a-esquerda",
+    "tiles": [
+      "Vire",
+      "à",
+      "esquerda"
+    ],
+    "distractors": [
+      "direita",
+      "Siga"
+    ]
+  },
+  {
+    "id": "w08-l44-e09",
+    "type": "recallSay",
+    "targetItemId": "desculpe-onde-e-o-banco-q",
+    "promptPl": "Zatrzymaj przechodnia i zapytaj grzecznie, gdzie jest bank."
+  },
+  {
+    "id": "w08-l44-e10",
+    "type": "recallSay",
+    "targetItemId": "siga-em-frente-e-vire-na-primeira-rua-a-direita",
+    "promptPl": "Turysta pyta Cię o drogę. Powiedz: prosto, potem w pierwszą ulicę w prawo."
+  },
+  {
+    "id": "w08-l44-e11",
+    "type": "typeAnswer",
+    "targetItemId": "a-direita",
+    "promptPl": "Napisz: „w prawo” (pamiętaj o akcencie: à)."
+  },
+  {
+    "id": "w08-l45-e01",
+    "type": "listenChoose",
+    "targetItemId": "paragem",
+    "optionItemIds": [
+      "paragem",
+      "bilhete",
+      "autocarro"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w08-l45-e02",
+    "type": "readChoose",
+    "targetItemId": "o-proximo-parte-as-dez-e-meia",
+    "optionItemIds": [
+      "o-proximo-parte-as-dez-e-meia",
+      "sao-tres-e-meia",
+      "a-que-horas-parte-o-autocarro-para-o-centro-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l45-e03",
+    "type": "recallChoose",
+    "targetItemId": "bilhete",
+    "optionItemIds": [
+      "bilhete",
+      "paragem",
+      "centro"
+    ],
+    "promptPl": "Wybierz „bilet”."
+  },
+  {
+    "id": "w08-l45-e04",
+    "type": "fillGap",
+    "sentencePt": "A que horas ___ o autocarro para o centro?",
+    "sentencePl": "O której odjeżdża autobus do centrum?",
+    "options": [
+      "parte",
+      "é"
+    ],
+    "answer": "parte",
+    "fullItemId": "a-que-horas-parte-o-autocarro-para-o-centro-q",
+    "wrongExplanations": {
+      "é": "„é” = jest. O godzinę odjazdu pytamy: A que horas parte…?"
+    },
+    "explanationPl": "odjeżdża = parte.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w08-l45-e05",
+    "type": "fillGap",
+    "sentencePt": "O ___ parte às dez e meia.",
+    "sentencePl": "Następny odjeżdża o 10:30.",
+    "options": [
+      "próximo",
+      "próxima"
+    ],
+    "answer": "próximo",
+    "fullItemId": "o-proximo-parte-as-dez-e-meia",
+    "wrongExplanations": {
+      "próxima": "„próxima” — przed żeńskimi (a próxima paragem)."
+    },
+    "explanationPl": "o autocarro (męski) → o próximo.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l45-e06",
+    "type": "fillGap",
+    "sentencePt": "Um bilhete ___ o centro, se faz favor.",
+    "sentencePl": "Bilet do centrum, proszę.",
+    "options": [
+      "para",
+      "de",
+      "em"
+    ],
+    "answer": "para",
+    "fullItemId": "um-bilhete-para-o-centro-sfv",
+    "wrongExplanations": {
+      "de": "„de” = z, od (skąd).",
+      "em": "„em” = w (gdzie)."
+    },
+    "explanationPl": "do (dokąd) = para.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w08-l45-e07",
+    "type": "buildSentence",
+    "targetItemId": "a-que-horas-parte-o-autocarro-para-o-centro-q",
+    "tiles": [
+      "A",
+      "que",
+      "horas",
+      "parte",
+      "o",
+      "autocarro",
+      "para",
+      "o",
+      "centro"
+    ],
+    "distractors": [
+      "onde",
+      "em"
+    ],
+    "promptPl": "Zapytaj, o której odjeżdża autobus do centrum."
+  },
+  {
+    "id": "w08-l45-e08",
+    "type": "transform",
+    "baseItemId": "cs-este-autocarro-vai-para-o-funchal",
+    "instructionPl": "Zapytaj o autobus do centrum.",
+    "targetItemId": "este-autocarro-vai-para-o-centro-q",
+    "tiles": [
+      "Este",
+      "autocarro",
+      "vai",
+      "para",
+      "o",
+      "centro"
+    ],
+    "distractors": [
+      "parte",
+      "esta"
+    ]
+  },
+  {
+    "id": "w08-l45-e09",
+    "type": "recallSay",
+    "targetItemId": "a-que-horas-parte-o-autocarro-para-o-funchal-q",
+    "promptPl": "Zapytaj, o której odjeżdża autobus do Funchal."
+  },
+  {
+    "id": "w08-l45-e10",
+    "type": "recallSay",
+    "targetItemId": "um-bilhete-para-o-centro-sfv",
+    "promptPl": "Poproś o bilet do centrum."
+  },
+  {
+    "id": "w08-l45-e11",
+    "type": "typeAnswer",
+    "targetItemId": "autocarro",
+    "promptPl": "Napisz: „autobus” (słowo z Portugalii)."
+  },
+  {
+    "id": "w08-l46-e01",
+    "type": "listenChoose",
+    "targetItemId": "esta-a-chover",
+    "optionItemIds": [
+      "esta-a-chover",
+      "esta-vento",
+      "esta-sol"
+    ],
+    "promptPl": "Posłuchaj. Jaka jest pogoda?"
+  },
+  {
+    "id": "w08-l46-e02",
+    "type": "listenChoose",
+    "targetItemId": "esta-frio",
+    "optionItemIds": [
+      "esta-frio",
+      "esta-calor",
+      "esta-sol"
+    ],
+    "promptPl": "Posłuchaj. Jaka jest pogoda?"
+  },
+  {
+    "id": "w08-l46-e03",
+    "type": "readChoose",
+    "targetItemId": "como-esta-o-tempo-q",
+    "optionItemIds": [
+      "como-esta-o-tempo-q",
+      "como-esta",
+      "que-horas-sao-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l46-e04",
+    "type": "recallChoose",
+    "targetItemId": "esta-vento",
+    "optionItemIds": [
+      "esta-vento",
+      "esta-sol",
+      "esta-frio"
+    ],
+    "promptPl": "Powiedz: „Jest wietrznie.”"
+  },
+  {
+    "id": "w08-l46-e05",
+    "type": "fillGap",
+    "sentencePt": "Hoje ___ muito frio.",
+    "sentencePl": "Dziś jest bardzo zimno.",
+    "options": [
+      "está",
+      "é"
+    ],
+    "answer": "está",
+    "fullItemId": "hoje-esta-muito-frio",
+    "wrongExplanations": {
+      "é": "„é” — cechy stałe (é alto). O pogodzie mówimy: está frio, está calor."
+    },
+    "explanationPl": "Pogoda to stan „teraz” → está.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w08-l46-e06",
+    "type": "fillGap",
+    "sentencePt": "Está ___ chover no Funchal.",
+    "sentencePl": "W Funchal pada deszcz.",
+    "options": [
+      "a",
+      "de"
+    ],
+    "answer": "a",
+    "fullItemId": "esta-a-chover-no-funchal",
+    "wrongExplanations": {
+      "de": "Po „está” w znaczeniu „teraz się dzieje” stoi „a”: está a chover (jak estou a trabalhar)."
+    },
+    "explanationPl": "To, co dzieje się teraz: estar a + bezokolicznik → está a chover.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w08-l46-e07",
+    "type": "buildSentence",
+    "targetItemId": "hoje-esta-sol-e-esta-calor",
+    "tiles": [
+      "Hoje",
+      "está",
+      "sol",
+      "e",
+      "está",
+      "calor"
+    ],
+    "distractors": [
+      "é",
+      "frio"
+    ],
+    "promptPl": "Powiedz: „Dziś jest słonecznie i gorąco.”"
+  },
+  {
+    "id": "w08-l46-e08",
+    "type": "transform",
+    "baseItemId": "hoje-esta-muito-calor",
+    "instructionPl": "Powiedz odwrotnie: dziś jest bardzo zimno.",
+    "targetItemId": "hoje-esta-muito-frio",
+    "tiles": [
+      "Hoje",
+      "está",
+      "muito",
+      "frio"
+    ],
+    "distractors": [
+      "calor",
+      "é"
+    ]
+  },
+  {
+    "id": "w08-l46-e09",
+    "type": "recallSay",
+    "targetItemId": "como-esta-o-tempo-q",
+    "promptPl": "Zapytaj znajomego, jaka jest pogoda."
+  },
+  {
+    "id": "w08-l46-e10",
+    "type": "recallSay",
+    "targetItemId": "esta-a-chover",
+    "promptPl": "Wyglądasz przez okno. Powiedz, że pada deszcz."
+  },
+  {
+    "id": "w08-l46-e11",
+    "type": "typeAnswer",
+    "targetItemId": "esta-frio",
+    "promptPl": "Napisz: „Jest zimno.”"
+  },
+  {
+    "id": "w08-l47-e01",
+    "type": "listenChoose",
+    "targetItemId": "verao",
+    "optionItemIds": [
+      "verao",
+      "inverno",
+      "outono"
+    ],
+    "promptPl": "Posłuchaj. Jaka to pora roku?"
+  },
+  {
+    "id": "w08-l47-e02",
+    "type": "readChoose",
+    "targetItemId": "primavera",
+    "optionItemIds": [
+      "primavera",
+      "verao",
+      "inverno"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l47-e03",
+    "type": "recallChoose",
+    "targetItemId": "outono",
+    "optionItemIds": [
+      "outono",
+      "inverno",
+      "primavera"
+    ],
+    "promptPl": "Wybierz „jesień”."
+  },
+  {
+    "id": "w08-l47-e04",
+    "type": "fillGap",
+    "sentencePt": "___ verão está calor.",
+    "sentencePl": "Latem jest gorąco.",
+    "options": [
+      "No",
+      "Na"
+    ],
+    "answer": "No",
+    "fullItemId": "no-verao-esta-calor",
+    "wrongExplanations": {
+      "Na": "„na” — przed żeńskimi (na primavera)."
+    },
+    "explanationPl": "o verão (męski) → em + o = no.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l47-e05",
+    "type": "fillGap",
+    "sentencePt": "Gosto ___ primavera.",
+    "sentencePl": "Lubię wiosnę.",
+    "options": [
+      "da",
+      "do",
+      "de"
+    ],
+    "answer": "da",
+    "fullItemId": "gosto-da-primavera",
+    "wrongExplanations": {
+      "do": "„do” — przed męskimi (gosto do verão).",
+      "de": "Przed rzeczownikiem z rodzajnikiem (a primavera) de łączy się: da."
+    },
+    "explanationPl": "a primavera → de + a = da.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-l47-e06",
+    "type": "fillGap",
+    "sentencePt": "No inverno ___ muito?",
+    "sentencePl": "Czy zimą dużo pada?",
+    "options": [
+      "chove",
+      "está a chover"
+    ],
+    "answer": "chove",
+    "fullItemId": "no-inverno-chove-muito-q",
+    "wrongExplanations": {
+      "está a chover": "„está a chover” = pada TERAZ. O tym, jak jest zwykle zimą → chove."
+    },
+    "explanationPl": "Ogólnie, zwykle → chove.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w08-l47-e07",
+    "type": "buildSentence",
+    "targetItemId": "na-polonia-no-inverno-esta-muito-frio",
+    "tiles": [
+      "Na",
+      "Polónia",
+      "no",
+      "inverno",
+      "está",
+      "muito",
+      "frio"
+    ],
+    "distractors": [
+      "é",
+      "verão"
+    ],
+    "promptPl": "Powiedz: „W Polsce zimą jest bardzo zimno.”"
+  },
+  {
+    "id": "w08-l47-e08",
+    "type": "transform",
+    "baseItemId": "gosto-muito-do-verao",
+    "instructionPl": "Powiedz krótko, że lubisz WIOSNĘ (bez „muito”).",
+    "targetItemId": "gosto-da-primavera",
+    "tiles": [
+      "Gosto",
+      "da",
+      "primavera"
+    ],
+    "distractors": [
+      "do",
+      "verão"
+    ]
+  },
+  {
+    "id": "w08-l47-e09",
+    "type": "recallSay",
+    "targetItemId": "gosto-muito-do-verao",
+    "promptPl": "Powiedz, że bardzo lubisz lato."
+  },
+  {
+    "id": "w08-l47-e10",
+    "type": "recallSay",
+    "targetItemId": "na-polonia-no-inverno-esta-muito-frio",
+    "promptPl": "Powiedz, że w Polsce zimą jest bardzo zimno."
+  },
+  {
+    "id": "w08-l47-e11",
+    "type": "typeAnswer",
+    "targetItemId": "inverno",
+    "promptPl": "Napisz: „zima”."
+  },
+  {
+    "id": "w08-l48-e01",
+    "type": "listenChoose",
+    "targetItemId": "vou-de-autocarro",
+    "optionItemIds": [
+      "vou-de-autocarro",
+      "vou-a-pe",
+      "vou-de-carro"
+    ],
+    "promptPl": "Posłuchaj. Jak jedzie?"
+  },
+  {
+    "id": "w08-l48-e02",
+    "type": "readChoose",
+    "targetItemId": "onde-fica-a-paragem-q",
+    "optionItemIds": [
+      "onde-fica-a-paragem-q",
+      "cs-este-autocarro-vai-para-o-funchal",
+      "a-paragem-e-ao-lado-do-cafe"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w08-l48-e03",
+    "type": "recallChoose",
+    "targetItemId": "vou-a-pe",
+    "optionItemIds": [
+      "vou-a-pe",
+      "vou-de-autocarro",
+      "vou-para-casa"
+    ],
+    "promptPl": "Powiedz: „Idę pieszo.”"
+  },
+  {
+    "id": "w08-l48-e04",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ autocarro.",
+    "sentencePl": "Jadę autobusem.",
+    "options": [
+      "de",
+      "no",
+      "a"
+    ],
+    "answer": "de",
+    "fullItemId": "vou-de-autocarro",
+    "wrongExplanations": {
+      "no": "„no autocarro” = w autobusie (miejsce). Czym jadę → de autocarro.",
+      "a": "„a” — tylko w „a pé” (pieszo)."
+    },
+    "explanationPl": "Środek transportu: de + pojazd (bez rodzajnika).",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w08-l48-e05",
+    "type": "fillGap",
+    "sentencePt": "Onde ___ a paragem?",
+    "sentencePl": "Gdzie jest przystanek?",
+    "options": [
+      "fica",
+      "vai"
+    ],
+    "answer": "fica",
+    "fullItemId": "onde-fica-a-paragem-q",
+    "wrongExplanations": {
+      "vai": "„vai” = idzie / jedzie."
+    },
+    "explanationPl": "Onde fica…? = gdzie się znajduje (miejsce).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w08-l48-e06",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ pé.",
+    "sentencePl": "Idę pieszo.",
+    "options": [
+      "a",
+      "de"
+    ],
+    "answer": "a",
+    "fullItemId": "vou-a-pe",
+    "wrongExplanations": {
+      "de": "„de” — z pojazdami (de autocarro, de carro). Pieszo → a pé."
+    },
+    "explanationPl": "Pieszo = a pé (wyjątek: nie „de”).",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w08-l48-e07",
+    "type": "buildSentence",
+    "targetItemId": "onde-fica-a-paragem-q",
+    "tiles": [
+      "Onde",
+      "fica",
+      "a",
+      "paragem"
+    ],
+    "distractors": [
+      "o",
+      "vai"
+    ],
+    "promptPl": "Zapytaj, gdzie jest przystanek (z „fica”)."
+  },
+  {
+    "id": "w08-l48-e08",
+    "type": "transform",
+    "baseItemId": "vou-de-autocarro",
+    "instructionPl": "Powiedz, że jedziesz samochodem.",
+    "targetItemId": "vou-de-carro",
+    "tiles": [
+      "Vou",
+      "de",
+      "carro"
+    ],
+    "distractors": [
+      "a",
+      "autocarro"
+    ]
+  },
+  {
+    "id": "w08-l48-e09",
+    "type": "recallSay",
+    "targetItemId": "onde-fica-a-paragem-q",
+    "promptPl": "Zapytaj, gdzie jest przystanek (użyj „fica”)."
+  },
+  {
+    "id": "w08-l48-e10",
+    "type": "recallSay",
+    "targetItemId": "siga-em-frente-e-vire-a-esquerda-e-ao-lado-do-mercado",
+    "promptPl": "Wytłumacz drogę: prosto, potem w lewo; to obok targu."
+  },
+  {
+    "id": "w08-l48-e11",
+    "type": "typeAnswer",
+    "targetItemId": "a-pe",
+    "promptPl": "Napisz: „pieszo”."
+  },
+  {
+    "id": "w08-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "levanto-me-as-seis-e-meia",
+    "optionItemIds": [
+      "levanto-me-as-seis-e-meia",
+      "acordo-as-seis",
+      "a-noite-deito-me-as-onze"
+    ]
+  },
+  {
+    "id": "w08-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "tem-irmaos-q",
+    "optionItemIds": [
+      "tem-irmaos-q",
+      "tem-filhos-q",
+      "como-e-a-sua-casa-q"
+    ]
+  },
+  {
+    "id": "w08-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "quanto-custam-q",
+    "optionItemIds": [
+      "quanto-custam-q",
+      "quanto-custa-q",
+      "quanto-e-q"
+    ]
+  },
+  {
+    "id": "w08-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "a-esquerda",
+    "optionItemIds": [
+      "a-esquerda",
+      "a-direita",
+      "em-frente"
+    ]
+  },
+  {
+    "id": "w08-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "esta-a-chover",
+    "optionItemIds": [
+      "esta-a-chover",
+      "esta-sol",
+      "esta-frio"
+    ]
+  },
+  {
+    "id": "w08-t-e06",
+    "type": "listenChoose",
+    "targetItemId": "o-proximo-parte-as-dez-e-meia",
+    "optionItemIds": [
+      "o-proximo-parte-as-dez-e-meia",
+      "sao-tres-e-meia",
+      "levanto-me-as-seis-e-meia"
+    ]
+  },
+  {
+    "id": "w08-t-e07",
+    "type": "readChoose",
+    "targetItemId": "estou-a-trabalhar",
+    "optionItemIds": [
+      "estou-a-trabalhar",
+      "trabalho-aqui",
+      "o-rui-esta-a-trabalhar"
+    ]
+  },
+  {
+    "id": "w08-t-e08",
+    "type": "readChoose",
+    "targetItemId": "mais-velho",
+    "optionItemIds": [
+      "mais-velho",
+      "mais-novo",
+      "velho"
+    ]
+  },
+  {
+    "id": "w08-t-e09",
+    "type": "readChoose",
+    "targetItemId": "cs-so-estou-a-ver-obrigado",
+    "optionItemIds": [
+      "cs-so-estou-a-ver-obrigado",
+      "cs-e-tudo-obrigado",
+      "aqui-esta"
+    ]
+  },
+  {
+    "id": "w08-t-e10",
+    "type": "readChoose",
+    "targetItemId": "perto",
+    "optionItemIds": [
+      "perto",
+      "longe",
+      "ao-lado-de"
+    ]
+  },
+  {
+    "id": "w08-t-e11",
+    "type": "readChoose",
+    "targetItemId": "paragem",
+    "optionItemIds": [
+      "paragem",
+      "bilhete",
+      "autocarro"
+    ]
+  },
+  {
+    "id": "w08-t-e12",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ sempre em casa.",
+    "sentencePl": "My zawsze jemy w domu.",
+    "options": [
+      "comemos",
+      "come",
+      "comem"
+    ],
+    "answer": "comemos",
+    "fullItemId": "nos-comemos-sempre-em-casa",
+    "wrongExplanations": {
+      "come": "„come” — on / ona / Pan / Pani.",
+      "comem": "„comem” — oni / one / Państwo."
+    },
+    "explanationPl": "nós → -emos: comemos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w08-t-e13",
+    "type": "fillGap",
+    "sentencePt": "Estou ___ trabalhar.",
+    "sentencePl": "Pracuję (teraz).",
+    "options": [
+      "a",
+      "de"
+    ],
+    "answer": "a",
+    "fullItemId": "estou-a-trabalhar",
+    "wrongExplanations": {
+      "de": "W pt-PT: estou a trabalhar."
+    },
+    "explanationPl": "Teraz: estar a + bezokolicznik.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w08-t-e14",
+    "type": "fillGap",
+    "sentencePt": "A Marta ___ alta e simpática.",
+    "sentencePl": "Marta jest wysoka i miła.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "fullItemId": "a-marta-e-alta-e-simpatica",
+    "wrongExplanations": {
+      "está": "„está” — stan chwilowy albo pogoda."
+    },
+    "explanationPl": "Cechy stałe → é.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w08-t-e15",
+    "type": "fillGap",
+    "sentencePt": "Os ___ pais moram na Polónia.",
+    "sentencePl": "Moi rodzice mieszkają w Polsce.",
+    "options": [
+      "meus",
+      "minhas"
+    ],
+    "answer": "meus",
+    "fullItemId": "os-meus-pais-moram-na-polonia",
+    "wrongExplanations": {
+      "minhas": "„minhas” — żeński l.mn. (as minhas irmãs)."
+    },
+    "explanationPl": "os pais → os meus.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-t-e16",
+    "type": "fillGap",
+    "sentencePt": "Mais ___ água, se faz favor.",
+    "sentencePl": "Jeszcze jedną wodę, proszę.",
+    "options": [
+      "uma",
+      "um"
+    ],
+    "answer": "uma",
+    "fullItemId": "mais-uma-agua-sfv",
+    "wrongExplanations": {
+      "um": "„um” — przed męskimi (mais um café)."
+    },
+    "explanationPl": "a água → mais uma.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w08-t-e17",
+    "type": "fillGap",
+    "sentencePt": "Hoje ___ frio.",
+    "sentencePl": "Dziś jest zimno.",
+    "options": [
+      "está",
+      "é"
+    ],
+    "answer": "está",
+    "wrongExplanations": {
+      "é": "„é” — cechy stałe. O pogodzie: está frio."
+    },
+    "explanationPl": "Pogoda → está.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w08-t-e18",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ autocarro.",
+    "sentencePl": "Jadę autobusem.",
+    "options": [
+      "de",
+      "no"
+    ],
+    "answer": "de",
+    "fullItemId": "vou-de-autocarro",
+    "wrongExplanations": {
+      "no": "„no autocarro” = w autobusie (miejsce)."
+    },
+    "explanationPl": "Czym jadę → de + pojazd.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w08-t-e19",
+    "type": "buildSentence",
+    "targetItemId": "vire-na-primeira-rua-a-esquerda",
+    "tiles": [
+      "Vire",
+      "na",
+      "primeira",
+      "rua",
+      "à",
+      "esquerda"
+    ],
+    "distractors": [
+      "primeiro",
+      "no"
+    ],
+    "promptPl": "Powiedz: „Proszę skręcić w pierwszą ulicę w lewo.”"
+  },
+  {
+    "id": "w08-t-e20",
+    "type": "transform",
+    "baseItemId": "queria-um-cafe-sfv",
+    "instructionPl": "Zamów galão zamiast kawy.",
+    "targetItemId": "queria-um-galao-sfv",
+    "tiles": [
+      "Queria",
+      "um",
+      "galão",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "uma",
+      "café"
+    ]
+  },
+  {
+    "id": "w08-t-e21",
+    "type": "typeAnswer",
+    "targetItemId": "autocarro",
+    "promptPl": "Napisz: „autobus”."
+  },
+  {
+    "id": "w08-t-e22",
+    "type": "typeAnswer",
+    "targetItemId": "casa-de-banho",
+    "promptPl": "Napisz: „łazienka”."
+  },
+  {
+    "id": "w08-t-e23",
+    "type": "recallChoose",
+    "targetItemId": "ha-uma-farmacia-aqui-perto-q",
+    "optionItemIds": [
+      "ha-uma-farmacia-aqui-perto-q",
+      "onde-fica-a-farmacia-q",
+      "a-farmacia-e-ao-lado-do-banco"
+    ],
+    "promptPl": "Zapytaj, czy w pobliżu JEST jakaś apteka."
+  },
+  {
+    "id": "w08-t-e24",
+    "type": "recallChoose",
+    "targetItemId": "o-que-esta-a-fazer-q",
+    "optionItemIds": [
+      "o-que-esta-a-fazer-q",
+      "o-que-estas-a-fazer-q",
+      "como-esta"
+    ],
+    "promptPl": "Zapytaj grzecznie (Pan/Pani), co ktoś teraz robi."
+  }
+]

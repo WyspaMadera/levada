@@ -1,0 +1,2104 @@
+[
+  {
+    "id": "grande",
+    "kind": "word",
+    "pt": "grande",
+    "pl": "duży, duża",
+    "pronunciation": {
+      "plSlow": "GRÃ-dy",
+      "plNatural": "GRÃD(y)",
+      "ipa": "ˈɡɾɐ̃dɨ",
+      "notePl": "an przed d = nosowe ã. Jedna forma dla obu rodzajów: o carro grande, a casa grande.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pequeno",
+    "kind": "word",
+    "pt": "pequeno",
+    "ptFem": "pequena",
+    "pl": "mały",
+    "plFem": "mała",
+    "pronunciation": {
+      "plSlow": "py-KÊ-nu",
+      "ipa": "pɨˈkenu",
+      "notePl": "Pierwsze e zredukowane (y), akcentowane ê zamknięte.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "py-KÊ-nă",
+      "ipa": "pɨˈkenɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bonito",
+    "kind": "word",
+    "pt": "bonito",
+    "ptFem": "bonita",
+    "pl": "ładny",
+    "plFem": "ładna",
+    "pronunciation": {
+      "plSlow": "bu-NI-tu",
+      "ipa": "buˈnitu",
+      "notePl": "Nieakcentowane o → u.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "bu-NI-tă",
+      "ipa": "buˈnitɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "novo",
+    "kind": "word",
+    "pt": "novo",
+    "ptFem": "nova",
+    "pl": "nowy",
+    "plFem": "nowa",
+    "pronunciation": {
+      "plSlow": "NÔ-wu",
+      "ipa": "ˈnovu",
+      "notePl": "Uwaga: novo ma zamknięte ô, a nova, novos, novas — otwarte o („NO-wă”, „NO-wusz”). Podobnie jak ele / ela.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NO-wă",
+      "ipa": "ˈnɔvɐ",
+      "notePl": "Otwarte o — inaczej niż w „novo”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "przymiotniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-carros-as-casas",
+    "kind": "phrase",
+    "pt": "os carros, as casas",
+    "pl": "(te) samochody, (te) domy",
+    "pronunciation": {
+      "plSlow": "usz KA-rrusz, ăsz KA-zăsz",
+      "ipa": "uʃ ˈkaʁuʃ ɐʃ ˈkazɐʃ",
+      "notePl": "Rodzajniki w liczbie mnogiej: os = „usz”, as = „ăsz”. Końcowe -s = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "rodzajniki",
+      "liczba-mnoga"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-casa-e-grande",
+    "kind": "sentence",
+    "pt": "A casa é grande.",
+    "pl": "Dom jest duży.",
+    "pronunciation": {
+      "plSlow": "ă KA-ză E GRÃ-dy.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-casas-sao-grandes",
+    "kind": "sentence",
+    "pt": "As casas são grandes.",
+    "pl": "Domy są duże.",
+    "pronunciation": {
+      "plSlow": "ăsz KA-zăsz SÃU GRÃ-dysz.",
+      "notePl": "Liczba mnoga: casa → casas, grande → grandes, é → são.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczba-mnoga"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-carro-e-novo",
+    "kind": "sentence",
+    "pt": "O carro é novo.",
+    "pl": "Samochód jest nowy.",
+    "pronunciation": {
+      "plSlow": "u KA-rru E NÔ-wu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-casa-e-nova",
+    "kind": "sentence",
+    "pt": "A casa é nova.",
+    "pl": "Dom jest nowy.",
+    "pronunciation": {
+      "plSlow": "ă KA-ză E NO-wă.",
+      "notePl": "casa jest żeńska → nova (z otwartym o).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-um-carro-pequeno",
+    "kind": "sentence",
+    "pt": "Tenho um carro pequeno.",
+    "pl": "Mam mały samochód.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ũ KA-rru py-KÊ-nu.",
+      "plNatural": "TĂ-ńu‿ũ KA-rru py-KÊ-nu.",
+      "notePl": "Przymiotnik stoi PO rzeczowniku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma-mesa-grande",
+    "kind": "phrase",
+    "pt": "uma mesa grande",
+    "pl": "duży stół",
+    "pronunciation": {
+      "plSlow": "U-mă MÊ-ză GRÃ-dy",
+      "notePl": "a mesa jest żeńska (po polsku „stół” — męski).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tens-uma-casa-nova-q",
+    "kind": "sentence",
+    "pt": "Tens uma casa nova?",
+    "pl": "Masz nowy dom?",
+    "pronunciation": {
+      "plSlow": "TÃJZ U-mă KA-ză NO-wă?",
+      "plNatural": "TÃJ‿ZU-mă KA-ză NO-wă?",
+      "notePl": "„casa” to też mieszkanie — po prostu „dom, miejsce, gdzie mieszkam”. s przed samogłoską → z.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-mas-e-pequena",
+    "kind": "sentence",
+    "pt": "Sim, mas é pequena.",
+    "pl": "Tak, ale jest mały.",
+    "pronunciation": {
+      "plSlow": "SĨ, măz E py-KÊ-nă.",
+      "plNatural": "SĨ, mă‿ZE py-KÊ-nă.",
+      "notePl": "Mówimy o casa (żeńska) → pequena.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-bonita-q",
+    "kind": "sentence",
+    "pt": "É bonita?",
+    "pl": "Jest ładny?",
+    "pronunciation": {
+      "plSlow": "E bu-NI-tă?",
+      "notePl": "O domu (a casa) → bonita.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-muito-bonita",
+    "kind": "sentence",
+    "pt": "É muito bonita!",
+    "pl": "Jest bardzo ładny!",
+    "pronunciation": {
+      "plSlow": "E MŨJ-tu bu-NI-tă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-carro-e-novo-q",
+    "kind": "sentence",
+    "pt": "E o carro? É novo?",
+    "pl": "A samochód? Jest nowy?",
+    "pronunciation": {
+      "plSlow": "i u KA-rru? E NÔ-wu?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-o-carro-nao-e-novo",
+    "kind": "sentence",
+    "pt": "Não, o carro não é novo.",
+    "pl": "Nie, samochód nie jest nowy.",
+    "pronunciation": {
+      "plSlow": "NÃU, u KA-rru NÃU E NÔ-wu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer",
+    "kind": "word",
+    "pt": "querer",
+    "pl": "chcieć",
+    "pronunciation": {
+      "plSlow": "ky-RÊR",
+      "ipa": "kɨˈɾeɾ",
+      "notePl": "Bezokolicznik. Pierwsze e zredukowane (y), akcentowane ê zamknięte.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer-quero",
+    "kind": "sentence",
+    "pt": "quero",
+    "pl": "(ja) chcę",
+    "pronunciation": {
+      "plSlow": "KE-ru",
+      "ipa": "ˈkɛɾu",
+      "notePl": "Otwarte e — jak polskie. r pojedyncze: jedno uderzenie języka.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer-queres",
+    "kind": "sentence",
+    "pt": "queres",
+    "pl": "(ty) chcesz",
+    "pronunciation": {
+      "plSlow": "KE-rysz",
+      "ipa": "ˈkɛɾɨʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer-quer",
+    "kind": "sentence",
+    "pt": "quer",
+    "pl": "(on/ona/Pan/Pani) chce",
+    "pronunciation": {
+      "plSlow": "KER",
+      "ipa": "kɛɾ",
+      "notePl": "Jedna sylaba, otwarte e. Forma bez końcówki — nieregularna.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer-queremos",
+    "kind": "sentence",
+    "pt": "queremos",
+    "pl": "(my) chcemy",
+    "pronunciation": {
+      "plSlow": "ky-RÊ-musz",
+      "ipa": "kɨˈɾemuʃ",
+      "notePl": "Akcent na „RÊ” (zamknięte ê), więc pierwsze e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "querer-querem",
+    "kind": "sentence",
+    "pt": "querem",
+    "pl": "(oni/wy/Państwo) chcą",
+    "pronunciation": {
+      "plSlow": "KE-rãj",
+      "ipa": "ˈkɛɾɐ̃j̃",
+      "notePl": "Końcówka -em = nosowe „ãj” (jak w „bem”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria",
+    "kind": "word",
+    "pt": "queria",
+    "pl": "chciałbym / chciałabym (grzecznie)",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă",
+      "ipa": "kɨˈɾiɐ",
+      "notePl": "Trzy sylaby: ky-RI-ă — i oraz a wymawiane osobno.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer",
+      "grzecznosc"
+    ],
+    "usagePl": "Grzeczna formuła przy ladzie, w sklepie, w urzędzie: Queria um café, se faz favor. Ta sama forma dla mężczyzny i kobiety.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "agua",
+    "kind": "word",
+    "pt": "água",
+    "pl": "woda",
+    "pronunciation": {
+      "plSlow": "A-guă",
+      "ipa": "ˈaɣwɐ",
+      "notePl": "Akcent na pierwszej sylabie. „gua” = jedna sylaba, g miękkie (prawie bez zwarcia).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "usagePl": "a água (rodzaj żeński). W kawiarni „uma água” = butelka/szklanka wody.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quero-um-cafe",
+    "kind": "sentence",
+    "pt": "Quero um café.",
+    "pl": "Chcę kawę.",
+    "pronunciation": {
+      "plSlow": "KE-ru ũ kă-FE.",
+      "plNatural": "KE-ru‿ũ kă-FE.",
+      "notePl": "Poprawne, ale przy ladzie brzmi dość bezpośrednio — grzeczniej: Queria…",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-um-cha-sfv",
+    "kind": "sentence",
+    "pt": "Queria um chá, se faz favor.",
+    "pl": "Poproszę herbatę. (Chciałbym/Chciałabym herbatę.)",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ũ SZA, sy FASZ fă-WÔR.",
+      "plNatural": "ky-RI-ă‿ũ SZA, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Queria um café, se faz favor.",
+    "pl": "Poproszę kawę. (Chciałbym/Chciałabym kawę.)",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ũ kă-FE, sy FASZ fă-WÔR.",
+      "plNatural": "ky-RI-ă‿ũ kă-FE, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quer-uma-agua-q",
+    "kind": "sentence",
+    "pt": "Quer uma água?",
+    "pl": "Chce Pan/Pani wody?",
+    "pronunciation": {
+      "plSlow": "KER U-mă A-guă?",
+      "plNatural": "KE‿RU-mă A-guă?",
+      "notePl": "r z „quer” łączy się z następnym słowem: „ke-RU-mă”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-quero-obrigado",
+    "kind": "sentence",
+    "pt": "Não quero, obrigado.",
+    "ptFem": "Não quero, obrigada.",
+    "pl": "Nie chcę, dziękuję.",
+    "pronunciation": {
+      "plSlow": "NÃU KE-ru, o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU KE-ru, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queremos-dois-cafes",
+    "kind": "sentence",
+    "pt": "Queremos dois cafés.",
+    "pl": "Chcemy dwie kawy.",
+    "pronunciation": {
+      "plSlow": "ky-RÊ-muż DÔJSZ kă-FESZ.",
+      "plNatural": "ky-RÊ-muż DÔJSZ kă-FESZ.",
+      "notePl": "s przed dźwięcznym d → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queres-um-cha-q",
+    "kind": "sentence",
+    "pt": "Queres um chá?",
+    "pl": "Chcesz herbaty?",
+    "pronunciation": {
+      "plSlow": "KE-ryz ũ SZA?",
+      "plNatural": "KE-ry‿zũ SZA?",
+      "notePl": "s przed samogłoską → z: „ke-ry-zũ”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "querer"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-queres-um-cafe-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Queres um café?",
+    "pl": "Dzień dobry! Chcesz kawę?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! KE-ryz ũ kă-FE?",
+      "plNatural": "BÕ DI-ă! KE-ry‿zũ kă-FE?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-obrigado-queria-um-cha-sfv",
+    "kind": "sentence",
+    "pt": "Não, obrigado. Queria um chá, se faz favor.",
+    "ptFem": "Não, obrigada. Queria um chá, se faz favor.",
+    "pl": "Nie, dziękuję. Poproszę herbatę.",
+    "pronunciation": {
+      "plSlow": "NÃU, o-bri-GA-du. ky-RI-ă ũ SZA, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, o-bri-GA-dă. ky-RI-ă ũ SZA, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-cha-e-queres-uma-agua-q",
+    "kind": "sentence",
+    "pt": "Um chá. E queres uma água?",
+    "pl": "Herbata. A chcesz wodę?",
+    "pronunciation": {
+      "plSlow": "ũ SZA. i KE-ryz U-mă A-guă?",
+      "plNatural": "ũ SZA. i KE-ry‿ZU-mă A-guă?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-sfv-tenho-sede",
+    "kind": "sentence",
+    "pt": "Sim, se faz favor. Tenho sede.",
+    "pl": "Tak, poproszę. Chce mi się pić.",
+    "pronunciation": {
+      "plSlow": "SĨ, sy FASZ fă-WÔR. TĂ-ńu SÊ-dy.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-um-cha-e-uma-agua",
+    "kind": "sentence",
+    "pt": "Muito bem. Um chá e uma água.",
+    "pl": "Dobrze. Herbata i woda.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ. ũ SZA i U-mă A-guă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poder-posso",
+    "kind": "sentence",
+    "pt": "posso",
+    "pl": "(ja) mogę",
+    "pronunciation": {
+      "plSlow": "PO-su",
+      "ipa": "ˈpɔsu",
+      "notePl": "Otwarte o; ss = zawsze s.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poder-podes",
+    "kind": "sentence",
+    "pt": "podes",
+    "pl": "(ty) możesz",
+    "pronunciation": {
+      "plSlow": "PO-dysz",
+      "ipa": "ˈpɔðɨʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poder-podemos",
+    "kind": "sentence",
+    "pt": "podemos",
+    "pl": "(my) możemy",
+    "pronunciation": {
+      "plSlow": "pu-DÊ-musz",
+      "ipa": "puˈðemuʃ",
+      "notePl": "Akcent na „DÊ” (zamknięte ê), więc pierwsze o → u.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poder-podem",
+    "kind": "sentence",
+    "pt": "podem",
+    "pl": "(oni/wy/Państwo) mogą",
+    "pronunciation": {
+      "plSlow": "PO-dãj",
+      "ipa": "ˈpɔðɐ̃j̃",
+      "notePl": "Końcówka -em = nosowe „ãj”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podia",
+    "kind": "word",
+    "pt": "podia",
+    "pl": "czy mógłby Pan / mogłaby Pani…? (grzecznie)",
+    "pronunciation": {
+      "plSlow": "pu-DI-ă",
+      "ipa": "puˈðiɐ",
+      "notePl": "Trzy sylaby: pu-DI-ă. Pierwsze o nieakcentowane → u.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder",
+      "grzecznosc"
+    ],
+    "usagePl": "Grzeczniejsze niż „pode”: Podia ajudar-me? — Czy mógłby Pan mi pomóc? Gotowa formuła (gramatykę poznasz później).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ajudar",
+    "kind": "word",
+    "pt": "ajudar",
+    "pl": "pomóc, pomagać",
+    "pronunciation": {
+      "plSlow": "ă-żu-DAR",
+      "ipa": "ɐʒuˈðaɾ",
+      "notePl": "j = ż. Akcent na końcu (bezokolicznik na -ar).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "entrar",
+    "kind": "word",
+    "pt": "entrar",
+    "pl": "wejść, wchodzić",
+    "pronunciation": {
+      "plSlow": "ẽ-TRAR",
+      "ipa": "ẽˈtɾaɾ",
+      "notePl": "en na początku = nosowe ẽ (bez n). tr — pojedyncze r.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "posso-entrar-q",
+    "kind": "sentence",
+    "pt": "Posso entrar?",
+    "pl": "Czy mogę wejść?",
+    "pronunciation": {
+      "plSlow": "PO-su ẽ-TRAR?",
+      "plNatural": "PO-su‿ẽ-TRAR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ajudar-me-q",
+    "kind": "sentence",
+    "pt": "Pode ajudar-me?",
+    "pl": "Czy może mi Pan/Pani pomóc?",
+    "pronunciation": {
+      "plSlow": "PO-dy ă-żu-DAR-my?",
+      "plNatural": "PO-d(y)‿ă-żu-DAR-m(y)?",
+      "notePl": "Zaimek „me” (mi) stoi PO czasowniku, z łącznikiem — jak w chamo-me.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podia-ajudar-me-sfv-q",
+    "kind": "sentence",
+    "pt": "Podia ajudar-me, se faz favor?",
+    "pl": "Czy mógłby Pan / mogłaby Pani mi pomóc?",
+    "pronunciation": {
+      "plSlow": "pu-DI-ă ă-żu-DAR-my, sy FASZ fă-WÔR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder",
+      "grzecznosc"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podes-repetir-q",
+    "kind": "sentence",
+    "pt": "Podes repetir?",
+    "pl": "Możesz powtórzyć?",
+    "pronunciation": {
+      "plSlow": "PO-dyż rry-py-TIR?",
+      "plNatural": "PO-dyż rry-py-TIR?",
+      "notePl": "s przed mocnym r (dźwięcznym) → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-posso",
+    "kind": "sentence",
+    "pt": "Não posso.",
+    "pl": "Nie mogę.",
+    "pronunciation": {
+      "plSlow": "NÃU PO-su.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podemos-entrar-q",
+    "kind": "sentence",
+    "pt": "Podemos entrar?",
+    "pl": "Czy możemy wejść?",
+    "pronunciation": {
+      "plSlow": "pu-DÊ-muz ẽ-TRAR?",
+      "plNatural": "pu-DÊ-mu‿zẽ-TRAR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-posso-entrar-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Posso entrar?",
+    "pl": "Dzień dobry! Czy mogę wejść?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! PO-su ẽ-TRAR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-sim-pode",
+    "kind": "sentence",
+    "pt": "Bom dia! Sim, pode.",
+    "pl": "Dzień dobry! Tak, proszę. (Tak, może Pan.)",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! SĨ, PO-dy.",
+      "notePl": "Odpowiedź przez powtórzenie czasownika: Posso? — Pode.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-tenho-uma-pergunta-pode-ajudar-me-q",
+    "kind": "sentence",
+    "pt": "Desculpe, tenho uma pergunta. Pode ajudar-me?",
+    "pl": "Przepraszam, mam pytanie. Może mi Pani pomóc?",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, TĂ-ńu U-mă pyr-GŨ-tă. PO-dy ă-żu-DAR-my?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "posso-sim",
+    "kind": "sentence",
+    "pt": "Posso, sim.",
+    "pl": "Tak, mogę.",
+    "pronunciation": {
+      "plSlow": "PO-su, SĨ.",
+      "notePl": "Bardzo portugalska odpowiedź: najpierw czasownik, potem „sim”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "poder"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisar-preciso",
+    "kind": "sentence",
+    "pt": "preciso",
+    "pl": "(ja) potrzebuję",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu",
+      "ipa": "pɾɨˈsizu",
+      "notePl": "Pierwsze e prawie znika („pr-SI-zu”). s między samogłoskami = z. Po nim zawsze „de”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisar-precisas",
+    "kind": "sentence",
+    "pt": "precisas",
+    "pl": "(ty) potrzebujesz",
+    "pronunciation": {
+      "plSlow": "pry-SI-zăsz",
+      "ipa": "pɾɨˈsizɐʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisar-precisa",
+    "kind": "sentence",
+    "pt": "precisa",
+    "pl": "(on/ona/Pan/Pani) potrzebuje",
+    "pronunciation": {
+      "plSlow": "pry-SI-ză",
+      "ipa": "pɾɨˈsizɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ajuda",
+    "kind": "word",
+    "pt": "ajuda",
+    "pl": "pomoc",
+    "pronunciation": {
+      "plSlow": "ă-ŻU-dă",
+      "ipa": "ɐˈʒuðɐ",
+      "notePl": "j = ż. a ajuda — rodzaj żeński.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "telemovel",
+    "kind": "word",
+    "pt": "telemóvel",
+    "pl": "telefon komórkowy",
+    "pronunciation": {
+      "plSlow": "te-le-MO-weɫ",
+      "ipa": "tɛlɛˈmɔvɛɫ",
+      "notePl": "Słowo typowe dla Portugalii (w Brazylii: celular). Końcowe l = ciemne ɫ, nie „ł”. Jakość dwóch pierwszych samogłosek (e / y) różni się w źródłach — słuchaj nagrania.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "usagePl": "o telemóvel — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "medico",
+    "kind": "word",
+    "pt": "médico",
+    "ptFem": "médica",
+    "pl": "lekarz",
+    "plFem": "lekarka",
+    "pronunciation": {
+      "plSlow": "ME-di-ku",
+      "ipa": "ˈmɛðiku",
+      "notePl": "Akcent na pierwszej sylabie (é = otwarte e).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ME-di-kă",
+      "ipa": "ˈmɛðikɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zdrowie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "do",
+    "kind": "word",
+    "pt": "do",
+    "pl": "(de + o) z, od; tego (r. męski)",
+    "pronunciation": {
+      "plSlow": "du",
+      "ipa": "du",
+      "notePl": "de + o = do. Zawsze się ściąga. Wymowa: krótkie „du”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "sciagniecia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "da",
+    "kind": "word",
+    "pt": "da",
+    "pl": "(de + a) z, od; tej (r. żeński)",
+    "pronunciation": {
+      "plSlow": "dă",
+      "ipa": "dɐ",
+      "notePl": "de + a = da. Znasz to z „Sou da Polónia”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "sciagniecia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "preciso-de-ajuda",
+    "kind": "sentence",
+    "pt": "Preciso de ajuda.",
+    "pl": "Potrzebuję pomocy.",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu dy ă-ŻU-dă.",
+      "plNatural": "pry-SI-zu dă-ŻU-dă.",
+      "notePl": "W mowie naturalnej „de ajuda” zlewa się: „dă-ŻU-dă”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "preciso-do-telemovel",
+    "kind": "sentence",
+    "pt": "Preciso do telemóvel.",
+    "pl": "Potrzebuję (mojego) telefonu.",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu du te-le-MO-weɫ.",
+      "notePl": "do = de + o (o telemóvel — ten konkretny, mój).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "preciso-de-um-medico",
+    "kind": "sentence",
+    "pt": "Preciso de um médico.",
+    "pl": "Potrzebuję lekarza.",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu dy ũ ME-di-ku.",
+      "plNatural": "pry-SI-zu dũ ME-di-ku.",
+      "notePl": "„de um” piszemy osobno; w mowie zlewa się w „dũ”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar",
+      "zdrowie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisa-de-ajuda-q",
+    "kind": "sentence",
+    "pt": "Precisa de ajuda?",
+    "pl": "Czy potrzebuje Pan/Pani pomocy?",
+    "pronunciation": {
+      "plSlow": "pry-SI-ză dy ă-ŻU-dă?",
+      "plNatural": "pry-SI-ză dă-ŻU-dă?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisas-da-mesa-q",
+    "kind": "sentence",
+    "pt": "Precisas da mesa?",
+    "pl": "Potrzebujesz (tego) stołu?",
+    "pronunciation": {
+      "plSlow": "pry-SI-zăż dă MÊ-ză?",
+      "plNatural": "pry-SI-zăż dă MÊ-ză?",
+      "notePl": "da = de + a (a mesa). s przed d → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-desculpe-preciso-de-ajuda",
+    "kind": "sentence",
+    "pt": "Boa tarde! Desculpe, preciso de ajuda.",
+    "pl": "Dzień dobry! Przepraszam, potrzebuję pomocy.",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! dysz-KUɫ-py, pry-SI-zu dy ă-ŻU-dă.",
+      "plNatural": "BÔ-ă TAR-dy! dysz-KUɫ-py, pry-SI-zu dă-ŻU-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-de-que-precisa-q",
+    "kind": "sentence",
+    "pt": "Sim? De que precisa?",
+    "pl": "Tak? Czego Pan potrzebuje?",
+    "pronunciation": {
+      "plSlow": "SĨ? dy ky pry-SI-ză?",
+      "notePl": "„de” idzie na początek pytania: De que precisa? (dosł. „Czego potrzebuje?”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "preciso-do-telemovel-esta-aqui-q",
+    "kind": "sentence",
+    "pt": "Preciso do telemóvel. Está aqui?",
+    "pl": "Potrzebuję (swojego) telefonu. Jest tutaj?",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu du te-le-MO-weɫ. ysz-TA ă-KI?",
+      "plNatural": "pry-SI-zu du te-le-MO-weɫ. SZTA‿ă-KI?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "precisar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-telemovel-sim-esta-aqui-na-mesa",
+    "kind": "sentence",
+    "pt": "O telemóvel? Sim, está aqui, na mesa.",
+    "pl": "Telefon? Tak, jest tutaj, na stole.",
+    "pronunciation": {
+      "plSlow": "u te-le-MO-weɫ? SĨ, ysz-TA ă-KI, nă MÊ-ză.",
+      "plNatural": "u te-le-MO-weɫ? SĨ, SZTA‿ă-KI, nă MÊ-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onze",
+    "kind": "word",
+    "pt": "onze",
+    "pl": "jedenaście",
+    "pronunciation": {
+      "plSlow": "Õ-zy",
+      "ipa": "ˈõzɨ",
+      "notePl": "Nosowe õ (bez n), końcowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "doze",
+    "kind": "word",
+    "pt": "doze",
+    "pl": "dwanaście",
+    "pronunciation": {
+      "plSlow": "DÔ-zy",
+      "ipa": "ˈdozɨ",
+      "notePl": "Zamknięte ô. Nie myl z „dois” (2).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "treze",
+    "kind": "word",
+    "pt": "treze",
+    "pl": "trzynaście",
+    "pronunciation": {
+      "plSlow": "TRÊ-zy",
+      "ipa": "ˈtɾezɨ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "catorze",
+    "kind": "word",
+    "pt": "catorze",
+    "pl": "czternaście",
+    "pronunciation": {
+      "plSlow": "kă-TÔR-zy",
+      "ipa": "kɐˈtoɾzɨ",
+      "notePl": "Pisownia portugalska: catorze. Nie myl z „quarenta” (40)!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quinze",
+    "kind": "word",
+    "pt": "quinze",
+    "pl": "piętnaście",
+    "pronunciation": {
+      "plSlow": "KĨ-zy",
+      "ipa": "ˈkĩzɨ",
+      "notePl": "qu przed i = k. Nie myl z „cinquenta” (50).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezasseis",
+    "kind": "word",
+    "pt": "dezasseis",
+    "pl": "szesnaście",
+    "pronunciation": {
+      "plSlow": "dy-ză-SĂJSZ",
+      "ipa": "dɨzɐˈsɐjʃ",
+      "notePl": "Pisownia PT: dezasseis (w Brazylii: dezesseis). ei = ăj (norma lizbońska); wariant „SEJSZ” też słyszany.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezassete",
+    "kind": "word",
+    "pt": "dezassete",
+    "pl": "siedemnaście",
+    "pronunciation": {
+      "plSlow": "dy-ză-SE-ty",
+      "ipa": "dɨzɐˈsɛtɨ",
+      "notePl": "Pisownia PT: dezassete (BR: dezessete). Otwarte e jak w „sete”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezoito",
+    "kind": "word",
+    "pt": "dezoito",
+    "pl": "osiemnaście",
+    "pronunciation": {
+      "plSlow": "dy-ZÔJ-tu",
+      "ipa": "dɨˈzojtu",
+      "notePl": "dez + oito, czytane razem: „dy-ZÔJ-tu”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezanove",
+    "kind": "word",
+    "pt": "dezanove",
+    "pl": "dziewiętnaście",
+    "pronunciation": {
+      "plSlow": "dy-ză-NO-wy",
+      "ipa": "dɨzɐˈnɔvɨ",
+      "notePl": "Pisownia PT: dezanove (BR: dezenove). Otwarte o jak w „nove”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vinte",
+    "kind": "word",
+    "pt": "vinte",
+    "pl": "dwadzieścia",
+    "pronunciation": {
+      "plSlow": "WĨ-ty",
+      "plNatural": "WĨT(y)",
+      "ipa": "ˈvĩtɨ",
+      "notePl": "Nosowe ĩ, końcowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trinta",
+    "kind": "word",
+    "pt": "trinta",
+    "pl": "trzydzieści",
+    "pronunciation": {
+      "plSlow": "TRĨ-tă",
+      "ipa": "ˈtɾĩtɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quarenta",
+    "kind": "word",
+    "pt": "quarenta",
+    "pl": "czterdzieści",
+    "pronunciation": {
+      "plSlow": "kuă-RẼ-tă",
+      "ipa": "kwɐˈɾẽtɐ",
+      "notePl": "qua = „kuă” (jedna sylaba). Nie myl z „catorze” (14).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cinquenta",
+    "kind": "word",
+    "pt": "cinquenta",
+    "pl": "pięćdziesiąt",
+    "pronunciation": {
+      "plSlow": "sĩ-KUẼ-tă",
+      "ipa": "sĩˈkwẽtɐ",
+      "notePl": "Tu „qu” czytamy „ku” — u jest słyszalne.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sessenta",
+    "kind": "word",
+    "pt": "sessenta",
+    "pl": "sześćdziesiąt",
+    "pronunciation": {
+      "plSlow": "sy-SẼ-tă",
+      "ipa": "sɨˈsẽtɐ",
+      "notePl": "Nie myl: sessenta (60) i setenta (70).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "setenta",
+    "kind": "word",
+    "pt": "setenta",
+    "pl": "siedemdziesiąt",
+    "pronunciation": {
+      "plSlow": "sy-TẼ-tă",
+      "ipa": "sɨˈtẽtɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "oitenta",
+    "kind": "word",
+    "pt": "oitenta",
+    "pl": "osiemdziesiąt",
+    "pronunciation": {
+      "plSlow": "ôj-TẼ-tă",
+      "ipa": "ojˈtẽtɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "noventa",
+    "kind": "word",
+    "pt": "noventa",
+    "pl": "dziewięćdziesiąt",
+    "pronunciation": {
+      "plSlow": "nu-WẼ-tă",
+      "ipa": "nuˈvẽtɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cem",
+    "kind": "word",
+    "pt": "cem",
+    "pl": "sto",
+    "pronunciation": {
+      "plSlow": "SÃJ",
+      "ipa": "sɐ̃j̃",
+      "notePl": "Brzmi jak „sem”: nosowe ãj. Dokładnie 100 (101 i dalej — później).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezenas-30-100",
+    "kind": "phrase",
+    "pt": "trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem",
+    "pl": "30, 40, 50, 60, 70, 80, 90, 100",
+    "pronunciation": {
+      "plSlow": "TRĨ-tă, kuă-RẼ-tă, sĩ-KUẼ-tă, sy-SẼ-tă, sy-TẼ-tă, ôj-TẼ-tă, nu-WẼ-tă, SÃJ",
+      "notePl": "Dziesiątki — ucz się ich jako ciągu. Wszystkie (oprócz cem) kończą się na nosowe „-ẼN-tă”, akcent na tej sylabie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "euro",
+    "kind": "word",
+    "pt": "euro",
+    "pl": "euro",
+    "pronunciation": {
+      "plSlow": "ÊU-ru",
+      "ipa": "ˈewɾu",
+      "notePl": "Dyftong êu jak w „eu”. Liczba mnoga: euros („ÊU-rusz”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custa-q",
+    "kind": "phrase",
+    "pt": "Quanto custa?",
+    "pl": "Ile kosztuje?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă?",
+      "ipa": "ˈkwɐ̃tu ˈkuʃtɐ",
+      "notePl": "qua = „kuã” (nosowe). s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vinte-e-um",
+    "kind": "phrase",
+    "pt": "vinte e um",
+    "pl": "dwadzieścia jeden",
+    "pronunciation": {
+      "plSlow": "WĨ-ty i Ũ",
+      "plNatural": "WĨ-ti‿Ũ",
+      "notePl": "Liczby złożone łączy „e” (wym. „i”), które zlewa się z poprzednim słowem.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custa-doze-euros",
+    "kind": "sentence",
+    "pt": "Custa doze euros.",
+    "pl": "Kosztuje dwanaście euro.",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă DÔ-zy ÊU-rusz.",
+      "plNatural": "KUSZ-tă DÔ-z(y)‿ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-vinte-euros",
+    "kind": "sentence",
+    "pt": "São vinte euros.",
+    "pl": "Razem dwadzieścia euro. (dosł. „Są dwadzieścia euro”.)",
+    "pronunciation": {
+      "plSlow": "SÃU WĨ-ty ÊU-rusz.",
+      "plNatural": "SÃU WĨ-t(y)‿ÊU-rusz.",
+      "notePl": "Tak często podaje kwotę kasjer.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custa-trinta-e-cinco-euros",
+    "kind": "sentence",
+    "pt": "Custa trinta e cinco euros.",
+    "pl": "Kosztuje trzydzieści pięć euro.",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă TRĨ-tă i SĨ-ku ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custa-a-mesa-q",
+    "kind": "sentence",
+    "pt": "Quanto custa a mesa?",
+    "pl": "Ile kosztuje (ten) stół?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă ă MÊ-ză?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-mesa-pequena-custa-dezoito-euros",
+    "kind": "sentence",
+    "pt": "A mesa pequena? Custa dezoito euros.",
+    "pl": "Mały stół? Kosztuje osiemnaście euro.",
+    "pronunciation": {
+      "plSlow": "ă MÊ-ză py-KÊ-nă? KUSZ-tă dy-ZÔJ-tu ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dezoito-e-a-mesa-grande-q",
+    "kind": "sentence",
+    "pt": "Dezoito? E a mesa grande?",
+    "pl": "Osiemnaście? A duży stół?",
+    "pronunciation": {
+      "plSlow": "dy-ZÔJ-tu? i ă MÊ-ză GRÃ-dy?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-grande-custa-trinta-e-cinco",
+    "kind": "sentence",
+    "pt": "A grande custa trinta e cinco.",
+    "pl": "Duży kosztuje trzydzieści pięć.",
+    "pronunciation": {
+      "plSlow": "ă GRÃ-dy KUSZ-tă TRĨ-tă i SĨ-ku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-a-mesa-pequena-sfv",
+    "kind": "sentence",
+    "pt": "Queria a mesa pequena, se faz favor.",
+    "pl": "Poproszę mały stół.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ă MÊ-ză py-KÊ-nă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-sao-dezoito-euros",
+    "kind": "sentence",
+    "pt": "Muito bem. São dezoito euros.",
+    "pl": "Dobrze. Razem osiemnaście euro.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ. SÃU dy-ZÔJ-tu ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quantos-anos-tem-q",
+    "kind": "phrase",
+    "pt": "Quantos anos tem?",
+    "pl": "Ile ma lat? / Ile Pan/Pani ma lat?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tuz Ă-nusz TÃJ?",
+      "plNatural": "KUÃ-tu‿ZĂ-nusz TÃJ?",
+      "ipa": "ˈkwɐ̃tuz ˈɐnuʃ tɐ̃j̃",
+      "notePl": "quantos + anos: s przed samogłoską = z. W „anos” akcentowane a przed n = ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "pytania"
+    ],
+    "usagePl": "Dosłownie „Ile lat ma?” — jak po polsku, z czasownikiem ter (mieć). Dorosłych obcych zwykle nie pytamy o wiek; częściej pyta się o wiek dzieci.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-mora-q",
+    "kind": "phrase",
+    "pt": "Onde mora?",
+    "pl": "Gdzie Pan/Pani mieszka?",
+    "pronunciation": {
+      "plSlow": "Õ-dy MO-ră?",
+      "ipa": "ˈõdɨ ˈmɔɾɐ",
+      "notePl": "onde — nosowe õ (bez n). mora — otwarte o.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moro",
+    "kind": "word",
+    "pt": "moro",
+    "pl": "(ja) mieszkam",
+    "pronunciation": {
+      "plSlow": "MO-ru",
+      "ipa": "ˈmɔɾu",
+      "notePl": "Otwarte o. Bezokolicznik: morar („mu-RAR”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moro-em",
+    "kind": "phrase",
+    "pt": "Moro em …",
+    "pl": "Mieszkam w …",
+    "pronunciation": {
+      "plSlow": "MO-ru ãj …",
+      "notePl": "Wzór do zdań osobistych. Jeśli nazwa ma rodzajnik, em się ściąga: no Funchal (o Funchal), na Madeira (a Madeira).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "wzory"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-trinta-e-cinco-anos",
+    "kind": "sentence",
+    "pt": "Tenho trinta e cinco anos.",
+    "pl": "Mam trzydzieści pięć lat.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu TRĨ-tă i SĨ-ku Ă-nusz.",
+      "plNatural": "TĂ-ńu TRĨ-tă i SĨ-ku‿Ă-nusz.",
+      "notePl": "Wiek: ter (mieć) — jak po polsku „mam … lat”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quantos-anos-tens-q",
+    "kind": "sentence",
+    "pt": "Quantos anos tens?",
+    "pl": "Ile masz lat?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tuz Ă-nusz TÃJSZ?",
+      "plNatural": "KUÃ-tu‿ZĂ-nusz TÃJSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moro-no-funchal",
+    "kind": "sentence",
+    "pt": "Moro no Funchal.",
+    "pl": "Mieszkam w Funchal.",
+    "pronunciation": {
+      "plSlow": "MO-ru nu fũ-SZAɫ.",
+      "notePl": "em + o = no (o Funchal).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moro-na-madeira",
+    "kind": "sentence",
+    "pt": "Moro na Madeira.",
+    "pl": "Mieszkam na Maderze.",
+    "pronunciation": {
+      "plSlow": "MO-ru nă mă-DĂJ-ră.",
+      "notePl": "em + a = na (a Madeira).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-moras-q",
+    "kind": "sentence",
+    "pt": "Onde moras?",
+    "pl": "Gdzie mieszkasz?",
+    "pronunciation": {
+      "plSlow": "Õ-dy MO-răsz?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-queres-um-cafe-q",
+    "kind": "sentence",
+    "pt": "Olá! Queres um café?",
+    "pl": "Cześć! Chcesz kawę?",
+    "pronunciation": {
+      "plSlow": "o-LA! KE-ryz ũ kă-FE?",
+      "plNatural": "o-LA! KE-ry‿zũ kă-FE?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-obrigado-queria-uma-agua-sfv",
+    "kind": "sentence",
+    "pt": "Não, obrigado. Queria uma água, se faz favor.",
+    "ptFem": "Não, obrigada. Queria uma água, se faz favor.",
+    "pl": "Nie, dziękuję. Poproszę wodę.",
+    "pronunciation": {
+      "plSlow": "NÃU, o-bri-GA-du. ky-RI-ă U-mă A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, o-bri-GA-dă. ky-RI-ă U-mă A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "moro-no-funchal-mas-a-casa-e-muito-pequena",
+    "kind": "sentence",
+    "pt": "Moro no Funchal, mas a casa é muito pequena.",
+    "pl": "Mieszkam w Funchal, ale dom jest bardzo mały.",
+    "pronunciation": {
+      "plSlow": "MO-ru nu fũ-SZAɫ, măz ă KA-ză E MŨJ-tu py-KÊ-nă.",
+      "plNatural": "MO-ru nu fũ-SZAɫ, mă‿ză KA-ză E MŨJ-tu py-KÊ-nă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "precisas-de-uma-casa-grande-q",
+    "kind": "sentence",
+    "pt": "Precisas de uma casa grande?",
+    "pl": "Potrzebujesz dużego domu?",
+    "pronunciation": {
+      "plSlow": "pry-SI-zăż dy U-mă KA-ză GRÃ-dy?",
+      "plNatural": "pry-SI-zăż dy U-mă KA-ză GRÃ-dy?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-quanto-custa-uma-casa-grande-aqui-q",
+    "kind": "sentence",
+    "pt": "Sim! Quanto custa uma casa grande aqui?",
+    "pl": "Tak! Ile tu kosztuje duży dom?",
+    "pronunciation": {
+      "plSlow": "SĨ! KUÃ-tu KUSZ-tă U-mă KA-ză GRÃ-dy ă-KI?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aqui-custa-muito",
+    "kind": "sentence",
+    "pt": "Aqui? Custa muito!",
+    "pl": "Tutaj? Kosztuje dużo!",
+    "pronunciation": {
+      "plSlow": "ă-KI? KUSZ-tă MŨJ-tu!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ah-preciso-de-ajuda",
+    "kind": "sentence",
+    "pt": "Ah… Preciso de ajuda!",
+    "pl": "Ach… Potrzebuję pomocy!",
+    "pronunciation": {
+      "plSlow": "A… pry-SI-zu dy ă-ŻU-dă!",
+      "plNatural": "A… pry-SI-zu dă-ŻU-dă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w03"
+    ],
+    "reviewStatus": "draft"
+  }
+]

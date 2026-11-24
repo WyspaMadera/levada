@@ -1,0 +1,98 @@
+@import 'tailwindcss';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-navy-900: #0b1f33;
+  --color-navy-800: #0f2a44;
+  --color-navy-700: #173a5c;
+  --color-atlantic-700: #155a92;
+  --color-atlantic-600: #1f6fb2;
+  --color-atlantic-500: #2f86cf;
+  --color-atlantic-100: #e2effa;
+  --color-laurel-700: #22603c;
+  --color-laurel-600: #2f7d4f;
+  --color-laurel-100: #e3f1e8;
+  --color-sand-50: #fbf8f3;
+  --color-sand-100: #f7f3ec;
+  --color-sand-200: #efe6d8;
+  --color-sand-300: #e2d5c0;
+  --color-coral-600: #c4513a;
+  --color-coral-100: #fbe7e2;
+  --color-amber-100: #fbf0d4;
+  --color-amber-700: #8a5a00;
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+:root {
+  color-scheme: light;
+  --bg: var(--color-sand-100);
+  --surface: #ffffff;
+  --surface-2: var(--color-sand-50);
+  --text: #13202e;
+  --muted: #5a6776;
+  --border: #e3dccf;
+  --accent: var(--color-atlantic-600);
+}
+.dark {
+  color-scheme: dark;
+  --bg: #0a1622;
+  --surface: #12233a;
+  --surface-2: #172b45;
+  --text: #e8eef5;
+  --muted: #9fb0c3;
+  --border: #23405f;
+  --accent: #6db3ee;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Fonetyka PL — czytelny, równy krój; sylaba akcentowana wyróżniona */
+.phon {
+  font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', 'Roboto Mono', Menlo, monospace;
+  letter-spacing: 0.01em;
+}
+.phon .stress {
+  color: var(--color-coral-600);
+  font-weight: 700;
+}
+/* ciemne l: rysowane jako „l” z tyldą NAD literą (niezależnie od czcionki), by nie mylić z polskim „ł” */
+.phon .dark-l {
+  position: relative;
+  display: inline-block;
+  padding: 0 0.08em;
+}
+.phon .dark-l::after {
+  content: '~';
+  position: absolute;
+  left: 50%;
+  top: -0.62em;
+  transform: translateX(-50%);
+  font-size: 0.85em;
+  font-weight: 700;
+}
+.dark .phon .stress {
+  color: #ff9b85;
+}
+
+.focus-ring {
+  @apply outline-none focus-visible:ring-2 focus-visible:ring-atlantic-500 focus-visible:ring-offset-2 focus-visible:ring-offset-[var(--bg)];
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

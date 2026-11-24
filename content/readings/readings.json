@@ -1,0 +1,546 @@
+[
+  {
+    "id": "rd-01",
+    "titlePl": "Dzień dobry, Ano!",
+    "titlePt": "Bom dia, Ana!",
+    "level": "A0",
+    "unlockAfterLessonId": "w01-l06",
+    "topicPl": "Przedstawiam się: Tomasz poznaje sąsiadkę, Anę. Ana mówi za szybko…",
+    "sentenceItemIds": [
+      "rd-01-01",
+      "rd-01-02",
+      "rd-01-03",
+      "rd-01-04",
+      "rd-01-05",
+      "rd-01-06",
+      "rd-01-07"
+    ],
+    "glossary": [
+      {
+        "form": "igualmente",
+        "pl": "wzajemnie; mnie również",
+        "itemId": "igualmente",
+        "notePl": "Odpowiedź na „Muito prazer”."
+      },
+      {
+        "form": "calor",
+        "pl": "upał, gorąco",
+        "notePl": "Hoje está muito calor — dziś jest bardzo gorąco."
+      },
+      {
+        "form": "obrigada",
+        "pl": "dziękuję (mówi kobieta)",
+        "itemId": "obrigado"
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Jak ma na imię sąsiadka?",
+        "options": [
+          "Marta",
+          "Ana",
+          "Rui"
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Chamo-me Ana.” — nazywam się Ana."
+      },
+      {
+        "questionPl": "Co Ana mówi o dzisiejszym dniu?",
+        "options": [
+          "Jest bardzo gorąco.",
+          "Jest zimno.",
+          "Jest poniedziałek."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„Hoje está muito calor!” — dziś jest bardzo gorąco."
+      },
+      {
+        "questionPl": "O co prosi Tomasz, gdy nie rozumie?",
+        "options": [
+          "O kawę.",
+          "Żeby Ana mówiła wolniej.",
+          "Żeby Ana mówiła po angielsku."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Mais devagar, por favor.” — wolniej, proszę. Ana powtarza powoli i Tomasz rozumie."
+      }
+    ]
+  },
+  {
+    "id": "rd-02",
+    "titlePl": "Jestem… i jestem",
+    "titlePt": "Sou e estou",
+    "level": "A0",
+    "unlockAfterLessonId": "w02-l09",
+    "topicPl": "Przedstawiam się: kim jestem (ser), a gdzie jestem i jak się czuję (estar).",
+    "sentenceItemIds": [
+      "rd-02-01",
+      "rd-02-02",
+      "rd-02-03",
+      "rd-02-04",
+      "rd-02-05"
+    ],
+    "glossary": [
+      {
+        "form": "cansada",
+        "pl": "zmęczona",
+        "itemId": "cansado",
+        "notePl": "Forma żeńska od „cansado”."
+      },
+      {
+        "form": "é",
+        "pl": "jest (ser — kim? skąd?)",
+        "itemId": "ser-e",
+        "notePl": "„É da Madeira” — podmiot (ela) można pominąć."
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Skąd jest Ana?",
+        "options": [
+          "Z Polski.",
+          "Z Madery.",
+          "Z Lizbony."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„É da Madeira.” — pochodzenie wyrażamy czasownikiem ser."
+      },
+      {
+        "questionPl": "Jak się dziś czuje Ana?",
+        "options": [
+          "Dobrze.",
+          "Jest zmęczona.",
+          "Jest głodna."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Hoje a Ana está cansada.” — stan teraz: estar."
+      },
+      {
+        "questionPl": "Gdzie jest teraz Tomasz?",
+        "options": [
+          "W domu, w Funchal.",
+          "W kawiarni.",
+          "W Polsce."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„Estou no Funchal… Estou em casa.” Z Polski pochodzi (sou da Polónia), ale teraz jest w Funchal."
+      }
+    ]
+  },
+  {
+    "id": "rd-03",
+    "titlePl": "W kawiarni Ruiego",
+    "titlePt": "No café do Rui",
+    "level": "A0",
+    "unlockAfterLessonId": "w02-l12",
+    "topicPl": "W kawiarni: Tomasz i Ana zamawiają u Ruiego.",
+    "sentenceItemIds": [
+      "rd-03-01",
+      "rd-03-02",
+      "rd-03-03",
+      "rd-03-04",
+      "rd-03-05",
+      "rd-03-06"
+    ],
+    "glossary": [
+      {
+        "form": "do",
+        "pl": "(de + o) — café do Rui = kawiarnia Ruiego",
+        "itemId": "do",
+        "notePl": "Takie ściągnięcia (do, da) ćwiczysz dokładnie w tygodniu 3."
+      },
+      {
+        "form": "bolo",
+        "pl": "ciasto; ciastko",
+        "notePl": "Uwaga: maderski „bolo do caco” to okrągły chlebek, a nie ciasto."
+      },
+      {
+        "form": "bom",
+        "pl": "dobry",
+        "notePl": "To samo „bom” co w „bom dia”."
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Gdzie są Tomasz i Ana?",
+        "options": [
+          "W domu.",
+          "W kawiarni Ruiego w Funchal.",
+          "Na plaży."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„… estão no café do Rui, no Funchal.”"
+      },
+      {
+        "questionPl": "Co zamawiają do picia?",
+        "options": [
+          "Dwie kawy.",
+          "Kawę i herbatę.",
+          "Wodę."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Um café e um chá, se faz favor.”"
+      },
+      {
+        "questionPl": "Kto jest głodny?",
+        "options": [
+          "Tomasz.",
+          "Rui.",
+          "Ana."
+        ],
+        "answerIndex": 2,
+        "explanationPl": "„A Ana tem fome.” — dlatego zamawia jeszcze ciastko (um bolo)."
+      }
+    ]
+  },
+  {
+    "id": "rd-04",
+    "titlePl": "Nowy dom Tomasza",
+    "titlePt": "A casa nova",
+    "level": "A0",
+    "unlockAfterLessonId": "w03-l15",
+    "topicPl": "Mój dom: sąsiadka Ana odwiedza Tomasza.",
+    "sentenceItemIds": [
+      "rd-04-01",
+      "rd-04-02",
+      "rd-04-03",
+      "rd-04-04",
+      "rd-04-05",
+      "rd-04-06"
+    ],
+    "glossary": [
+      {
+        "form": "varanda",
+        "pl": "balkon; taras",
+        "notePl": "Akcent na „RAN”, a przed n — nosowe."
+      },
+      {
+        "form": "pode",
+        "pl": "może (Pan/Pani)",
+        "itemId": "pode",
+        "notePl": "„Sim, pode” — tak, proszę (dosł. tak, może Pani)."
+      },
+      {
+        "form": "quer",
+        "pl": "chce (Pan/Pani)",
+        "itemId": "querer-quer"
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Jaki jest dom Tomasza?",
+        "options": [
+          "Duży i stary.",
+          "Mały, ale ładny.",
+          "Duży i drogi."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„A casa é pequena, mas é bonita.” — i do tego nowa (nova)."
+      },
+      {
+        "questionPl": "Co ma dom?",
+        "options": [
+          "Balkon i duży stół.",
+          "Dużą kuchnię.",
+          "Dwa samochody."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„Tem uma varanda e uma mesa grande.”"
+      },
+      {
+        "questionPl": "Co Ana chce do picia?",
+        "options": [
+          "Kawę.",
+          "Herbatę.",
+          "Wodę."
+        ],
+        "answerIndex": 2,
+        "explanationPl": "„Queria uma água, se faz favor.”"
+      }
+    ]
+  },
+  {
+    "id": "rd-05",
+    "titlePl": "Nowy telefon",
+    "titlePt": "Um telemóvel novo",
+    "level": "A0",
+    "unlockAfterLessonId": "w03-l18",
+    "topicPl": "Zakupy i ceny: Tomasz kupuje telefon.",
+    "sentenceItemIds": [
+      "rd-05-01",
+      "rd-05-02",
+      "rd-05-03",
+      "rd-05-04",
+      "rd-05-05",
+      "rd-05-06",
+      "rd-05-07"
+    ],
+    "glossary": [
+      {
+        "form": "cento",
+        "pl": "sto (w liczbach 101–199)",
+        "notePl": "„Cem” = dokładnie 100. Od 101 mówimy „cento e…”: cento e vinte = 120."
+      },
+      {
+        "form": "pequeno",
+        "pl": "mały",
+        "itemId": "pequeno"
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Czego potrzebuje Tomasz?",
+        "options": [
+          "Nowego telefonu.",
+          "Stołu.",
+          "Samochodu."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„O Tomasz precisa de um telemóvel novo.”"
+      },
+      {
+        "questionPl": "Ile kosztuje duży telefon?",
+        "options": [
+          "90 €",
+          "100 €",
+          "120 €"
+        ],
+        "answerIndex": 2,
+        "explanationPl": "„O grande custa cento e vinte euros.”"
+      },
+      {
+        "questionPl": "Który telefon kupuje Tomasz i ile płaci?",
+        "options": [
+          "Mały, 90 €.",
+          "Duży, 120 €.",
+          "Mały, 100 €."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„Queria o pequeno” — i „São noventa euros”."
+      }
+    ]
+  },
+  {
+    "id": "rd-06",
+    "titlePl": "Dzień w Funchal",
+    "titlePt": "Um dia no Funchal",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l20",
+    "topicPl": "Dzień w Funchal: Tomasz z synem w kawiarni. Gdzie jest portfel?",
+    "sentenceItemIds": [
+      "rd-06-01",
+      "rd-06-02",
+      "rd-06-03",
+      "rd-06-04",
+      "rd-06-05",
+      "rd-06-06"
+    ],
+    "glossary": [
+      {
+        "form": "sumo",
+        "pl": "sok",
+        "notePl": "Słowo z Portugalii (w Brazylii mówi się „suco”)."
+      },
+      {
+        "form": "quer",
+        "pl": "chce (on/ona)",
+        "itemId": "querer-quer"
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Dokąd Tomasz idzie dziś z synem?",
+        "options": [
+          "Do pracy.",
+          "Do kawiarni Ruiego.",
+          "Do przedszkola."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Hoje o Tomasz não vai ao trabalho. Vai com o filho ao café do Rui.”"
+      },
+      {
+        "questionPl": "Co chce syn?",
+        "options": [
+          "Kawę.",
+          "Wodę.",
+          "Sok."
+        ],
+        "answerIndex": 2,
+        "explanationPl": "„… o filho quer um sumo.”"
+      },
+      {
+        "questionPl": "Gdzie jest portfel?",
+        "options": [
+          "W samochodzie.",
+          "W kuchni.",
+          "Ma go Rui."
+        ],
+        "answerIndex": 2,
+        "explanationPl": "„Não está no carro… Está com o Rui!” — nie ma go w samochodzie, ma go Rui."
+      }
+    ]
+  },
+  {
+    "id": "rd-07",
+    "titlePl": "Przedszkole syna",
+    "titlePt": "O filho do Tomasz vai à escola",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l22",
+    "topicPl": "Przedszkole syna: Tomasz mówi wychowawczyni, o której dziś przyjdzie po syna.",
+    "sentenceItemIds": [
+      "rd-07-01",
+      "rd-07-02",
+      "rd-07-03",
+      "rd-07-04",
+      "rd-07-05",
+      "rd-07-06",
+      "rd-07-07",
+      "rd-07-08"
+    ],
+    "glossary": [
+      {
+        "form": "escola",
+        "pl": "szkoła; tu: przedszkole",
+        "notePl": "Oficjalnie przedszkole to „jardim de infância”, ale w rozmowie często mówi się po prostu „a escola”."
+      },
+      {
+        "form": "educadora",
+        "pl": "wychowawczyni (w przedszkolu)",
+        "notePl": "Pełna nazwa zawodu: educadora de infância."
+      },
+      {
+        "form": "às",
+        "pl": "o (godzinie)",
+        "itemId": "as-cinco",
+        "notePl": "à + as: às cinco = o piątej."
+      },
+      {
+        "form": "pode",
+        "pl": "może (Pan/Pani)",
+        "itemId": "pode"
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Ile lat ma syn Tomasza?",
+        "options": [
+          "Trzy.",
+          "Pięć.",
+          "Dziewięć."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„O filho do Tomasz tem cinco anos.”"
+      },
+      {
+        "questionPl": "W jakie dni syn chodzi do przedszkola?",
+        "options": [
+          "Od poniedziałku do piątku.",
+          "W sobotę i niedzielę.",
+          "Tylko w czwartek."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„De segunda-feira a sexta-feira, vai à escola.”"
+      },
+      {
+        "questionPl": "Jak ma na imię wychowawczyni?",
+        "options": [
+          "Ana.",
+          "Marta.",
+          "Rui."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„A educadora chama-se Marta.”"
+      },
+      {
+        "questionPl": "O której Tomasz przyjdzie dziś po syna?",
+        "options": [
+          "O 15:30.",
+          "O 17:00.",
+          "O 9:00."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„Hoje não posso às três e meia. Posso às cinco?” — o wpół do czwartej nie może, przyjdzie o piątej."
+      }
+    ]
+  },
+  {
+    "id": "rd-08",
+    "titlePl": "Sobota na levadzie",
+    "titlePt": "No sábado, vamos a uma levada",
+    "level": "A1",
+    "unlockAfterLessonId": "w04-l24",
+    "topicPl": "Moja rodzina i moje plany (ir + a): rodzinny spacer wzdłuż levady.",
+    "sentenceItemIds": [
+      "rd-08-01",
+      "rd-08-02",
+      "rd-08-03",
+      "rd-08-04",
+      "rd-08-05",
+      "rd-08-06",
+      "rd-08-07",
+      "rd-08-08",
+      "rd-08-09"
+    ],
+    "glossary": [
+      {
+        "form": "levada",
+        "pl": "levada — kanał nawadniający ze ścieżką wzdłuż brzegu",
+        "notePl": "Levady to wąskie kanały, którymi woda płynie z gór na pola. Wzdłuż wielu z nich biegną ścieżki — popularne trasy spacerowe na Maderze."
+      },
+      {
+        "form": "moram",
+        "pl": "mieszkają",
+        "itemId": "moro",
+        "notePl": "moro = mieszkam, mora = mieszka, moram = mieszkają."
+      },
+      {
+        "form": "muitas",
+        "pl": "dużo, wiele (r. żeński, l. mnoga)",
+        "itemId": "muito",
+        "notePl": "muito zgadza się z rzeczownikiem: muitas perguntas."
+      }
+    ],
+    "questions": [
+      {
+        "questionPl": "Gdzie mieszkają rodzice Tomasza?",
+        "options": [
+          "W Funchal.",
+          "W Polsce.",
+          "W Lizbonie."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„A minha mãe e o meu pai moram na Polónia.”"
+      },
+      {
+        "questionPl": "Kiedy rodzina idzie na levadę?",
+        "options": [
+          "W sobotę o 9:00.",
+          "W niedzielę o 9:00.",
+          "W sobotę w południe."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "„No sábado, vamos a uma levada. Vamos de carro, às nove.”"
+      },
+      {
+        "questionPl": "Czym jest levada?",
+        "options": [
+          "Kanałem z wodą, wzdłuż którego biegnie ścieżka.",
+          "Rodzajem ciasta.",
+          "Plażą w Funchal."
+        ],
+        "answerIndex": 0,
+        "explanationPl": "Levada to kanał nawadniający; wzdłuż wielu levad biegną ścieżki spacerowe (zob. słowniczek)."
+      },
+      {
+        "questionPl": "Co robią w niedzielę?",
+        "options": [
+          "Idą na plażę.",
+          "Są w domu.",
+          "Idą do kawiarni."
+        ],
+        "answerIndex": 1,
+        "explanationPl": "„No domingo estamos em casa.”"
+      }
+    ]
+  }
+]

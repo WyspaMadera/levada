@@ -1,0 +1,193 @@
+[
+  {
+    "id": "w06-l31-s01",
+    "promptPl": "Opisz kogoś znajomego (Rui, Ana albo ktoś z Twojego otoczenia): wzrost i charakter.",
+    "modelItemIds": [
+      "o-rui-e-alto-e-simpatico",
+      "a-ana-e-baixa-e-muito-simpatica"
+    ]
+  },
+  {
+    "id": "w06-l31-s02",
+    "promptPl": "Zapytaj, jaki jest Rui, a potem — jak się dziś czuje.",
+    "modelItemIds": [
+      "como-e-o-rui-q",
+      "como-esta-o-rui-q"
+    ],
+    "hintPl": "Como é…? — cechy (ser). Como está…? — samopoczucie (estar)."
+  },
+  {
+    "id": "w06-l31-s03",
+    "promptPl": "Opisz krótko siebie.",
+    "modelItemIds": [
+      "sou-alto-e-simpatico"
+    ],
+    "hintPl": "Kobieta: Sou alta e simpática."
+  },
+  {
+    "id": "w06-l32-s01",
+    "promptPl": "Powiedz, gdzie mieszkają Twoi rodzice albo rodzeństwo. Informacje o rodzinie i dzieciach są zawsze opcjonalne — możesz mówić o wymyślonych osobach.",
+    "modelItemIds": [
+      "os-meus-pais-moram-na-polonia",
+      "a-minha-irma-mora-na-polonia"
+    ]
+  },
+  {
+    "id": "w06-l32-s02",
+    "promptPl": "W przedszkolu: zapytaj grzecznie innego rodzica, jak ma na imię jego syn.",
+    "modelItemIds": [
+      "como-se-chama-o-seu-filho-q"
+    ]
+  },
+  {
+    "id": "w06-l32-s03",
+    "promptPl": "Pochwal grzecznie czyjś dom i czyjeś dziecko.",
+    "modelItemIds": [
+      "a-sua-casa-e-muito-bonita",
+      "o-seu-filho-e-muito-simpatico"
+    ]
+  },
+  {
+    "id": "w06-l33-s01",
+    "promptPl": "Opisz swój dom lub mieszkanie: duże czy małe, ile pokoi, czy jest balkon.",
+    "modelItemIds": [
+      "o-meu-apartamento-e-pequeno",
+      "a-minha-casa-tem-dois-quartos",
+      "a-sala-e-grande-e-tem-uma-varanda"
+    ],
+    "hintPl": "Mów o prawdziwym mieszkaniu — wzory to tylko przykłady."
+  },
+  {
+    "id": "w06-l33-s02",
+    "promptPl": "Jesteś u kogoś w gościach. Zapytaj grzecznie, gdzie jest łazienka.",
+    "modelItemIds": [
+      "cs-onde-e-a-casa-de-banho"
+    ]
+  },
+  {
+    "id": "w06-l33-s03",
+    "promptPl": "Zapytaj grzecznie sąsiada, jaki jest jego dom.",
+    "modelItemIds": [
+      "como-e-a-sua-casa-q"
+    ]
+  },
+  {
+    "id": "w06-l33-s04",
+    "promptPl": "Powiedz, gdzie teraz jest ktoś z domowników albo jakaś rzecz (w kuchni, w pokoju…).",
+    "modelItemIds": [
+      "o-meu-filho-esta-no-quarto",
+      "o-telemovel-esta-na-cozinha"
+    ]
+  },
+  {
+    "id": "w06-l34-s01",
+    "promptPl": "Powiedz, co lubisz, a czego nie lubisz (jedzenie, picie, miejsca).",
+    "modelItemIds": [
+      "gosto-muito-de-cafe",
+      "nao-gosto-de-cafe",
+      "gosto-muito-da-madeira"
+    ]
+  },
+  {
+    "id": "w06-l34-s02",
+    "promptPl": "Powiedz wychowawczyni, co lubi dziecko. Informacje o rodzinie i dzieciach są zawsze opcjonalne — możesz mówić o wymyślonych osobach.",
+    "modelItemIds": [
+      "o-meu-filho-gosta-de-desenhar",
+      "ele-gosta-muito-da-sopa"
+    ]
+  },
+  {
+    "id": "w06-l34-s03",
+    "promptPl": "Odbierasz dziecko z przedszkola. Zapytaj, czy dobrze tu je.",
+    "modelItemIds": [
+      "ele-come-bem-aqui-q"
+    ]
+  },
+  {
+    "id": "w06-l34-s04",
+    "promptPl": "Zapytaj grzecznie sąsiada, czy lubi Maderę.",
+    "modelItemIds": [
+      "o-senhor-gosta-da-madeira-q"
+    ]
+  },
+  {
+    "id": "w06-l35-s01",
+    "promptPl": "Powiedz, czy masz rodzeństwo — starsze czy młodsze. Informacje o rodzinie i dzieciach są zawsze opcjonalne — możesz mówić o wymyślonych osobach.",
+    "modelItemIds": [
+      "tenho-um-irmao-e-uma-irma",
+      "o-meu-irmao-e-mais-velho",
+      "nao-sou-filho-unico"
+    ]
+  },
+  {
+    "id": "w06-l35-s02",
+    "promptPl": "Zapytaj o rodzeństwo najpierw grzecznie (Pan/Pani), a potem kolegę (tu).",
+    "modelItemIds": [
+      "tem-irmaos-q",
+      "tens-irmaos-q"
+    ]
+  },
+  {
+    "id": "w06-l35-s03",
+    "promptPl": "Powiedz, gdzie mieszka babcia albo dziadek. Informacje o rodzinie i dzieciach są zawsze opcjonalne — możesz mówić o wymyślonych osobach.",
+    "modelItemIds": [
+      "a-minha-avo-mora-na-polonia"
+    ]
+  },
+  {
+    "id": "w06-l36-s01",
+    "promptPl": "Opowiedz o swojej rodzinie w 3–4 zdaniach: kto to jest, gdzie mieszka, jaki jest, co lubi. Informacje o rodzinie i dzieciach są zawsze opcjonalne — możesz mówić o wymyślonych osobach.",
+    "modelItemIds": [
+      "os-meus-pais-moram-na-polonia",
+      "o-meu-irmao-e-mais-velho",
+      "o-meu-pai-gosta-de-tudo"
+    ]
+  },
+  {
+    "id": "w06-l36-s02",
+    "promptPl": "Zapytaj grzecznie znajomą o jej rodzinę.",
+    "modelItemIds": [
+      "boa-tarde-como-esta-a-sua-familia-q",
+      "e-o-seu-pai-q"
+    ]
+  },
+  {
+    "id": "w06-l36-s03",
+    "promptPl": "Powiedz, co lubią Twoi bliscy (oni / ona / on).",
+    "modelItemIds": [
+      "gostam-muito-a-minha-mae-gosta-muito-da-praia",
+      "o-meu-pai-gosta-de-tudo"
+    ]
+  },
+  {
+    "id": "w06-t-s01",
+    "promptPl": "Powiedz, gdzie mieszkasz i jaki jest Twój dom lub mieszkanie.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "o-meu-apartamento-e-pequeno",
+      "a-minha-casa-tem-dois-quartos"
+    ],
+    "hintPl": "Jeśli nazwa Twojej miejscowości ma rodzajnik (o Funchal), mów „no Funchal”. Wymowy Twojej miejscowości nie zgadujemy.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w06-t-s02",
+    "promptPl": "Opisz jedną osobę, którą znasz: wygląd, charakter, co lubi.",
+    "modelItemIds": [
+      "o-rui-e-alto-e-simpatico",
+      "o-meu-pai-gosta-de-tudo"
+    ]
+  },
+  {
+    "id": "w06-t-s03",
+    "promptPl": "Zadaj Marcie dwa grzeczne pytania: o jej rodzinę i o jej dom.",
+    "modelItemIds": [
+      "tem-irmaos-q",
+      "como-e-a-sua-casa-q"
+    ]
+  }
+]

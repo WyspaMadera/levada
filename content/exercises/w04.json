@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "w04-l19-e01",
+    "type": "listenChoose",
+    "targetItemId": "ir-vamos",
+    "optionItemIds": [
+      "ir-vou",
+      "ir-vamos",
+      "ir-vao"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w04-l19-e02",
+    "type": "readChoose",
+    "targetItemId": "ir-vais",
+    "optionItemIds": [
+      "ir-vais",
+      "ir-vai",
+      "ir-vou"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w04-l19-e03",
+    "type": "recallChoose",
+    "targetItemId": "a-praia",
+    "optionItemIds": [
+      "a-praia",
+      "ao-supermercado",
+      "para-casa"
+    ],
+    "promptPl": "Wybierz „na plażę”."
+  },
+  {
+    "id": "w04-l19-e04",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ supermercado.",
+    "sentencePl": "Idę do supermarketu.",
+    "options": [
+      "ao",
+      "à",
+      "a o"
+    ],
+    "answer": "ao",
+    "fullItemId": "vou-ao-supermercado",
+    "wrongExplanations": {
+      "à": "à = a + a (rodzaj żeński). Supermercado jest męski → ao.",
+      "a o": "a + o zawsze łączą się w jedno słowo: ao."
+    },
+    "explanationPl": "o supermercado (męski) → a + o = ao.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l19-e05",
+    "type": "fillGap",
+    "sentencePt": "Vamos ___ praia!",
+    "sentencePl": "Chodźmy na plażę!",
+    "options": [
+      "à",
+      "ao"
+    ],
+    "answer": "à",
+    "fullItemId": "vamos-a-praia",
+    "wrongExplanations": {
+      "ao": "ao = a + o (męski). Praia jest żeńska → à."
+    },
+    "explanationPl": "a praia (żeńska) → a + a = à.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l19-e06",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ à praia.",
+    "sentencePl": "My idziemy na plażę.",
+    "options": [
+      "vamos",
+      "vão",
+      "vai"
+    ],
+    "answer": "vamos",
+    "wrongExplanations": {
+      "vão": "„vão” = oni/wy idą.",
+      "vai": "„vai” = on/ona/Pan idzie."
+    },
+    "explanationPl": "nós → vamos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w04-l19-e07",
+    "type": "buildSentence",
+    "targetItemId": "vou-para-casa",
+    "tiles": [
+      "Vou",
+      "para",
+      "casa"
+    ],
+    "distractors": [
+      "a",
+      "vai"
+    ],
+    "promptPl": "Powiedz: „Idę do domu.”"
+  },
+  {
+    "id": "w04-l19-e08",
+    "type": "transform",
+    "baseItemId": "vou-ao-supermercado",
+    "instructionPl": "Zamień na pytanie do kolegi (tu): „Idziesz do supermarketu?”",
+    "targetItemId": "vais-ao-supermercado-q",
+    "tiles": [
+      "Vais",
+      "ao",
+      "supermercado"
+    ],
+    "distractors": [
+      "Vou",
+      "vai"
+    ]
+  },
+  {
+    "id": "w04-l19-e09",
+    "type": "recallSay",
+    "targetItemId": "para-onde-vais-q",
+    "promptPl": "Spotykasz koleżankę. Zapytaj, dokąd idzie."
+  },
+  {
+    "id": "w04-l19-e10",
+    "type": "recallSay",
+    "targetItemId": "vou-para-casa",
+    "promptPl": "Powiedz, że idziesz do domu."
+  },
+  {
+    "id": "w04-l19-e11",
+    "type": "typeAnswer",
+    "targetItemId": "ir-vou",
+    "promptPl": "Napisz: „(ja) idę / jadę”."
+  },
+  {
+    "id": "w04-l20-e01",
+    "type": "listenChoose",
+    "targetItemId": "esta-na-mesa",
+    "optionItemIds": [
+      "esta-na-mesa",
+      "a-ana-esta-no-trabalho",
+      "o-telemovel-esta-na-cozinha"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w04-l20-e02",
+    "type": "readChoose",
+    "targetItemId": "chave",
+    "optionItemIds": [
+      "chave",
+      "carteira",
+      "mesa"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w04-l20-e03",
+    "type": "recallChoose",
+    "targetItemId": "cozinha",
+    "optionItemIds": [
+      "cozinha",
+      "casa",
+      "trabalho"
+    ],
+    "promptPl": "Wybierz „kuchnia”."
+  },
+  {
+    "id": "w04-l20-e04",
+    "type": "fillGap",
+    "sentencePt": "Está ___ mesa.",
+    "sentencePl": "Jest na stole.",
+    "options": [
+      "na",
+      "no",
+      "em a"
+    ],
+    "answer": "na",
+    "fullItemId": "esta-na-mesa",
+    "wrongExplanations": {
+      "no": "no = em + o (męski). Mesa jest żeńska → na.",
+      "em a": "em + a zawsze łączą się w jedno słowo: na."
+    },
+    "explanationPl": "a mesa (żeńska) → em + a = na. Po polsku „na stole”, po portugalsku też „na”.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l20-e05",
+    "type": "fillGap",
+    "sentencePt": "A Ana está ___ trabalho.",
+    "sentencePl": "Ana jest w pracy.",
+    "options": [
+      "no",
+      "na"
+    ],
+    "answer": "no",
+    "fullItemId": "a-ana-esta-no-trabalho",
+    "wrongExplanations": {
+      "na": "na = em + a (żeński). Trabalho jest męski → no."
+    },
+    "explanationPl": "o trabalho (męski) → em + o = no.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l20-e06",
+    "type": "fillGap",
+    "sentencePt": "É a carteira ___ Rui.",
+    "sentencePl": "To portfel Ruiego.",
+    "options": [
+      "do",
+      "da",
+      "de"
+    ],
+    "answer": "do",
+    "fullItemId": "e-a-carteira-do-rui",
+    "wrongExplanations": {
+      "da": "da = de + a. Rui to mężczyzna (o Rui) → do.",
+      "de": "Przed imieniem zwykle stoi rodzajnik (o Rui), więc de + o = do."
+    },
+    "explanationPl": "Czyj? → de. W Portugalii mówimy „o Rui”, więc de + o = do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l20-e07",
+    "type": "buildSentence",
+    "targetItemId": "o-rui-esta-com-a-ana",
+    "tiles": [
+      "O",
+      "Rui",
+      "está",
+      "com",
+      "a",
+      "Ana"
+    ],
+    "distractors": [
+      "é",
+      "na"
+    ],
+    "promptPl": "Powiedz: „Rui jest z Aną.”"
+  },
+  {
+    "id": "w04-l20-e08",
+    "type": "transform",
+    "baseItemId": "esta-na-mesa",
+    "instructionPl": "Zadaj pytanie, na które to zdanie jest odpowiedzią: „Gdzie jest klucz?”",
+    "targetItemId": "onde-esta-a-chave-q",
+    "tiles": [
+      "Onde",
+      "está",
+      "a",
+      "chave"
+    ],
+    "distractors": [
+      "é",
+      "na"
+    ]
+  },
+  {
+    "id": "w04-l20-e09",
+    "type": "recallSay",
+    "targetItemId": "onde-esta-a-chave-q",
+    "promptPl": "Szukasz klucza. Zapytaj, gdzie jest."
+  },
+  {
+    "id": "w04-l20-e10",
+    "type": "recallSay",
+    "targetItemId": "esta-na-mesa",
+    "promptPl": "Ktoś pyta, gdzie jest telefon. Odpowiedz: na stole."
+  },
+  {
+    "id": "w04-l20-e11",
+    "type": "typeAnswer",
+    "targetItemId": "chave",
+    "promptPl": "Napisz: „klucz”."
+  },
+  {
+    "id": "w04-l21-e01",
+    "type": "listenChoose",
+    "targetItemId": "quinta-feira",
+    "optionItemIds": [
+      "quinta-feira",
+      "sexta-feira",
+      "quarta-feira"
+    ],
+    "promptPl": "Uwaga, pułapka! Jaki to dzień?"
+  },
+  {
+    "id": "w04-l21-e02",
+    "type": "readChoose",
+    "targetItemId": "terca-feira",
+    "optionItemIds": [
+      "terca-feira",
+      "quarta-feira",
+      "quinta-feira"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w04-l21-e03",
+    "type": "recallChoose",
+    "targetItemId": "sexta-feira",
+    "optionItemIds": [
+      "sexta-feira",
+      "quinta-feira",
+      "sabado"
+    ],
+    "promptPl": "Wybierz „piątek”."
+  },
+  {
+    "id": "w04-l21-e04",
+    "type": "fillGap",
+    "sentencePt": "Hoje ___ segunda-feira.",
+    "sentencePl": "Dziś jest poniedziałek.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "fullItemId": "hoje-e-segunda-feira",
+    "wrongExplanations": {
+      "está": "„está” — stan lub miejsce. Dzień tygodnia: é."
+    },
+    "explanationPl": "Dzień tygodnia, data → ser: Hoje é…",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w04-l21-e05",
+    "type": "fillGap",
+    "sentencePt": "___ sábado vou à praia.",
+    "sentencePl": "W sobotę idę na plażę.",
+    "options": [
+      "No",
+      "Na"
+    ],
+    "answer": "No",
+    "fullItemId": "no-sabado-vou-a-praia",
+    "wrongExplanations": {
+      "Na": "na — przed żeńskimi (na segunda-feira). Sábado jest męski → no."
+    },
+    "explanationPl": "o sábado (męski) → em + o = no.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l21-e06",
+    "type": "fillGap",
+    "sentencePt": "___ sexta-feira não posso.",
+    "sentencePl": "W piątek nie mogę.",
+    "options": [
+      "Na",
+      "No"
+    ],
+    "answer": "Na",
+    "fullItemId": "na-sexta-feira-nao-posso",
+    "wrongExplanations": {
+      "No": "no — przed męskimi (no sábado, no domingo). Dni z -feira są żeńskie → na."
+    },
+    "explanationPl": "-feira jest żeńskie (a sexta-feira) → na.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l21-e07",
+    "type": "buildSentence",
+    "targetItemId": "amanha-e-terca-feira",
+    "tiles": [
+      "Amanhã",
+      "é",
+      "terça-feira"
+    ],
+    "distractors": [
+      "está",
+      "Hoje"
+    ],
+    "promptPl": "Powiedz: „Jutro jest wtorek.”"
+  },
+  {
+    "id": "w04-l21-e08",
+    "type": "transform",
+    "baseItemId": "hoje-e-segunda-feira",
+    "instructionPl": "Zamień na pytanie: „Jaki dziś dzień?”",
+    "targetItemId": "que-dia-e-hoje-q",
+    "tiles": [
+      "Que",
+      "dia",
+      "é",
+      "hoje"
+    ],
+    "distractors": [
+      "segunda-feira",
+      "está"
+    ]
+  },
+  {
+    "id": "w04-l21-e09",
+    "type": "recallSay",
+    "targetItemId": "hoje-e-segunda-feira",
+    "promptPl": "Powiedz: „Dziś jest poniedziałek.”"
+  },
+  {
+    "id": "w04-l21-e10",
+    "type": "recallSay",
+    "targetItemId": "na-sexta-feira-nao-posso",
+    "promptPl": "Ktoś proponuje spotkanie w piątek. Powiedz, że w piątek nie możesz."
+  },
+  {
+    "id": "w04-l21-e11",
+    "type": "typeAnswer",
+    "targetItemId": "domingo",
+    "promptPl": "Napisz: „niedziela”."
+  },
+  {
+    "id": "w04-l22-e01",
+    "type": "listenChoose",
+    "targetItemId": "sao-tres-e-meia",
+    "optionItemIds": [
+      "sao-tres-e-meia",
+      "sao-tres-e-um-quarto",
+      "sao-duas-horas"
+    ],
+    "promptPl": "Posłuchaj. Która godzina?"
+  },
+  {
+    "id": "w04-l22-e02",
+    "type": "readChoose",
+    "targetItemId": "sao-cinco-menos-dez",
+    "optionItemIds": [
+      "sao-cinco-menos-dez",
+      "sao-cinco-e-dez",
+      "sao-tres-e-meia"
+    ],
+    "promptPl": "Która to godzina?"
+  },
+  {
+    "id": "w04-l22-e03",
+    "type": "recallChoose",
+    "targetItemId": "meia",
+    "optionItemIds": [
+      "meia",
+      "meio-dia",
+      "menos"
+    ],
+    "promptPl": "Wybierz „pół (wpół do)”."
+  },
+  {
+    "id": "w04-l22-e04",
+    "type": "fillGap",
+    "sentencePt": "___ uma hora.",
+    "sentencePl": "Jest pierwsza.",
+    "options": [
+      "É",
+      "São"
+    ],
+    "answer": "É",
+    "fullItemId": "e-uma-hora",
+    "wrongExplanations": {
+      "São": "„São” — od drugiej w górę (São duas horas)."
+    },
+    "explanationPl": "Pierwsza (jedna) godzina — liczba pojedyncza: É uma hora.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w04-l22-e05",
+    "type": "fillGap",
+    "sentencePt": "___ duas horas.",
+    "sentencePl": "Jest druga.",
+    "options": [
+      "São",
+      "É"
+    ],
+    "answer": "São",
+    "fullItemId": "sao-duas-horas",
+    "wrongExplanations": {
+      "É": "„É” tylko z jedną godziną i z meio-dia."
+    },
+    "explanationPl": "Od drugiej — liczba mnoga: São duas horas.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w04-l22-e06",
+    "type": "fillGap",
+    "sentencePt": "___ cinco.",
+    "sentencePl": "O piątej.",
+    "options": [
+      "Às",
+      "À",
+      "Os"
+    ],
+    "answer": "Às",
+    "fullItemId": "as-cinco",
+    "wrongExplanations": {
+      "À": "à — tylko przy pierwszej: à uma (hora).",
+      "Os": "„os” to rodzajnik bez przyimka „a”. O godzinie: às."
+    },
+    "explanationPl": "O godzinie: a + as (horas) = às → às cinco.",
+    "mistakeCategory": "gender-article",
+    "promptPl": "Ktoś pyta: „A que horas?”. Odpowiedz: o piątej."
+  },
+  {
+    "id": "w04-l22-e07",
+    "type": "buildSentence",
+    "targetItemId": "sao-tres-e-meia",
+    "tiles": [
+      "São",
+      "três",
+      "e",
+      "meia"
+    ],
+    "distractors": [
+      "É",
+      "meio"
+    ],
+    "promptPl": "Powiedz: „Jest wpół do czwartej (3:30).”"
+  },
+  {
+    "id": "w04-l22-e08",
+    "type": "transform",
+    "baseItemId": "e-uma-hora",
+    "instructionPl": "Zmień godzinę: jest druga.",
+    "targetItemId": "sao-duas-horas",
+    "tiles": [
+      "São",
+      "duas",
+      "horas"
+    ],
+    "distractors": [
+      "É",
+      "dois"
+    ]
+  },
+  {
+    "id": "w04-l22-e09",
+    "type": "recallSay",
+    "targetItemId": "desculpe-que-horas-sao-q",
+    "promptPl": "Zapytaj przechodnia o godzinę (zacznij od „Desculpe”)."
+  },
+  {
+    "id": "w04-l22-e10",
+    "type": "recallSay",
+    "targetItemId": "sao-tres-e-meia",
+    "promptPl": "Jest 3:30. Powiedz, która godzina."
+  },
+  {
+    "id": "w04-l22-e11",
+    "type": "typeAnswer",
+    "targetItemId": "que-horas-sao-q",
+    "promptPl": "Napisz: „Która godzina?”"
+  },
+  {
+    "id": "w04-l23-e01",
+    "type": "listenChoose",
+    "targetItemId": "irma",
+    "optionItemIds": [
+      "irma",
+      "irmao",
+      "mae"
+    ],
+    "promptPl": "Posłuchaj. Kto to?"
+  },
+  {
+    "id": "w04-l23-e02",
+    "type": "readChoose",
+    "targetItemId": "mulher",
+    "optionItemIds": [
+      "mulher",
+      "marido",
+      "mae"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w04-l23-e03",
+    "type": "recallChoose",
+    "targetItemId": "pai",
+    "optionItemIds": [
+      "pai",
+      "mae",
+      "irmao"
+    ],
+    "promptPl": "Wybierz „tata”."
+  },
+  {
+    "id": "w04-l23-e04",
+    "type": "fillGap",
+    "sentencePt": "Esta é ___ mulher.",
+    "sentencePl": "To moja żona.",
+    "options": [
+      "a minha",
+      "o meu"
+    ],
+    "answer": "a minha",
+    "fullItemId": "esta-e-a-minha-mulher",
+    "wrongExplanations": {
+      "o meu": "„o meu” — przed rzeczownikami męskimi (o meu marido)."
+    },
+    "explanationPl": "mulher jest żeńska → a minha.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l23-e05",
+    "type": "fillGap",
+    "sentencePt": "___ é o meu marido.",
+    "sentencePl": "To mój mąż.",
+    "options": [
+      "Este",
+      "Esta"
+    ],
+    "answer": "Este",
+    "fullItemId": "este-e-o-meu-marido",
+    "wrongExplanations": {
+      "Esta": "„esta” — gdy przedstawiamy kobietę (Esta é a minha irmã)."
+    },
+    "explanationPl": "Przedstawiamy mężczyznę → este (nawet gdy mówi kobieta).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l23-e06",
+    "type": "buildSentence",
+    "targetItemId": "este-e-o-meu-filho",
+    "tiles": [
+      "Este",
+      "é",
+      "o",
+      "meu",
+      "filho"
+    ],
+    "distractors": [
+      "Esta",
+      "minha"
+    ],
+    "promptPl": "Powiedz: „To mój syn.”"
+  },
+  {
+    "id": "w04-l23-e07",
+    "type": "transform",
+    "baseItemId": "este-e-o-meu-filho",
+    "instructionPl": "Przedstaw córkę (a filha).",
+    "targetItemId": "esta-e-a-minha-filha",
+    "tiles": [
+      "Esta",
+      "é",
+      "a",
+      "minha",
+      "filha"
+    ],
+    "distractors": [
+      "Este",
+      "meu"
+    ]
+  },
+  {
+    "id": "w04-l23-e08",
+    "type": "transform",
+    "baseItemId": "pode-ajudar-me-q",
+    "instructionPl": "Powiedz to grzeczniej (do nieznajomego).",
+    "targetItemId": "podia-ajudar-me-q",
+    "tiles": [
+      "Podia",
+      "ajudar-me"
+    ],
+    "distractors": [
+      "Pode",
+      "Podes"
+    ]
+  },
+  {
+    "id": "w04-l23-e09",
+    "type": "recallSay",
+    "targetItemId": "esta-e-a-minha-mulher",
+    "promptPl": "Przedstaw (przykładowo) żonę: „To moja żona.”"
+  },
+  {
+    "id": "w04-l23-e10",
+    "type": "recallSay",
+    "targetItemId": "a-minha-mae-esta-na-polonia",
+    "promptPl": "Powiedz, że Twoja mama jest w Polsce."
+  },
+  {
+    "id": "w04-l23-e11",
+    "type": "typeAnswer",
+    "targetItemId": "irmao",
+    "promptPl": "Napisz: „brat”."
+  },
+  {
+    "id": "w04-l24-e01",
+    "type": "listenChoose",
+    "targetItemId": "bem-obrigada-de-onde-e-o-senhor-q",
+    "optionItemIds": [
+      "bem-obrigada-de-onde-e-o-senhor-q",
+      "onde-mora-q",
+      "quantos-anos-tem-q"
+    ],
+    "promptPl": "Posłuchaj. O co pyta Marta?"
+  },
+  {
+    "id": "w04-l24-e02",
+    "type": "readChoose",
+    "targetItemId": "eu-tambem-vamos-ao-cafe-do-rui-q",
+    "optionItemIds": [
+      "eu-tambem-vamos-ao-cafe-do-rui-q",
+      "vamos-a-praia",
+      "vou-ao-supermercado"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w04-l24-e03",
+    "type": "recallChoose",
+    "targetItemId": "esta-bem-ate-amanha",
+    "optionItemIds": [
+      "esta-bem-ate-amanha",
+      "ate-amanha",
+      "muito-bem"
+    ],
+    "promptPl": "Wybierz: „Dobrze! Do jutra!”"
+  },
+  {
+    "id": "w04-l24-e04",
+    "type": "fillGap",
+    "sentencePt": "Sou da Polónia, ___ moro no Funchal.",
+    "sentencePl": "Jestem z Polski, ale mieszkam w Funchal.",
+    "options": [
+      "mas",
+      "ou"
+    ],
+    "answer": "mas",
+    "fullItemId": "sou-da-polonia-mas-moro-no-funchal",
+    "wrongExplanations": {
+      "ou": "„ou” = albo, czy."
+    },
+    "explanationPl": "Kontrast → mas (ale).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w04-l24-e05",
+    "type": "fillGap",
+    "sentencePt": "Vamos ___ café do Rui?",
+    "sentencePl": "Pójdziemy do kawiarni Ruiego?",
+    "options": [
+      "ao",
+      "à",
+      "do"
+    ],
+    "answer": "ao",
+    "wrongExplanations": {
+      "à": "à = a + a (żeński). Café jest męski → ao.",
+      "do": "do = de + o (z, od; czyj). Dokąd → ao."
+    },
+    "explanationPl": "Dokąd? → a. o café (męski) → a + o = ao.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-l24-e06",
+    "type": "buildSentence",
+    "targetItemId": "sou-da-polonia-mas-moro-no-funchal",
+    "tiles": [
+      "Sou",
+      "da",
+      "Polónia",
+      "mas",
+      "moro",
+      "no",
+      "Funchal"
+    ],
+    "distractors": [
+      "na",
+      "estou"
+    ]
+  },
+  {
+    "id": "w04-l24-e07",
+    "type": "transform",
+    "baseItemId": "estou-bem-obrigado-e-a-senhora",
+    "instructionPl": "Odpowiedz tak samo, ale koledze (tu).",
+    "targetItemId": "estou-bem-obrigado-e-tu",
+    "tiles": [
+      "Estou",
+      "bem",
+      "obrigado",
+      "E",
+      "tu"
+    ],
+    "distractors": [
+      "a",
+      "senhora"
+    ],
+    "acceptedAnswers": [
+      "Estou bem, obrigada. E tu?"
+    ]
+  },
+  {
+    "id": "w04-l24-e08",
+    "type": "recallSay",
+    "targetItemId": "sou-da-polonia-mas-moro-no-funchal",
+    "promptPl": "Powiedz, skąd jesteś i gdzie mieszkasz."
+  },
+  {
+    "id": "w04-l24-e09",
+    "type": "recallSay",
+    "targetItemId": "eu-tambem-vamos-ao-cafe-do-rui-q",
+    "promptPl": "Zaproponuj wspólne wyjście do kawiarni Ruiego."
+  },
+  {
+    "id": "w04-l24-e10",
+    "type": "typeAnswer",
+    "targetItemId": "ate-amanha",
+    "promptPl": "Napisz: „do jutra”."
+  },
+  {
+    "id": "w04-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "ir-vamos",
+    "optionItemIds": [
+      "ir-vou",
+      "ir-vamos",
+      "ir-vao"
+    ]
+  },
+  {
+    "id": "w04-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "quinta-feira",
+    "optionItemIds": [
+      "quinta-feira",
+      "sexta-feira",
+      "quarta-feira"
+    ]
+  },
+  {
+    "id": "w04-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "sao-cinco-menos-dez",
+    "optionItemIds": [
+      "sao-cinco-menos-dez",
+      "sao-cinco-e-dez",
+      "sao-tres-e-meia"
+    ]
+  },
+  {
+    "id": "w04-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "sessenta",
+    "optionItemIds": [
+      "sessenta",
+      "setenta",
+      "seis"
+    ]
+  },
+  {
+    "id": "w04-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "ir-vao",
+    "optionItemIds": [
+      "ir-vao",
+      "ser-sao",
+      "ter-teem"
+    ]
+  },
+  {
+    "id": "w04-t-e06",
+    "type": "listenChoose",
+    "targetItemId": "irma",
+    "optionItemIds": [
+      "irma",
+      "irmao",
+      "mae"
+    ]
+  },
+  {
+    "id": "w04-t-e07",
+    "type": "readChoose",
+    "targetItemId": "onde-esta-a-chave-q",
+    "optionItemIds": [
+      "onde-esta-a-chave-q",
+      "onde-mora-q",
+      "para-onde-vais-q"
+    ]
+  },
+  {
+    "id": "w04-t-e08",
+    "type": "readChoose",
+    "targetItemId": "pode-repetir",
+    "optionItemIds": [
+      "pode-repetir",
+      "mais-devagar",
+      "nao-percebo"
+    ]
+  },
+  {
+    "id": "w04-t-e09",
+    "type": "readChoose",
+    "targetItemId": "tenho-fome",
+    "optionItemIds": [
+      "tenho-fome",
+      "tem-sede-q",
+      "estou-cansado"
+    ]
+  },
+  {
+    "id": "w04-t-e10",
+    "type": "readChoose",
+    "targetItemId": "esta-e-a-minha-mulher",
+    "optionItemIds": [
+      "esta-e-a-minha-mulher",
+      "este-e-o-meu-marido",
+      "a-minha-irma-mora-na-polonia"
+    ]
+  },
+  {
+    "id": "w04-t-e11",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ cansado.",
+    "sentencePl": "Jestem zmęczony.",
+    "options": [
+      "estou",
+      "sou"
+    ],
+    "answer": "estou",
+    "wrongExplanations": {
+      "sou": "„sou” (ser) — tożsamość, pochodzenie. Zmęczenie mija → estou."
+    },
+    "explanationPl": "Stan chwilowy → estar.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w04-t-e12",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ praia.",
+    "sentencePl": "Idę na plażę.",
+    "options": [
+      "à",
+      "ao"
+    ],
+    "answer": "à",
+    "wrongExplanations": {
+      "ao": "ao — przed męskimi (ao supermercado)."
+    },
+    "explanationPl": "a praia (ż.) → a + a = à.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-t-e13",
+    "type": "fillGap",
+    "sentencePt": "A Ana está ___ trabalho.",
+    "sentencePl": "Ana jest w pracy.",
+    "options": [
+      "no",
+      "na"
+    ],
+    "answer": "no",
+    "fullItemId": "a-ana-esta-no-trabalho",
+    "wrongExplanations": {
+      "na": "na — przed żeńskimi (na mesa)."
+    },
+    "explanationPl": "o trabalho → em + o = no.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-t-e14",
+    "type": "fillGap",
+    "sentencePt": "___ duas horas.",
+    "sentencePl": "Jest druga.",
+    "options": [
+      "São",
+      "É"
+    ],
+    "answer": "São",
+    "fullItemId": "sao-duas-horas",
+    "wrongExplanations": {
+      "É": "„É” — tylko uma hora i meio-dia."
+    },
+    "explanationPl": "Od drugiej — São.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w04-t-e15",
+    "type": "fillGap",
+    "sentencePt": "___ é o meu filho.",
+    "sentencePl": "To mój syn.",
+    "options": [
+      "Este",
+      "Esta"
+    ],
+    "answer": "Este",
+    "fullItemId": "este-e-o-meu-filho",
+    "wrongExplanations": {
+      "Esta": "„esta” — gdy przedstawiamy kobietę lub dziewczynkę."
+    },
+    "explanationPl": "Syn → este.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w04-t-e16",
+    "type": "fillGap",
+    "sentencePt": "Desculpe, ___ ajudar-me?",
+    "sentencePl": "Przepraszam, czy mógłby Pan mi pomóc?",
+    "options": [
+      "podia",
+      "podes"
+    ],
+    "answer": "podia",
+    "wrongExplanations": {
+      "podes": "„podes” — forma „ty”, do bliskich. Do obcej osoby: podia."
+    },
+    "explanationPl": "Do nieznajomego grzecznie: podia (albo pode).",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w04-t-e17",
+    "type": "buildSentence",
+    "targetItemId": "no-sabado-vou-a-praia",
+    "tiles": [
+      "No",
+      "sábado",
+      "vou",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "Na",
+      "ao"
+    ]
+  },
+  {
+    "id": "w04-t-e18",
+    "type": "transform",
+    "baseItemId": "vou-ao-supermercado",
+    "instructionPl": "Zapytaj kolegę (tu), czy idzie do supermarketu.",
+    "targetItemId": "vais-ao-supermercado-q",
+    "tiles": [
+      "Vais",
+      "ao",
+      "supermercado"
+    ],
+    "distractors": [
+      "Vou",
+      "vai"
+    ]
+  },
+  {
+    "id": "w04-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "que-horas-sao-q",
+    "promptPl": "Napisz: „Która godzina?”"
+  },
+  {
+    "id": "w04-t-e20",
+    "type": "typeAnswer",
+    "targetItemId": "preciso-de-ajuda",
+    "promptPl": "Napisz: „Potrzebuję pomocy.”"
+  },
+  {
+    "id": "w04-t-e21",
+    "type": "recallChoose",
+    "targetItemId": "sexta-feira",
+    "optionItemIds": [
+      "sexta-feira",
+      "quinta-feira",
+      "sabado"
+    ],
+    "promptPl": "Wybierz „piątek”."
+  },
+  {
+    "id": "w04-t-e22",
+    "type": "recallChoose",
+    "targetItemId": "como-se-chama",
+    "optionItemIds": [
+      "como-se-chama",
+      "como-esta",
+      "onde-mora-q"
+    ],
+    "promptPl": "Wybierz: „Jak się Pan/Pani nazywa?”"
+  }
+]

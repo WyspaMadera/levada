@@ -1,0 +1,540 @@
+[
+  {
+    "id": "w03-l13",
+    "week": 3,
+    "day": 1,
+    "phase": 1,
+    "titlePl": "Rodzaj i liczba mnoga",
+    "subtitlePl": "Nowy dom, mały samochód",
+    "goals": [
+      "Rozpoznawać rodzaj rzeczownika (o/a)",
+      "Tworzyć liczbę mnogą (-s, os/as)",
+      "Uzgadniać przymiotnik z rzeczownikiem"
+    ],
+    "canDo": [
+      "Powiem: A casa é nova. O carro é pequeno.",
+      "Powiem w liczbie mnogiej: As casas são grandes."
+    ],
+    "prerequisites": [
+      "w02-l12"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "„novo” ma zamknięte ô, a „nova” — otwarte o. Posłuchaj obu form.",
+      "itemIds": [
+        "novo"
+      ]
+    },
+    "newItemIds": [
+      "grande",
+      "pequeno",
+      "bonito",
+      "novo",
+      "carro",
+      "mesa",
+      "os-carros-as-casas"
+    ],
+    "grammar": {
+      "titlePl": "Rodzaj, liczba mnoga i zgoda przymiotnika",
+      "explanationPl": "**Rodzaj.** Każdy rzeczownik jest męski albo żeński — zwykle -o = męski, -a = żeński: **o carro**, **a casa**, **a mesa**. Rodzaj nie zawsze zgadza się z polskim: a casa i a mesa są żeńskie, choć po polsku „dom” i „stół” są męskie.\n\n**Przymiotnik stoi zwykle PO rzeczowniku** i zgadza się z nim w rodzaju i liczbie: um carro nov**o**, uma casa nov**a**. Po polsku odwrotnie: „nowy samochód”.\n\nPrzymiotniki zakończone na **-e** (grande) mają jedną formę dla obu rodzajów: o carro grande, a casa grande.\n\n**Liczba mnoga:** zwykle dodajemy **-s**: casa → casas, carro → carros, grande → grandes. Wyrazy zakończone na spółgłoskę dostają **-es** (inglês → ingleses). Rodzajniki: o → **os**, a → **as**. Czasownik też zmienia liczbę: A casa **é** grande → As casas **são** grandes.\n\n**Wymowa:** końcowe -s brzmi „sz” (casas = „KA-zăsz”). Pułapka: **novo** ma zamknięte ô („NÔ-wu”), ale **nova, novos, novas** — otwarte o („NO-wă”).",
+      "table": [
+        [
+          "o carro novo",
+          "nowy samochód"
+        ],
+        [
+          "os carros novos",
+          "nowe samochody"
+        ],
+        [
+          "a casa nova",
+          "nowy dom"
+        ],
+        [
+          "as casas novas",
+          "nowe domy"
+        ],
+        [
+          "a casa grande",
+          "duży dom"
+        ],
+        [
+          "as casas grandes",
+          "duże domy"
+        ]
+      ],
+      "tableItemIds": [
+        "grande",
+        "pequeno",
+        "bonito",
+        "novo",
+        "os-carros-as-casas"
+      ],
+      "exampleIds": [
+        "a-casa-e-grande",
+        "as-casas-sao-grandes",
+        "o-carro-e-novo",
+        "a-casa-e-nova",
+        "tenho-um-carro-pequeno",
+        "uma-mesa-grande"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d13"
+    ],
+    "exerciseIds": [
+      "w03-l13-e01",
+      "w03-l13-e02",
+      "w03-l13-e03",
+      "w03-l13-e04",
+      "w03-l13-e05",
+      "w03-l13-e06",
+      "w03-l13-e07",
+      "w03-l13-e08",
+      "w03-l13-e09",
+      "w03-l13-e10",
+      "w03-l13-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l13-s01",
+      "w03-l13-s02",
+      "w03-l13-s03"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w03-l14",
+    "week": 3,
+    "day": 2,
+    "phase": 1,
+    "titlePl": "Querer — chcę, chciałbym",
+    "subtitlePl": "quero, queres, quer… i grzeczne „queria”",
+    "goals": [
+      "Odmienić „querer”",
+      "Proponować coś (Quer…? Queres…?)",
+      "Zamawiać grzecznie z „queria”"
+    ],
+    "canDo": [
+      "Zamówię: Queria um chá, se faz favor.",
+      "Zaproponuję: Quer uma água? / Queres um chá?",
+      "Odmówię: Não quero, obrigado/obrigada."
+    ],
+    "prerequisites": [
+      "w03-l13"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "r-tap",
+      "textPl": "W „quero” i „queria” r jest pojedyncze — jedno szybkie uderzenie języka.",
+      "itemIds": [
+        "querer-quero",
+        "queria"
+      ]
+    },
+    "newItemIds": [
+      "querer",
+      "querer-quero",
+      "querer-queres",
+      "querer-quer",
+      "querer-queremos",
+      "querer-querem",
+      "queria",
+      "agua"
+    ],
+    "grammar": {
+      "titlePl": "Querer — chcieć; „queria” — grzeczne „chciałbym”",
+      "explanationPl": "**querer** = chcieć. Uwaga na nieregularną formę 3. osoby: **quer** (bez końcówki).\n\nQuero um café. — Chcę kawę.\nQueres um chá? — Chcesz herbaty? (do kolegi, tu)\nQuer uma água? — Chce Pan/Pani wody? (grzeczna propozycja)\n\n**Queria — grzeczna formuła.** „Quero…” przy ladzie brzmi dość bezpośrednio, jak „chcę…”. Portugalczycy mówią: **Queria um café, se faz favor.** To forma czasu przeszłego (poznasz go później), ale tutaj działa jak polskie **„chciałbym / chciałabym”**. Zaleta: **ta sama forma dla mężczyzny i kobiety**.\n\n**Wymowa:** w quero, queres, quer, querem — **otwarte e** (jak polskie). W querer, queremos, queria pierwsze e jest nieakcentowane i prawie znika („ky-”).",
+      "tableItemIds": [
+        "querer-quero",
+        "querer-queres",
+        "querer-quer",
+        "querer-queremos",
+        "querer-querem"
+      ],
+      "exampleIds": [
+        "quero-um-cafe",
+        "queria-um-cha-sfv",
+        "quer-uma-agua-q",
+        "nao-quero-obrigado",
+        "queremos-dois-cafes",
+        "queres-um-cha-q"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d14"
+    ],
+    "exerciseIds": [
+      "w03-l14-e01",
+      "w03-l14-e02",
+      "w03-l14-e03",
+      "w03-l14-e04",
+      "w03-l14-e05",
+      "w03-l14-e06",
+      "w03-l14-e07",
+      "w03-l14-e08",
+      "w03-l14-e09",
+      "w03-l14-e10",
+      "w03-l14-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l14-s01",
+      "w03-l14-s02",
+      "w03-l14-s03",
+      "w03-l14-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w03-l15",
+    "week": 3,
+    "day": 3,
+    "phase": 1,
+    "titlePl": "Poder — czy mogę? czy może Pan?",
+    "subtitlePl": "Prośby i pozwolenie",
+    "goals": [
+      "Odmienić „poder”",
+      "Prosić o pozwolenie: Posso…?",
+      "Prosić o pomoc: Pode / Podia ajudar-me?"
+    ],
+    "canDo": [
+      "Zapytam: Posso entrar?",
+      "Poproszę: Pode ajudar-me? Podia ajudar-me, se faz favor?",
+      "Odpowiem na prośbę: Pode. / Posso, sim."
+    ],
+    "prerequisites": [
+      "w03-l14"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "reduced-e",
+      "textPl": "Końcowe e w „pode” i „podes” jest bardzo krótkie — prawie znika.",
+      "itemIds": [
+        "pode",
+        "poder-podes"
+      ]
+    },
+    "newItemIds": [
+      "poder-posso",
+      "poder-podes",
+      "pode",
+      "poder-podemos",
+      "poder-podem",
+      "podia",
+      "ajudar",
+      "entrar"
+    ],
+    "grammar": {
+      "titlePl": "Poder — móc; prośby i pozwolenie",
+      "explanationPl": "**poder** = móc (bezokolicznik: „pu-DÊR”). Po nim stoi bezokolicznik — jak po polsku: **Posso entrar?** — Czy mogę wejść?\n\n**Prośba:** Pode ajudar-me? — Czy może mi Pan/Pani pomóc? Jeszcze grzeczniej: **Podia ajudar-me?** — Czy mógłby Pan / mogłaby Pani mi pomóc? (podia działa jak polskie „mógłby / mogłaby” — gotowa formuła).\n\n**Gdzie stoi „me” (mi, mnie)?** W Portugalii — **po czasowniku, z łącznikiem**: ajudar-me, tak jak znane Ci chamo-me. (Po „não” i po słowach pytających zaimek przechodzi przed czasownik — wrócimy do tego później.)\n\n**Pozwolenie:** — Posso entrar? — **Pode.** / **Sim, pode.** Odpowiadamy, powtarzając czasownik (jak „Sou.” w tygodniu 2). — Pode ajudar-me? — **Posso, sim.**\n\n**Tu czy o senhor?** Kolegę pytasz: Podes repetir? Nieznajomego: Pode repetir?\n\n**Wymowa:** posso, podes, pode, podem — otwarte o; podemos, podia — pierwsze o nieakcentowane → u.",
+      "tableItemIds": [
+        "poder-posso",
+        "poder-podes",
+        "pode",
+        "poder-podemos",
+        "poder-podem"
+      ],
+      "exampleIds": [
+        "posso-entrar-q",
+        "pode-ajudar-me-q",
+        "podia-ajudar-me-sfv-q",
+        "podes-repetir-q",
+        "nao-posso",
+        "podemos-entrar-q"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d15"
+    ],
+    "exerciseIds": [
+      "w03-l15-e01",
+      "w03-l15-e02",
+      "w03-l15-e03",
+      "w03-l15-e04",
+      "w03-l15-e05",
+      "w03-l15-e06",
+      "w03-l15-e07",
+      "w03-l15-e08",
+      "w03-l15-e09",
+      "w03-l15-e10",
+      "w03-l15-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l15-s01",
+      "w03-l15-s02",
+      "w03-l15-s03",
+      "w03-l15-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w03-l16",
+    "week": 3,
+    "day": 4,
+    "phase": 1,
+    "titlePl": "Precisar de — czego potrzebuję?",
+    "subtitlePl": "de + o = do, de + a = da",
+    "goals": [
+      "Mówić, czego potrzebuję: preciso de…",
+      "Łączyć de z rodzajnikiem (do, da)",
+      "Zapytać, czy ktoś potrzebuje pomocy"
+    ],
+    "canDo": [
+      "Powiem: Preciso de ajuda. Preciso de um médico.",
+      "Powiem: Preciso do telemóvel.",
+      "Zapytam: Precisa de ajuda?"
+    ],
+    "prerequisites": [
+      "w03-l15"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "s-z",
+      "textPl": "W „preciso” s stoi między samogłoskami, więc brzmi jak z: „pry-SI-zu”.",
+      "itemIds": [
+        "precisar-preciso"
+      ]
+    },
+    "newItemIds": [
+      "precisar-preciso",
+      "precisar-precisas",
+      "precisar-precisa",
+      "ajuda",
+      "telemovel",
+      "medico",
+      "do",
+      "da"
+    ],
+    "grammar": {
+      "titlePl": "Precisar de — potrzebować; ściągnięcia do, da",
+      "explanationPl": "**precisar de** = potrzebować (czegoś). Po portugalsku zawsze z **de**: Preciso **de** ajuda. „Preciso ajuda” to typowy błąd. (Po polsku też mówimy „potrzebuję **czegoś**” — tę rolę gra tu de.)\n\nFormy: **preciso** (ja), **precisas** (ty), **precisa** (on/ona/Pan/Pani).\n\n**Ściągnięcia:** de + rodzajnik zawsze łączą się w jedno słowo:\nde + o = **do** → Preciso do telemóvel.\nde + a = **da** → Precisas da mesa? (znasz to z „Sou da Polónia”)\nde + os = **dos**, de + as = **das**.\n\n**Z rodzajnikiem czy bez?** Ogólnie, „jakiejś” pomocy → **de ajuda** (bez rodzajnika). Konkretna, znana rzecz → **do telemóvel** (telefon, o którym obaj wiemy — zwykle mój). Z „um/uma” piszemy osobno: Preciso **de um** médico.\n\n**W pytaniu** de idzie na początek: **De que** precisa? — Czego Pan potrzebuje?",
+      "table": [
+        [
+          "de + o = do",
+          "Preciso do telemóvel."
+        ],
+        [
+          "de + a = da",
+          "Precisas da mesa?"
+        ],
+        [
+          "de + os = dos",
+          "(np. dos carros)"
+        ],
+        [
+          "de + as = das",
+          "(np. das casas)"
+        ],
+        [
+          "de + um = de um",
+          "Preciso de um médico."
+        ]
+      ],
+      "tableItemIds": [
+        "precisar-preciso",
+        "precisar-precisas",
+        "precisar-precisa"
+      ],
+      "exampleIds": [
+        "preciso-de-ajuda",
+        "preciso-do-telemovel",
+        "preciso-de-um-medico",
+        "precisa-de-ajuda-q",
+        "precisas-da-mesa-q"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d16"
+    ],
+    "exerciseIds": [
+      "w03-l16-e01",
+      "w03-l16-e02",
+      "w03-l16-e03",
+      "w03-l16-e04",
+      "w03-l16-e05",
+      "w03-l16-e06",
+      "w03-l16-e07",
+      "w03-l16-e08",
+      "w03-l16-e09",
+      "w03-l16-e10",
+      "w03-l16-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l16-s01",
+      "w03-l16-s02",
+      "w03-l16-s03"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w03-l17",
+    "week": 3,
+    "day": 5,
+    "phase": 1,
+    "titlePl": "Liczby 11–100 i ceny",
+    "subtitlePl": "Quanto custa?",
+    "goals": [
+      "Liczyć od 11 do 100",
+      "Odróżniać ze słuchu podobne liczby (catorze / quarenta)",
+      "Zapytać o cenę i ją zrozumieć"
+    ],
+    "canDo": [
+      "Policzę do 100",
+      "Zapytam: Quanto custa?",
+      "Zrozumiem: Custa doze euros. São vinte euros."
+    ],
+    "prerequisites": [
+      "w03-l16"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "diphthongs",
+      "textPl": "„euro” zaczyna się od dyftongu êu — tak jak „eu” (ja).",
+      "itemIds": [
+        "euro",
+        "eu"
+      ]
+    },
+    "newItemIds": [
+      "onze",
+      "doze",
+      "treze",
+      "catorze",
+      "quinze",
+      "dezasseis",
+      "dezassete",
+      "dezoito",
+      "dezanove",
+      "vinte",
+      "dezenas-30-100",
+      "quanto-custa-q"
+    ],
+    "grammar": {
+      "titlePl": "Liczby 11–100",
+      "explanationPl": "**11–15** mają własne nazwy: onze, doze, treze, catorze, quinze.\n**16–19** to „dziesięć i …”: dezasseis, dezassete, dezoito, dezanove. Pisownia portugalska: **deza-** (brazylijskie dezesseis, dezessete, dezenove — nie dla nas).\n\n**Dziesiątki:** vinte (20), trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, **cem** (100). Ucz się ich jako ciągu — w tabeli każdą usłyszysz osobno.\n\n**Liczby złożone** łączymy spójnikiem **e** (wym. „i”): vinte **e** um (21), trinta **e** cinco (35), noventa **e** nove (99). Jedynka i dwójka zachowują rodzaj: vinte e **duas** casas.\n\n**Pułapki słuchowe:** catorze (14) ↔ quarenta (40), quinze (15) ↔ cinquenta (50), seis (6) ↔ sessenta (60), sete (7) ↔ setenta (70).\n\n**Ile kosztuje?** **Quanto custa?** — Custa doze euros. Przy kasie często: **São** vinte euros. Po liczbie większej niż 1 — liczba mnoga: um euro, dois euros („ÊU-rusz”).",
+      "tableItemIds": [
+        "onze",
+        "doze",
+        "treze",
+        "catorze",
+        "quinze",
+        "dezasseis",
+        "dezassete",
+        "dezoito",
+        "dezanove",
+        "vinte",
+        "trinta",
+        "quarenta",
+        "cinquenta",
+        "sessenta",
+        "setenta",
+        "oitenta",
+        "noventa",
+        "cem"
+      ],
+      "exampleIds": [
+        "vinte-e-um",
+        "custa-doze-euros",
+        "sao-vinte-euros",
+        "custa-trinta-e-cinco-euros"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d17"
+    ],
+    "exerciseIds": [
+      "w03-l17-e01",
+      "w03-l17-e02",
+      "w03-l17-e03",
+      "w03-l17-e04",
+      "w03-l17-e05",
+      "w03-l17-e06",
+      "w03-l17-e07",
+      "w03-l17-e08",
+      "w03-l17-e09",
+      "w03-l17-e10",
+      "w03-l17-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l17-s01",
+      "w03-l17-s02",
+      "w03-l17-s03",
+      "w03-l17-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w03-l18",
+    "week": 3,
+    "day": 6,
+    "phase": 1,
+    "titlePl": "Ile masz lat? Gdzie mieszkasz? + sprawdzian",
+    "subtitlePl": "Pytania o podstawowe informacje i powtórka tygodnia",
+    "goals": [
+      "Zapytać o wiek i miejsce zamieszkania",
+      "Powiedzieć, ile mam lat i gdzie mieszkam",
+      "Powtórzyć tydzień 3 i sprawdzić się"
+    ],
+    "canDo": [
+      "Zapytam: Quantos anos tem? Onde mora?",
+      "Powiem: Tenho … anos. Moro no Funchal.",
+      "Poprowadzę krótką pogawędkę w kawiarni"
+    ],
+    "prerequisites": [
+      "w03-l17"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "nasal-vowels",
+      "textPl": "„onde” zaczyna się od nosowego õ — bez wyraźnego „n”.",
+      "itemIds": [
+        "onde-mora-q"
+      ]
+    },
+    "newItemIds": [
+      "quantos-anos-tem-q",
+      "onde-mora-q",
+      "moro"
+    ],
+    "grammar": {
+      "titlePl": "Wiek i miejsce zamieszkania + tydzień 3 w pigułce",
+      "explanationPl": "**Wiek — z czasownikiem ter (mieć), jak po polsku:** Quantos anos tem? — **Tenho** trinta e cinco anos. (Mam 35 lat.) Nie mów „Sou 35” — to kalka z angielskiego.\n\n**quantos** = ile (przed rzeczownikiem męskim w liczbie mnogiej: quantos anos). **quanto** = ile (sama cena: Quanto custa?).\n\n**Gdzie mieszkasz?** Onde mora? (Pan/Pani) · Onde moras? (ty) — **Moro** no Funchal / na Madeira. (em + o = no, em + a = na — z tygodnia 2.)\n\n**Grzeczność:** obcych dorosłych zwykle nie pytamy o wiek. To pytanie usłyszysz raczej w urzędzie, u lekarza albo o dzieci.\n\n**Tydzień 3 w pigułce:**\n• rodzaj i liczba: a casa nova → as casas novas\n• Quero… / **Queria…, se faz favor** (grzecznie)\n• Posso…? Pode…? **Podia ajudar-me?**\n• Preciso **de** ajuda / **do** telemóvel / **da** mesa\n• liczby do 100, Quanto custa?",
+      "exampleIds": [
+        "tenho-trinta-e-cinco-anos",
+        "quantos-anos-tens-q",
+        "moro-no-funchal",
+        "moro-na-madeira",
+        "onde-moras-q"
+      ]
+    },
+    "dialogueIds": [
+      "w03-d18"
+    ],
+    "exerciseIds": [
+      "w03-l18-e01",
+      "w03-l18-e02",
+      "w03-l18-e03",
+      "w03-l18-e04",
+      "w03-l18-e05",
+      "w03-l18-e06",
+      "w03-l18-e07",
+      "w03-l18-e08",
+      "w03-l18-e09",
+      "w03-l18-e10",
+      "w03-l18-e11"
+    ],
+    "speakingTaskIds": [
+      "w03-l18-s01",
+      "w03-l18-s02",
+      "w03-l18-s03"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review",
+    "testId": "w03-test"
+  }
+]

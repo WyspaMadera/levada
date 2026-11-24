@@ -1,0 +1,87 @@
+[
+  {
+    "id": "w07-test",
+    "week": 7,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 7",
+    "introPl": "Około 10 minut. Zamawianie w kawiarni (queria…, para mim…, mais um…, a conta), ceny (euros e cêntimos, custa / custam), ilości (um quilo de, meio quilo de, uma garrafa de), zwroty w sklepie i kuchnia Madery. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w07-t-e01",
+          "w07-t-e02",
+          "w07-t-e03",
+          "w07-t-e04",
+          "w07-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w07-t-e06",
+          "w07-t-e07",
+          "w07-t-e08"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w07-t-e09",
+          "w07-t-e10",
+          "w07-t-e11",
+          "w07-t-e12",
+          "w07-t-e13",
+          "w07-t-e14",
+          "w07-t-e15",
+          "w07-t-e16",
+          "w07-t-e17"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w07-t-e18",
+          "w07-t-e19",
+          "w07-t-e20"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w07-t-s01",
+      "w07-t-s02",
+      "w07-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w07-t-m01",
+        "promptPl": "Jesteś w kawiarni z kolegą. Zamów dla siebie i dla niego napój i coś do jedzenia, zapytaj o cenę i poproś o rachunek.",
+        "hintPl": "Bom dia! Para mim… E para ele… Mais um… Quanto é? A conta, se faz favor.",
+        "targetSeconds": 45,
+        "checklistPl": [
+          "Przywitałem/przywitałam się",
+          "Zamówiłem/zamówiłam grzecznie (queria… / para mim… / se faz favor)",
+          "Użyłem/użyłam um / uma zgodnie z rodzajem (um galão, uma torrada)",
+          "Zapytałem/zapytałam o cenę (Quanto é? / Quanto custa?)",
+          "Poprosiłem/poprosiłam o rachunek i podziękowałem/podziękowałam"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w07-cafe"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w07-l37",
+      "w07-l38",
+      "w07-l39",
+      "w07-l40",
+      "w07-l41",
+      "w07-l42"
+    ]
+  }
+]

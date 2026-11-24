@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "w05-l25-e01",
+    "type": "listenChoose",
+    "targetItemId": "falar-fala",
+    "optionItemIds": [
+      "falar-falo",
+      "falar-fala",
+      "falar"
+    ],
+    "promptPl": "Posłuchaj. Która to forma?"
+  },
+  {
+    "id": "w05-l25-e02",
+    "type": "readChoose",
+    "targetItemId": "trabalhar-trabalha",
+    "optionItemIds": [
+      "trabalhar-trabalha",
+      "trabalhar-trabalho",
+      "morar-mora"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l25-e03",
+    "type": "recallChoose",
+    "targetItemId": "onde-trabalha-q",
+    "optionItemIds": [
+      "onde-trabalha-q",
+      "onde-mora-q",
+      "onde-esta-q"
+    ],
+    "promptPl": "Zapytaj grzecznie: „Gdzie Pan/Pani pracuje?”"
+  },
+  {
+    "id": "w05-l25-e04",
+    "type": "fillGap",
+    "sentencePt": "___ no Funchal.",
+    "sentencePl": "Pracuję w Funchal.",
+    "options": [
+      "Trabalho",
+      "Trabalha",
+      "Trabalhar"
+    ],
+    "answer": "Trabalho",
+    "fullItemId": "trabalho-no-funchal",
+    "wrongExplanations": {
+      "Trabalha": "„trabalha” = on/ona/Pan/Pani pracuje. Ja → trabalho.",
+      "Trabalhar": "„trabalhar” to bezokolicznik (pracować). W zdaniu odmieniamy: (eu) trabalho."
+    },
+    "explanationPl": "ja → końcówka -o: trabalh-ar → trabalh-o.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l25-e05",
+    "type": "fillGap",
+    "sentencePt": "O senhor ___ inglês?",
+    "sentencePl": "Czy Pan mówi po angielsku?",
+    "options": [
+      "fala",
+      "falo",
+      "falas"
+    ],
+    "answer": "fala",
+    "fullItemId": "o-senhor-fala-ingles-q",
+    "wrongExplanations": {
+      "falo": "„falo” = ja mówię.",
+      "falas": "„falas” = ty mówisz (do bliskich). Do Pana/Pani → fala."
+    },
+    "explanationPl": "o senhor / a senhora + 3. osoba (jak po polsku „Pan mówi”) → fala.",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w05-l25-e06",
+    "type": "buildSentence",
+    "targetItemId": "a-ana-fala-ingles",
+    "tiles": [
+      "A",
+      "Ana",
+      "fala",
+      "inglês"
+    ],
+    "distractors": [
+      "falo",
+      "é"
+    ],
+    "promptPl": "Powiedz: „Ana mówi po angielsku.”"
+  },
+  {
+    "id": "w05-l25-e07",
+    "type": "transform",
+    "baseItemId": "trabalho-aqui",
+    "instructionPl": "Zapytaj nieznajomego (o senhor), czy tu pracuje.",
+    "targetItemId": "o-senhor-trabalha-aqui-q",
+    "tiles": [
+      "O",
+      "senhor",
+      "trabalha",
+      "aqui"
+    ],
+    "distractors": [
+      "trabalho",
+      "tu"
+    ]
+  },
+  {
+    "id": "w05-l25-e08",
+    "type": "transform",
+    "baseItemId": "a-ana-fala-ingles",
+    "instructionPl": "Zaprzecz: Ana NIE mówi po angielsku.",
+    "targetItemId": "a-ana-nao-fala-ingles",
+    "tiles": [
+      "A",
+      "Ana",
+      "não",
+      "fala",
+      "inglês"
+    ],
+    "distractors": [
+      "falo",
+      "nunca"
+    ]
+  },
+  {
+    "id": "w05-l25-e09",
+    "type": "recallSay",
+    "targetItemId": "onde-trabalha-q",
+    "promptPl": "Poznajesz kogoś nowego. Zapytaj grzecznie, gdzie pracuje."
+  },
+  {
+    "id": "w05-l25-e10",
+    "type": "recallSay",
+    "targetItemId": "sim-em-casa-falo-polaco",
+    "promptPl": "Ktoś pyta, czy w domu mówisz po polsku. Odpowiedz: tak."
+  },
+  {
+    "id": "w05-l25-e11",
+    "type": "typeAnswer",
+    "targetItemId": "falar-falo",
+    "promptPl": "Napisz: „(ja) mówię”."
+  },
+  {
+    "id": "w05-l26-e01",
+    "type": "minimalPair",
+    "itemIds": [
+      "comer-como",
+      "comer-come"
+    ],
+    "promptPl": "Posłuchaj: „como” (ja jem, zamknięte ô) czy „come” (on je, otwarte o)?"
+  },
+  {
+    "id": "w05-l26-e02",
+    "type": "listenChoose",
+    "targetItemId": "beber-bebe",
+    "optionItemIds": [
+      "beber-bebo",
+      "beber-bebe",
+      "comer-come"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w05-l26-e03",
+    "type": "readChoose",
+    "targetItemId": "o-cafe-abre-as-oito",
+    "optionItemIds": [
+      "o-cafe-abre-as-oito",
+      "hoje-como-em-casa",
+      "a-ana-come-pao"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l26-e04",
+    "type": "recallChoose",
+    "targetItemId": "pao",
+    "optionItemIds": [
+      "pao",
+      "sopa",
+      "agua"
+    ],
+    "promptPl": "Wybierz „chleb”."
+  },
+  {
+    "id": "w05-l26-e05",
+    "type": "fillGap",
+    "sentencePt": "A Ana ___ pão.",
+    "sentencePl": "Ana je chleb.",
+    "options": [
+      "come",
+      "como",
+      "comer"
+    ],
+    "answer": "come",
+    "fullItemId": "a-ana-come-pao",
+    "wrongExplanations": {
+      "como": "„como” = ja jem.",
+      "comer": "„comer” to bezokolicznik (jeść). O Anie → come."
+    },
+    "explanationPl": "ona → końcówka -e: com-er → com-e.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l26-e06",
+    "type": "fillGap",
+    "sentencePt": "Não ___ café.",
+    "sentencePl": "Nie piję kawy.",
+    "options": [
+      "bebo",
+      "bebe"
+    ],
+    "answer": "bebo",
+    "fullItemId": "nao-bebo-cafe",
+    "wrongExplanations": {
+      "bebe": "„bebe” = on/ona/Pan/Pani pije."
+    },
+    "explanationPl": "ja → -o: bebo.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l26-e07",
+    "type": "buildSentence",
+    "targetItemId": "hoje-como-em-casa",
+    "tiles": [
+      "Hoje",
+      "como",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "come",
+      "na"
+    ],
+    "promptPl": "Powiedz: „Dziś jem w domu.”"
+  },
+  {
+    "id": "w05-l26-e08",
+    "type": "transform",
+    "baseItemId": "nao-bebo-cafe",
+    "instructionPl": "Powiedz to samo o Anie.",
+    "targetItemId": "a-ana-nao-bebe-cafe",
+    "tiles": [
+      "A",
+      "Ana",
+      "não",
+      "bebe",
+      "café"
+    ],
+    "distractors": [
+      "bebo",
+      "come"
+    ]
+  },
+  {
+    "id": "w05-l26-e09",
+    "type": "recallSay",
+    "targetItemId": "sim-como-aqui-e-a-senhora",
+    "promptPl": "Ktoś pyta, czy jesz tutaj. Odpowiedz, że tak, i zapytaj grzecznie o nią (a senhora)."
+  },
+  {
+    "id": "w05-l26-e10",
+    "type": "recallSay",
+    "targetItemId": "nao-bebo-cafe",
+    "promptPl": "Powiedz, że nie pijesz kawy."
+  },
+  {
+    "id": "w05-l26-e11",
+    "type": "typeAnswer",
+    "targetItemId": "comer-como",
+    "promptPl": "Napisz: „(ja) jem”."
+  },
+  {
+    "id": "w05-l27-e01",
+    "type": "listenChoose",
+    "targetItemId": "a-noite",
+    "optionItemIds": [
+      "de-manha",
+      "a-tarde",
+      "a-noite"
+    ],
+    "promptPl": "Posłuchaj. Kiedy?"
+  },
+  {
+    "id": "w05-l27-e02",
+    "type": "readChoose",
+    "targetItemId": "deito-me",
+    "optionItemIds": [
+      "deito-me",
+      "levanto-me",
+      "acordar-acordo"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l27-e03",
+    "type": "recallChoose",
+    "targetItemId": "levanto-me",
+    "optionItemIds": [
+      "levanto-me",
+      "deito-me",
+      "chamo-me"
+    ],
+    "promptPl": "Wybierz „wstaję”."
+  },
+  {
+    "id": "w05-l27-e04",
+    "type": "fillGap",
+    "sentencePt": "Levanto-___ às seis e meia.",
+    "sentencePl": "Wstaję o wpół do siódmej.",
+    "options": [
+      "me",
+      "se",
+      "te"
+    ],
+    "answer": "me",
+    "fullItemId": "levanto-me-as-seis-e-meia",
+    "wrongExplanations": {
+      "se": "„se” — o kimś lub do Pana/Pani: levanta-se.",
+      "te": "„te” — forma „ty”: levantas-te."
+    },
+    "explanationPl": "ja → levanto-me (jak chamo-me).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l27-e05",
+    "type": "fillGap",
+    "sentencePt": "A que horas ___ levanta?",
+    "sentencePl": "O której Pan/Pani wstaje?",
+    "options": [
+      "se",
+      "me"
+    ],
+    "answer": "se",
+    "fullItemId": "a-que-horas-se-levanta-q",
+    "wrongExplanations": {
+      "me": "„me” = ja (levanto-me). Pytając Pana/Panią → se."
+    },
+    "explanationPl": "Pytamy Pana/Panią → se. Po pytajniku „a que horas” zaimek stoi przed czasownikiem.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w05-l27-e06",
+    "type": "fillGap",
+    "sentencePt": "___ tarde estou em casa.",
+    "sentencePl": "Po południu jestem w domu.",
+    "options": [
+      "À",
+      "De"
+    ],
+    "answer": "À",
+    "fullItemId": "a-tarde-estou-em-casa",
+    "wrongExplanations": {
+      "De": "„de” tylko w „de manhã”. Po południu → à tarde."
+    },
+    "explanationPl": "Pory dnia: de manhã, ale à tarde i à noite.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w05-l27-e07",
+    "type": "buildSentence",
+    "targetItemId": "a-noite-deito-me-as-onze",
+    "tiles": [
+      "À",
+      "noite",
+      "deito-me",
+      "às",
+      "onze"
+    ],
+    "distractors": [
+      "levanto-me",
+      "me"
+    ],
+    "promptPl": "Powiedz: „Wieczorem kładę się o jedenastej.”"
+  },
+  {
+    "id": "w05-l27-e08",
+    "type": "transform",
+    "baseItemId": "acordo-as-seis",
+    "instructionPl": "Powiedz, że WSTAJESZ o 6:30.",
+    "targetItemId": "levanto-me-as-seis-e-meia",
+    "tiles": [
+      "Levanto-me",
+      "às",
+      "seis",
+      "e",
+      "meia"
+    ],
+    "distractors": [
+      "Acordo",
+      "me"
+    ]
+  },
+  {
+    "id": "w05-l27-e09",
+    "type": "recallSay",
+    "targetItemId": "a-que-horas-se-levanta-q",
+    "promptPl": "Zapytaj grzecznie, o której ktoś wstaje."
+  },
+  {
+    "id": "w05-l27-e10",
+    "type": "recallSay",
+    "targetItemId": "tomo-o-pequeno-almoco-em-casa",
+    "promptPl": "Powiedz, że jesz śniadanie w domu."
+  },
+  {
+    "id": "w05-l27-e11",
+    "type": "typeAnswer",
+    "targetItemId": "de-manha",
+    "promptPl": "Napisz: „rano”."
+  },
+  {
+    "id": "w05-l28-e01",
+    "type": "listenChoose",
+    "targetItemId": "comer-comes",
+    "optionItemIds": [
+      "comer-como",
+      "comer-comes",
+      "comer-comemos"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w05-l28-e02",
+    "type": "readChoose",
+    "targetItemId": "as-vezes",
+    "optionItemIds": [
+      "as-vezes",
+      "sempre",
+      "nunca"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l28-e03",
+    "type": "recallChoose",
+    "targetItemId": "nunca",
+    "optionItemIds": [
+      "nunca",
+      "sempre",
+      "as-vezes"
+    ],
+    "promptPl": "Wybierz „nigdy”."
+  },
+  {
+    "id": "w05-l28-e04",
+    "type": "fillGap",
+    "sentencePt": "Em casa ___ polaco ou português?",
+    "sentencePl": "W domu mówisz po polsku czy po portugalsku?",
+    "options": [
+      "falas",
+      "fala",
+      "falamos"
+    ],
+    "answer": "falas",
+    "fullItemId": "em-casa-falas-polaco-ou-portugues-q",
+    "wrongExplanations": {
+      "fala": "„fala” = on/ona/Pan/Pani mówi. Do kolegi (tu) → falas.",
+      "falamos": "„falamos” = my mówimy."
+    },
+    "explanationPl": "tu → końcówka -as: falas.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l28-e05",
+    "type": "fillGap",
+    "sentencePt": "___ bebo café à noite.",
+    "sentencePl": "Nigdy nie piję kawy wieczorem.",
+    "options": [
+      "Nunca",
+      "Não nunca",
+      "Sempre"
+    ],
+    "answer": "Nunca",
+    "fullItemId": "nunca-bebo-cafe-a-noite",
+    "wrongExplanations": {
+      "Não nunca": "Po polsku „nigdy nie”, ale po portugalsku samo „nunca” przed czasownikiem.",
+      "Sempre": "„sempre” = zawsze."
+    },
+    "explanationPl": "„nunca” przed czasownikiem wystarczy — bez „não”.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w05-l28-e06",
+    "type": "buildSentence",
+    "targetItemId": "as-vezes-falamos-portugues",
+    "tiles": [
+      "Às",
+      "vezes",
+      "falamos",
+      "português"
+    ],
+    "distractors": [
+      "falam",
+      "sempre"
+    ],
+    "promptPl": "Powiedz: „Czasem mówimy po portugalsku.”"
+  },
+  {
+    "id": "w05-l28-e07",
+    "type": "transform",
+    "baseItemId": "eu-como-sempre-em-casa",
+    "instructionPl": "Zmień na „my”.",
+    "targetItemId": "nos-comemos-sempre-em-casa",
+    "tiles": [
+      "Nós",
+      "comemos",
+      "sempre",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "comem",
+      "como"
+    ]
+  },
+  {
+    "id": "w05-l28-e08",
+    "type": "transform",
+    "baseItemId": "a-que-horas-se-levanta-q",
+    "instructionPl": "Zapytaj o to samo koleżankę (tu).",
+    "targetItemId": "a-que-horas-te-levantas-q",
+    "tiles": [
+      "A",
+      "que",
+      "horas",
+      "te",
+      "levantas"
+    ],
+    "distractors": [
+      "se",
+      "levanta"
+    ]
+  },
+  {
+    "id": "w05-l28-e09",
+    "type": "recallSay",
+    "targetItemId": "a-que-horas-te-levantas-q",
+    "promptPl": "Zapytaj kolegę, o której wstaje."
+  },
+  {
+    "id": "w05-l28-e10",
+    "type": "recallSay",
+    "targetItemId": "nos-comemos-sempre-em-casa",
+    "promptPl": "Powiedz, że (wy, cała rodzina) zawsze jecie w domu."
+  },
+  {
+    "id": "w05-l28-e11",
+    "type": "typeAnswer",
+    "targetItemId": "sempre",
+    "promptPl": "Napisz: „zawsze”."
+  },
+  {
+    "id": "w05-l29-e01",
+    "type": "listenChoose",
+    "targetItemId": "o-que-estas-a-fazer-q",
+    "optionItemIds": [
+      "o-que-estas-a-fazer-q",
+      "o-que-esta-a-fazer-q",
+      "para-onde-vais-q"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w05-l29-e02",
+    "type": "readChoose",
+    "targetItemId": "a-ana-esta-a-falar-ao-telemovel",
+    "optionItemIds": [
+      "a-ana-esta-a-falar-ao-telemovel",
+      "a-ana-fala-ingles",
+      "a-ana-esta-no-trabalho"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l29-e03",
+    "type": "recallChoose",
+    "targetItemId": "agora",
+    "optionItemIds": [
+      "agora",
+      "hoje",
+      "sempre"
+    ],
+    "promptPl": "Wybierz „teraz”."
+  },
+  {
+    "id": "w05-l29-e04",
+    "type": "fillGap",
+    "sentencePt": "A Ana está ___ ao telemóvel.",
+    "sentencePl": "Ana (właśnie) rozmawia przez telefon.",
+    "options": [
+      "a falar",
+      "falando",
+      "falar"
+    ],
+    "answer": "a falar",
+    "fullItemId": "a-ana-esta-a-falar-ao-telemovel",
+    "wrongExplanations": {
+      "falando": "W Portugalii (w standardowym PT-PT) mówimy „estar a + bezokolicznik”. Forma z -ndo (falando) to wariant brazylijski — w tym kursie jej nie używamy.",
+      "falar": "Brakuje „a”: está a falar."
+    },
+    "explanationPl": "Co ktoś robi w tej chwili: estar a + bezokolicznik.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w05-l29-e05",
+    "type": "fillGap",
+    "sentencePt": "___ a trabalhar.",
+    "sentencePl": "(Właśnie) pracuję.",
+    "options": [
+      "Estou",
+      "Sou",
+      "Está"
+    ],
+    "answer": "Estou",
+    "fullItemId": "estou-a-trabalhar",
+    "wrongExplanations": {
+      "Sou": "„ser” nie łączy się z „a + bezokolicznik”. Teraz → estou a trabalhar.",
+      "Está": "„está” = on/ona/Pan/Pani. Ja → estou."
+    },
+    "explanationPl": "To, co dzieje się teraz → estar: estou a…",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w05-l29-e06",
+    "type": "buildSentence",
+    "targetItemId": "o-rui-esta-a-trabalhar",
+    "tiles": [
+      "O",
+      "Rui",
+      "está",
+      "a",
+      "trabalhar"
+    ],
+    "distractors": [
+      "é",
+      "trabalhando"
+    ],
+    "promptPl": "Powiedz: „Rui (teraz) pracuje.”"
+  },
+  {
+    "id": "w05-l29-e07",
+    "type": "transform",
+    "baseItemId": "o-que-esta-a-fazer-q",
+    "instructionPl": "Zapytaj o to samo koleżankę (tu).",
+    "targetItemId": "o-que-estas-a-fazer-q",
+    "tiles": [
+      "O",
+      "que",
+      "estás",
+      "a",
+      "fazer"
+    ],
+    "distractors": [
+      "está",
+      "fazendo"
+    ]
+  },
+  {
+    "id": "w05-l29-e08",
+    "type": "transform",
+    "baseItemId": "estou-a-comer",
+    "instructionPl": "Zmień na „my” i dodaj „teraz” na początku.",
+    "targetItemId": "agora-estamos-a-comer",
+    "tiles": [
+      "Agora",
+      "estamos",
+      "a",
+      "comer"
+    ],
+    "distractors": [
+      "comemos",
+      "estão"
+    ]
+  },
+  {
+    "id": "w05-l29-e09",
+    "type": "recallSay",
+    "targetItemId": "o-que-esta-a-fazer-q",
+    "promptPl": "Zapytaj grzecznie (Pan/Pani), co ktoś teraz robi."
+  },
+  {
+    "id": "w05-l29-e10",
+    "type": "recallSay",
+    "targetItemId": "estou-a-trabalhar",
+    "promptPl": "Ktoś dzwoni. Powiedz, że właśnie pracujesz."
+  },
+  {
+    "id": "w05-l29-e11",
+    "type": "typeAnswer",
+    "targetItemId": "agora",
+    "promptPl": "Napisz: „teraz”."
+  },
+  {
+    "id": "w05-l30-e01",
+    "type": "listenChoose",
+    "targetItemId": "falar-falam",
+    "optionItemIds": [
+      "falar-fala",
+      "falar-falam",
+      "falar-falamos"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w05-l30-e02",
+    "type": "readChoose",
+    "targetItemId": "o-rui-e-a-ana-trabalham-no-funchal",
+    "optionItemIds": [
+      "o-rui-e-a-ana-trabalham-no-funchal",
+      "o-rui-trabalha-no-cafe",
+      "trabalho-no-funchal"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w05-l30-e03",
+    "type": "recallChoose",
+    "targetItemId": "comer-comem",
+    "optionItemIds": [
+      "comer-comem",
+      "comer-come",
+      "comer-comemos"
+    ],
+    "promptPl": "Wybierz „(oni) jedzą”."
+  },
+  {
+    "id": "w05-l30-e04",
+    "type": "fillGap",
+    "sentencePt": "Eles ___ português.",
+    "sentencePl": "Oni mówią po portugalsku.",
+    "options": [
+      "falam",
+      "fala",
+      "falamos"
+    ],
+    "answer": "falam",
+    "fullItemId": "eles-falam-portugues",
+    "wrongExplanations": {
+      "fala": "„fala” = on/ona (l.poj.).",
+      "falamos": "„falamos” = my."
+    },
+    "explanationPl": "eles / elas / os senhores → -am (falar), -em (comer).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l30-e05",
+    "type": "fillGap",
+    "sentencePt": "O Rui e a Ana ___ no Funchal.",
+    "sentencePl": "Rui i Ana pracują w Funchal.",
+    "options": [
+      "trabalham",
+      "trabalha"
+    ],
+    "answer": "trabalham",
+    "fullItemId": "o-rui-e-a-ana-trabalham-no-funchal",
+    "wrongExplanations": {
+      "trabalha": "„trabalha” — jedna osoba. Rui i Ana → trabalham."
+    },
+    "explanationPl": "Dwie osoby (o Rui e a Ana) = oni → trabalham.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-l30-e06",
+    "type": "buildSentence",
+    "targetItemId": "eles-comem-as-oito",
+    "tiles": [
+      "Eles",
+      "comem",
+      "às",
+      "oito"
+    ],
+    "distractors": [
+      "come",
+      "os"
+    ],
+    "promptPl": "Powiedz: „Oni jedzą o ósmej.”"
+  },
+  {
+    "id": "w05-l30-e07",
+    "type": "transform",
+    "baseItemId": "eles-falam-portugues",
+    "instructionPl": "Zmień na „my”.",
+    "targetItemId": "nos-falamos-portugues",
+    "tiles": [
+      "Nós",
+      "falamos",
+      "português"
+    ],
+    "distractors": [
+      "falam",
+      "Eles"
+    ]
+  },
+  {
+    "id": "w05-l30-e08",
+    "type": "recallSay",
+    "targetItemId": "vou-estou-cansado-acordo-sempre-as-seis",
+    "promptPl": "Ktoś pyta, czy idziesz do domu. Odpowiedz: tak, jesteś zmęczony/zmęczona, zawsze budzisz się o szóstej."
+  },
+  {
+    "id": "w05-l30-e09",
+    "type": "recallSay",
+    "targetItemId": "sim-comemos-sempre-em-casa-as-oito",
+    "promptPl": "Powiedz, że (cała rodzina) zawsze jecie w domu, o ósmej."
+  },
+  {
+    "id": "w05-l30-e10",
+    "type": "typeAnswer",
+    "targetItemId": "falar-falam",
+    "promptPl": "Napisz: „(oni) mówią”."
+  },
+  {
+    "id": "w05-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "falar-falam",
+    "optionItemIds": [
+      "falar-fala",
+      "falar-falam",
+      "falar-falamos"
+    ]
+  },
+  {
+    "id": "w05-t-e02",
+    "type": "minimalPair",
+    "itemIds": [
+      "comer-como",
+      "comer-come"
+    ],
+    "promptPl": "Posłuchaj: „como” (ja jem) czy „come” (on je)?"
+  },
+  {
+    "id": "w05-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "a-que-horas-se-levanta-q",
+    "optionItemIds": [
+      "a-que-horas-se-levanta-q",
+      "a-que-horas-q",
+      "o-que-esta-a-fazer-q"
+    ]
+  },
+  {
+    "id": "w05-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "as-vezes",
+    "optionItemIds": [
+      "sempre",
+      "as-vezes",
+      "nunca"
+    ]
+  },
+  {
+    "id": "w05-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "estou-a-trabalhar",
+    "optionItemIds": [
+      "estou-a-trabalhar",
+      "trabalho-aqui",
+      "trabalhar-trabalha"
+    ]
+  },
+  {
+    "id": "w05-t-e06",
+    "type": "readChoose",
+    "targetItemId": "de-manha",
+    "optionItemIds": [
+      "de-manha",
+      "a-tarde",
+      "a-noite"
+    ]
+  },
+  {
+    "id": "w05-t-e07",
+    "type": "readChoose",
+    "targetItemId": "deito-me",
+    "optionItemIds": [
+      "deito-me",
+      "levanto-me",
+      "acordar-acordo"
+    ]
+  },
+  {
+    "id": "w05-t-e08",
+    "type": "readChoose",
+    "targetItemId": "o-cafe-abre-as-oito",
+    "optionItemIds": [
+      "o-cafe-abre-as-oito",
+      "eles-comem-as-oito",
+      "acordo-as-seis"
+    ]
+  },
+  {
+    "id": "w05-t-e09",
+    "type": "fillGap",
+    "sentencePt": "O Rui ___ no café.",
+    "sentencePl": "Rui pracuje w kawiarni.",
+    "options": [
+      "trabalha",
+      "trabalho",
+      "trabalham"
+    ],
+    "answer": "trabalha",
+    "fullItemId": "o-rui-trabalha-no-cafe",
+    "wrongExplanations": {
+      "trabalho": "„trabalho” = ja.",
+      "trabalham": "„trabalham” = oni."
+    },
+    "explanationPl": "on (o Rui) → trabalha.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ sempre em casa.",
+    "sentencePl": "My zawsze jemy w domu.",
+    "options": [
+      "comemos",
+      "comem",
+      "como"
+    ],
+    "answer": "comemos",
+    "fullItemId": "nos-comemos-sempre-em-casa",
+    "wrongExplanations": {
+      "comem": "„comem” = oni.",
+      "como": "„como” = ja."
+    },
+    "explanationPl": "nós → comemos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w05-t-e11",
+    "type": "fillGap",
+    "sentencePt": "A Ana está ___ ao telemóvel.",
+    "sentencePl": "Ana (właśnie) rozmawia przez telefon.",
+    "options": [
+      "a falar",
+      "falando"
+    ],
+    "answer": "a falar",
+    "fullItemId": "a-ana-esta-a-falar-ao-telemovel",
+    "wrongExplanations": {
+      "falando": "W Portugalii (w standardowym PT-PT) mówimy „estar a + bezokolicznik”. Forma z -ndo (falando) to wariant brazylijski — w tym kursie jej nie używamy."
+    },
+    "explanationPl": "PT-PT: estar a + bezokolicznik.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w05-t-e12",
+    "type": "fillGap",
+    "sentencePt": "A que horas ___ levanta?",
+    "sentencePl": "O której Pan/Pani wstaje?",
+    "options": [
+      "se",
+      "me"
+    ],
+    "answer": "se",
+    "fullItemId": "a-que-horas-se-levanta-q",
+    "wrongExplanations": {
+      "me": "„me” = ja (levanto-me)."
+    },
+    "explanationPl": "Pan/Pani → se; po pytajniku przed czasownikiem.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w05-t-e13",
+    "type": "fillGap",
+    "sentencePt": "___ bebo café à noite.",
+    "sentencePl": "Nigdy nie piję kawy wieczorem.",
+    "options": [
+      "Nunca",
+      "Não nunca"
+    ],
+    "answer": "Nunca",
+    "fullItemId": "nunca-bebo-cafe-a-noite",
+    "wrongExplanations": {
+      "Não nunca": "Po portugalsku nie podwajamy przeczenia, gdy „nunca” stoi na początku."
+    },
+    "explanationPl": "„nunca” przed czasownikiem — bez „não”.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w05-t-e14",
+    "type": "fillGap",
+    "sentencePt": "O senhor ___ inglês?",
+    "sentencePl": "Czy Pan mówi po angielsku?",
+    "options": [
+      "fala",
+      "falas"
+    ],
+    "answer": "fala",
+    "fullItemId": "o-senhor-fala-ingles-q",
+    "wrongExplanations": {
+      "falas": "„falas” — do bliskich (tu)."
+    },
+    "explanationPl": "o senhor + 3. osoba → fala.",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w05-t-e15",
+    "type": "buildSentence",
+    "targetItemId": "a-noite-deito-me-as-onze",
+    "tiles": [
+      "À",
+      "noite",
+      "deito-me",
+      "às",
+      "onze"
+    ],
+    "distractors": [
+      "me",
+      "deito"
+    ]
+  },
+  {
+    "id": "w05-t-e16",
+    "type": "transform",
+    "baseItemId": "eu-como-sempre-em-casa",
+    "instructionPl": "Zmień na „my”.",
+    "targetItemId": "nos-comemos-sempre-em-casa",
+    "tiles": [
+      "Nós",
+      "comemos",
+      "sempre",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "comem",
+      "como"
+    ]
+  },
+  {
+    "id": "w05-t-e17",
+    "type": "transform",
+    "baseItemId": "o-que-esta-a-fazer-q",
+    "instructionPl": "Zapytaj o to samo kolegę (tu).",
+    "targetItemId": "o-que-estas-a-fazer-q",
+    "tiles": [
+      "O",
+      "que",
+      "estás",
+      "a",
+      "fazer"
+    ],
+    "distractors": [
+      "está",
+      "fazendo"
+    ]
+  },
+  {
+    "id": "w05-t-e18",
+    "type": "typeAnswer",
+    "targetItemId": "agora",
+    "promptPl": "Napisz: „teraz”."
+  },
+  {
+    "id": "w05-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "levanto-me",
+    "promptPl": "Napisz: „wstaję”."
+  },
+  {
+    "id": "w05-t-e20",
+    "type": "recallChoose",
+    "targetItemId": "o-que-estas-a-fazer-q",
+    "optionItemIds": [
+      "o-que-estas-a-fazer-q",
+      "o-que-esta-a-fazer-q",
+      "para-onde-vais-q"
+    ],
+    "promptPl": "Zapytaj kolegę: „Co (teraz) robisz?”"
+  }
+]

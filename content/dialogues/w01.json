@@ -1,0 +1,225 @@
+[
+  {
+    "id": "w01-d01",
+    "titlePl": "W kawiarni",
+    "contextPl": "Rui, barista z kawiarni w Funchal, pyta klientów, czy podać kawę. Tomek (to Ty) odpowiada „tak”, Ana — „nie”.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "cafe-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao"
+      }
+    ]
+  },
+  {
+    "id": "w01-d02",
+    "titlePl": "Rano na klatce schodowej",
+    "contextPl": "Rano spotykasz sąsiadkę Anę. Krótkie powitanie i pożegnanie.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-bom-dia"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bom-dia"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "tudo-bem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "tudo-bem"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "adeus-ate-logo"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w01-d03",
+    "titlePl": "Kawa w Funchal",
+    "contextPl": "Zamawiasz kawę u Ruiego. Potem wychodzisz — przy drzwiach stoją ludzie.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "bom-dia"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bom-dia-um-cafe-sfv"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "muito-obrigado"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "de-nada"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "com-licenca"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w01-d04",
+    "titlePl": "Nowa sąsiadka",
+    "contextPl": "Poznajesz nową sąsiadkę. Rozmowa jest grzeczna (forma „Pan/Pani”).",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "bom-dia"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bom-dia"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "como-se-chama"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "chamo-me-tomasz-e-a-senhora"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "chamo-me-ana-muito-prazer"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "igualmente"
+      }
+    ]
+  },
+  {
+    "id": "w01-d05",
+    "titlePl": "Za szybko!",
+    "contextPl": "Ana mówi coś, czego jeszcze nie znasz — i dobrze! Ćwiczysz proszenie o powtórzenie i wyjaśnienie. (Po angielsku Ana mówi Ci potem: „hot” — gorąco.)",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "hoje-esta-muito-calor"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "desculpe-nao-percebo"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "pode-repetir"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "hoje-esta-muito-calor"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "o-que-significa-calor"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "fala-ingles-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-ah-percebo"
+      }
+    ]
+  },
+  {
+    "id": "w01-d06",
+    "titlePl": "Pierwsza rozmowa w przedszkolu",
+    "contextPl": "Przyprowadzasz dziecko do przedszkola i pierwszy raz rozmawiasz z wychowawczynią, Martą.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "ola-boa-tarde"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "boa-tarde-chamo-me-tomasz"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "muito-prazer-chamo-me-marta"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "igualmente"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "tudo-bem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "tudo-bem-obrigado"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "desculpe-nao-falo-bem"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "nao-faz-mal"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "obrigado-ate-amanha"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "ate-amanha"
+      }
+    ]
+  }
+]

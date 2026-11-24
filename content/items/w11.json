@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "ontem",
+    "kind": "word",
+    "pt": "ontem",
+    "pl": "wczoraj",
+    "pronunciation": {
+      "plSlow": "Õ-tãj",
+      "ipa": "ˈõtɐ̃j",
+      "notePl": "on = nosowe õ; końcowe -em = nosowe „ãj” (jak w „tem”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "czas"
+    ],
+    "usagePl": "ontem de manhã / ontem à tarde / ontem à noite = wczoraj rano / po południu / wieczorem.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falei",
+    "kind": "word",
+    "pt": "falei",
+    "pl": "(ja) mówiłem / mówiłam; rozmawiałem / rozmawiałam",
+    "pronunciation": {
+      "plSlow": "fă-LĂJ",
+      "ipa": "fɐˈlɐj",
+      "notePl": "Akcent na końcu. Końcowe -ei w normie lizbońskiej brzmi „ăj” (jak w „Madeira”); wymowa „ej” też jest powszechna i zrozumiała.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falaste",
+    "kind": "word",
+    "pt": "falaste",
+    "pl": "(ty) mówiłeś / mówiłaś; rozmawiałeś / rozmawiałaś",
+    "pronunciation": {
+      "plSlow": "fă-LASZ-ty",
+      "ipa": "fɐˈlaʃtɨ",
+      "notePl": "s przed t = sz; końcowe e słabe (y).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falou",
+    "kind": "word",
+    "pt": "falou",
+    "pl": "mówił / mówiła; rozmawiał / rozmawiała (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "fă-LÔ",
+      "ipa": "fɐˈlo",
+      "notePl": "ou = jedno zamknięte ô — bez wyraźnego „u” na końcu. Akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falamos-pp",
+    "kind": "word",
+    "pt": "falámos",
+    "pl": "(my) mówiliśmy / mówiłyśmy; rozmawialiśmy",
+    "pronunciation": {
+      "plSlow": "fă-LA-musz",
+      "ipa": "fɐˈlamuʃ",
+      "notePl": "Akcentowane a jest OTWARTE (jak polskie a). W czasie teraźniejszym „falamos” (mówimy) to a jest przytłumione: fă-LĂ-musz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "W Portugalii piszemy falámos (z akcentem), żeby odróżnić czas przeszły od teraźniejszego falamos.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falaram",
+    "kind": "word",
+    "pt": "falaram",
+    "pl": "(oni / one / Państwo) mówili / mówiły; rozmawiali",
+    "pronunciation": {
+      "plSlow": "fă-LA-rãu",
+      "ipa": "fɐˈlaɾɐ̃w̃",
+      "notePl": "Końcowe -am = nosowe „ãu” (jak w „falam”), akcent na -LA-.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalhar-trabalhei",
+    "kind": "word",
+    "pt": "trabalhei",
+    "pl": "(ja) pracowałem / pracowałam",
+    "pronunciation": {
+      "plSlow": "tră-bă-LJĂJ",
+      "ipa": "tɾɐβɐˈʎɐj",
+      "notePl": "lh = lj (jeden dźwięk); -ei = „ăj”, akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jantar-jantei",
+    "kind": "word",
+    "pt": "jantei",
+    "pl": "(ja) jadłem / jadłam kolację",
+    "pronunciation": {
+      "plSlow": "żã-TĂJ",
+      "ipa": "ʒɐ̃ˈtɐj",
+      "notePl": "j = ż; an przed t = nosowe ã; -ei = „ăj”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-trabalhei-em-casa",
+    "kind": "sentence",
+    "pt": "Ontem trabalhei em casa.",
+    "pl": "Wczoraj pracowałem / pracowałam w domu.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj tră-bă-LJĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-falei-com-a-ana",
+    "kind": "sentence",
+    "pt": "Ontem falei com a Ana.",
+    "pl": "Wczoraj rozmawiałem / rozmawiałam z Aną.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj fă-LĂJ kõ ă Ă-nă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falaste-com-o-rui-q",
+    "kind": "sentence",
+    "pt": "Falaste com o Rui?",
+    "pl": "Rozmawiałeś / rozmawiałaś z Ruim?",
+    "pronunciation": {
+      "plSlow": "fă-LASZ-ty kõ u RRUJ?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-falou-com-o-meu-filho",
+    "kind": "sentence",
+    "pt": "A Marta falou com o meu filho.",
+    "pl": "Marta rozmawiała z moim synem.",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă fă-LÔ kõ u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-falamos-portugues",
+    "kind": "sentence",
+    "pt": "Ontem falámos português.",
+    "pl": "Wczoraj mówiliśmy po portugalsku.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj fă-LA-musz pur-tu-GÊSZ.",
+      "notePl": "falámos — otwarte a (LA), nie przytłumione ă jak w „falamos”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-jantei-fora",
+    "kind": "sentence",
+    "pt": "Ontem jantei fora.",
+    "pl": "Wczoraj jadłem / jadłam kolację na mieście.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj żã-TĂJ FO-ră.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-falaram-ingles",
+    "kind": "sentence",
+    "pt": "Eles falaram inglês.",
+    "pl": "Oni mówili po angielsku.",
+    "pronunciation": {
+      "plSlow": "Ê-lysz fă-LA-rãu ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-ontem-falaste-com-a-ana-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Ontem falaste com a Ana?",
+    "pl": "Dzień dobry! Rozmawiałeś wczoraj z Aną?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! Õ-tãj fă-LASZ-ty kõ ă Ă-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falei-sim-ontem-jantei-fora-com-a-ana",
+    "kind": "sentence",
+    "pt": "Falei, sim! Ontem jantei fora com a Ana.",
+    "pl": "Tak, rozmawiałem! Wczoraj jadłem z Aną kolację na mieście.",
+    "pronunciation": {
+      "plSlow": "fă-LĂJ, SĨ! Õ-tãj żã-TĂJ FO-ră kõ ă Ă-nă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "Na pytanie tak/nie Portugalczycy często odpowiadają, powtarzając czasownik: Falaste…? — Falei, sim.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-falaram-portugues-q",
+    "kind": "sentence",
+    "pt": "E falaram português?",
+    "pl": "I rozmawialiście po portugalsku?",
+    "pronunciation": {
+      "plSlow": "i fă-LA-rãu pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "falaram = (wy / oni) rozmawialiście — w pt-PT do kilku osób zwykle używa się formy 3. os. l.mn. (vocês falaram).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falamos-portugues-e-um-pouco-de-ingles",
+    "kind": "sentence",
+    "pt": "Falámos português e um pouco de inglês!",
+    "pl": "Rozmawialiśmy po portugalsku i trochę po angielsku!",
+    "pronunciation": {
+      "plSlow": "fă-LA-musz pur-tu-GÊZ i ũ PÔ-ku dy ĩ-GLÊSZ!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-e-hoje-trabalhas-aqui-q",
+    "kind": "sentence",
+    "pt": "Muito bem! E hoje? Trabalhas aqui?",
+    "pl": "Świetnie! A dziś? Pracujesz tutaj?",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! i Ô-ży? tră-BA-ljăz ă-KI?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-ontem-trabalhei-aqui-hoje-trabalho-em-casa",
+    "kind": "sentence",
+    "pt": "Hoje não. Ontem trabalhei aqui, hoje trabalho em casa.",
+    "pl": "Dziś nie. Wczoraj pracowałem tutaj, dziś pracuję w domu.",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU. Õ-tãj tră-bă-LJĂJ ă-KI, Ô-ży tră-BA-lju ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comi",
+    "kind": "word",
+    "pt": "comi",
+    "pl": "(ja) zjadłem / zjadłam; jadłem / jadłam",
+    "pronunciation": {
+      "plSlow": "ku-MI",
+      "ipa": "kuˈmi",
+      "notePl": "Akcent na końcu: co-MI. Pierwsze o = u.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comeste",
+    "kind": "word",
+    "pt": "comeste",
+    "pl": "(ty) zjadłeś / zjadłaś; jadłeś / jadłaś",
+    "pronunciation": {
+      "plSlow": "ku-MÊSZ-ty",
+      "ipa": "kuˈmeʃtɨ",
+      "notePl": "Zamknięte ê; s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comeu",
+    "kind": "word",
+    "pt": "comeu",
+    "pl": "zjadł / zjadła (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "ku-MÊU",
+      "ipa": "kuˈmew",
+      "notePl": "eu = zamknięte ê + krótkie u (jak w „eu”), akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comemos-pp",
+    "kind": "word",
+    "pt": "comemos",
+    "pl": "(my) zjedliśmy / zjadłyśmy; jedliśmy",
+    "pronunciation": {
+      "plSlow": "ku-MÊ-musz",
+      "ipa": "kuˈmemuʃ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "usagePl": "Ta sama forma co w czasie teraźniejszym (comemos = jemy). O czasie decyduje kontekst: Ontem comemos em casa. W czasownikach na -er nie piszemy tu akcentu.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comeram",
+    "kind": "word",
+    "pt": "comeram",
+    "pl": "(oni / one / Państwo) zjedli / zjadły",
+    "pronunciation": {
+      "plSlow": "ku-MÊ-rãu",
+      "ipa": "kuˈmeɾɐ̃w̃",
+      "notePl": "Końcowe -am = nosowe „ãu”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beber-bebi",
+    "kind": "word",
+    "pt": "bebi",
+    "pl": "(ja) wypiłem / wypiłam; piłem / piłam",
+    "pronunciation": {
+      "plSlow": "by-BI",
+      "ipa": "bɨˈβi",
+      "notePl": "Pierwsze e zredukowane (y); akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-sai-pp",
+    "kind": "word",
+    "pt": "saí",
+    "pl": "(ja) wyszedłem / wyszłam; wyjechałem / wyjechałam",
+    "pronunciation": {
+      "plSlow": "să-I",
+      "ipa": "sɐˈi",
+      "notePl": "Dwie sylaby: sa-Í, akcent na i. Bez akcentu „sai” (jedna sylaba, SAJ) = wychodzi.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-saiu",
+    "kind": "word",
+    "pt": "saiu",
+    "pl": "wyszedł / wyszła (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "să-IU",
+      "ipa": "sɐˈiw",
+      "notePl": "Dwie sylaby: sa-IU, akcent na i.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-comi-peixe",
+    "kind": "sentence",
+    "pt": "Ontem comi peixe.",
+    "pl": "Wczoraj jadłem / jadłam rybę.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj ku-MI PĂJ-szy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-comeste-ao-almoco-q",
+    "kind": "sentence",
+    "pt": "O que comeste ao almoço?",
+    "pl": "Co jadłeś / jadłaś na obiad?",
+    "pronunciation": {
+      "plSlow": "u ky ku-MÊSZ-ty au aɫ-MÔ-su?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "usagePl": "ao almoço = na obiad; ao pequeno-almoço = na śniadanie; ao jantar = na kolację.",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comi-sopa-e-bebi-uma-agua",
+    "kind": "sentence",
+    "pt": "Comi sopa e bebi uma água.",
+    "pl": "Zjadłem / zjadłam zupę i wypiłem / wypiłam wodę.",
+    "pronunciation": {
+      "plSlow": "ku-MI SÔ-pă i by-BI U-mă A-guă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-a-noite-comemos-em-casa",
+    "kind": "sentence",
+    "pt": "Ontem à noite comemos em casa.",
+    "pl": "Wczoraj wieczorem jedliśmy w domu.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj a NÔJ-ty ku-MÊ-muz ãj KA-ză.",
+      "notePl": "comemos przed samogłoską → „ku-MÊ-muz”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-sai-do-trabalho-as-seis",
+    "kind": "sentence",
+    "pt": "Ontem saí do trabalho às seis.",
+    "pl": "Wczoraj wyszedłem / wyszłam z pracy o szóstej.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj să-I du tră-BA-lju asz SĂJSZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-saiu-do-cafe-as-tres",
+    "kind": "sentence",
+    "pt": "O Rui saiu do café às três.",
+    "pl": "Rui wyszedł z kawiarni o trzeciej.",
+    "pronunciation": {
+      "plSlow": "u RRUJ să-IU du kă-FE asz TRÊSZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-comeram-bolo-do-caco",
+    "kind": "sentence",
+    "pt": "Eles comeram bolo do caco.",
+    "pl": "Oni zjedli bolo do caco.",
+    "pronunciation": {
+      "plSlow": "Ê-lysz ku-MÊ-rãu BÔ-lu du KA-ku.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-hoje-nao-comes-nada-q",
+    "kind": "sentence",
+    "pt": "Olá! Hoje não comes nada?",
+    "pl": "Cześć! Dziś nic nie jesz?",
+    "pronunciation": {
+      "plSlow": "o-LA! Ô-ży NÃU KÔ-myż NA-dă?",
+      "notePl": "comes przed n → „KÔ-myż”. Podwójne przeczenie: não… nada = nic.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-obrigado-comi-muito-ao-pequeno-almoco",
+    "kind": "sentence",
+    "pt": "Não, obrigado. Comi muito ao pequeno-almoço.",
+    "pl": "Nie, dziękuję. Zjadłem dużo na śniadanie.",
+    "pronunciation": {
+      "plSlow": "NÃU, o-bri-GA-du. ku-MI MŨJ-tu au py-KÊ-nu aɫ-MÔ-su.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-um-cafe-q",
+    "kind": "sentence",
+    "pt": "E um café?",
+    "pl": "A kawa?",
+    "pronunciation": {
+      "plSlow": "i ũ kă-FE?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-bebi-tres-cafes-no-escritorio",
+    "kind": "sentence",
+    "pt": "Hoje não. Bebi três cafés no escritório!",
+    "pl": "Dziś nie. Wypiłem trzy kawy w biurze!",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU. by-BI TRÊSZ kă-FEŻ nu ysz-kri-TO-ri-u!",
+      "notePl": "cafés przed n → „kă-FEŻ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tres-eu-hoje-bebi-so-um",
+    "kind": "sentence",
+    "pt": "Três?! Eu hoje bebi só um.",
+    "pl": "Trzy?! Ja dziś wypiłem tylko jedną.",
+    "pronunciation": {
+      "plSlow": "TRÊSZ?! ÊU Ô-ży by-BI SO Ũ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "um café → „só um” (męski, bo „o café”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-sai-do-escritorio-muito-tarde",
+    "kind": "sentence",
+    "pt": "Ontem saí do escritório muito tarde.",
+    "pl": "Wczoraj wyszedłem z biura bardzo późno.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj să-I du ysz-kri-TO-ri-u MŨJ-tu TAR-dy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fui",
+    "kind": "word",
+    "pt": "fui",
+    "pl": "(ja) byłem / byłam; poszedłem / poszłam, pojechałem / pojechałam",
+    "pronunciation": {
+      "plSlow": "FUJ",
+      "ipa": "fuj",
+      "notePl": "Jedna sylaba: ui jak polskie „uj”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ir",
+      "ser"
+    ],
+    "usagePl": "Ta sama forma dla „ser” i „ir”: Fui ao mercado. = Poszedłem na targ. / Fui médico. = Byłem lekarzem.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foste",
+    "kind": "word",
+    "pt": "foste",
+    "pl": "(ty) byłeś / byłaś; poszedłeś / poszłaś, pojechałeś / pojechałaś",
+    "pronunciation": {
+      "plSlow": "FÔSZ-ty",
+      "ipa": "ˈfoʃtɨ",
+      "notePl": "Zamknięte ô; s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ir",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foi",
+    "kind": "word",
+    "pt": "foi",
+    "pl": "był / była / było; poszedł / poszła, pojechał / pojechała (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "FÔJ",
+      "ipa": "foj",
+      "notePl": "Jedna sylaba: zamknięte ô + j.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ir",
+      "ser"
+    ],
+    "usagePl": "Bardzo częste: Foi muito bom! = Było bardzo fajnie! Como foi…? = Jak było…?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fomos",
+    "kind": "word",
+    "pt": "fomos",
+    "pl": "(my) byliśmy; poszliśmy, pojechaliśmy",
+    "pronunciation": {
+      "plSlow": "FÔ-musz",
+      "ipa": "ˈfomuʃ",
+      "notePl": "Zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ir",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foram",
+    "kind": "word",
+    "pt": "foram",
+    "pl": "(oni / one / Państwo) byli / były; poszli, pojechali",
+    "pronunciation": {
+      "plSlow": "FÔ-rãu",
+      "ipa": "ˈfoɾɐ̃w̃",
+      "notePl": "Końcowe -am = nosowe „ãu”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ir",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "passado",
+    "kind": "word",
+    "pt": "passado",
+    "ptFem": "passada",
+    "pl": "zeszły, ubiegły",
+    "plFem": "zeszła, ubiegła",
+    "pronunciation": {
+      "plSlow": "pă-SA-du",
+      "ipa": "pɐˈsaðu",
+      "notePl": "ss = s; akcentowane a otwarte.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "pă-SA-dă",
+      "ipa": "pɐˈsaðɐ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "czas"
+    ],
+    "usagePl": "Stoi PO rzeczowniku i zgadza się z nim: o sábado passado, o mês passado, a semana passada.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anteontem",
+    "kind": "word",
+    "pt": "anteontem",
+    "pl": "przedwczoraj",
+    "pronunciation": {
+      "plSlow": "ã-ti-Õ-tãj",
+      "notePl": "Cztery sylaby: an-te-ON-tem; e przed samogłoską brzmi jak krótkie i. Akcent na „on”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-semana-passada",
+    "kind": "phrase",
+    "pt": "na semana passada",
+    "pl": "w zeszłym tygodniu",
+    "pronunciation": {
+      "plSlow": "nă sy-MĂ-nă pă-SA-dă",
+      "ipa": "nɐ sɨˈmɐnɐ pɐˈsaðɐ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "czas"
+    ],
+    "usagePl": "Porównaj: na próxima semana (w przyszłym tygodniu). Także: no sábado passado (w zeszłą sobotę), no mês passado (w zeszłym miesiącu).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-fui-ao-supermercado",
+    "kind": "sentence",
+    "pt": "Ontem fui ao supermercado.",
+    "pl": "Wczoraj byłem / byłam w supermarkecie.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj FUJ au su-per-myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "Dosł. „poszedłem do supermarketu” — fui + ao / à (dokąd).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-passado-fomos-a-praia",
+    "kind": "sentence",
+    "pt": "No sábado passado fomos à praia.",
+    "pl": "W zeszłą sobotę byliśmy na plaży.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du pă-SA-du FÔ-muz a PRAJ-ă.",
+      "notePl": "fomos przed samogłoską → „FÔ-muz”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foi-muito-bom",
+    "kind": "sentence",
+    "pt": "Foi muito bom!",
+    "pl": "Było bardzo fajnie! / Było bardzo dobrze!",
+    "pronunciation": {
+      "plSlow": "FÔJ MŨJ-tu BÕ!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foste-a-praia-q",
+    "kind": "sentence",
+    "pt": "Foste à praia?",
+    "pl": "Byłeś / byłaś na plaży?",
+    "pronunciation": {
+      "plSlow": "FÔSZ-ty a PRAJ-ă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "anteontem-fui-ao-medico",
+    "kind": "sentence",
+    "pt": "Anteontem fui ao médico.",
+    "pl": "Przedwczoraj byłem / byłam u lekarza.",
+    "pronunciation": {
+      "plSlow": "ã-ti-Õ-tãj FUJ au ME-di-ku.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-semana-passada-eles-foram-de-ferias",
+    "kind": "sentence",
+    "pt": "Na semana passada eles foram de férias.",
+    "pl": "W zeszłym tygodniu oni pojechali na urlop.",
+    "pronunciation": {
+      "plSlow": "nă sy-MĂ-nă pă-SA-dă Ê-lysz FÔ-rãu dy FE-ri-ăsz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-foi-o-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "Como foi o fim de semana?",
+    "pl": "Jak minął weekend? (dosł. Jak był weekend?)",
+    "pronunciation": {
+      "plSlow": "KÔ-mu FÔJ u FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-como-foi-o-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "Olá! Como foi o fim de semana?",
+    "pl": "Cześć! Jak minął weekend?",
+    "pronunciation": {
+      "plSlow": "o-LA! KÔ-mu FÔJ u FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foi-muito-bom-no-sabado-fomos-a-praia",
+    "kind": "sentence",
+    "pt": "Foi muito bom! No sábado fomos à praia.",
+    "pl": "Było bardzo fajnie! W sobotę byliśmy na plaży.",
+    "pronunciation": {
+      "plSlow": "FÔJ MŨJ-tu BÕ! nu SA-bă-du FÔ-muz a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-praia-e-no-domingo-q",
+    "kind": "sentence",
+    "pt": "À praia? E no domingo?",
+    "pl": "Na plaży? A w niedzielę?",
+    "pronunciation": {
+      "plSlow": "a PRAJ-ă? i nu du-MĨ-gu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-fui-ao-cafe-do-rui-e-tu-q",
+    "kind": "sentence",
+    "pt": "No domingo fui ao café do Rui. E tu?",
+    "pl": "W niedzielę byłem w kawiarni Ruiego. A ty?",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu FUJ au kă-FE du RRUJ. i TU?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-fui-ao-cinema-foi-muito-bom-tambem",
+    "kind": "sentence",
+    "pt": "Eu fui ao cinema. Foi muito bom também!",
+    "pl": "Ja byłam w kinie. Też było bardzo fajnie!",
+    "pronunciation": {
+      "plSlow": "ÊU FUJ au si-NÊ-mă. FÔJ MŨJ-tu BÕ tã-BÃJ!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tive",
+    "kind": "word",
+    "pt": "tive",
+    "pl": "(ja) miałem / miałam",
+    "pronunciation": {
+      "plSlow": "TI-wy",
+      "ipa": "ˈtivɨ",
+      "notePl": "Końcowe e słabe (y). Ja: tive (z i), on / ona: teve (z ê).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "teve",
+    "kind": "word",
+    "pt": "teve",
+    "pl": "miał / miała (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "TÊ-wy",
+      "ipa": "ˈtevɨ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estive",
+    "kind": "word",
+    "pt": "estive",
+    "pl": "(ja) byłem / byłam (gdzieś; w jakimś stanie)",
+    "pronunciation": {
+      "plSlow": "ysz-TI-wy",
+      "plNatural": "SZTI-wy",
+      "ipa": "ɨʃˈtivɨ",
+      "notePl": "Początkowe e w mowie zwykle znika: „SZTI-wy”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estiveste",
+    "kind": "word",
+    "pt": "estiveste",
+    "pl": "(ty) byłeś / byłaś (gdzieś)",
+    "pronunciation": {
+      "plSlow": "ysz-ti-WESZ-ty",
+      "plNatural": "szti-WESZ-ty",
+      "ipa": "ɨʃtiˈvɛʃtɨ",
+      "notePl": "Akcentowane e jest OTWARTE (jak polskie e) — inaczej niż w „esteve”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esteve",
+    "kind": "word",
+    "pt": "esteve",
+    "pl": "był / była (gdzieś; w jakimś stanie) (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "ysz-TÊ-wy",
+      "plNatural": "SZTÊ-wy",
+      "ipa": "ɨʃˈtevɨ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-dois-dias",
+    "kind": "phrase",
+    "pt": "há dois dias",
+    "pl": "dwa dni temu",
+    "pronunciation": {
+      "plSlow": "A DÔJŻ DI-ăsz",
+      "ipa": "a ˈdojʒ ˈdiɐʃ",
+      "notePl": "h nieme; dois przed d → „DÔJŻ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "czas"
+    ],
+    "usagePl": "há + okres czasu = … temu: há uma semana (tydzień temu), há duas semanas, há três dias. To ten sam czasownik co w „Há uma farmácia aqui perto?”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "doente",
+    "kind": "word",
+    "pt": "doente",
+    "pl": "chory / chora",
+    "pronunciation": {
+      "plSlow": "du-Ẽ-ty",
+      "ipa": "duˈẽtɨ",
+      "notePl": "Trzy sylaby: do-EN-te; en = nosowe ẽ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "zdrowie"
+    ],
+    "usagePl": "Z „estar”: Estou doente. = Jestem chory. O meu filho esteve doente. = Mój syn był chory.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-tive-muito-trabalho",
+    "kind": "sentence",
+    "pt": "Ontem tive muito trabalho.",
+    "pl": "Wczoraj miałem / miałam dużo pracy.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj TI-wy MŨJ-tu tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-nao-tive-tempo",
+    "kind": "sentence",
+    "pt": "Ontem não tive tempo.",
+    "pl": "Wczoraj nie miałem / nie miałam czasu.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj NÃU TI-wy TẼ-pu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-estiveste-ontem-q",
+    "kind": "sentence",
+    "pt": "Onde estiveste ontem?",
+    "pl": "Gdzie byłeś / byłaś wczoraj?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-ti-WESZ-ty Õ-tãj?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-estive-em-casa",
+    "kind": "sentence",
+    "pt": "Ontem estive em casa.",
+    "pl": "Wczoraj byłem / byłam w domu.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj ysz-TI-wy ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estive-doente",
+    "kind": "sentence",
+    "pt": "Estive doente.",
+    "pl": "Byłem chory. / Byłam chora.",
+    "pronunciation": {
+      "plSlow": "ysz-TI-wy du-Ẽ-ty.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "zdrowie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-filho-esteve-doente-na-semana-passada",
+    "kind": "sentence",
+    "pt": "O meu filho esteve doente na semana passada.",
+    "pl": "Mój syn był chory w zeszłym tygodniu.",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju ysz-TÊ-wy du-Ẽ-ty nă sy-MĂ-nă pă-SA-dă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "zdrowie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-teve-muito-trabalho",
+    "kind": "sentence",
+    "pt": "O Rui teve muito trabalho.",
+    "pl": "Rui miał dużo pracy.",
+    "pronunciation": {
+      "plSlow": "u RRUJ TÊ-wy MŨJ-tu tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estive-na-polonia-ha-duas-semanas",
+    "kind": "sentence",
+    "pt": "Estive na Polónia há duas semanas.",
+    "pl": "Byłem / byłam w Polsce dwa tygodnie temu.",
+    "pronunciation": {
+      "plSlow": "ysz-TI-wy nă pu-LO-ni-ă A DU-ăsz sy-MĂ-năsz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fui-ao-medico-ha-dois-dias",
+    "kind": "sentence",
+    "pt": "Fui ao médico há dois dias.",
+    "pl": "Byłem / byłam u lekarza dwa dni temu.",
+    "pronunciation": {
+      "plSlow": "FUJ au ME-di-ku A DÔJŻ DI-ăsz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "zdrowie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-o-seu-filho-esteve-doente-q",
+    "kind": "sentence",
+    "pt": "Bom dia! O seu filho esteve doente?",
+    "pl": "Dzień dobry! Pana syn był chory?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! u SÊU FI-lju ysz-TÊ-wy du-Ẽ-ty?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esteve-sim-esteve-dois-dias-em-casa",
+    "kind": "sentence",
+    "pt": "Esteve, sim. Esteve dois dias em casa.",
+    "pl": "Tak, był. Był dwa dni w domu.",
+    "pronunciation": {
+      "plSlow": "ysz-TÊ-wy, SĨ. ysz-TÊ-wy DÔJŻ DI-ăz ãj KA-ză.",
+      "notePl": "dias przed samogłoską → „DI-ăz”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-agora-esta-bem-q",
+    "kind": "sentence",
+    "pt": "E agora? Está bem?",
+    "pl": "A teraz? Dobrze się czuje?",
+    "pronunciation": {
+      "plSlow": "i ă-GO-ră? ysz-TA BÃJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-muito-bem-obrigado-eu-estive-em-casa-com-ele",
+    "kind": "sentence",
+    "pt": "Está muito bem, obrigado. Eu estive em casa com ele.",
+    "pl": "Czuje się bardzo dobrze, dziękuję. Byłem z nim w domu.",
+    "pronunciation": {
+      "plSlow": "ysz-TA MŨJ-tu BÃJ, o-bri-GA-du. ÊU ysz-TI-wy ãj KA-ză kõ Ê-ly.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-senhor-nao-esteve-doente-q",
+    "kind": "sentence",
+    "pt": "E o senhor? Não esteve doente?",
+    "pl": "A Pan? Nie był Pan chory?",
+    "pronunciation": {
+      "plSlow": "i u sy-ŃÔR? NÃU ysz-TÊ-wy du-Ẽ-ty?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-eu-estou-bem-mas-tive-muito-trabalho",
+    "kind": "sentence",
+    "pt": "Não, eu estou bem. Mas tive muito trabalho!",
+    "pl": "Nie, ja czuję się dobrze. Ale miałem dużo pracy!",
+    "pronunciation": {
+      "plSlow": "NÃU, ÊU ysz-TÔ BÃJ. măsz TI-wy MŨJ-tu tră-BA-lju!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fiz",
+    "kind": "word",
+    "pt": "fiz",
+    "pl": "(ja) zrobiłem / zrobiłam; robiłem / robiłam",
+    "pronunciation": {
+      "plSlow": "FISZ",
+      "ipa": "fiʃ",
+      "notePl": "Końcowe z = sz (przed samogłoską z, przed dźwięczną spółgłoską ż). Ja: fiz (i), on / ona: fez (ê).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "fazer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fizeste",
+    "kind": "word",
+    "pt": "fizeste",
+    "pl": "(ty) zrobiłeś / zrobiłaś; robiłeś / robiłaś",
+    "pronunciation": {
+      "plSlow": "fi-ZESZ-ty",
+      "ipa": "fiˈzɛʃtɨ",
+      "notePl": "Akcentowane e OTWARTE (jak polskie e).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "fazer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fez",
+    "kind": "word",
+    "pt": "fez",
+    "pl": "zrobił / zrobiła; robił / robiła (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "FÊSZ",
+      "ipa": "feʃ",
+      "notePl": "Zamknięte ê; końcowe z = sz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "fazer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fizemos",
+    "kind": "word",
+    "pt": "fizemos",
+    "pl": "(my) zrobiliśmy; robiliśmy",
+    "pronunciation": {
+      "plSlow": "fi-ZE-musz",
+      "ipa": "fiˈzɛmuʃ",
+      "notePl": "Otwarte e — inaczej niż w czasie teraźniejszym „fazemos” (fă-ZÊ-musz).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "fazer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fizeram",
+    "kind": "word",
+    "pt": "fizeram",
+    "pl": "(oni / one / Państwo) zrobili; robili",
+    "pronunciation": {
+      "plSlow": "fi-ZE-rãu",
+      "ipa": "fiˈzɛɾɐ̃w̃",
+      "notePl": "Otwarte e; końcowe -am = „ãu”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "fazer"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ficar-fiquei",
+    "kind": "word",
+    "pt": "fiquei",
+    "pl": "(ja) zostałem / zostałam",
+    "pronunciation": {
+      "plSlow": "fi-KĂJ",
+      "ipa": "fiˈkɐj",
+      "notePl": "qu = k (u nieme); -ei = „ăj”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "ficar → fiquei: c zmienia się w qu, żeby zachować dźwięk „k”. Podobnie: almoçar → almocei.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nada-de-especial",
+    "kind": "phrase",
+    "pt": "Nada de especial.",
+    "pl": "Nic specjalnego.",
+    "pronunciation": {
+      "plSlow": "NA-dă dy ysz-py-si-Aɫ.",
+      "ipa": "ˈnaðɐ ðɨ ɨʃpɨˈsjaɫ",
+      "notePl": "especial: końcowe l ciemne (ɫ), nie polskie ł; „ci-al” w szybkiej mowie zlewa się w „sjaɫ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "Typowa odpowiedź na „O que fizeste?” albo „Como foi…?”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fizeste-ontem-q",
+    "kind": "sentence",
+    "pt": "O que fizeste ontem?",
+    "pl": "Co robiłeś / robiłaś wczoraj?",
+    "pronunciation": {
+      "plSlow": "u ky fi-ZESZ-ty Õ-tãj?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fez-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "O que fez no fim de semana?",
+    "pl": "Co Pan / Pani robił(a) w weekend?",
+    "pronunciation": {
+      "plSlow": "u ky FÊŻ nu FĨ dy sy-MĂ-nă?",
+      "notePl": "fez przed n → „FÊŻ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fez-ontem-q",
+    "kind": "sentence",
+    "pt": "O que fez ontem?",
+    "pl": "Co Pan / Pani robił(a) wczoraj?",
+    "pronunciation": {
+      "plSlow": "u ky FÊZ Õ-tãj?",
+      "notePl": "fez przed samogłoską → „FÊZ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fiquei-em-casa",
+    "kind": "sentence",
+    "pt": "Fiquei em casa.",
+    "pl": "Zostałem / zostałam w domu.",
+    "pronunciation": {
+      "plSlow": "fi-KĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-fiz-um-bolo",
+    "kind": "sentence",
+    "pt": "Ontem fiz um bolo.",
+    "pl": "Wczoraj upiekłem / upiekłam ciasto.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj FIZ ũ BÔ-lu.",
+      "notePl": "fiz przed samogłoską → „FIZ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-fiz-nada",
+    "kind": "sentence",
+    "pt": "Não fiz nada.",
+    "pl": "Nic nie robiłem / nie robiłam.",
+    "pronunciation": {
+      "plSlow": "NÃU FIŻ NA-dă.",
+      "notePl": "fiz przed n → „FIŻ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "Podwójne przeczenie jak po polsku: não… nada = nic nie…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-fez-uma-sopa",
+    "kind": "sentence",
+    "pt": "A Ana fez uma sopa.",
+    "pl": "Ana zrobiła zupę.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă FÊZ U-mă SÔ-pă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fizeram-no-sabado-q",
+    "kind": "sentence",
+    "pt": "O que fizeram no sábado?",
+    "pl": "Co robiliście / robili w sobotę?",
+    "pronunciation": {
+      "plSlow": "u ky fi-ZE-rãu nu SA-bă-du?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ficar-em-casa",
+    "kind": "sentence",
+    "pt": "Vou ficar em casa.",
+    "pl": "Zostanę w domu.",
+    "pronunciation": {
+      "plSlow": "WÔ fi-KAR ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fizeste-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "O que fizeste no fim de semana?",
+    "pl": "Co robiłeś / robiłaś w weekend?",
+    "pronunciation": {
+      "plSlow": "u ky fi-ZESZ-ty nu FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-fizeste-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "Olá! O que fizeste no fim de semana?",
+    "pl": "Cześć! Co robiłeś w weekend?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky fi-ZESZ-ty nu FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nada-de-especial-no-sabado-fiquei-em-casa",
+    "kind": "sentence",
+    "pt": "Nada de especial. No sábado fiquei em casa.",
+    "pl": "Nic specjalnego. W sobotę zostałem w domu.",
+    "pronunciation": {
+      "plSlow": "NA-dă dy ysz-py-si-Aɫ. nu SA-bă-du fi-KĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-fiz-um-bolo-com-o-meu-filho",
+    "kind": "sentence",
+    "pt": "No domingo fiz um bolo com o meu filho!",
+    "pl": "W niedzielę upiekłem ciasto z synem!",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu FIZ ũ BÔ-lu kõ u MÊU FI-lju!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-e-comeram-tudo-q",
+    "kind": "sentence",
+    "pt": "Muito bem! E comeram tudo?",
+    "pl": "Super! I zjedliście wszystko?",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! i ku-MÊ-rãu TU-du?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comemos-tudo-foi-muito-bom",
+    "kind": "sentence",
+    "pt": "Comemos tudo! Foi muito bom.",
+    "pl": "Zjedliśmy wszystko! Było bardzo dobre.",
+    "pronunciation": {
+      "plSlow": "ku-MÊ-musz TU-du! FÔJ MŨJ-tu BÕ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-seguir",
+    "kind": "phrase",
+    "pt": "a seguir",
+    "pl": "potem, następnie",
+    "pronunciation": {
+      "plSlow": "ă sy-GIR",
+      "ipa": "ɐ sɨˈɣiɾ",
+      "notePl": "gu przed i = g (u nieme); akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "Częste w Portugalii przy opowiadaniu po kolei: Primeiro… depois… a seguir… Znaczy mniej więcej to samo co „depois”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "correu-bem",
+    "kind": "sentence",
+    "pt": "Correu bem, obrigado.",
+    "ptFem": "Correu bem, obrigada.",
+    "pl": "Poszło dobrze, dziękuję.",
+    "pronunciation": {
+      "plSlow": "ku-RRÊU BÃJ, o-bri-GA-du.",
+      "notePl": "rr = mocne r; eu = zamknięte ê + krótkie u.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ku-RRÊU BÃJ, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "correu = „pobiegło”, ale w tym zwrocie: poszło, minęło (o dniu, spotkaniu, wizycie). Pytanie: Como correu…?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "primeiro-fui-ao-mercado-depois-fui-a-praia",
+    "kind": "sentence",
+    "pt": "Primeiro fui ao mercado. Depois fui à praia.",
+    "pl": "Najpierw poszedłem / poszłam na targ. Potem poszedłem / poszłam na plażę.",
+    "pronunciation": {
+      "plSlow": "pri-MĂJ-ru FUJ au myr-KA-du. dy-PÔJSZ FUJ a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "usagePl": "primeiro = najpierw (to samo słowo co „pierwszy”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-manha-trabalhei-e-a-seguir-fui-ao-cafe",
+    "kind": "sentence",
+    "pt": "De manhã trabalhei e a seguir fui ao café.",
+    "pl": "Rano pracowałem / pracowałam, a potem poszedłem / poszłam do kawiarni.",
+    "pronunciation": {
+      "plSlow": "dy mă-ŃÃ tră-bă-LJĂJ i ă sy-GIR FUJ au kă-FE.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema",
+    "kind": "sentence",
+    "pt": "Ontem à noite jantei fora e a seguir fui ao cinema.",
+    "pl": "Wczoraj wieczorem zjadłem / zjadłam kolację na mieście, a potem poszedłem / poszłam do kina.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj a NÔJ-ty żã-TĂJ FO-ră i ă sy-GIR FUJ au si-NÊ-mă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-fiquei-em-casa-nao-fiz-nada",
+    "kind": "sentence",
+    "pt": "Ontem fiquei em casa. Não fiz nada!",
+    "pl": "Wczoraj zostałem / zostałam w domu. Nic nie robiłem / nie robiłam!",
+    "pronunciation": {
+      "plSlow": "Õ-tãj fi-KĂJ ãj KA-ză. NÃU FIŻ NA-dă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-noite-como-correu-o-dia-q",
+    "kind": "sentence",
+    "pt": "Boa noite! Como correu o dia?",
+    "pl": "Dobry wieczór! Jak minął dzień?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă NÔJ-ty! KÔ-mu ku-RRÊU u DI-ă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "correu-bem-de-manha-trabalhei-em-casa-e-a-seguir-fui-ao-mercado",
+    "kind": "sentence",
+    "pt": "Correu bem, obrigado. De manhã trabalhei em casa e a seguir fui ao mercado.",
+    "pl": "Dobrze, dziękuję. Rano pracowałem w domu, a potem poszedłem na targ.",
+    "pronunciation": {
+      "plSlow": "ku-RRÊU BÃJ, o-bri-GA-du. dy mă-ŃÃ tră-bă-LJĂJ ãj KA-ză i ă sy-GIR FUJ au myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-tarde-q",
+    "kind": "sentence",
+    "pt": "E à tarde?",
+    "pl": "A po południu?",
+    "pronunciation": {
+      "plSlow": "i a TAR-dy?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-tarde-estive-com-o-meu-filho-na-praia",
+    "kind": "sentence",
+    "pt": "À tarde estive com o meu filho na praia.",
+    "pl": "Po południu byłem z synem na plaży.",
+    "pronunciation": {
+      "plSlow": "a TAR-dy ysz-TI-wy kõ u MÊU FI-lju nă PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-nao-sai-de-casa-tive-muito-trabalho",
+    "kind": "sentence",
+    "pt": "Eu não saí de casa. Tive muito trabalho.",
+    "pl": "Ja nie wychodziłam z domu. Miałam dużo pracy.",
+    "pronunciation": {
+      "plSlow": "ÊU NÃU să-I dy KA-ză. TI-wy MŨJ-tu tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-vamos-jantar-fora-q",
+    "kind": "sentence",
+    "pt": "Amanhã vamos jantar fora?",
+    "pl": "Jutro zjemy kolację na mieście?",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ WĂ-muż żã-TAR FO-ră?",
+      "notePl": "vamos przed ż → „WĂ-muż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-ideia-combinado",
+    "kind": "sentence",
+    "pt": "Boa ideia! Combinado!",
+    "pl": "Dobry pomysł! Umowa stoi!",
+    "pronunciation": {
+      "plSlow": "BÔ-ă i-DĂJ-ă! kõ-bi-NA-du!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w11",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-fui-a-praia",
+    "kind": "sentence",
+    "pt": "No sábado fui à praia.",
+    "pl": "W sobotę byłem / byłam na plaży.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du FUJ a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-trabalhei",
+    "kind": "sentence",
+    "pt": "No sábado trabalhei.",
+    "pl": "W sobotę pracowałem / pracowałam.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du tră-bă-LJĂJ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "foi-muito-bom-e-tu-o-que-fizeste-q",
+    "kind": "sentence",
+    "pt": "Foi muito bom! E tu? O que fizeste?",
+    "pl": "Było bardzo fajnie! A ty? Co robiłeś / robiłaś?",
+    "pronunciation": {
+      "plSlow": "FÔJ MŨJ-tu BÕ! i TU? u ky fi-ZESZ-ty?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-fiquei-em-casa",
+    "kind": "sentence",
+    "pt": "No domingo fiquei em casa.",
+    "pl": "W niedzielę zostałem / zostałam w domu.",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu fi-KĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fizeste-no-sabado-q",
+    "kind": "sentence",
+    "pt": "O que fizeste no sábado?",
+    "pl": "Co robiłeś / robiłaś w sobotę?",
+    "pronunciation": {
+      "plSlow": "u ky fi-ZESZ-ty nu SA-bă-du?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-ontem-a-noite-q",
+    "kind": "sentence",
+    "pt": "E ontem à noite?",
+    "pl": "A wczoraj wieczorem?",
+    "pronunciation": {
+      "plSlow": "i Õ-tãj a NÔJ-ty?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-a-noite-jantei-em-casa",
+    "kind": "sentence",
+    "pt": "Ontem à noite jantei em casa.",
+    "pl": "Wczoraj wieczorem zjadłem / zjadłam kolację w domu.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj a NÔJ-ty żã-TĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estiveste-com-o-rui-q",
+    "kind": "sentence",
+    "pt": "Estiveste com o Rui?",
+    "pl": "Byłeś / byłaś z Ruim? (Widziałeś się z Ruim?)",
+    "pronunciation": {
+      "plSlow": "ysz-ti-WESZ-ty kõ u RRUJ?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estive-sim-fomos-ao-cafe",
+    "kind": "sentence",
+    "pt": "Estive, sim. Fomos ao café.",
+    "pl": "Tak, byłem. Poszliśmy do kawiarni.",
+    "pronunciation": {
+      "plSlow": "ysz-TI-wy, SĨ. FÔ-muz au kă-FE.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-nao-estive-com-ele",
+    "kind": "sentence",
+    "pt": "Não, não estive com ele.",
+    "pl": "Nie, nie widziałem / widziałam się z nim.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU ysz-TI-wy kõ Ê-ly.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-esteve-no-sabado-passado-q",
+    "kind": "sentence",
+    "pt": "Onde esteve no sábado passado?",
+    "pl": "Gdzie Pan / Pani był(a) w zeszłą sobotę?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-TÊ-wy nu SA-bă-du pă-SA-du?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-passado-estive-em-casa",
+    "kind": "sentence",
+    "pt": "No sábado passado estive em casa.",
+    "pl": "W zeszłą sobotę byłem / byłam w domu.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du pă-SA-du ysz-TI-wy ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-fim-de-semana-passado-fiquei-em-casa",
+    "kind": "sentence",
+    "pt": "No fim de semana passado fiquei em casa.",
+    "pl": "W zeszły weekend zostałem / zostałam w domu.",
+    "pronunciation": {
+      "plSlow": "nu FĨ dy sy-MĂ-nă pă-SA-du fi-KĂJ ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w11",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  }
+]

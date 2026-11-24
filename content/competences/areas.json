@@ -1,0 +1,370 @@
+[
+  {
+    "id": "powitania",
+    "order": 1,
+    "titlePl": "Powitania i uprzejmość",
+    "canDoPl": [
+      "Przywitam się i pożegnam o każdej porze dnia",
+      "Podziękuję, poproszę, przeproszę"
+    ],
+    "tags": [
+      "powitania",
+      "uprzejmosc",
+      "grzecznosc"
+    ],
+    "lessonIds": [
+      "w01-l02",
+      "w01-l03"
+    ]
+  },
+  {
+    "id": "o-sobie",
+    "order": 2,
+    "titlePl": "Mówię o sobie",
+    "canDoPl": [
+      "Przedstawię się",
+      "Powiem, skąd jestem i gdzie mieszkam",
+      "Powiem, ile mam lat"
+    ],
+    "tags": [
+      "przedstawianie",
+      "ser",
+      "narodowosci"
+    ],
+    "lessonIds": [
+      "w01-l04",
+      "w02-l08",
+      "w03-l17",
+      "w03-l18"
+    ]
+  },
+  {
+    "id": "rozumienie",
+    "order": 3,
+    "titlePl": "Gdy nie rozumiem",
+    "canDoPl": [
+      "Powiem, że nie rozumiem",
+      "Poproszę o powtórzenie i wolniejsze tempo",
+      "Zapytam o znaczenie słowa"
+    ],
+    "tags": [
+      "rozumienie",
+      "jezyki"
+    ],
+    "lessonIds": [
+      "w01-l05"
+    ]
+  },
+  {
+    "id": "samopoczucie-miejsce",
+    "order": 4,
+    "titlePl": "Jak się czuję i gdzie jestem",
+    "canDoPl": [
+      "Powiem, jak się czuję",
+      "Powiem, gdzie jestem i gdzie coś leży"
+    ],
+    "tags": [
+      "estar",
+      "samopoczucie",
+      "miejsca",
+      "przyimki"
+    ],
+    "lessonIds": [
+      "w02-l09",
+      "w04-l20"
+    ]
+  },
+  {
+    "id": "potrzeby",
+    "order": 5,
+    "titlePl": "Co mam, czego chcę i potrzebuję",
+    "canDoPl": [
+      "Powiem, co mam",
+      "Powiem, czego chcę i czego potrzebuję",
+      "Poproszę o pomoc i pozwolenie"
+    ],
+    "tags": [
+      "ter",
+      "querer",
+      "precisar",
+      "poder"
+    ],
+    "lessonIds": [
+      "w02-l10",
+      "w03-l14",
+      "w03-l15",
+      "w03-l16"
+    ]
+  },
+  {
+    "id": "liczby-ceny",
+    "order": 6,
+    "titlePl": "Liczby i ceny",
+    "canDoPl": [
+      "Policzę do 100",
+      "Zapytam o cenę i zrozumiem odpowiedź"
+    ],
+    "tags": [
+      "liczby",
+      "zakupy"
+    ],
+    "lessonIds": [
+      "w02-l11",
+      "w03-l17"
+    ]
+  },
+  {
+    "id": "czas",
+    "order": 7,
+    "titlePl": "Dni, godziny, umawianie się",
+    "canDoPl": [
+      "Powiem, jaki jest dzień i która godzina",
+      "Umówię się na konkretny dzień i godzinę"
+    ],
+    "tags": [
+      "czas",
+      "godziny",
+      "dni"
+    ],
+    "lessonIds": [
+      "w04-l21",
+      "w04-l22"
+    ]
+  },
+  {
+    "id": "plany",
+    "order": 8,
+    "titlePl": "Dokąd idę, co planuję",
+    "canDoPl": [
+      "Powiem, dokąd idę i z kim",
+      "Powiem, co zrobię jutro, w weekend, w przyszłym tygodniu",
+      "Zaproponuję spotkanie, zgodzę się albo grzecznie odmówię"
+    ],
+    "tags": [
+      "ir",
+      "miasto",
+      "plany"
+    ],
+    "lessonIds": [
+      "w04-l19",
+      "w10-l55",
+      "w10-l56",
+      "w10-l57",
+      "w10-l58",
+      "w10-l59",
+      "w10-l60"
+    ]
+  },
+  {
+    "id": "rodzina",
+    "order": 9,
+    "titlePl": "Rodzina",
+    "canDoPl": [
+      "Przedstawię członków rodziny",
+      "Powiem kilka zdań o dziecku (jeśli chcę)",
+      "Opowiem o rodzeństwie i rodzicach"
+    ],
+    "tags": [
+      "rodzina",
+      "przedszkole"
+    ],
+    "lessonIds": [
+      "w04-l23",
+      "w06-l32",
+      "w06-l35"
+    ]
+  },
+  {
+    "id": "kawiarnia",
+    "order": 10,
+    "titlePl": "Kawiarnia i zakupy",
+    "canDoPl": [
+      "Zamówię w kawiarni",
+      "Kupię coś i zapytam o cenę",
+      "Poproszę o rachunek i zapytam o ilość (quilo, garrafa)",
+      "Rozpoznam typowe dania Madery w menu"
+    ],
+    "tags": [
+      "kawiarnia",
+      "zakupy",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "lessonIds": [
+      "w01-l03",
+      "w03-l14",
+      "w03-l17",
+      "w07-l37",
+      "w07-l38",
+      "w07-l39",
+      "w07-l40",
+      "w07-l41",
+      "w07-l42"
+    ]
+  },
+  {
+    "id": "budowa-zdania",
+    "order": 11,
+    "titlePl": "Budowa zdania",
+    "canDoPl": [
+      "Używam rodzajników i liczby mnogiej",
+      "Tworzę przeczenia i pytania",
+      "Łączę zdania (e, mas, também)"
+    ],
+    "tags": [
+      "rodzajniki",
+      "spojniki",
+      "przymiotniki",
+      "liczba-mnoga",
+      "zaimki",
+      "sciagniecia"
+    ],
+    "lessonIds": [
+      "w02-l07",
+      "w02-l11",
+      "w02-l12",
+      "w03-l13"
+    ]
+  },
+  {
+    "id": "dzien",
+    "order": 12,
+    "titlePl": "Mój dzień i praca",
+    "canDoPl": [
+      "Opiszę swój zwykły dzień",
+      "Powiem, gdzie i jak pracuję",
+      "Powiem, co robię teraz (estar a…)",
+      "Powiem, jak często coś robię",
+      "Powiem, co robię zawodowo i kiedy wychodzę z domu"
+    ],
+    "tags": [
+      "rytm-dnia",
+      "estar-a",
+      "czestotliwosc",
+      "praca"
+    ],
+    "lessonIds": [
+      "w05-l25",
+      "w05-l26",
+      "w05-l27",
+      "w05-l28",
+      "w05-l29",
+      "w09-l49",
+      "w09-l50",
+      "w09-l51",
+      "w09-l52",
+      "w09-l53"
+    ]
+  },
+  {
+    "id": "opis-dom",
+    "order": 13,
+    "titlePl": "Opisuję ludzi i dom",
+    "canDoPl": [
+      "Opiszę osobę (wysoki, sympatyczny…)",
+      "Opiszę swoje mieszkanie"
+    ],
+    "tags": [
+      "opis-osob",
+      "przymiotniki",
+      "dom"
+    ],
+    "lessonIds": [
+      "w06-l31",
+      "w06-l33"
+    ]
+  },
+  {
+    "id": "gusta",
+    "order": 14,
+    "titlePl": "Co lubię",
+    "canDoPl": [
+      "Powiem, co lubię, a czego nie (gostar de)"
+    ],
+    "tags": [
+      "gostar"
+    ],
+    "lessonIds": [
+      "w06-l34"
+    ]
+  },
+  {
+    "id": "miasto-transport",
+    "order": 15,
+    "titlePl": "Miasto i transport",
+    "canDoPl": [
+      "Zapytam o drogę i zrozumiem proste wskazówki",
+      "Pojadę autobusem: przystanek, bilet, godzina odjazdu"
+    ],
+    "tags": [
+      "miasto",
+      "kierunki",
+      "transport"
+    ],
+    "lessonIds": [
+      "w08-l43",
+      "w08-l44",
+      "w08-l45"
+    ]
+  },
+  {
+    "id": "pogoda",
+    "order": 16,
+    "titlePl": "Pogoda i pory roku",
+    "canDoPl": [
+      "Powiem, jaka jest pogoda",
+      "Porozmawiam krótko o porach roku"
+    ],
+    "tags": [
+      "pogoda"
+    ],
+    "lessonIds": [
+      "w08-l46",
+      "w08-l47"
+    ]
+  },
+  {
+    "id": "przeszlosc",
+    "order": 17,
+    "titlePl": "Opowiadam o przeszłości",
+    "canDoPl": [
+      "Powiem, co robiłem/am wczoraj i w weekend",
+      "Zapytam kogoś, co robił",
+      "Użyję fui / estive / tive / fiz"
+    ],
+    "tags": [
+      "przeszlosc"
+    ],
+    "lessonIds": [
+      "w11-l61",
+      "w11-l62",
+      "w11-l63",
+      "w11-l64",
+      "w11-l65",
+      "w11-l66"
+    ]
+  },
+  {
+    "id": "umawianie",
+    "order": 18,
+    "titlePl": "Umawianie się, rezerwacje, telefon",
+    "canDoPl": [
+      "Umówię wizytę i zarezerwuję stolik",
+      "Zmienię lub odwołam termin",
+      "Odbiorę telefon, przedstawię się, poproszę o przekazanie wiadomości",
+      "Podyktuję numer i przeliteruję imię"
+    ],
+    "tags": [
+      "umawianie",
+      "rezerwacje",
+      "telefon"
+    ],
+    "lessonIds": [
+      "w12-l67",
+      "w12-l68",
+      "w12-l69",
+      "w12-l70",
+      "w12-l71"
+    ]
+  }
+]

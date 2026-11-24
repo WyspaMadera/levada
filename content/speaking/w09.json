@@ -1,0 +1,193 @@
+[
+  {
+    "id": "w09-l49-s01",
+    "promptPl": "Ktoś pyta: „O que faz?”. Powiedz, czym się naprawdę zajmujesz.",
+    "modelItemIds": [
+      "sou-medico",
+      "trabalho-com-computadores",
+      "trabalho-em-casa"
+    ],
+    "hintPl": "Sou + zawód (bez rodzajnika) albo Trabalho como… / Trabalho com… Nazwy zawodu, której jeszcze nie znasz, poszukaj w słowniku i sprawdź wymowę w nagraniu."
+  },
+  {
+    "id": "w09-l49-s02",
+    "promptPl": "Poznajesz kogoś na spotkaniu. Zapytaj grzecznie (o senhor / a senhora), czym się zajmuje.",
+    "modelItemIds": [
+      "o-que-faz-q"
+    ]
+  },
+  {
+    "id": "w09-l49-s03",
+    "promptPl": "Zapytaj kolegę (tu), co dziś robi.",
+    "modelItemIds": [
+      "o-que-fazes-hoje-q"
+    ]
+  },
+  {
+    "id": "w09-l49-s04",
+    "promptPl": "Powiedz, co robisz rano w domu (np. śniadanie) i o której.",
+    "modelItemIds": [
+      "faco-o-pequeno-almoco-as-oito",
+      "nos-fazemos-sopa-em-casa"
+    ],
+    "hintPl": "Mów o prawdziwym poranku — wzory to tylko przykłady."
+  },
+  {
+    "id": "w09-l50-s01",
+    "promptPl": "Powiedz, gdzie mieszkasz i o której wychodzisz z domu.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "saio-de-casa-as-oito"
+    ],
+    "hintPl": "Wymowy Twojej miejscowości nie zgadujemy — powiedz ją tak, jak mówią miejscowi.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w09-l50-s02",
+    "promptPl": "Opisz swój dzień pracy: o której wychodzisz z domu, dokąd jedziesz i o której wychodzisz z pracy.",
+    "modelItemIds": [
+      "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+      "saio-do-trabalho-as-cinco",
+      "hoje-trabalho-no-escritorio"
+    ],
+    "hintPl": "Mów o swoim prawdziwym dniu. Jeśli pracujesz w domu: Trabalho em casa."
+  },
+  {
+    "id": "w09-l50-s03",
+    "promptPl": "Zapytaj sąsiadkę (tu), o której wychodzi z domu i o której wychodzi z pracy.",
+    "modelItemIds": [
+      "a-que-horas-sais-de-casa-q",
+      "e-a-que-horas-sais-do-escritorio-q"
+    ]
+  },
+  {
+    "id": "w09-l51-s01",
+    "promptPl": "Wracasz do domu. Sąsiadka pyta: „De onde vens?”. Powiedz, skąd wracasz i czym jedziesz.",
+    "modelItemIds": [
+      "venho-do-trabalho",
+      "venho-de-autocarro"
+    ]
+  },
+  {
+    "id": "w09-l51-s02",
+    "promptPl": "Idziesz do kawiarni. Zaproś kolegę, żeby poszedł z Tobą.",
+    "modelItemIds": [
+      "vou-ao-cafe-do-rui-vens-comigo-q",
+      "vens-comigo-q"
+    ],
+    "hintPl": "Ty idziesz → vou. Kolega ma przyjść z Tobą → vens?"
+  },
+  {
+    "id": "w09-l51-s03",
+    "promptPl": "Kto przyjeżdża do Ciebie na Maderę (rodzice, rodzeństwo, znajomi)? Powiedz jedno zdanie.",
+    "modelItemIds": [
+      "os-meus-pais-vem-a-madeira",
+      "a-ana-vem-amanha"
+    ],
+    "hintPl": "Jedna osoba → vem; kilka osób → vêm."
+  },
+  {
+    "id": "w09-l52-s01",
+    "promptPl": "Co robisz wieczorem po pracy? Powiedz 2 zdania o swoim prawdziwym wieczorze.",
+    "modelItemIds": [
+      "depois-do-trabalho-como-em-casa-e-vejo-televisao",
+      "a-noite-nao-vejo-televisao"
+    ],
+    "hintPl": "Depois do trabalho… À noite… Użyj „vejo” albo „não vejo”."
+  },
+  {
+    "id": "w09-l52-s02",
+    "promptPl": "Zapytaj kolegę (tu), co robi wieczorem i czy ogląda telewizję.",
+    "modelItemIds": [
+      "ola-o-que-fazes-a-noite-q",
+      "ves-televisao-q"
+    ]
+  },
+  {
+    "id": "w09-l52-s03",
+    "promptPl": "Powiedz, kto w Twojej rodzinie ogląda telewizję i kiedy.",
+    "modelItemIds": [
+      "os-meus-filhos-veem-televisao-a-tarde",
+      "nos-nao-vemos-televisao"
+    ]
+  },
+  {
+    "id": "w09-l53-s01",
+    "promptPl": "Powiedz, co mówi ktoś z Twojej rodziny albo znajomych (np. że jest zmęczony, że jest głodny).",
+    "modelItemIds": [
+      "ele-diz-que-esta-cansado",
+      "o-seu-filho-diz-que-tem-fome",
+      "eles-dizem-que-sim"
+    ],
+    "hintPl": "Ele / Ela diz que… — bez przecinka przed „que”."
+  },
+  {
+    "id": "w09-l53-s02",
+    "promptPl": "Nie dosłyszałeś, co ktoś powiedział. Zareaguj krótko i poproś o powtórzenie.",
+    "modelItemIds": [
+      "como-pode-repetir-q",
+      "como-q"
+    ]
+  },
+  {
+    "id": "w09-l53-s03",
+    "promptPl": "Powiedz, co codziennie mówisz po portugalsku (np. „bom dia” sąsiadce).",
+    "modelItemIds": [
+      "digo-sempre-bom-dia-em-portugues"
+    ]
+  },
+  {
+    "id": "w09-l54-s01",
+    "promptPl": "Kolega zaprasza Cię na plażę o drugiej. Odmów potocznie i zaproponuj inną godzinę.",
+    "modelItemIds": [
+      "as-duas-nao-da-as-quatro-q",
+      "hoje-nao-da-amanha-q"
+    ]
+  },
+  {
+    "id": "w09-l54-s02",
+    "promptPl": "Powiedz, komu co dajesz (np. telefon synowi, ciastko córce).",
+    "modelItemIds": [
+      "dou-o-telemovel-ao-meu-filho",
+      "a-ana-da-um-bolo-ao-meu-filho"
+    ],
+    "hintPl": "Komu? → ao (męskie), à (żeńskie)."
+  },
+  {
+    "id": "w09-l54-s03",
+    "promptPl": "Poproś kolegę (tu) o telefon.",
+    "modelItemIds": [
+      "das-me-o-telemovel-q"
+    ]
+  },
+  {
+    "id": "w09-t-s01",
+    "promptPl": "Opowiedz krótko o swojej pracy: czym się zajmujesz i gdzie pracujesz.",
+    "modelItemIds": [
+      "sou-medico",
+      "trabalho-com-computadores",
+      "hoje-trabalho-no-escritorio"
+    ]
+  },
+  {
+    "id": "w09-t-s02",
+    "promptPl": "Opisz swój dzień roboczy: o której wychodzisz z domu, jak dojeżdżasz, o której wracasz, co robisz wieczorem.",
+    "modelItemIds": [
+      "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+      "venho-de-autocarro",
+      "depois-do-trabalho-vejo-televisao"
+    ]
+  },
+  {
+    "id": "w09-t-s03",
+    "promptPl": "Idziesz do kawiarni. Zaproś kolegę; potem odpowiedz za niego, że dziś nie da rady.",
+    "modelItemIds": [
+      "vou-ao-cafe-do-rui-vens-comigo-q",
+      "hoje-nao-da-amanha-q"
+    ]
+  }
+]

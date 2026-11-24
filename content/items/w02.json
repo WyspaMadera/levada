@@ -1,0 +1,2214 @@
+[
+  {
+    "id": "eu",
+    "kind": "word",
+    "pt": "eu",
+    "pl": "ja",
+    "pronunciation": {
+      "plSlow": "ÊU",
+      "ipa": "ew",
+      "notePl": "Zamknięte ê + krótkie u (jak „eł”), jedna sylaba.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tu",
+    "kind": "word",
+    "pt": "tu",
+    "pl": "ty",
+    "pronunciation": {
+      "plSlow": "TU",
+      "ipa": "tu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "usagePl": "Do rodziny, przyjaciół, dzieci. Do obcych dorosłych — o senhor / a senhora.",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele",
+    "kind": "word",
+    "pt": "ele",
+    "pl": "on",
+    "pronunciation": {
+      "plSlow": "Ê-ly",
+      "plNatural": "ÊL(y)",
+      "ipa": "ˈelɨ",
+      "notePl": "Zamknięte ê (inaczej niż w „ela”!). Końcowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela",
+    "kind": "word",
+    "pt": "ela",
+    "pl": "ona",
+    "pronunciation": {
+      "plSlow": "E-lă",
+      "ipa": "ˈɛlɐ",
+      "notePl": "Otwarte e — jak polskie. Porównaj z „ele” (zamknięte ê).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos",
+    "kind": "word",
+    "pt": "nós",
+    "pl": "my",
+    "pronunciation": {
+      "plSlow": "NOSZ",
+      "ipa": "nɔʃ",
+      "notePl": "Otwarte o; końcowe s = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "voces",
+    "kind": "word",
+    "pt": "vocês",
+    "pl": "wy; Państwo",
+    "pronunciation": {
+      "plSlow": "wo-SÊSZ",
+      "ipa": "vɔˈseʃ",
+      "notePl": "Pierwsza samogłoska bywa też wymawiana jak u: „wu-SÊSZ”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "usagePl": "Liczba mnoga „wy” — neutralna, używana też grzecznie wobec grupy.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles",
+    "kind": "word",
+    "pt": "eles",
+    "pl": "oni",
+    "pronunciation": {
+      "plSlow": "Ê-lysz",
+      "ipa": "ˈelɨʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "elas",
+    "kind": "word",
+    "pt": "elas",
+    "pl": "one",
+    "pronunciation": {
+      "plSlow": "E-lăsz",
+      "ipa": "ˈɛlɐʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "voce",
+    "kind": "word",
+    "pt": "você",
+    "pl": "ty / Pan / Pani (neutralne)",
+    "pronunciation": {
+      "plSlow": "wo-SÊ",
+      "ipa": "vɔˈse",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "zaimki"
+    ],
+    "usagePl": "W Portugalii „você” bywa odbierane jako zbyt bezpośrednie. Na początek używaj „o senhor / a senhora” albo pomijaj zaimek (Fala inglês?).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-nao-percebo",
+    "kind": "sentence",
+    "pt": "Eu não percebo.",
+    "pl": "Ja nie rozumiem.",
+    "pronunciation": {
+      "plSlow": "ÊU NÃU pyr-SÊ-bu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-chama-se-rui",
+    "kind": "sentence",
+    "pt": "Ele chama-se Rui.",
+    "pl": "On ma na imię Rui.",
+    "pronunciation": {
+      "plSlow": "Ê-ly SZĂ-mă-sy RRUJ.",
+      "ipa": "ˈelɨ ˈʃɐmɐ sɨ ʁuj",
+      "notePl": "„chama-se” = nazywa się (o kimś). Zaimek „se” po czasowniku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-chama-se-ana",
+    "kind": "sentence",
+    "pt": "Ela chama-se Ana.",
+    "pl": "Ona ma na imię Ana.",
+    "pronunciation": {
+      "plSlow": "E-lă SZĂ-mă-sy Ă-nă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-chama-se-marta",
+    "kind": "sentence",
+    "pt": "Ela chama-se Marta.",
+    "pl": "Ona ma na imię Marta.",
+    "pronunciation": {
+      "plSlow": "E-lă SZĂ-mă-sy MAR-tă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-fala-ingles-q",
+    "kind": "sentence",
+    "pt": "O senhor fala inglês?",
+    "pl": "Czy Pan mówi po angielsku?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR FA-lă ĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-senhora-fala-ingles-q",
+    "kind": "sentence",
+    "pt": "A senhora fala inglês?",
+    "pl": "Czy Pani mówi po angielsku?",
+    "pronunciation": {
+      "plSlow": "ă sy-ŃO-ră FA-lă ĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tu-falas-portugues-q",
+    "kind": "sentence",
+    "pt": "Tu falas português?",
+    "pl": "Mówisz po portugalsku?",
+    "pronunciation": {
+      "plSlow": "TU FA-lăsz pur-tu-GÊSZ?",
+      "notePl": "Forma „ty”: falas (z -s).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-chama-ele",
+    "kind": "sentence",
+    "pt": "Como se chama ele?",
+    "pl": "Jak on ma na imię?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy SZĂ-mă Ê-ly?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-ela",
+    "kind": "sentence",
+    "pt": "E ela?",
+    "pl": "A ona?",
+    "pronunciation": {
+      "plSlow": "i E-lă?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-fala-ingles-q",
+    "kind": "sentence",
+    "pt": "Ela fala inglês?",
+    "pl": "Czy ona mówi po angielsku?",
+    "pronunciation": {
+      "plSlow": "E-lă FA-lă ĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-ela-fala-ingles",
+    "kind": "sentence",
+    "pt": "Sim, ela fala inglês.",
+    "pl": "Tak, ona mówi po angielsku.",
+    "pronunciation": {
+      "plSlow": "SĨ, E-lă FA-lă ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser",
+    "kind": "word",
+    "pt": "ser",
+    "pl": "być (kim? jakim? skąd?)",
+    "pronunciation": {
+      "plSlow": "SÊR",
+      "ipa": "seɾ",
+      "notePl": "Bezokolicznik; akcent na końcu, zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser-sou",
+    "kind": "sentence",
+    "pt": "sou",
+    "pl": "(ja) jestem",
+    "pronunciation": {
+      "plSlow": "SÔ",
+      "ipa": "so",
+      "notePl": "ou = zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser-es",
+    "kind": "sentence",
+    "pt": "és",
+    "pl": "(ty) jesteś",
+    "pronunciation": {
+      "plSlow": "ESZ",
+      "ipa": "ɛʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser-e",
+    "kind": "sentence",
+    "pt": "é",
+    "pl": "(on/ona/Pan/Pani) jest",
+    "pronunciation": {
+      "plSlow": "E",
+      "ipa": "ɛ",
+      "notePl": "Otwarte e. Uwaga: „e” bez akcentu (= i, oraz) brzmi „i”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser-somos",
+    "kind": "sentence",
+    "pt": "somos",
+    "pl": "(my) jesteśmy",
+    "pronunciation": {
+      "plSlow": "SÔ-musz",
+      "ipa": "ˈsomuʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ser-sao",
+    "kind": "sentence",
+    "pt": "são",
+    "pl": "(wy/oni/one/Państwo) są",
+    "pronunciation": {
+      "plSlow": "SÃU",
+      "ipa": "sɐ̃w̃",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "polaco",
+    "kind": "word",
+    "pt": "polaco",
+    "ptFem": "polaca",
+    "pl": "Polak; polski",
+    "plFem": "Polka; polska",
+    "pronunciation": {
+      "plSlow": "pu-LA-ku",
+      "ipa": "puˈlaku",
+      "notePl": "Pierwsze o → u.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "pu-LA-kă",
+      "ipa": "puˈlakɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "narodowosci"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "portugues-nac",
+    "kind": "word",
+    "pt": "português",
+    "ptFem": "portuguesa",
+    "pl": "Portugalczyk; portugalski",
+    "plFem": "Portugalka; portugalska",
+    "pronunciation": {
+      "plSlow": "pur-tu-GÊSZ",
+      "ipa": "puɾtuˈɣeʃ",
+      "notePl": "Forma żeńska: s między samogłoskami = z.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "pur-tu-GÊ-ză",
+      "ipa": "puɾtuˈɣezɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "narodowosci"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ingles-nac",
+    "kind": "word",
+    "pt": "inglês",
+    "ptFem": "inglesa",
+    "pl": "Anglik; angielski",
+    "plFem": "Angielka; angielska",
+    "pronunciation": {
+      "plSlow": "ĩ-GLÊSZ",
+      "ipa": "ĩˈɡleʃ",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ĩ-GLÊ-ză",
+      "ipa": "ĩˈɡlezɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "narodowosci"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-da-polonia",
+    "kind": "sentence",
+    "pt": "Sou da Polónia.",
+    "pl": "Jestem z Polski.",
+    "pronunciation": {
+      "plSlow": "SÔ dă pu-LO-ni-ă.",
+      "plNatural": "SÔ dă pu-LO-niă.",
+      "ipa": "so dɐ puˈlɔniɐ",
+      "notePl": "Polónia — akcent na „LO”, o otwarte. W pisowni brazylijskiej: Polônia — w Portugalii z ó.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-sou-polaco",
+    "kind": "sentence",
+    "pt": "Eu sou polaco.",
+    "ptFem": "Eu sou polaca.",
+    "pl": "Jestem Polakiem.",
+    "plFem": "Jestem Polką.",
+    "pronunciation": {
+      "plSlow": "ÊU SÔ pu-LA-ku.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ÊU SÔ pu-LA-kă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-e-portuguesa",
+    "kind": "sentence",
+    "pt": "Ela é portuguesa.",
+    "pl": "Ona jest Portugalką.",
+    "pronunciation": {
+      "plSlow": "E-lă E pur-tu-GÊ-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-somos-da-polonia",
+    "kind": "sentence",
+    "pt": "Nós somos da Polónia.",
+    "pl": "Jesteśmy z Polski.",
+    "pronunciation": {
+      "plSlow": "NOSZ SÔ-muż dă pu-LO-ni-ă.",
+      "plNatural": "NOSZ SÔ-muż dă pu-LO-niă.",
+      "notePl": "s w „somos” przed dźwięcznym d → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-e-portugues-q",
+    "kind": "sentence",
+    "pt": "O senhor é português?",
+    "pl": "Czy Pan jest Portugalczykiem?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR E pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-senhora-e-portuguesa-q",
+    "kind": "sentence",
+    "pt": "A senhora é portuguesa?",
+    "pl": "Czy Pani jest Portugalką?",
+    "pronunciation": {
+      "plSlow": "ă sy-ŃO-ră E pur-tu-GÊ-ză?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-sou-ingles",
+    "kind": "sentence",
+    "pt": "Não sou inglês.",
+    "ptFem": "Não sou inglesa.",
+    "pl": "Nie jestem Anglikiem.",
+    "plFem": "Nie jestem Angielką.",
+    "pronunciation": {
+      "plSlow": "NÃU SÔ ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU SÔ ĩ-GLÊ-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-e-polaca",
+    "kind": "sentence",
+    "pt": "Ela é polaca.",
+    "pl": "Ona jest Polką.",
+    "pronunciation": {
+      "plSlow": "E-lă E pu-LA-kă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-nao-e-portuguesa",
+    "kind": "sentence",
+    "pt": "Ela não é portuguesa.",
+    "pl": "Ona nie jest Portugalką.",
+    "pronunciation": {
+      "plSlow": "E-lă NÃU E pur-tu-GÊ-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-e-ingles-q",
+    "kind": "sentence",
+    "pt": "O senhor é inglês?",
+    "pl": "Czy Pan jest Anglikiem?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR E ĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-nao-sou-ingles-sou-polaco",
+    "kind": "sentence",
+    "pt": "Não, não sou inglês. Sou polaco.",
+    "pl": "Nie, nie jestem Anglikiem. Jestem Polakiem.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU SÔ ĩ-GLÊSZ. SÔ pu-LA-ku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ah-e-da-polonia",
+    "kind": "sentence",
+    "pt": "Ah, é da Polónia!",
+    "pl": "Aha, jest Pan z Polski!",
+    "pronunciation": {
+      "plSlow": "A, E dă pu-LO-ni-ă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-sou-da-polonia-e-o-senhor",
+    "kind": "sentence",
+    "pt": "Sim, sou da Polónia. E o senhor?",
+    "pl": "Tak, jestem z Polski. A Pan?",
+    "pronunciation": {
+      "plSlow": "SĨ, SÔ dă pu-LO-ni-ă. i u sy-ŃÔR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-portugues-sou-da-madeira",
+    "kind": "sentence",
+    "pt": "Sou português. Sou da Madeira.",
+    "pl": "Jestem Portugalczykiem. Jestem z Madery.",
+    "pronunciation": {
+      "plSlow": "SÔ pur-tu-GÊSZ. SÔ dă mă-DĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ser"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estar",
+    "kind": "word",
+    "pt": "estar",
+    "pl": "być (jak? gdzie? — teraz)",
+    "pronunciation": {
+      "plSlow": "ysz-TAR",
+      "plNatural": "SZTAR",
+      "ipa": "ɨʃˈtaɾ",
+      "notePl": "Początkowe e prawie znika; s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estar-estou",
+    "kind": "sentence",
+    "pt": "estou",
+    "pl": "(ja) jestem",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ",
+      "plNatural": "SZTÔ",
+      "ipa": "ɨʃˈto",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estar-estas",
+    "kind": "sentence",
+    "pt": "estás",
+    "pl": "(ty) jesteś",
+    "pronunciation": {
+      "plSlow": "ysz-TASZ",
+      "plNatural": "SZTASZ",
+      "ipa": "ɨʃˈtaʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estar-estamos",
+    "kind": "sentence",
+    "pt": "estamos",
+    "pl": "(my) jesteśmy",
+    "pronunciation": {
+      "plSlow": "ysz-TĂ-musz",
+      "plNatural": "SZTĂ-musz",
+      "ipa": "ɨʃˈtɐmuʃ",
+      "notePl": "Akcentowane a przed m = ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estar-estao",
+    "kind": "sentence",
+    "pt": "estão",
+    "pl": "(wy/oni/Państwo) są",
+    "pronunciation": {
+      "plSlow": "ysz-TÃU",
+      "plNatural": "SZTÃU",
+      "ipa": "ɨʃˈtɐ̃w̃",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bem",
+    "kind": "word",
+    "pt": "bem",
+    "pl": "dobrze",
+    "pronunciation": {
+      "plSlow": "BÃJ",
+      "ipa": "bɐ̃j̃",
+      "notePl": "Nosowe „ăj” — nie „bem”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cansado",
+    "kind": "word",
+    "pt": "cansado",
+    "ptFem": "cansada",
+    "pl": "zmęczony",
+    "plFem": "zmęczona",
+    "pronunciation": {
+      "plSlow": "kã-SA-du",
+      "ipa": "kɐ̃ˈsaðu",
+      "notePl": "an przed s = nosowe ã.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "kã-SA-dă",
+      "ipa": "kɐ̃ˈsaðɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "samopoczucie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-casa",
+    "kind": "phrase",
+    "pt": "em casa",
+    "pl": "w domu",
+    "pronunciation": {
+      "plSlow": "ãj KA-ză",
+      "ipa": "ɐ̃j̃ ˈkazɐ",
+      "notePl": "Wyrażenie stałe — bez rodzajnika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-esta",
+    "kind": "sentence",
+    "pt": "Como está?",
+    "pl": "Jak się Pan/Pani ma?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ysz-TA?",
+      "plNatural": "KÔ-mu‿SZTA?",
+      "ipa": "ˈkomu ɨʃˈta",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-bem-obrigado",
+    "kind": "sentence",
+    "pt": "Estou bem, obrigado.",
+    "ptFem": "Estou bem, obrigada.",
+    "pl": "Dobrze, dziękuję.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-du.",
+      "plNatural": "SZTÔ BÃJ, o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-dă.",
+      "plNatural": "SZTÔ BÃJ, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-cansado",
+    "kind": "sentence",
+    "pt": "Estou cansado.",
+    "ptFem": "Estou cansada.",
+    "pl": "Jestem zmęczony.",
+    "plFem": "Jestem zmęczona.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ kã-SA-du.",
+      "plNatural": "SZTÔ kã-SA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TÔ kã-SA-dă.",
+      "plNatural": "SZTÔ kã-SA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estamos-na-madeira",
+    "kind": "sentence",
+    "pt": "Estamos na Madeira.",
+    "pl": "Jesteśmy na Maderze.",
+    "pronunciation": {
+      "plSlow": "ysz-TĂ-muż nă mă-DĂJ-ră.",
+      "plNatural": "SZTĂ-muż nă mă-DĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-esta-em-casa",
+    "kind": "sentence",
+    "pt": "Ela está em casa.",
+    "pl": "Ona jest w domu.",
+    "pronunciation": {
+      "plSlow": "E-lă ysz-TA ãj KA-ză.",
+      "plNatural": "E-lă SZTA‿ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-no-funchal",
+    "kind": "sentence",
+    "pt": "Estou no Funchal.",
+    "pl": "Jestem w Funchal.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ nu fũ-SZAɫ.",
+      "plNatural": "SZTÔ nu fũ-SZAɫ.",
+      "notePl": "„no Funchal” — Funchal występuje z rodzajnikiem (o Funchal).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-como-estas",
+    "kind": "sentence",
+    "pt": "Olá! Como estás?",
+    "pl": "Cześć! Jak się masz?",
+    "pronunciation": {
+      "plSlow": "o-LA! KÔ-mu ysz-TASZ?",
+      "plNatural": "o-LA! KÔ-mu‿SZTASZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-bem-obrigado-e-tu",
+    "kind": "sentence",
+    "pt": "Estou bem, obrigado. E tu?",
+    "ptFem": "Estou bem, obrigada. E tu?",
+    "pl": "Dobrze, dziękuję. A ty?",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-du. i TU?",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-dă. i TU?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estas-em-casa-q",
+    "kind": "sentence",
+    "pt": "Estás em casa?",
+    "pl": "Jesteś w domu?",
+    "pronunciation": {
+      "plSlow": "ysz-TAZ ãj KA-ză?",
+      "plNatural": "SZTA-zãj KA-ză?",
+      "notePl": "s przed samogłoską → z: „sztazãj”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-estou-em-casa-e-tu",
+    "kind": "sentence",
+    "pt": "Sim, estou em casa. E tu?",
+    "pl": "Tak, jestem w domu. A ty?",
+    "pronunciation": {
+      "plSlow": "SĨ, ysz-TÔ ãj KA-ză. i TU?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-nao-esta-cansado",
+    "kind": "sentence",
+    "pt": "Ele não está cansado.",
+    "pl": "On nie jest zmęczony.",
+    "pronunciation": {
+      "plSlow": "Ê-ly NÃU ysz-TA kã-SA-du.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter",
+    "kind": "word",
+    "pt": "ter",
+    "pl": "mieć",
+    "pronunciation": {
+      "plSlow": "TÊR",
+      "ipa": "teɾ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter-tenho",
+    "kind": "sentence",
+    "pt": "tenho",
+    "pl": "(ja) mam",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu",
+      "ipa": "ˈtɐɲu",
+      "notePl": "Norma lizbońska: „TĂ-ńu”. W innych regionach częste „TÊ-ńu” — oba zrozumiałe.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter-tens",
+    "kind": "sentence",
+    "pt": "tens",
+    "pl": "(ty) masz",
+    "pronunciation": {
+      "plSlow": "TÃJSZ",
+      "ipa": "tɐ̃j̃ʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter-tem",
+    "kind": "sentence",
+    "pt": "tem",
+    "pl": "(on/ona/Pan/Pani) ma",
+    "pronunciation": {
+      "plSlow": "TÃJ",
+      "ipa": "tɐ̃j̃",
+      "notePl": "Brzmi tak samo jak „bem” na końcu: nosowe ăj.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter-temos",
+    "kind": "sentence",
+    "pt": "temos",
+    "pl": "(my) mamy",
+    "pronunciation": {
+      "plSlow": "TÊ-musz",
+      "ipa": "ˈtemuʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ter-teem",
+    "kind": "sentence",
+    "pt": "têm",
+    "pl": "(wy/oni/Państwo) mają",
+    "pronunciation": {
+      "plSlow": "TÃJ-ãj",
+      "ipa": "ˈtɐ̃j̃ɐ̃j̃",
+      "notePl": "Wymowa „podwójna” — różni się od „tem” (ma). W szybkiej mowie różnica bywa słaba.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "filho",
+    "kind": "word",
+    "pt": "filho",
+    "pl": "syn",
+    "pronunciation": {
+      "plSlow": "FI-lju",
+      "ipa": "ˈfiʎu",
+      "notePl": "lh = jeden dźwięk (miękkie l). Liczba mnoga „filhos” = synowie albo dzieci.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fome",
+    "kind": "word",
+    "pt": "fome",
+    "pl": "głód",
+    "pronunciation": {
+      "plSlow": "FO-my",
+      "ipa": "ˈfɔmɨ",
+      "notePl": "Rodzaj żeński: a fome.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "samopoczucie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sede",
+    "kind": "word",
+    "pt": "sede",
+    "pl": "pragnienie",
+    "pronunciation": {
+      "plSlow": "SÊ-dy",
+      "ipa": "ˈsedɨ",
+      "notePl": "Zamknięte ê. (Uwaga: to samo słowo z otwartym e znaczy „siedziba” — inna wymowa!)",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "samopoczucie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pergunta",
+    "kind": "word",
+    "pt": "pergunta",
+    "pl": "pytanie",
+    "pronunciation": {
+      "plSlow": "pyr-GŨ-tă",
+      "ipa": "pɨɾˈɣũtɐ",
+      "notePl": "un przed t = nosowe ũ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-um-filho",
+    "kind": "sentence",
+    "pt": "Tenho um filho.",
+    "pl": "Mam syna.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ũ FI-lju.",
+      "plNatural": "TĂ-ńu‿ũ FI-lju.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-fome",
+    "kind": "sentence",
+    "pt": "Tenho fome.",
+    "ptFem": "Tenho fome.",
+    "pl": "Jestem głodny. (dosł. Mam głód.)",
+    "plFem": "Jestem głodna. (dosł. Mam głód.)",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu FO-my.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "TĂ-ńu FO-my.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-sede-q",
+    "kind": "sentence",
+    "pt": "Tem sede?",
+    "pl": "Chce się Panu/Pani pić?",
+    "pronunciation": {
+      "plSlow": "TÃJ SÊ-dy?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-uma-pergunta",
+    "kind": "sentence",
+    "pt": "Tenho uma pergunta.",
+    "pl": "Mam pytanie.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă pyr-GŨ-tă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-tenho-uma-pergunta",
+    "kind": "sentence",
+    "pt": "Desculpe, tenho uma pergunta.",
+    "pl": "Przepraszam, mam pytanie.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, TĂ-ńu U-mă pyr-GŨ-tă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ela-tem-uma-filha",
+    "kind": "sentence",
+    "pt": "Ela tem uma filha.",
+    "pl": "Ona ma córkę.",
+    "pronunciation": {
+      "plSlow": "E-lă TÃJ U-mă FI-ljă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-tem-fome-q",
+    "kind": "sentence",
+    "pt": "Boa tarde! Tem fome?",
+    "pl": "Dzień dobry! Jest Pan głodny?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! TÃJ FO-my?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-tenho-fome-tenho-sede",
+    "kind": "sentence",
+    "pt": "Não, não tenho fome. Tenho sede.",
+    "pl": "Nie, nie jestem głodny. Chce mi się pić.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU TĂ-ńu FO-my. TĂ-ńu SÊ-dy.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-cafe-q",
+    "kind": "sentence",
+    "pt": "Um café?",
+    "pl": "Kawę?",
+    "pronunciation": {
+      "plSlow": "ũ kă-FE?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Sim, um café, se faz favor.",
+    "pl": "Tak, poproszę kawę.",
+    "pronunciation": {
+      "plSlow": "SĨ, ũ kă-FE, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-tenho-fome",
+    "kind": "sentence",
+    "pt": "Não tenho fome.",
+    "pl": "Nie jestem głodny/głodna.",
+    "pronunciation": {
+      "plSlow": "NÃU TĂ-ńu FO-my.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "ter"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "zero",
+    "kind": "word",
+    "pt": "zero",
+    "pl": "zero",
+    "pronunciation": {
+      "plSlow": "ZE-ru",
+      "ipa": "ˈzɛɾu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um",
+    "kind": "word",
+    "pt": "um",
+    "pl": "jeden; jakiś (r. męski)",
+    "pronunciation": {
+      "plSlow": "Ũ",
+      "ipa": "ũ",
+      "notePl": "Nosowe u — bez m.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby",
+      "rodzajniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma",
+    "kind": "word",
+    "pt": "uma",
+    "pl": "jedna; jakaś (r. żeński)",
+    "pronunciation": {
+      "plSlow": "U-mă",
+      "ipa": "ˈumɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby",
+      "rodzajniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dois",
+    "kind": "word",
+    "pt": "dois",
+    "pl": "dwa (r. męski)",
+    "pronunciation": {
+      "plSlow": "DÔJSZ",
+      "ipa": "dojʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "duas",
+    "kind": "word",
+    "pt": "duas",
+    "pl": "dwie (r. żeński)",
+    "pronunciation": {
+      "plSlow": "DU-ăsz",
+      "ipa": "ˈduɐʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tres",
+    "kind": "word",
+    "pt": "três",
+    "pl": "trzy",
+    "pronunciation": {
+      "plSlow": "TRÊSZ",
+      "ipa": "tɾeʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quatro",
+    "kind": "word",
+    "pt": "quatro",
+    "pl": "cztery",
+    "pronunciation": {
+      "plSlow": "KUA-tru",
+      "ipa": "ˈkwatɾu",
+      "notePl": "qua = kua (jedna sylaba).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cinco",
+    "kind": "word",
+    "pt": "cinco",
+    "pl": "pięć",
+    "pronunciation": {
+      "plSlow": "SĨ-ku",
+      "ipa": "ˈsĩku",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "seis",
+    "kind": "word",
+    "pt": "seis",
+    "pl": "sześć",
+    "pronunciation": {
+      "plSlow": "SĂJSZ",
+      "ipa": "sɐjʃ",
+      "notePl": "Norma lizbońska ei = ăj; wariant „SEJSZ” też słyszany.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "oito",
+    "kind": "word",
+    "pt": "oito",
+    "pl": "osiem",
+    "pronunciation": {
+      "plSlow": "ÔJ-tu",
+      "ipa": "ˈojtu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nove",
+    "kind": "word",
+    "pt": "nove",
+    "pl": "dziewięć",
+    "pronunciation": {
+      "plSlow": "NO-wy",
+      "plNatural": "NOW(y)",
+      "ipa": "ˈnɔvɨ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dez",
+    "kind": "word",
+    "pt": "dez",
+    "pl": "dziesięć",
+    "pronunciation": {
+      "plSlow": "DESZ",
+      "ipa": "dɛʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dois-cafes-sfv",
+    "kind": "sentence",
+    "pt": "Dois cafés, se faz favor.",
+    "pl": "Poproszę dwie kawy.",
+    "pronunciation": {
+      "plSlow": "DÔJSZ kă-FESZ, sy FASZ fă-WÔR.",
+      "notePl": "Liczba mnoga: café → cafés (+s).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-duas-perguntas",
+    "kind": "sentence",
+    "pt": "Tenho duas perguntas.",
+    "pl": "Mam dwa pytania.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu DU-ăsz pyr-GŨ-tăsz.",
+      "notePl": "pergunta jest żeńska → duas.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-cafe-a-casa",
+    "kind": "phrase",
+    "pt": "o café, a casa",
+    "pl": "(ta) kawa, (ten) dom",
+    "pronunciation": {
+      "plSlow": "u kă-FE, ă KA-ză",
+      "notePl": "Rodzajnik „o” = u, „a” = ă — krótko, bez akcentu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "rodzajniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-tres-cafes-sfv",
+    "kind": "sentence",
+    "pt": "Bom dia! Três cafés, se faz favor.",
+    "pl": "Dzień dobry! Poproszę trzy kawy.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! TRÊSZ kă-FESZ, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tres-q",
+    "kind": "sentence",
+    "pt": "Três?",
+    "pl": "Trzy?",
+    "pronunciation": {
+      "plSlow": "TRÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-dois-dois-cafes",
+    "kind": "sentence",
+    "pt": "Não, não… Dois! Dois cafés.",
+    "pl": "Nie, nie… Dwie! Dwie kawy.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU… DÔJSZ! DÔJSZ kă-FESZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dois-cafes-muito-bem",
+    "kind": "sentence",
+    "pt": "Dois cafés. Muito bem.",
+    "pl": "Dwie kawy. Bardzo dobrze.",
+    "pronunciation": {
+      "plSlow": "DÔJSZ kă-FESZ. MŨJ-tu BÃJ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-conj",
+    "kind": "word",
+    "pt": "e",
+    "pl": "i; a",
+    "pronunciation": {
+      "plSlow": "i",
+      "ipa": "i",
+      "notePl": "Spójnik „e” wymawiamy jak „i”. Nie myl z „é” (jest).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "spojniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mas",
+    "kind": "word",
+    "pt": "mas",
+    "pl": "ale",
+    "pronunciation": {
+      "plSlow": "măsz",
+      "ipa": "mɐʃ",
+      "notePl": "Nieakcentowane — krótkie „măsz”. Porównaj z „mais” (więcej) — „MAJSZ”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "spojniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais",
+    "kind": "word",
+    "pt": "mais",
+    "pl": "więcej; bardziej",
+    "pronunciation": {
+      "plSlow": "MAJSZ",
+      "ipa": "majʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tambem",
+    "kind": "word",
+    "pt": "também",
+    "pl": "też, także",
+    "pronunciation": {
+      "plSlow": "tã-BÃJ",
+      "ipa": "tɐ̃ˈbɐ̃j̃",
+      "notePl": "Dwie sylaby nosowe; akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "spojniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito",
+    "kind": "word",
+    "pt": "muito",
+    "pl": "bardzo; dużo",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu",
+      "ipa": "ˈmũjtu",
+      "notePl": "Nosowe, choć bez tyldy.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aqui",
+    "kind": "word",
+    "pt": "aqui",
+    "pl": "tutaj",
+    "pronunciation": {
+      "plSlow": "ă-KI",
+      "ipa": "ɐˈki",
+      "notePl": "qu przed i = k.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ou",
+    "kind": "word",
+    "pt": "ou",
+    "pl": "albo, czy (w pytaniu)",
+    "pronunciation": {
+      "plSlow": "ô",
+      "ipa": "o",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "spojniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-pouco",
+    "kind": "phrase",
+    "pt": "um pouco",
+    "pl": "trochę",
+    "pronunciation": {
+      "plSlow": "ũ PÔ-ku",
+      "ipa": "ũ ˈpoku",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-polaco-mas-estou-na-madeira",
+    "kind": "sentence",
+    "pt": "Sou polaco, mas estou na Madeira.",
+    "ptFem": "Sou polaca, mas estou na Madeira.",
+    "pl": "Jestem Polakiem, ale jestem (teraz) na Maderze.",
+    "plFem": "Jestem Polką, ale jestem (teraz) na Maderze.",
+    "pronunciation": {
+      "plSlow": "SÔ pu-LA-ku, măz ysz-TÔ nă mă-DĂJ-ră.",
+      "notePl": "„mas” przed samogłoską: s → z.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SÔ pu-LA-kă, măz ysz-TÔ nă mă-DĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-e-portuguesa-e-o-rui-tambem",
+    "kind": "sentence",
+    "pt": "A Ana é portuguesa e o Rui também.",
+    "pl": "Ana jest Portugalką i Rui też (jest Portugalczykiem).",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă E pur-tu-GÊ-ză i u RRUJ tã-BÃJ.",
+      "notePl": "W Portugalii przed imionami często stoi rodzajnik: a Ana, o Rui.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cafe-ou-cha-q",
+    "kind": "sentence",
+    "pt": "Café ou chá?",
+    "pl": "Kawa czy herbata?",
+    "pronunciation": {
+      "plSlow": "kă-FE ô SZA?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-aqui",
+    "kind": "sentence",
+    "pt": "Estou aqui.",
+    "pl": "Jestem tutaj.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ ă-KI.",
+      "plNatural": "SZTÔ‿ă-KI.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-tambem",
+    "kind": "sentence",
+    "pt": "Eu também.",
+    "pl": "Ja też.",
+    "pronunciation": {
+      "plSlow": "ÊU tã-BÃJ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-polaco-q",
+    "kind": "sentence",
+    "pt": "É polaco?",
+    "pl": "Jest Pan Polakiem?",
+    "pronunciation": {
+      "plSlow": "E pu-LA-ku?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-resposta",
+    "kind": "sentence",
+    "pt": "Sou.",
+    "pl": "Jestem. (= Tak.)",
+    "pronunciation": {
+      "plSlow": "SÔ.",
+      "notePl": "Typowa portugalska odpowiedź „tak”: powtarzamy czasownik.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-chamo-me-rui-e-tu",
+    "kind": "sentence",
+    "pt": "Olá! Chamo-me Rui. E tu?",
+    "pl": "Cześć! Jestem Rui. A ty?",
+    "pronunciation": {
+      "plSlow": "o-LA! SZĂ-mu-my RRUJ. i TU?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chamo-me-tomasz-muito-prazer",
+    "kind": "sentence",
+    "pt": "Chamo-me Tomasz. Muito prazer.",
+    "pl": "Mam na imię Tomasz. Bardzo mi miło.",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my TO-masz. MŨJ-tu pră-ZÊR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "es-ingles-q",
+    "kind": "sentence",
+    "pt": "És inglês?",
+    "pl": "Jesteś Anglikiem?",
+    "pronunciation": {
+      "plSlow": "EZ ĩ-GLÊSZ?",
+      "plNatural": "E‿zĩ-GLÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-sou-polaco",
+    "kind": "sentence",
+    "pt": "Não, sou polaco.",
+    "ptFem": "Não, sou polaca.",
+    "pl": "Nie, jestem Polakiem.",
+    "plFem": "Nie, jestem Polką.",
+    "pronunciation": {
+      "plSlow": "NÃU, SÔ pu-LA-ku.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, SÔ pu-LA-kă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falas-portugues-q",
+    "kind": "sentence",
+    "pt": "Falas português?",
+    "pl": "Mówisz po portugalsku?",
+    "pronunciation": {
+      "plSlow": "FA-lăsz pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falo-um-pouco",
+    "kind": "sentence",
+    "pt": "Falo um pouco.",
+    "pl": "Mówię trochę.",
+    "pronunciation": {
+      "plSlow": "FA-lu ũ PÔ-ku.",
+      "plNatural": "FA-lu‿ũ PÔ-ku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-tambem-falo-um-pouco-de-polaco",
+    "kind": "sentence",
+    "pt": "Eu também falo um pouco de polaco!",
+    "pl": "Ja też mówię trochę po polsku!",
+    "pronunciation": {
+      "plSlow": "ÊU tã-BÃJ FA-lu ũ PÔ-ku dy pu-LA-ku!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem",
+    "kind": "sentence",
+    "pt": "Muito bem!",
+    "pl": "Bardzo dobrze!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falo-um-pouco-de-portugues",
+    "kind": "sentence",
+    "pt": "Falo um pouco de português.",
+    "pl": "Mówię trochę po portugalsku.",
+    "pronunciation": {
+      "plSlow": "FA-lu ũ PÔ-ku dy pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w02"
+    ],
+    "reviewStatus": "draft"
+  }
+]

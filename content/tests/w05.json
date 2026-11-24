@@ -1,0 +1,86 @@
+[
+  {
+    "id": "w05-test",
+    "week": 5,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 5",
+    "introPl": "Około 10 minut. Czasowniki regularne -ar/-er/-ir w czasie teraźniejszym, rytm dnia (levanto-me, deito-me), pory dnia, częstotliwość i „estar a + bezokolicznik”. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w05-t-e01",
+          "w05-t-e02",
+          "w05-t-e03",
+          "w05-t-e04",
+          "w05-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w05-t-e06",
+          "w05-t-e07",
+          "w05-t-e08"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w05-t-e09",
+          "w05-t-e10",
+          "w05-t-e11",
+          "w05-t-e12",
+          "w05-t-e13",
+          "w05-t-e14",
+          "w05-t-e15",
+          "w05-t-e16",
+          "w05-t-e17"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w05-t-e18",
+          "w05-t-e19",
+          "w05-t-e20"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w05-t-s01",
+      "w05-t-s02",
+      "w05-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w05-t-m01",
+        "promptPl": "Mój dzień: opowiedz bez przygotowania, jak wygląda Twój zwykły dzień.",
+        "hintPl": "Wystarczą krótkie zdania: Acordo às… Levanto-me às… De manhã… À tarde… À noite…",
+        "targetSeconds": 45,
+        "checklistPl": [
+          "Podałem/podałam co najmniej dwie godziny (às…)",
+          "Użyłem/użyłam levanto-me lub deito-me (zaimek po czasowniku)",
+          "Użyłem/użyłam pór dnia: de manhã / à tarde / à noite",
+          "Użyłem/użyłam sempre, às vezes albo nunca"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w05-vizinha-dia"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w05-l25",
+      "w05-l26",
+      "w05-l27",
+      "w05-l28",
+      "w05-l29",
+      "w05-l30"
+    ]
+  }
+]

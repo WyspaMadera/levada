@@ -1,0 +1,2184 @@
+[
+  {
+    "id": "fazer-faco",
+    "kind": "word",
+    "pt": "faço",
+    "pl": "(ja) robię",
+    "pronunciation": {
+      "plSlow": "FA-su",
+      "ipa": "ˈfasu",
+      "notePl": "ç = s. Porównaj: faço „FA-su” (ja) i faz „FASZ” (on / ona) — inna litera, inny dźwięk.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "Nieregularna forma „eu”: faço (nie według wzoru -o od „faz-”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazer-fazes",
+    "kind": "word",
+    "pt": "fazes",
+    "pl": "(ty) robisz",
+    "pronunciation": {
+      "plSlow": "FA-zysz",
+      "ipa": "ˈfazɨʃ",
+      "notePl": "z między samogłoskami = z; końcowe -es = „ysz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazer-faz",
+    "kind": "word",
+    "pt": "faz",
+    "pl": "robi (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "FASZ",
+      "ipa": "ˈfaʃ",
+      "notePl": "Końcowe z = sz (przed samogłoską: z, przed dźwięczną spółgłoską: ż).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "To samo „faz” co w „se faz favor” i „não faz mal”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazer-fazemos",
+    "kind": "word",
+    "pt": "fazemos",
+    "pl": "(my) robimy",
+    "pronunciation": {
+      "plSlow": "fă-ZÊ-musz",
+      "ipa": "fɐˈzemuʃ",
+      "notePl": "Pierwsze a przytłumione (ă); zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazer-fazem",
+    "kind": "word",
+    "pt": "fazem",
+    "pl": "(oni / one / Państwo) robią",
+    "pronunciation": {
+      "plSlow": "FA-zãj",
+      "ipa": "ˈfazɐ̃j̃",
+      "notePl": "Końcówka -em = nosowe „ãj”, jak w „comem”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-faz-q",
+    "kind": "phrase",
+    "pt": "O que faz?",
+    "pl": "Czym się Pan / Pani zajmuje? (dosł. Co Pan / Pani robi?)",
+    "pronunciation": {
+      "plSlow": "u ky FASZ?",
+      "ipa": "u kɨ ˈfaʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca",
+      "pytania"
+    ],
+    "usagePl": "Zwykle pytanie o zawód. Do kolegi (tu): O que fazes? O tym, co ktoś robi w tej chwili: O que está a fazer?",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-como",
+    "kind": "phrase",
+    "pt": "Trabalho como …",
+    "pl": "Pracuję jako …",
+    "tts": "Trabalho como",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju KÔ-mu …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "usagePl": "Po „como” nazwa zawodu bez rodzajnika. Częściej mówi się po prostu: Sou médico. / Sou educadora.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "computador",
+    "kind": "word",
+    "pt": "computador",
+    "pl": "komputer",
+    "pronunciation": {
+      "plSlow": "kõ-pu-tă-DÔR",
+      "ipa": "kõputɐˈðoɾ",
+      "notePl": "om = nosowe õ; akcent na ostatniej sylabie, zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "usagePl": "o computador; l.mn. os computadores („kõ-pu-tă-DÔ-rysz”). Trabalho com computadores. = Pracuję z komputerami.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "faco-o-pequeno-almoco-as-oito",
+    "kind": "sentence",
+    "pt": "Faço o pequeno-almoço às oito.",
+    "pl": "Robię śniadanie o ósmej.",
+    "pronunciation": {
+      "plSlow": "FA-su u py-KÊ-nu aɫ-MÔ-su az ÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fazes-hoje-q",
+    "kind": "sentence",
+    "pt": "O que fazes hoje?",
+    "pl": "Co dziś robisz?",
+    "pronunciation": {
+      "plSlow": "u ky FA-zyz Ô-ży?",
+      "notePl": "fazes przed samogłoską → „FA-zyz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-faz-um-bolo",
+    "kind": "sentence",
+    "pt": "A Ana faz um bolo.",
+    "pl": "Ana piecze ciasto. (dosł. robi ciasto)",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă FAZ ũ BÔ-lu.",
+      "notePl": "faz przed samogłoską → „FAZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "usagePl": "fazer um bolo = upiec ciasto; fazer sopa = ugotować zupę.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-fazemos-sopa-em-casa",
+    "kind": "sentence",
+    "pt": "Nós fazemos sopa em casa.",
+    "pl": "Gotujemy zupę w domu. (dosł. robimy zupę)",
+    "pronunciation": {
+      "plSlow": "NOSZ fă-ZÊ-musz SÔ-pă ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-medico",
+    "kind": "sentence",
+    "pt": "Sou médico.",
+    "ptFem": "Sou médica.",
+    "pl": "Jestem lekarzem.",
+    "plFem": "Jestem lekarką.",
+    "pronunciation": {
+      "plSlow": "SÔ ME-di-ku.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SÔ ME-di-kă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "usagePl": "Zawód po „sou” — bez rodzajnika (nie „sou um médico”). Po polsku narzędnik (lekarzem), po portugalsku forma podstawowa.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-com-computadores",
+    "kind": "sentence",
+    "pt": "Trabalho com computadores.",
+    "pl": "Pracuję z komputerami.",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju kõ kõ-pu-tă-DÔ-rysz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "faco-um-bolo",
+    "kind": "sentence",
+    "pt": "Faço um bolo.",
+    "pl": "Piekę ciasto.",
+    "pronunciation": {
+      "plSlow": "FA-su ũ BÔ-lu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-fazem-tudo-em-casa",
+    "kind": "sentence",
+    "pt": "Eles fazem tudo em casa.",
+    "pl": "Oni robią wszystko w domu.",
+    "pronunciation": {
+      "plSlow": "Ê-lysz FA-zãj TU-du ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-hoje-nao-trabalhas-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Hoje não trabalhas?",
+    "pl": "Dzień dobry! Dziś nie pracujesz?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! Ô-ży NÃU tră-BA-ljăsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-sim-mas-hoje-trabalho-aqui",
+    "kind": "sentence",
+    "pt": "Trabalho, sim. Mas hoje trabalho aqui!",
+    "pl": "Tak, pracuję. Ale dziś pracuję tutaj!",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju, SĨ. măz Ô-ży tră-BA-lju ă-KI!",
+      "notePl": "mas przed samogłoską → „măz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "usagePl": "Odpowiedź „tak” przez powtórzenie czasownika: Trabalho, sim.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aqui-o-que-fazes-q",
+    "kind": "sentence",
+    "pt": "Aqui? O que fazes?",
+    "pl": "Tutaj? A czym się zajmujesz?",
+    "pronunciation": {
+      "plSlow": "ă-KI? u ky FA-zysz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-com-computadores-e-posso-trabalhar-aqui",
+    "kind": "sentence",
+    "pt": "Trabalho com computadores. E posso trabalhar aqui!",
+    "pl": "Pracuję z komputerami. I mogę pracować tutaj!",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju kõ kõ-pu-tă-DÔ-rysz. i PO-su tră-bă-LJAR ă-KI!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-eu-faco-o-cafe-e-tu-trabalhas",
+    "kind": "sentence",
+    "pt": "Muito bem! Eu faço o café e tu trabalhas.",
+    "pl": "Świetnie! Ja robię kawę, a ty pracujesz.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! ÊU FA-su u kă-FE i TU tră-BA-ljăsz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair",
+    "kind": "word",
+    "pt": "sair",
+    "pl": "wychodzić; wyjeżdżać",
+    "pronunciation": {
+      "plSlow": "să-IR",
+      "ipa": "sɐˈiɾ",
+      "notePl": "Dwie sylaby: a oraz i wymawiane osobno („să-IR”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "sair de casa = wychodzić z domu; sair do trabalho = wychodzić z pracy; sair à noite = wychodzić wieczorem (np. ze znajomymi).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-saio",
+    "kind": "word",
+    "pt": "saio",
+    "pl": "(ja) wychodzę",
+    "pronunciation": {
+      "plSlow": "SAJ-u",
+      "ipa": "ˈsaju",
+      "notePl": "ai = „aj”: SAJ-u. Nieregularne: w formie „eu” pojawia się i (saio).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-sais",
+    "kind": "word",
+    "pt": "sais",
+    "pl": "(ty) wychodzisz",
+    "pronunciation": {
+      "plSlow": "SAJSZ",
+      "ipa": "ˈsajʃ",
+      "notePl": "Jedna sylaba — brzmi jak „pais” (rodzice).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-sai",
+    "kind": "word",
+    "pt": "sai",
+    "pl": "wychodzi (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "SAJ",
+      "ipa": "ˈsaj",
+      "notePl": "Jedna sylaba — brzmi jak „pai”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-saimos",
+    "kind": "word",
+    "pt": "saímos",
+    "pl": "(my) wychodzimy",
+    "pronunciation": {
+      "plSlow": "să-I-musz",
+      "ipa": "sɐˈimuʃ",
+      "notePl": "Akcent na í — dlatego kreska: sa-Í-mos (a oraz i osobno).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sair-saem",
+    "kind": "word",
+    "pt": "saem",
+    "pl": "(oni / one / Państwo) wychodzą",
+    "pronunciation": {
+      "plSlow": "SA-ãj",
+      "ipa": "ˈsaɐ̃j̃",
+      "notePl": "Dwie sylaby: SA-ãj; końcówka -em = nosowe „ãj”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "escritorio",
+    "kind": "word",
+    "pt": "escritório",
+    "pl": "biuro",
+    "pronunciation": {
+      "plSlow": "ysz-kri-TO-ri-u",
+      "ipa": "ɨʃkɾiˈtɔɾju",
+      "notePl": "Akcent na TO (ó — otwarte o). Początkowe „es-” = „ysz”; w szybkiej mowie e prawie znika: „szkri-TO-ri-u”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "usagePl": "o escritório → no escritório (w biurze), para o escritório (do biura).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cedo",
+    "kind": "word",
+    "pt": "cedo",
+    "pl": "wcześnie",
+    "pronunciation": {
+      "plSlow": "SÊ-du",
+      "ipa": "ˈsedu",
+      "notePl": "c przed e = s; zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "usagePl": "Saio cedo. = Wychodzę wcześnie. Przeciwieństwo: tarde (późno) — to samo słowo co w „à tarde” (po południu).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saio-de-casa-as-oito",
+    "kind": "sentence",
+    "pt": "Saio de casa às oito.",
+    "pl": "Wychodzę z domu o ósmej.",
+    "pronunciation": {
+      "plSlow": "SAJ-u dy KA-ză az ÔJ-tu.",
+      "notePl": "às przed samogłoską → „az”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saio-do-trabalho-as-cinco",
+    "kind": "sentence",
+    "pt": "Saio do trabalho às cinco.",
+    "pl": "Wychodzę z pracy o piątej.",
+    "pronunciation": {
+      "plSlow": "SAJ-u du tră-BA-lju asz SĨ-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-sais-de-casa-q",
+    "kind": "sentence",
+    "pt": "A que horas sais de casa?",
+    "pl": "O której wychodzisz z domu?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz SAJŻ dy KA-ză?",
+      "notePl": "sais przed d → „SAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-sai-do-cafe-as-tres",
+    "kind": "sentence",
+    "pt": "O Rui sai do café às três.",
+    "pl": "Rui wychodzi z kawiarni o trzeciej.",
+    "pronunciation": {
+      "plSlow": "u RRUJ SAJ du kă-FE asz TRÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-saimos-cedo",
+    "kind": "sentence",
+    "pt": "Nós saímos cedo.",
+    "pl": "Wychodzimy wcześnie.",
+    "pronunciation": {
+      "plSlow": "NOSZ să-I-musz SÊ-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+    "kind": "sentence",
+    "pt": "Saio de casa às oito e vou para o escritório.",
+    "pl": "Wychodzę z domu o ósmej i jadę do biura.",
+    "pronunciation": {
+      "plSlow": "SAJ-u dy KA-ză az ÔJ-tu i WÔ PĂ-ră u ysz-kri-TO-ri-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saimos-de-casa-as-oito",
+    "kind": "sentence",
+    "pt": "Saímos de casa às oito.",
+    "pl": "Wychodzimy z domu o ósmej.",
+    "pronunciation": {
+      "plSlow": "să-I-muż dy KA-ză az ÔJ-tu.",
+      "notePl": "saímos przed d → „să-I-muż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-trabalho-no-escritorio",
+    "kind": "sentence",
+    "pt": "Hoje trabalho no escritório.",
+    "pl": "Dziś pracuję w biurze.",
+    "pronunciation": {
+      "plSlow": "Ô-ży tră-BA-lju nu ysz-kri-TO-ri-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-sai-de-casa-q",
+    "kind": "sentence",
+    "pt": "A que horas sai de casa?",
+    "pl": "O której wychodzi Pan / Pani z domu?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz SAJ dy KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-sais-sempre-cedo-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Sais sempre cedo?",
+    "pl": "Dzień dobry! Zawsze wychodzisz wcześnie?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! SAJSZ SẼ-pry SÊ-du?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-saio-sempre-as-oito-e-tu",
+    "kind": "sentence",
+    "pt": "Sim, saio sempre às oito. E tu?",
+    "pl": "Tak, zawsze wychodzę o ósmej. A ty?",
+    "pronunciation": {
+      "plSlow": "SĨ, SAJ-u SẼ-pry az ÔJ-tu. i TU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-saio-as-nove-trabalho-perto",
+    "kind": "sentence",
+    "pt": "Eu saio às nove. Trabalho perto.",
+    "pl": "Ja wychodzę o dziewiątej. Pracuję blisko.",
+    "pronunciation": {
+      "plSlow": "ÊU SAJ-u aż NO-wy. tră-BA-lju PER-tu.",
+      "notePl": "às przed n → „aż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-escritorio-e-longe-vou-de-autocarro",
+    "kind": "sentence",
+    "pt": "O escritório é longe. Vou de autocarro.",
+    "pl": "Biuro jest daleko. Jadę autobusem.",
+    "pronunciation": {
+      "plSlow": "u ysz-kri-TO-ri-u E LÕ-ży. WÔ dy au-tu-KA-rru.",
+      "plNatural": "u ysz-kri-TO-ri-u E LÕ-ży. WÔ dau-tu-KA-rru.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-que-horas-sais-do-escritorio-q",
+    "kind": "sentence",
+    "pt": "E a que horas sais do escritório?",
+    "pl": "A o której wychodzisz z biura?",
+    "pronunciation": {
+      "plSlow": "i ă ky O-răsz SAJŻ du ysz-kri-TO-ri-u?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "saio-as-cinco-ate-logo",
+    "kind": "sentence",
+    "pt": "Saio às cinco. Até logo!",
+    "pl": "Wychodzę o piątej. Na razie!",
+    "pronunciation": {
+      "plSlow": "SAJ-u asz SĨ-ku. ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir",
+    "kind": "word",
+    "pt": "vir",
+    "pl": "przychodzić, przyjeżdżać (tu, do mówiącego)",
+    "pronunciation": {
+      "plSlow": "WIR",
+      "ipa": "ˈviɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "vir = ruch w stronę mówiącego, „tutaj”. ir = ruch gdzieś indziej, „tam”. Jak po polsku: przyjść / przyjechać — iść / pojechać.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir-venho",
+    "kind": "word",
+    "pt": "venho",
+    "pl": "(ja) przychodzę, przyjeżdżam",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu",
+      "ipa": "ˈvɐɲu",
+      "notePl": "Jak „tenho”: w normie lizbońskiej „WĂ-ńu”; poza Lizboną często „WÊ-ńu”. nh = ń.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir-vens",
+    "kind": "word",
+    "pt": "vens",
+    "pl": "(ty) przychodzisz, przyjeżdżasz",
+    "pronunciation": {
+      "plSlow": "WÃJSZ",
+      "ipa": "ˈvɐ̃j̃ʃ",
+      "notePl": "Jak „tens”: nosowe „ãj” + sz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir-vem",
+    "kind": "word",
+    "pt": "vem",
+    "pl": "przychodzi, przyjeżdża (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "WÃJ",
+      "ipa": "ˈvɐ̃j̃",
+      "notePl": "Jak „tem”: nosowe „ãj”, bez domykania m.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir-vimos",
+    "kind": "word",
+    "pt": "vimos",
+    "pl": "(my) przychodzimy, przyjeżdżamy",
+    "pronunciation": {
+      "plSlow": "WI-musz",
+      "ipa": "ˈvimuʃ",
+      "notePl": "Uwaga: „vimos” to też „widzieliśmy” (czas przeszły od „ver”) — rozróżnisz z kontekstu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vir-vem-eles",
+    "kind": "word",
+    "pt": "vêm",
+    "pl": "(oni / one / Państwo) przychodzą, przyjeżdżają",
+    "pronunciation": {
+      "plSlow": "WÃJ-ãj",
+      "ipa": "ˈvɐ̃j̃ɐ̃j̃",
+      "notePl": "Jak „têm”: dwa razy nosowe „ãj”. Daszek odróżnia „vêm” (oni) od „vem” (on).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comigo",
+    "kind": "word",
+    "pt": "comigo",
+    "pl": "ze mną",
+    "pronunciation": {
+      "plSlow": "ku-MI-gu",
+      "ipa": "kuˈmiɣu",
+      "notePl": "Pierwsze o nieakcentowane = u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "zaimki"
+    ],
+    "usagePl": "com + mim = comigo (nie „com mim”). Vens comigo? = Pójdziesz ze mną?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-onde-vens-q",
+    "kind": "phrase",
+    "pt": "De onde vens?",
+    "pl": "Skąd idziesz / wracasz? (teraz)",
+    "pronunciation": {
+      "plSlow": "dy Õ-dy WÃJSZ?",
+      "plNatural": "djÕ-dy WÃJSZ?",
+      "notePl": "W szybkiej mowie „de onde” zlewa się w „djÕ-dy”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "pytania"
+    ],
+    "usagePl": "Zwykle: skąd teraz przychodzisz. O pochodzenie częściej pytamy: De onde és?",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "venho-do-trabalho",
+    "kind": "sentence",
+    "pt": "Venho do trabalho.",
+    "pl": "Wracam z pracy. (dosł. przychodzę z pracy)",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu du tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "venho-de-autocarro",
+    "kind": "sentence",
+    "pt": "Venho de autocarro.",
+    "pl": "Przyjeżdżam autobusem.",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu dy au-tu-KA-rru.",
+      "plNatural": "WĂ-ńu dau-tu-KA-rru.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vens-comigo-q",
+    "kind": "sentence",
+    "pt": "Vens comigo?",
+    "pl": "Pójdziesz ze mną?",
+    "pronunciation": {
+      "plSlow": "WÃJSZ ku-MI-gu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-vem-amanha",
+    "kind": "sentence",
+    "pt": "A Ana vem amanhã.",
+    "pl": "Ana przyjdzie jutro.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă WÃJ ă-mă-ŃÃ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "usagePl": "Czas teraźniejszy często mówi o bliskiej przyszłości — jak po polsku „Ana jutro przychodzi”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-meus-pais-vem-a-madeira",
+    "kind": "sentence",
+    "pt": "Os meus pais vêm à Madeira.",
+    "pl": "Moi rodzice przyjeżdżają na Maderę.",
+    "pronunciation": {
+      "plSlow": "uż MÊUSZ PAJŻ WÃJ-ãj a mă-DĂJ-ră.",
+      "notePl": "pais przed w → „PAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ao-supermercado-vens-q",
+    "kind": "sentence",
+    "pt": "Vou ao supermercado. Vens?",
+    "pl": "Idę do supermarketu. Pójdziesz (ze mną)?",
+    "pronunciation": {
+      "plSlow": "WÔ au su-per-myr-KA-du. WÃJSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "usagePl": "Ja idę (ir: vou), a Ciebie zapraszam, żebyś poszedł razem ze mną (vir: vens).",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-vimos-de-carro",
+    "kind": "sentence",
+    "pt": "Nós vimos de carro.",
+    "pl": "Przyjeżdżamy samochodem.",
+    "pronunciation": {
+      "plSlow": "NOŻ WI-muż dy KA-rru.",
+      "notePl": "vimos przed d → „WI-muż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-vem-do-trabalho",
+    "kind": "sentence",
+    "pt": "A Ana vem do trabalho.",
+    "pl": "Ana wraca z pracy.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă WÃJ du tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-de-onde-vens-q",
+    "kind": "sentence",
+    "pt": "Olá! De onde vens?",
+    "pl": "Cześć! Skąd wracasz?",
+    "pronunciation": {
+      "plSlow": "o-LA! dy Õ-dy WÃJSZ?",
+      "plNatural": "o-LA! djÕ-dy WÃJSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "venho-do-trabalho-estou-cansado",
+    "kind": "sentence",
+    "pt": "Venho do trabalho. Estou cansado!",
+    "ptFem": "Venho do trabalho. Estou cansada!",
+    "pl": "Wracam z pracy. Jestem zmęczony!",
+    "plFem": "Wracam z pracy. Jestem zmęczona!",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu du tră-BA-lju. ysz-TÔ kã-SA-du!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "WĂ-ńu du tră-BA-lju. ysz-TÔ kã-SA-dă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ao-cafe-do-rui-vens-comigo-q",
+    "kind": "sentence",
+    "pt": "Vou ao café do Rui. Vens comigo?",
+    "pl": "Idę do kawiarni Ruiego. Pójdziesz ze mną?",
+    "pronunciation": {
+      "plSlow": "WÔ au kă-FE du RRUJ. WÃJSZ ku-MI-gu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-esta-bem-a-marta-tambem-vem",
+    "kind": "sentence",
+    "pt": "Amanhã? Está bem. A Marta também vem!",
+    "pl": "Jutro? Dobrze. Marta też przyjdzie!",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ? ysz-TA BÃJ. ă MAR-tă tã-BÃJ WÃJ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver",
+    "kind": "word",
+    "pt": "ver",
+    "pl": "widzieć; oglądać",
+    "pronunciation": {
+      "plSlow": "WÊR",
+      "ipa": "ˈveɾ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "ver televisão = oglądać telewizję. „Só estou a ver” (w sklepie: tylko się rozglądam) — już znasz.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver-vejo",
+    "kind": "word",
+    "pt": "vejo",
+    "pl": "(ja) widzę; oglądam",
+    "pronunciation": {
+      "plSlow": "WĂ-żu",
+      "ipa": "ˈvɐʒu",
+      "notePl": "Norma lizbońska: e przed „ż” brzmi jak „ă” (jak w „tenho”); poza Lizboną często „WÊ-żu”. Nieregularne: j w formie „eu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver-ves",
+    "kind": "word",
+    "pt": "vês",
+    "pl": "(ty) widzisz; oglądasz",
+    "pronunciation": {
+      "plSlow": "WÊSZ",
+      "ipa": "ˈveʃ",
+      "notePl": "Zamknięte ê (daszek).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver-ve",
+    "kind": "word",
+    "pt": "vê",
+    "pl": "widzi; ogląda (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "WÊ",
+      "ipa": "ˈve",
+      "notePl": "Zamknięte ê (daszek).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver-vemos",
+    "kind": "word",
+    "pt": "vemos",
+    "pl": "(my) widzimy; oglądamy",
+    "pronunciation": {
+      "plSlow": "WÊ-musz",
+      "ipa": "ˈvemuʃ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ver-veem",
+    "kind": "word",
+    "pt": "veem",
+    "pl": "(oni / one / Państwo) widzą; oglądają",
+    "pronunciation": {
+      "plSlow": "WÊ-ãj",
+      "ipa": "ˈveɐ̃j̃",
+      "notePl": "Dwie sylaby: WÊ-ãj. Pisownia po reformie (AO1990): veem — bez daszka.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "televisao",
+    "kind": "word",
+    "pt": "televisão",
+    "pl": "telewizja; telewizor",
+    "pronunciation": {
+      "plSlow": "ty-ly-wi-ZÃU",
+      "ipa": "tɨlɨviˈzɐ̃w̃",
+      "notePl": "Dwa pierwsze e zredukowane (y); s między samogłoskami = z; ão = „ãu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "usagePl": "a televisão (żeńska). ver televisão = oglądać telewizję (zwykle bez rodzajnika).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois",
+    "kind": "word",
+    "pt": "depois",
+    "pl": "potem, później",
+    "pronunciation": {
+      "plSlow": "dy-PÔJSZ",
+      "ipa": "dɨˈpojʃ",
+      "notePl": "Pierwsze e zredukowane; oi = „ôj”; końcowe s = sz (przed samogłoską z, przed dźwięczną spółgłoską ż).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "usagePl": "Depois, vejo televisão. = Potem oglądam telewizję. depois de… = po…: depois do trabalho (po pracy).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite-vejo-televisao",
+    "kind": "sentence",
+    "pt": "À noite vejo televisão.",
+    "pl": "Wieczorem oglądam telewizję.",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty WĂ-żu ty-ly-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ves-televisao-q",
+    "kind": "sentence",
+    "pt": "Vês televisão?",
+    "pl": "Oglądasz telewizję?",
+    "pronunciation": {
+      "plSlow": "WÊSZ ty-ly-wi-ZÃU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-do-trabalho-vejo-televisao",
+    "kind": "sentence",
+    "pt": "Depois do trabalho, vejo televisão.",
+    "pl": "Po pracy oglądam telewizję.",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ du tră-BA-lju, WĂ-żu ty-ly-wi-ZÃU.",
+      "notePl": "depois przed d → „dy-PÔJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-nao-vemos-televisao",
+    "kind": "sentence",
+    "pt": "Nós não vemos televisão.",
+    "pl": "Nie oglądamy telewizji.",
+    "pronunciation": {
+      "plSlow": "NOŻ NÃU WÊ-musz ty-ly-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "os-meus-filhos-veem-televisao-a-tarde",
+    "kind": "sentence",
+    "pt": "Os meus filhos veem televisão à tarde.",
+    "pl": "Moje dzieci oglądają telewizję po południu.",
+    "pronunciation": {
+      "plSlow": "uż MÊUSZ FI-ljuż WÊ-ãj ty-ly-wi-ZÃU a TAR-dy.",
+      "notePl": "filhos przed w → „FI-ljuż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "rodzina"
+    ],
+    "usagePl": "Przykład ogólny z liczbą mnogą (ktoś, kto ma kilkoro dzieci) — pokazuje formę „veem”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite-nao-vejo-televisao",
+    "kind": "sentence",
+    "pt": "À noite não vejo televisão.",
+    "pl": "Wieczorem nie oglądam telewizji.",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty NÃU WĂ-żu ty-ly-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-faz-a-noite-q",
+    "kind": "sentence",
+    "pt": "O que faz à noite?",
+    "pl": "Co Pan / Pani robi wieczorem?",
+    "pronunciation": {
+      "plSlow": "u ky FAZ a NÔJ-ty?",
+      "notePl": "faz przed samogłoską → „FAZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-fazes-a-noite-q",
+    "kind": "sentence",
+    "pt": "Olá! O que fazes à noite?",
+    "pl": "Cześć! Co robisz wieczorem?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky FA-zyz a NÔJ-ty?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-do-trabalho-como-em-casa-e-vejo-televisao",
+    "kind": "sentence",
+    "pt": "Depois do trabalho, como em casa e vejo televisão.",
+    "pl": "Po pracy jem w domu i oglądam telewizję.",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ du tră-BA-lju, KÔ-mu ãj KA-ză i WĂ-żu ty-ly-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ves-televisao-em-portugues-q",
+    "kind": "sentence",
+    "pt": "Vês televisão em português?",
+    "pl": "Oglądasz telewizję po portugalsku?",
+    "pronunciation": {
+      "plSlow": "WÊSZ ty-ly-wi-ZÃU ãj pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-vezes-mas-nao-percebo-tudo",
+    "kind": "sentence",
+    "pt": "Às vezes. Mas não percebo tudo!",
+    "pl": "Czasami. Ale nie wszystko rozumiem!",
+    "pronunciation": {
+      "plSlow": "aż WÊ-zysz. măż NÃU pyr-SÊ-bu TU-du!",
+      "notePl": "mas przed n → „măż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-faz-mal-eu-tambem-vejo-televisao-em-ingles",
+    "kind": "sentence",
+    "pt": "Não faz mal! Eu também vejo televisão em inglês.",
+    "pl": "Nic nie szkodzi! Ja też oglądam telewizję po angielsku.",
+    "pronunciation": {
+      "plSlow": "NÃU FAŻ MAɫ! ÊU tã-BÃJ WĂ-żu ty-ly-wi-ZÃU ãj ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer",
+    "kind": "word",
+    "pt": "dizer",
+    "pl": "mówić, powiedzieć (coś)",
+    "pronunciation": {
+      "plSlow": "di-ZÊR",
+      "ipa": "diˈzeɾ",
+      "notePl": "Akcent na końcu, zamknięte ê. W szybkiej mowie pierwsze i bywa bardzo krótkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "dizer = powiedzieć COŚ (słowa, treść): dizer bom dia, dizer que… falar = mówić (w języku), rozmawiać: falar português.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer-digo",
+    "kind": "word",
+    "pt": "digo",
+    "pl": "(ja) mówię",
+    "pronunciation": {
+      "plSlow": "DI-gu",
+      "ipa": "ˈdiɣu",
+      "notePl": "Nieregularne: g zamiast z w formie „eu”. g między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer-dizes",
+    "kind": "word",
+    "pt": "dizes",
+    "pl": "(ty) mówisz",
+    "pronunciation": {
+      "plSlow": "DI-zysz",
+      "ipa": "ˈdizɨʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer-diz",
+    "kind": "word",
+    "pt": "diz",
+    "pl": "mówi (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "DISZ",
+      "ipa": "ˈdiʃ",
+      "notePl": "Końcowe z = sz. Znasz je z „Como se diz…?”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer-dizemos",
+    "kind": "word",
+    "pt": "dizemos",
+    "pl": "(my) mówimy",
+    "pronunciation": {
+      "plSlow": "di-ZÊ-musz",
+      "ipa": "diˈzemuʃ",
+      "notePl": "Zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dizer-dizem",
+    "kind": "word",
+    "pt": "dizem",
+    "pl": "(oni / one / Państwo) mówią",
+    "pronunciation": {
+      "plSlow": "DI-zãj",
+      "ipa": "ˈdizɐ̃j̃",
+      "notePl": "Końcówka -em = nosowe „ãj”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "que-conj",
+    "kind": "word",
+    "pt": "que",
+    "pl": "że (spójnik)",
+    "pronunciation": {
+      "plSlow": "ky",
+      "ipa": "kɨ",
+      "notePl": "Nieakcentowane: krótkie „ky”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "spojniki"
+    ],
+    "usagePl": "Ele diz que está cansado. = Mówi, że jest zmęczony. Po polsku przed „że” stawiamy przecinek — po portugalsku przed „que” zwykle nie.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-q",
+    "kind": "phrase",
+    "pt": "Como?",
+    "pl": "Słucham? (gdy nie dosłyszysz)",
+    "pronunciation": {
+      "plSlow": "KÔ-mu?",
+      "ipa": "ˈkomu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rozumienie"
+    ],
+    "usagePl": "Krótka prośba o powtórzenie. Grzeczniej: Desculpe? / Pode repetir, se faz favor?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "digo-sempre-bom-dia-em-portugues",
+    "kind": "sentence",
+    "pt": "Digo sempre bom dia em português.",
+    "pl": "Zawsze mówię „dzień dobry” po portugalsku.",
+    "pronunciation": {
+      "plSlow": "DI-gu SẼ-pry BÕ DI-ă ãj pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-diz-a-marta-q",
+    "kind": "sentence",
+    "pt": "O que diz a Marta?",
+    "pl": "Co mówi Marta?",
+    "pronunciation": {
+      "plSlow": "u ky DIZ ă MAR-tă?",
+      "notePl": "diz przed samogłoską → „DIZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-diz-que-o-meu-filho-fala-muito-bem",
+    "kind": "sentence",
+    "pt": "A Marta diz que o meu filho fala muito bem.",
+    "pl": "Marta mówi, że mój syn mówi bardzo dobrze.",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă DISZ ky u MÊU FI-lju FA-lă MŨJ-tu BÃJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "przedszkole"
+    ],
+    "usagePl": "diz que… — co ktoś powiedział; fala — jak ktoś mówi (w języku).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-diz-que-esta-cansado",
+    "kind": "sentence",
+    "pt": "Ele diz que está cansado.",
+    "pl": "Mówi, że jest zmęczony.",
+    "pronunciation": {
+      "plSlow": "Ê-ly DISZ ky ysz-TA kã-SA-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-dizem-que-sim",
+    "kind": "sentence",
+    "pt": "Eles dizem que sim.",
+    "pl": "Mówią, że tak.",
+    "pronunciation": {
+      "plSlow": "Ê-lyż DI-zãj ky SĨ.",
+      "notePl": "eles przed d → „Ê-lyż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-pode-repetir-q",
+    "kind": "sentence",
+    "pt": "Como? Pode repetir?",
+    "pl": "Słucham? Może Pan / Pani powtórzyć?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu? PO-dy rry-py-TIR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rozumienie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-o-seu-filho-diz-que-tem-fome",
+    "kind": "sentence",
+    "pt": "Boa tarde! O seu filho diz que tem fome!",
+    "pl": "Dzień dobry! Pana syn mówi, że jest głodny!",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! u SÊU FI-lju DISZ ky TÃJ FO-my!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-seu-filho-diz-que-tem-fome",
+    "kind": "sentence",
+    "pt": "O seu filho diz que tem fome.",
+    "pl": "Pana syn mówi, że jest głodny.",
+    "pronunciation": {
+      "plSlow": "u SÊU FI-lju DISZ ky TÃJ FO-my.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "przedszkole"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ah-ele-diz-sempre-que-tem-fome",
+    "kind": "sentence",
+    "pt": "Ah! Ele diz sempre que tem fome!",
+    "pl": "Ach! On zawsze mówi, że jest głodny!",
+    "pronunciation": {
+      "plSlow": "A! Ê-ly DISZ SẼ-pry ky TÃJ FO-my!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-diz-que-a-sopa-aqui-e-muito-boa",
+    "kind": "sentence",
+    "pt": "E diz que a sopa aqui é muito boa!",
+    "pl": "I mówi, że zupa tutaj jest bardzo dobra!",
+    "pronunciation": {
+      "plSlow": "i DISZ ky ă SÔ-pă ă-KI E MŨJ-tu BÔ-ă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar",
+    "kind": "word",
+    "pt": "dar",
+    "pl": "dawać, dać",
+    "pronunciation": {
+      "plSlow": "DAR",
+      "ipa": "ˈdaɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "usagePl": "dar alguma coisa a alguém = dać coś komuś: Dou o telemóvel ao meu filho.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-dou",
+    "kind": "word",
+    "pt": "dou",
+    "pl": "(ja) daję",
+    "pronunciation": {
+      "plSlow": "DÔ",
+      "ipa": "ˈdo",
+      "notePl": "ou = zamknięte „ô” — jak w „sou”, „vou”, „estou”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-das",
+    "kind": "word",
+    "pt": "dás",
+    "pl": "(ty) dajesz",
+    "pronunciation": {
+      "plSlow": "DASZ",
+      "ipa": "ˈdaʃ",
+      "notePl": "Otwarte a (á).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-da",
+    "kind": "word",
+    "pt": "dá",
+    "pl": "daje (on / ona / Pan / Pani)",
+    "pronunciation": {
+      "plSlow": "DA",
+      "ipa": "ˈda",
+      "notePl": "Otwarte a (á).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-damos",
+    "kind": "word",
+    "pt": "damos",
+    "pl": "(my) dajemy",
+    "pronunciation": {
+      "plSlow": "DĂ-musz",
+      "ipa": "ˈdɐmuʃ",
+      "notePl": "a przed m → przytłumione „ă”, jak w „vamos”, „estamos”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-dao",
+    "kind": "word",
+    "pt": "dão",
+    "pl": "(oni / one / Państwo) dają",
+    "pronunciation": {
+      "plSlow": "DÃU",
+      "ipa": "ˈdɐ̃w̃",
+      "notePl": "Jak „vão”, „são”, „estão”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-da",
+    "kind": "phrase",
+    "pt": "Não dá.",
+    "pl": "Nie da rady. / Nie pasuje mi. (potocznie)",
+    "pronunciation": {
+      "plSlow": "NÃU DA.",
+      "ipa": "ˈnɐ̃w̃ ˈda",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "usagePl": "Bardzo częste: Hoje não dá. = Dziś nie dam rady / dziś mi nie pasuje. Grzeczniej i bardziej neutralnie: Hoje não posso.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dou-o-telemovel-ao-meu-filho",
+    "kind": "sentence",
+    "pt": "Dou o telemóvel ao meu filho.",
+    "pl": "Daję telefon synowi.",
+    "pronunciation": {
+      "plSlow": "DÔ u te-le-MO-weɫ au MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "usagePl": "Komu? → a + o = ao, a + a = à (po polsku celownik: synowi).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "das-me-o-telemovel-q",
+    "kind": "sentence",
+    "pt": "Dás-me o telemóvel?",
+    "pl": "Dasz mi telefon?",
+    "pronunciation": {
+      "plSlow": "DAŻ-my u te-le-MO-weɫ?",
+      "notePl": "dás + me: s przed m brzmi jak ż → „DAŻ-my”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "usagePl": "Zaimek „me” po czasowniku, z łącznikiem — jak w „Pode ajudar-me?”.",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-da-um-bolo-ao-meu-filho",
+    "kind": "sentence",
+    "pt": "A Ana dá um bolo ao meu filho.",
+    "pl": "Ana daje mojemu synowi ciastko.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă DA ũ BÔ-lu au MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-da",
+    "kind": "sentence",
+    "pt": "Hoje não dá.",
+    "pl": "Dziś nie dam rady. / Dziś mi nie pasuje.",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU DA.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-da-amanha-q",
+    "kind": "sentence",
+    "pt": "Hoje não dá. Amanhã?",
+    "pl": "Dziś nie dam rady. Jutro?",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU DA. ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-dao-um-bolo-a-marta",
+    "kind": "sentence",
+    "pt": "Eles dão um bolo à Marta.",
+    "pl": "Dają Marcie ciasto.",
+    "pronunciation": {
+      "plSlow": "Ê-lyż DÃU ũ BÔ-lu a MAR-tă.",
+      "notePl": "eles przed d → „Ê-lyż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-fazes-no-sabado-q",
+    "kind": "sentence",
+    "pt": "Olá! O que fazes no sábado?",
+    "pl": "Cześć! Co robisz w sobotę?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky FA-zyż nu SA-bă-du?",
+      "notePl": "fazes przed n → „FA-zyż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-manha-trabalho-mas-saio-cedo-as-duas",
+    "kind": "sentence",
+    "pt": "De manhã trabalho. Mas saio cedo, às duas.",
+    "pl": "Rano pracuję. Ale wychodzę wcześnie, o drugiej.",
+    "pronunciation": {
+      "plSlow": "dy mă-ŃÃ tră-BA-lju. măsz SAJ-u SÊ-du, aż DU-ăsz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vens-a-praia-comigo-a-marta-tambem-vem",
+    "kind": "sentence",
+    "pt": "Vens à praia comigo? A Marta também vem.",
+    "pl": "Pójdziesz ze mną na plażę? Marta też idzie.",
+    "pronunciation": {
+      "plSlow": "WÃJZ a PRAJ-ă ku-MI-gu? ă MAR-tă tã-BÃJ WÃJ.",
+      "notePl": "vens przed samogłoską → „WÃJZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-duas-nao-da-as-quatro-q",
+    "kind": "sentence",
+    "pt": "Às duas não dá. Às quatro?",
+    "pl": "O drugiej nie dam rady. O czwartej?",
+    "pronunciation": {
+      "plSlow": "aż DU-ăż NÃU DA. asz KUA-tru?",
+      "notePl": "duas przed n → „DU-ăż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-quatro-esta-bem-eu-digo-a-marta",
+    "kind": "sentence",
+    "pt": "Às quatro está bem! Eu digo à Marta.",
+    "pl": "O czwartej pasuje! Powiem Marcie.",
+    "pronunciation": {
+      "plSlow": "asz KUA-tru ysz-TA BÃJ! ÊU DI-gu a MAR-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-ate-sabado",
+    "kind": "sentence",
+    "pt": "Muito bem! Até sábado!",
+    "pl": "Świetnie! Do soboty!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! ă-TE SA-bă-du!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite-ves-televisao-q",
+    "kind": "sentence",
+    "pt": "À noite vês televisão?",
+    "pl": "Wieczorem oglądasz telewizję?",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty WÊSZ ty-ly-wi-ZÃU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-fazes-q",
+    "kind": "sentence",
+    "pt": "O que fazes?",
+    "pl": "Czym się zajmujesz? (dosł. Co robisz?)",
+    "pronunciation": {
+      "plSlow": "u ky FA-zysz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "praca",
+      "pytania"
+    ],
+    "usagePl": "Do kolegi (tu). Grzecznie: O que faz?",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-vais-para-o-trabalho-q",
+    "kind": "sentence",
+    "pt": "Como vais para o trabalho?",
+    "pl": "Jak dojeżdżasz do pracy?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu WAJSZ PĂ-ră u tră-BA-lju?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "rytm-dnia",
+      "transport",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-bem-vamos",
+    "kind": "sentence",
+    "pt": "Está bem! Vamos.",
+    "pl": "Dobrze! Chodźmy.",
+    "pronunciation": {
+      "plSlow": "ysz-TA BÃJ! WĂ-musz.",
+      "plNatural": "SZTA BÃJ! WĂ-musz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w09",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  }
+]

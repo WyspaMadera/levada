@@ -1,0 +1,203 @@
+[
+  {
+    "id": "w01-l01-s01",
+    "promptPl": "Powiedz „tak” i „nie”. Zwróć uwagę na nosowość obu słów.",
+    "modelItemIds": [
+      "sim",
+      "nao"
+    ]
+  },
+  {
+    "id": "w01-l01-s02",
+    "promptPl": "Powiedz nazwę kraju i wyspy z właściwym akcentem.",
+    "modelItemIds": [
+      "portugal",
+      "madeira"
+    ],
+    "hintPl": "Portugal — akcent na końcu; Madeira — na środku."
+  },
+  {
+    "id": "w01-l01-s03",
+    "promptPl": "Barista pyta: „Café?”. Odpowiedz, że tak.",
+    "modelItemIds": [
+      "sim-cafe"
+    ]
+  },
+  {
+    "id": "w01-l02-s01",
+    "promptPl": "Jest 9 rano. Przywitaj się z sąsiadką i zapytaj, co słychać.",
+    "modelItemIds": [
+      "ola-bom-dia",
+      "tudo-bem-q"
+    ]
+  },
+  {
+    "id": "w01-l02-s02",
+    "promptPl": "Jest wieczór, wychodzisz od znajomych. Pożegnaj się.",
+    "modelItemIds": [
+      "boa-noite",
+      "adeus-ate-logo"
+    ]
+  },
+  {
+    "id": "w01-l02-s03",
+    "promptPl": "Ktoś pyta Cię: „Tudo bem?”. Odpowiedz.",
+    "modelItemIds": [
+      "tudo-bem"
+    ]
+  },
+  {
+    "id": "w01-l03-s01",
+    "promptPl": "Zamów kawę w kawiarni (z powitaniem).",
+    "modelItemIds": [
+      "bom-dia-um-cafe-sfv"
+    ]
+  },
+  {
+    "id": "w01-l03-s02",
+    "promptPl": "Barista podaje Ci kawę. Podziękuj bardzo.",
+    "modelItemIds": [
+      "muito-obrigado"
+    ],
+    "hintPl": "Twoja forma (obrigado/obrigada) zależy od ustawień profilu."
+  },
+  {
+    "id": "w01-l03-s03",
+    "promptPl": "Ktoś stoi w przejściu. Poproś grzecznie o przejście.",
+    "modelItemIds": [
+      "com-licenca"
+    ]
+  },
+  {
+    "id": "w01-l03-s04",
+    "promptPl": "Ktoś Ci dziękuje. Odpowiedz.",
+    "modelItemIds": [
+      "de-nada"
+    ]
+  },
+  {
+    "id": "w01-l04-s01",
+    "promptPl": "Przedstaw się.",
+    "modelItemIds": [
+      "chamo-me-ana"
+    ],
+    "hintPl": "Swoje imię wymawiaj normalnie — nie trzeba go „portugalizować”.",
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w01-l04-s02",
+    "promptPl": "Zapytaj grzecznie starszego pana o imię, a po odpowiedzi powiedz, że miło Ci go poznać.",
+    "modelItemIds": [
+      "como-se-chama",
+      "muito-prazer"
+    ]
+  },
+  {
+    "id": "w01-l04-s03",
+    "promptPl": "Zapytaj dziecko, jak ma na imię.",
+    "modelItemIds": [
+      "como-te-chamas"
+    ]
+  },
+  {
+    "id": "w01-l04-s04",
+    "promptPl": "Ktoś mówi: „Muito prazer”. Odpowiedz.",
+    "modelItemIds": [
+      "igualmente"
+    ]
+  },
+  {
+    "id": "w01-l05-s01",
+    "promptPl": "Nie rozumiesz, co mówi urzędnik. Przeproś, powiedz, że nie rozumiesz, i poproś o powtórzenie.",
+    "modelItemIds": [
+      "desculpe-nao-percebo",
+      "pode-repetir"
+    ]
+  },
+  {
+    "id": "w01-l05-s02",
+    "promptPl": "Ktoś mówi za szybko. Poproś o wolniejsze tempo.",
+    "modelItemIds": [
+      "mais-devagar"
+    ]
+  },
+  {
+    "id": "w01-l05-s03",
+    "promptPl": "Zapytaj, jak powiedzieć po portugalsku jakieś słowo (np. „herbata”).",
+    "modelItemIds": [
+      "como-se-diz"
+    ]
+  },
+  {
+    "id": "w01-l05-s04",
+    "promptPl": "Powiedz, że nie mówisz dobrze po portugalsku.",
+    "modelItemIds": [
+      "nao-falo-bem"
+    ]
+  },
+  {
+    "id": "w01-l06-s01",
+    "promptPl": "Odegraj rozmowę z wychowawczynią: przywitaj się, przedstaw, powiedz, że wszystko w porządku i że nie mówisz dobrze po portugalsku. Pożegnaj się do jutra.",
+    "modelItemIds": [
+      "ola-boa-tarde",
+      "boa-tarde-chamo-me-tomasz",
+      "tudo-bem-obrigado",
+      "desculpe-nao-falo-bem",
+      "obrigado-ate-amanha"
+    ]
+  },
+  {
+    "id": "w01-l06-s02",
+    "promptPl": "Ktoś Cię przeprasza, że wpadł na Ciebie. Odpowiedz, że nic się nie stało.",
+    "modelItemIds": [
+      "nao-faz-mal"
+    ]
+  },
+  {
+    "id": "w01-l06-s03",
+    "promptPl": "Przedstaw się nowej osobie i zapytaj grzecznie o jej imię.",
+    "modelItemIds": [
+      "chamo-me-tomasz-e-a-senhora"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w01-t-s01",
+    "promptPl": "Przywitaj się (jest popołudnie), przedstaw się i zapytaj grzecznie rozmówcę o imię.",
+    "modelItemIds": [
+      "ola-boa-tarde",
+      "chamo-me-tomasz-e-a-senhora"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w01-t-s02",
+    "promptPl": "Nie rozumiesz rozmówcy. Poproś o powtórzenie i o wolniejsze tempo.",
+    "modelItemIds": [
+      "desculpe-nao-percebo",
+      "pode-repetir",
+      "mais-devagar"
+    ]
+  },
+  {
+    "id": "w01-t-s03",
+    "promptPl": "Zamów kawę, podziękuj i pożegnaj się.",
+    "modelItemIds": [
+      "um-cafe-sfv",
+      "muito-obrigado",
+      "ate-logo"
+    ]
+  }
+]

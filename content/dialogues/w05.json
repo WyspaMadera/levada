@@ -1,0 +1,216 @@
+[
+  {
+    "id": "w05-d25",
+    "titlePl": "Po polsku czy po portugalsku?",
+    "contextPl": "Rano przed przedszkolem rozmawiasz z Martą, wychowawczynią syna. Rozmowa grzeczna (o senhor / a senhora). „Ele” to syn, który stoi obok. (W Twoich własnych odpowiedziach informacje o dzieciach są zawsze opcjonalne.)",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "em-casa-o-senhor-fala-polaco-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-em-casa-falo-polaco"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-ele-tambem-fala-polaco-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "fala-polaco-e-um-pouco-de-portugues"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "muito-bem-e-o-senhor-trabalha-hoje-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-trabalho-no-funchal-ate-as-cinco"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w05-d26",
+    "titlePl": "Obiad u Ruiego",
+    "contextPl": "Południe, kawiarnia Ruiego. Spotykasz Martę. Rozmowa grzeczna (o senhor / a senhora). Zwróć uwagę: „Como sopa” znaczy tu „Zjem zupę” — czas teraźniejszy mówi też o tym, co zaraz zrobisz.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-o-senhor-come-aqui-hoje-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-como-aqui-e-a-senhora"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "tambem-a-sopa-aqui-e-muito-boa"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "como-sopa-e-pao-e-bebo-uma-agua"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "nao-bebe-cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "hoje-nao-bebo-cafe"
+      }
+    ]
+  },
+  {
+    "id": "w05-d27",
+    "titlePl": "Wcześnie rano",
+    "contextPl": "Ósma rano, przed przedszkolem. Marta widzi, że jesteś zmęczony. Rozmowa grzeczna.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "bom-dia-esta-cansado-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "um-pouco-acordo-as-seis"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "as-seis-e-a-que-horas-se-levanta-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "levanto-me-as-seis-e-meia-e-a-senhora-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "eu-tambem-as-seis-e-meia-ate-logo"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w05-d28",
+    "titlePl": "Zawsze tutaj?",
+    "contextPl": "Spotykasz Anę w kawiarni Ruiego. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-comes-sempre-aqui-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "as-vezes-e-tu"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "eu-como-sempre-em-casa"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "a-noite-nos-tambem-comemos-em-casa"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "em-casa-falas-polaco-ou-portugues-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "falamos-polaco-as-vezes-portugues"
+      }
+    ]
+  },
+  {
+    "id": "w05-d29",
+    "titlePl": "Co robisz?",
+    "contextPl": "Ana dzwoni do Ciebie po południu. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-o-que-estas-a-fazer-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "agora-estou-a-comer-e-tu"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "estou-a-trabalhar-mas-as-cinco-vou-a-praia-vamos-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "as-cinco-esta-bem-ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w05-d30",
+    "titlePl": "Wieczorem na ulicy",
+    "contextPl": "Wracasz z pracy i spotykasz Anę. Jesteście po imieniu. „Falam” w pytaniu Any odnosi się do całej Twojej rodziny („wy”).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-vais-para-casa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "vou-estou-cansado-acordo-sempre-as-seis"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-a-noite-comes-em-casa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-comemos-sempre-em-casa-as-oito"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "em-casa-falam-portugues-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "falamos-polaco-mas-o-meu-filho-fala-portugues"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "muito-bem-boa-noite"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "boa-noite"
+      }
+    ]
+  }
+]

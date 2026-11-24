@@ -1,0 +1,66 @@
+[
+  {
+    "id": "w03-test",
+    "week": 3,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 3",
+    "introPl": "Około 8 minut. Rodzaj i liczba, querer, poder, precisar de, liczby do 100 i pytania o wiek, cenę i miejsce zamieszkania. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w03-t-e01",
+          "w03-t-e02",
+          "w03-t-e03",
+          "w03-t-e04",
+          "w03-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w03-t-e06",
+          "w03-t-e07"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w03-t-e08",
+          "w03-t-e09",
+          "w03-t-e10",
+          "w03-t-e11",
+          "w03-t-e12",
+          "w03-t-e13",
+          "w03-t-e14"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w03-t-e15",
+          "w03-t-e16",
+          "w03-t-e17"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w03-t-s01",
+      "w03-t-s02",
+      "w03-t-s03"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w03-l13",
+      "w03-l14",
+      "w03-l15",
+      "w03-l16",
+      "w03-l17",
+      "w03-l18"
+    ]
+  }
+]

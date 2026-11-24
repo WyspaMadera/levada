@@ -1,0 +1,103 @@
+[
+  {
+    "id": "w04-test",
+    "week": 4,
+    "kind": "stage",
+    "titlePl": "Sprawdzian pierwszego miesiąca",
+    "introPl": "Około 10 minut. Sprawdzian etapowy z tygodni 1–4: powitania i uprzejmości, ser/estar/ter, rodzaj i liczba, querer/poder/precisar, liczby, ir, przyimki miejsca, dni tygodnia, godziny i rodzina. Wynik wskaże lekcje do powtórki — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w04-t-e01",
+          "w04-t-e02",
+          "w04-t-e03",
+          "w04-t-e04",
+          "w04-t-e05",
+          "w04-t-e06"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w04-t-e07",
+          "w04-t-e08",
+          "w04-t-e09",
+          "w04-t-e10"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w04-t-e11",
+          "w04-t-e12",
+          "w04-t-e13",
+          "w04-t-e14",
+          "w04-t-e15",
+          "w04-t-e16",
+          "w04-t-e17",
+          "w04-t-e18"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w04-t-e19",
+          "w04-t-e20",
+          "w04-t-e21",
+          "w04-t-e22"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w04-t-s01",
+      "w04-t-s02",
+      "w04-t-s03",
+      "w04-t-s04"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w01-l04",
+      "w01-l05",
+      "w02-l09",
+      "w02-l10",
+      "w02-l11",
+      "w03-l13",
+      "w03-l14",
+      "w03-l15",
+      "w03-l16",
+      "w03-l17",
+      "w03-l18",
+      "w04-l19",
+      "w04-l20",
+      "w04-l21",
+      "w04-l22",
+      "w04-l23"
+    ],
+    "monologues": [
+      {
+        "id": "w04-t-m01",
+        "promptPl": "Opowiedz o sobie przez około minutę.",
+        "hintPl": "Nie ma jednej dobrej odpowiedzi. Mów prostymi zdaniami, możesz używać wzorów z „Mojego życiorysu”.",
+        "targetSeconds": 60,
+        "checklistPl": [
+          "Przywitałem/am się",
+          "Powiedziałem/am, jak mam na imię",
+          "Powiedziałem/am, skąd jestem",
+          "Powiedziałem/am, gdzie mieszkam",
+          "Powiedziałem/am, jakie znam języki",
+          "Powiedziałem/am, jak się dziś czuję",
+          "Powiedziałem/am, dokąd idę lub co robię w jakiś dzień",
+          "Połączyłem/am zdania (e, mas, também)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-praia"
+    ]
+  }
+]

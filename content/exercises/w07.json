@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "w07-l37-e01",
+    "type": "listenChoose",
+    "targetItemId": "galao",
+    "optionItemIds": [
+      "galao",
+      "cafe",
+      "cha"
+    ],
+    "promptPl": "Posłuchaj. Co to jest?"
+  },
+  {
+    "id": "w07-l37-e02",
+    "type": "readChoose",
+    "targetItemId": "torrada",
+    "optionItemIds": [
+      "torrada",
+      "bolo",
+      "pastel-de-nata"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w07-l37-e03",
+    "type": "recallChoose",
+    "targetItemId": "para-mim",
+    "optionItemIds": [
+      "para-mim",
+      "para-casa",
+      "por-favor"
+    ],
+    "promptPl": "Wybierz „dla mnie”."
+  },
+  {
+    "id": "w07-l37-e04",
+    "type": "fillGap",
+    "sentencePt": "Queria ___ torrada e um chá.",
+    "sentencePl": "Poproszę grzankę i herbatę.",
+    "options": [
+      "uma",
+      "um"
+    ],
+    "answer": "uma",
+    "fullItemId": "queria-uma-torrada-e-um-cha",
+    "wrongExplanations": {
+      "um": "„um” — przed męskimi (um café, um galão). Torrada jest żeńska → uma."
+    },
+    "explanationPl": "a torrada — rodzaj żeński → uma.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w07-l37-e05",
+    "type": "fillGap",
+    "sentencePt": "___ mim, um café.",
+    "sentencePl": "Dla mnie kawa.",
+    "options": [
+      "Para",
+      "Por",
+      "Com"
+    ],
+    "answer": "Para",
+    "fullItemId": "para-mim-um-cafe",
+    "wrongExplanations": {
+      "Por": "„por” znasz z „por favor”, ale „dla mnie” to „para mim”.",
+      "Com": "„com” = z (com leite — z mlekiem)."
+    },
+    "explanationPl": "„dla mnie” = para mim.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l37-e06",
+    "type": "fillGap",
+    "sentencePt": "Um galão é café ___ leite.",
+    "sentencePl": "Galão to kawa z mlekiem.",
+    "options": [
+      "com",
+      "de",
+      "para"
+    ],
+    "answer": "com",
+    "fullItemId": "um-galao-e-cafe-com-leite",
+    "wrongExplanations": {
+      "de": "„de” = z czegoś zrobione (sumo de laranja). Kawa razem z mlekiem → com.",
+      "para": "„para” = dla / do."
+    },
+    "explanationPl": "z mlekiem (razem z) = com leite.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l37-e07",
+    "type": "buildSentence",
+    "targetItemId": "queria-um-galao-sfv",
+    "tiles": [
+      "Queria",
+      "um",
+      "galão",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "uma",
+      "quero"
+    ],
+    "promptPl": "Zamów grzecznie galão."
+  },
+  {
+    "id": "w07-l37-e08",
+    "type": "transform",
+    "baseItemId": "queria-um-cafe-sfv",
+    "instructionPl": "Zamów krócej: zacznij od „Para mim” (bez „queria” i bez „se faz favor”).",
+    "targetItemId": "para-mim-um-cafe",
+    "tiles": [
+      "Para",
+      "mim",
+      "um",
+      "café"
+    ],
+    "distractors": [
+      "uma",
+      "queria"
+    ]
+  },
+  {
+    "id": "w07-l37-e09",
+    "type": "recallSay",
+    "targetItemId": "queria-um-galao-sfv",
+    "promptPl": "Jesteś w kawiarni. Zamów grzecznie galão."
+  },
+  {
+    "id": "w07-l37-e10",
+    "type": "recallSay",
+    "targetItemId": "para-mim-um-sumo-de-laranja-e-um-pastel-de-nata",
+    "promptPl": "Zamów dla siebie: sok pomarańczowy i pastel de nata."
+  },
+  {
+    "id": "w07-l37-e11",
+    "type": "typeAnswer",
+    "targetItemId": "leite",
+    "promptPl": "Napisz: „mleko”."
+  },
+  {
+    "id": "w07-l38-e01",
+    "type": "listenChoose",
+    "targetItemId": "mais-alguma-coisa-q",
+    "optionItemIds": [
+      "mais-alguma-coisa-q",
+      "quanto-e-q",
+      "cs-a-conta-sfv"
+    ],
+    "promptPl": "Posłuchaj. Co mówi kelner?"
+  },
+  {
+    "id": "w07-l38-e02",
+    "type": "readChoose",
+    "targetItemId": "quanto-e-q",
+    "optionItemIds": [
+      "quanto-e-q",
+      "quanto-custa-q",
+      "quantos-anos-tem-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w07-l38-e03",
+    "type": "recallChoose",
+    "targetItemId": "cs-a-conta-sfv",
+    "optionItemIds": [
+      "cs-a-conta-sfv",
+      "cs-e-tudo-obrigado",
+      "um-copo-de-agua-sfv"
+    ],
+    "promptPl": "Poproś o rachunek."
+  },
+  {
+    "id": "w07-l38-e04",
+    "type": "fillGap",
+    "sentencePt": "Mais ___ café, se faz favor.",
+    "sentencePl": "Jeszcze jedną kawę, proszę.",
+    "options": [
+      "um",
+      "uma"
+    ],
+    "answer": "um",
+    "fullItemId": "mais-um-cafe-sfv",
+    "wrongExplanations": {
+      "uma": "„uma” — przed żeńskimi (mais uma água). Café jest męskie."
+    },
+    "explanationPl": "o café (męski) → mais um.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w07-l38-e05",
+    "type": "fillGap",
+    "sentencePt": "Mais ___ água, se faz favor.",
+    "sentencePl": "Jeszcze jedną wodę, proszę.",
+    "options": [
+      "uma",
+      "um"
+    ],
+    "answer": "uma",
+    "fullItemId": "mais-uma-agua-sfv",
+    "wrongExplanations": {
+      "um": "„um” — przed męskimi (mais um café). Água jest żeńska."
+    },
+    "explanationPl": "a água (żeńska) → mais uma.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w07-l38-e06",
+    "type": "fillGap",
+    "sentencePt": "Um ___ de água, se faz favor.",
+    "sentencePl": "Szklankę wody, proszę.",
+    "options": [
+      "copo",
+      "bolo"
+    ],
+    "answer": "copo",
+    "fullItemId": "um-copo-de-agua-sfv",
+    "wrongExplanations": {
+      "bolo": "„bolo” = ciasto."
+    },
+    "explanationPl": "szklanka = um copo.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l38-e07",
+    "type": "buildSentence",
+    "targetItemId": "nao-e-tudo-obrigado",
+    "tiles": [
+      "Não",
+      "é",
+      "tudo",
+      "obrigado"
+    ],
+    "distractors": [
+      "mais",
+      "um"
+    ],
+    "promptPl": "Kelner pyta, czy coś jeszcze. Powiedz: „Nie, to wszystko, dziękuję.”"
+  },
+  {
+    "id": "w07-l38-e08",
+    "type": "transform",
+    "baseItemId": "mais-um-cafe-sfv",
+    "instructionPl": "Poproś o jeszcze jedną WODĘ (a água).",
+    "targetItemId": "mais-uma-agua-sfv",
+    "tiles": [
+      "Mais",
+      "uma",
+      "água",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "um",
+      "café"
+    ]
+  },
+  {
+    "id": "w07-l38-e09",
+    "type": "recallSay",
+    "targetItemId": "cs-a-conta-sfv",
+    "promptPl": "Skończyłeś jeść. Poproś o rachunek."
+  },
+  {
+    "id": "w07-l38-e10",
+    "type": "recallSay",
+    "targetItemId": "e-a-conta-sfv-quanto-e-q",
+    "promptPl": "Poproś o rachunek i zapytaj, ile płacisz."
+  },
+  {
+    "id": "w07-l38-e11",
+    "type": "typeAnswer",
+    "targetItemId": "copo",
+    "promptPl": "Napisz: „szklanka”."
+  },
+  {
+    "id": "w07-l39-e01",
+    "type": "listenChoose",
+    "targetItemId": "custa-um-euro-e-vinte",
+    "optionItemIds": [
+      "custa-um-euro-e-vinte",
+      "custa-doze-euros",
+      "sao-vinte-euros"
+    ],
+    "promptPl": "Posłuchaj ceny. Ile to kosztuje?"
+  },
+  {
+    "id": "w07-l39-e02",
+    "type": "readChoose",
+    "targetItemId": "barato",
+    "optionItemIds": [
+      "barato",
+      "caro",
+      "bonito"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w07-l39-e03",
+    "type": "recallChoose",
+    "targetItemId": "quanto-custam-q",
+    "optionItemIds": [
+      "quanto-custam-q",
+      "quanto-custa-q",
+      "quanto-e-q"
+    ],
+    "promptPl": "Zapytaj o cenę kilku rzeczy: „Ile kosztują?”"
+  },
+  {
+    "id": "w07-l39-e04",
+    "type": "fillGap",
+    "sentencePt": "Quanto ___ os bolos?",
+    "sentencePl": "Ile kosztują ciasta?",
+    "options": [
+      "custam",
+      "custa"
+    ],
+    "answer": "custam",
+    "fullItemId": "quanto-custam-os-bolos-q",
+    "wrongExplanations": {
+      "custa": "„custa” — o jednej rzeczy: Quanto custa o bolo?"
+    },
+    "explanationPl": "os bolos — kilka rzeczy (one) → custam.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w07-l39-e05",
+    "type": "fillGap",
+    "sentencePt": "São dois ___ e cinquenta.",
+    "sentencePl": "Razem 2,50 €.",
+    "options": [
+      "euros",
+      "euro"
+    ],
+    "answer": "euros",
+    "fullItemId": "sao-dois-euros-e-cinquenta",
+    "wrongExplanations": {
+      "euro": "„euro” — tylko przy jednym: um euro e vinte."
+    },
+    "explanationPl": "Od dwóch w górę — liczba mnoga: dois euros.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w07-l39-e06",
+    "type": "fillGap",
+    "sentencePt": "Custam dois euros ___.",
+    "sentencePl": "Kosztują po dwa euro (za sztukę).",
+    "options": [
+      "cada",
+      "muito"
+    ],
+    "answer": "cada",
+    "fullItemId": "custam-dois-euros-cada",
+    "wrongExplanations": {
+      "muito": "„muito” = bardzo / dużo."
+    },
+    "explanationPl": "„za sztukę, po…” = cada (na końcu).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l39-e07",
+    "type": "buildSentence",
+    "targetItemId": "custa-um-euro-e-vinte",
+    "tiles": [
+      "Custa",
+      "um",
+      "euro",
+      "e",
+      "vinte"
+    ],
+    "distractors": [
+      "euros",
+      "custam"
+    ],
+    "promptPl": "Podaj cenę: 1,20 €."
+  },
+  {
+    "id": "w07-l39-e08",
+    "type": "transform",
+    "baseItemId": "e-barato",
+    "instructionPl": "Powiedz odwrotnie: to bardzo drogie!",
+    "targetItemId": "e-muito-caro",
+    "tiles": [
+      "É",
+      "muito",
+      "caro"
+    ],
+    "distractors": [
+      "barato",
+      "barata"
+    ]
+  },
+  {
+    "id": "w07-l39-e09",
+    "type": "recallSay",
+    "targetItemId": "quanto-custam-os-bolos-q",
+    "promptPl": "Pokazujesz ciasta w witrynie. Zapytaj, ile kosztują."
+  },
+  {
+    "id": "w07-l39-e10",
+    "type": "recallSay",
+    "targetItemId": "sao-dois-euros-e-cinquenta",
+    "promptPl": "Jesteś sprzedawcą. Powiedz klientowi: razem 2,50 €."
+  },
+  {
+    "id": "w07-l39-e11",
+    "type": "typeAnswer",
+    "targetItemId": "centimos",
+    "promptPl": "Napisz: „centy” (pamiętaj o akcencie)."
+  },
+  {
+    "id": "w07-l40-e01",
+    "type": "listenChoose",
+    "targetItemId": "meio-quilo-de",
+    "optionItemIds": [
+      "meio-quilo-de",
+      "um-quilo-de",
+      "uma-garrafa-de"
+    ],
+    "promptPl": "Posłuchaj. Ile?"
+  },
+  {
+    "id": "w07-l40-e02",
+    "type": "readChoose",
+    "targetItemId": "queijo",
+    "optionItemIds": [
+      "queijo",
+      "tomates",
+      "bananas"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w07-l40-e03",
+    "type": "recallChoose",
+    "targetItemId": "uma-garrafa-de-agua",
+    "optionItemIds": [
+      "uma-garrafa-de-agua",
+      "um-copo-de-agua-sfv",
+      "mais-uma-agua-sfv"
+    ],
+    "promptPl": "Wybierz: „butelka wody”."
+  },
+  {
+    "id": "w07-l40-e04",
+    "type": "fillGap",
+    "sentencePt": "Um quilo ___ bananas, se faz favor.",
+    "sentencePl": "Kilo bananów, proszę.",
+    "options": [
+      "de",
+      "das",
+      "com"
+    ],
+    "answer": "de",
+    "fullItemId": "um-quilo-de-bananas-sfv",
+    "wrongExplanations": {
+      "das": "„das” = de + as (z rodzajnikiem). Po „um quilo” rodzajnika nie ma: um quilo de bananas.",
+      "com": "„com” = z (razem z czymś)."
+    },
+    "explanationPl": "Po ilości: de + rzeczownik BEZ rodzajnika.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w07-l40-e05",
+    "type": "fillGap",
+    "sentencePt": "___ quilo de tomates.",
+    "sentencePl": "Pół kilo pomidorów.",
+    "options": [
+      "Meio",
+      "Meia"
+    ],
+    "answer": "Meio",
+    "fullItemId": "meio-quilo-de-tomates",
+    "wrongExplanations": {
+      "Meia": "„meia” — przed żeńskimi (meia hora) i w godzinach (três e meia). Quilo jest męski → meio."
+    },
+    "explanationPl": "o quilo (męski) → meio.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w07-l40-e06",
+    "type": "fillGap",
+    "sentencePt": "Uma ___ de água.",
+    "sentencePl": "Butelka wody.",
+    "options": [
+      "garrafa",
+      "quilo"
+    ],
+    "answer": "garrafa",
+    "fullItemId": "uma-garrafa-de-agua",
+    "wrongExplanations": {
+      "quilo": "„quilo” = kilogram; poza tym jest męski (um quilo)."
+    },
+    "explanationPl": "butelka = garrafa (żeńska: uma garrafa).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l40-e07",
+    "type": "buildSentence",
+    "targetItemId": "meio-quilo-de-tomates-e-uma-garrafa-de-agua",
+    "tiles": [
+      "Meio",
+      "quilo",
+      "de",
+      "tomates",
+      "e",
+      "uma",
+      "garrafa",
+      "de",
+      "água"
+    ],
+    "distractors": [
+      "meia",
+      "dos"
+    ],
+    "promptPl": "Powiedz: „Pół kilo pomidorów i butelkę wody.”"
+  },
+  {
+    "id": "w07-l40-e08",
+    "type": "transform",
+    "baseItemId": "um-quilo-de-bananas-sfv",
+    "instructionPl": "Poproś o PÓŁ kilo bananów.",
+    "targetItemId": "meio-quilo-de-bananas-sfv",
+    "tiles": [
+      "Meio",
+      "quilo",
+      "de",
+      "bananas",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "Meia",
+      "um"
+    ]
+  },
+  {
+    "id": "w07-l40-e09",
+    "type": "recallSay",
+    "targetItemId": "um-quilo-de-bananas-sfv",
+    "promptPl": "Na targu: poproś o kilo bananów."
+  },
+  {
+    "id": "w07-l40-e10",
+    "type": "recallSay",
+    "targetItemId": "quanto-custa-o-queijo-q",
+    "promptPl": "Zapytaj, ile kosztuje ser."
+  },
+  {
+    "id": "w07-l40-e11",
+    "type": "typeAnswer",
+    "targetItemId": "queijo",
+    "promptPl": "Napisz: „ser”."
+  },
+  {
+    "id": "w07-l41-e01",
+    "type": "listenChoose",
+    "targetItemId": "posso-ajudar-q",
+    "optionItemIds": [
+      "posso-ajudar-q",
+      "pode-ajudar-me-q",
+      "precisa-de-ajuda-q"
+    ],
+    "promptPl": "Posłuchaj. Co mówi sprzedawca?"
+  },
+  {
+    "id": "w07-l41-e02",
+    "type": "readChoose",
+    "targetItemId": "cs-so-estou-a-ver-obrigado",
+    "optionItemIds": [
+      "cs-so-estou-a-ver-obrigado",
+      "cs-e-tudo-obrigado",
+      "nao-quero-obrigado"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w07-l41-e03",
+    "type": "recallChoose",
+    "targetItemId": "aqui-esta",
+    "optionItemIds": [
+      "aqui-esta",
+      "estou-aqui",
+      "cs-e-tudo-obrigado"
+    ],
+    "promptPl": "Podajesz sprzedawcy kartę. Powiedz: „Proszę (oto jest).”"
+  },
+  {
+    "id": "w07-l41-e04",
+    "type": "fillGap",
+    "sentencePt": "___ pão? — Tenho, sim.",
+    "sentencePl": "Czy jest chleb? — Tak, mam.",
+    "options": [
+      "Tem",
+      "É",
+      "Está"
+    ],
+    "answer": "Tem",
+    "wrongExplanations": {
+      "É": "„É pão?” = Czy to (jest) chleb? — pytanie, czym coś jest.",
+      "Está": "„Está…?” — gdzie coś jest albo w jakim stanie."
+    },
+    "explanationPl": "W sklepie pytamy, czy sprzedawca MA: Tem…?",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l41-e05",
+    "type": "fillGap",
+    "sentencePt": "Quanto custa ___?",
+    "sentencePl": "Ile to kosztuje?",
+    "options": [
+      "isto",
+      "aqui"
+    ],
+    "answer": "isto",
+    "fullItemId": "quanto-custa-isto-q",
+    "wrongExplanations": {
+      "aqui": "„aqui” = tutaj (miejsce), nie „to”."
+    },
+    "explanationPl": "„to” (ta rzecz) = isto.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l41-e06",
+    "type": "fillGap",
+    "sentencePt": "Só estou a ___, obrigado.",
+    "sentencePl": "Tylko się rozglądam, dziękuję.",
+    "options": [
+      "ver",
+      "comer",
+      "trabalhar"
+    ],
+    "answer": "ver",
+    "fullItemId": "cs-so-estou-a-ver-obrigado",
+    "wrongExplanations": {
+      "comer": "„estou a comer” = jem.",
+      "trabalhar": "„estou a trabalhar” = pracuję."
+    },
+    "explanationPl": "estou a ver = oglądam (estar a + bezokolicznik).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l41-e07",
+    "type": "buildSentence",
+    "targetItemId": "cs-posso-pagar-com-cartao",
+    "tiles": [
+      "Posso",
+      "pagar",
+      "com",
+      "cartão"
+    ],
+    "distractors": [
+      "pode",
+      "de"
+    ],
+    "promptPl": "Zapytaj, czy możesz zapłacić kartą."
+  },
+  {
+    "id": "w07-l41-e08",
+    "type": "transform",
+    "baseItemId": "tem-sumo-de-laranja-q",
+    "instructionPl": "Zapytaj o to samo kolegę Ruiego (tu).",
+    "targetItemId": "tens-sumo-de-laranja-q",
+    "tiles": [
+      "Tens",
+      "sumo",
+      "de",
+      "laranja"
+    ],
+    "distractors": [
+      "Tem",
+      "Tenho"
+    ]
+  },
+  {
+    "id": "w07-l41-e09",
+    "type": "recallSay",
+    "targetItemId": "cs-so-estou-a-ver-obrigado",
+    "promptPl": "Sprzedawca pyta, czy pomóc. Powiedz, że tylko się rozglądasz."
+  },
+  {
+    "id": "w07-l41-e10",
+    "type": "recallSay",
+    "targetItemId": "quanto-custa-isto-q",
+    "promptPl": "Pokazujesz rzecz palcem. Zapytaj, ile to kosztuje."
+  },
+  {
+    "id": "w07-l41-e11",
+    "type": "typeAnswer",
+    "targetItemId": "isto",
+    "promptPl": "Napisz: „to” (ta rzecz tutaj)."
+  },
+  {
+    "id": "w07-l42-e01",
+    "type": "listenChoose",
+    "targetItemId": "poncha",
+    "optionItemIds": [
+      "poncha",
+      "espetada",
+      "peixe"
+    ],
+    "promptPl": "Posłuchaj. Co to jest?"
+  },
+  {
+    "id": "w07-l42-e02",
+    "type": "readChoose",
+    "targetItemId": "bolo-do-caco",
+    "optionItemIds": [
+      "bolo-do-caco",
+      "bolo",
+      "pastel-de-nata"
+    ],
+    "promptPl": "Co to jest?"
+  },
+  {
+    "id": "w07-l42-e03",
+    "type": "recallChoose",
+    "targetItemId": "carne",
+    "optionItemIds": [
+      "carne",
+      "peixe",
+      "queijo"
+    ],
+    "promptPl": "Wybierz „mięso”."
+  },
+  {
+    "id": "w07-l42-e04",
+    "type": "fillGap",
+    "sentencePt": "A espetada é ___ carne.",
+    "sentencePl": "Espetada jest z mięsa.",
+    "options": [
+      "de",
+      "com"
+    ],
+    "answer": "de",
+    "fullItemId": "a-espetada-e-de-carne",
+    "wrongExplanations": {
+      "com": "„com” = z (razem z czymś): café com leite."
+    },
+    "explanationPl": "Z czego coś jest (zrobione) → de: é de carne.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-l42-e05",
+    "type": "fillGap",
+    "sentencePt": "Gosto muito ___ peixe.",
+    "sentencePl": "Bardzo lubię ryby.",
+    "options": [
+      "de",
+      "do"
+    ],
+    "answer": "de",
+    "fullItemId": "gosto-muito-de-peixe",
+    "wrongExplanations": {
+      "do": "„do peixe” = tę konkretną rybę (o peixe). Mówiąc ogólnie: gosto de peixe."
+    },
+    "explanationPl": "Ogólnie (ryby w ogóle) → de, bez rodzajnika.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w07-l42-e06",
+    "type": "fillGap",
+    "sentencePt": "Para ___, uma espetada, se faz favor.",
+    "sentencePl": "Dla mnie espetadę, proszę.",
+    "options": [
+      "mim",
+      "eu"
+    ],
+    "answer": "mim",
+    "fullItemId": "para-mim-uma-espetada-sfv",
+    "wrongExplanations": {
+      "eu": "„eu” = ja (kto robi). Po przyimku „para” → mim."
+    },
+    "explanationPl": "Po „para” mówimy „mim”, nie „eu”.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w07-l42-e07",
+    "type": "buildSentence",
+    "targetItemId": "para-mim-uma-espetada-e-um-bolo-do-caco",
+    "tiles": [
+      "Para",
+      "mim",
+      "uma",
+      "espetada",
+      "e",
+      "um",
+      "bolo",
+      "do",
+      "caco"
+    ],
+    "distractors": [
+      "eu",
+      "de"
+    ],
+    "promptPl": "Zamów: dla siebie espetadę i bolo do caco."
+  },
+  {
+    "id": "w07-l42-e08",
+    "type": "transform",
+    "baseItemId": "nao-bebo-cafe",
+    "instructionPl": "Zamień kawę na ponchę.",
+    "targetItemId": "nao-bebo-poncha",
+    "tiles": [
+      "Não",
+      "bebo",
+      "poncha"
+    ],
+    "distractors": [
+      "bebe",
+      "café"
+    ]
+  },
+  {
+    "id": "w07-l42-e09",
+    "type": "recallSay",
+    "targetItemId": "cs-o-que-recomenda",
+    "promptPl": "W restauracji: zapytaj grzecznie kelnera, co poleca."
+  },
+  {
+    "id": "w07-l42-e10",
+    "type": "recallSay",
+    "targetItemId": "para-mim-uma-espetada-sfv",
+    "promptPl": "Zamów dla siebie espetadę."
+  },
+  {
+    "id": "w07-l42-e11",
+    "type": "typeAnswer",
+    "targetItemId": "peixe",
+    "promptPl": "Napisz: „ryba”."
+  },
+  {
+    "id": "w07-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "galao",
+    "optionItemIds": [
+      "galao",
+      "cafe",
+      "leite"
+    ]
+  },
+  {
+    "id": "w07-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "quanto-e-q",
+    "optionItemIds": [
+      "quanto-e-q",
+      "quanto-custam-q",
+      "mais-alguma-coisa-q"
+    ]
+  },
+  {
+    "id": "w07-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "custa-cinquenta-centimos",
+    "optionItemIds": [
+      "custa-cinquenta-centimos",
+      "custa-um-euro-e-vinte",
+      "sao-dois-euros-e-cinquenta"
+    ]
+  },
+  {
+    "id": "w07-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "meio-quilo-de",
+    "optionItemIds": [
+      "meio-quilo-de",
+      "um-quilo-de",
+      "uma-garrafa-de"
+    ]
+  },
+  {
+    "id": "w07-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "cs-so-estou-a-ver-obrigado",
+    "optionItemIds": [
+      "cs-so-estou-a-ver-obrigado",
+      "cs-e-tudo-obrigado",
+      "cs-posso-pagar-com-cartao"
+    ]
+  },
+  {
+    "id": "w07-t-e06",
+    "type": "readChoose",
+    "targetItemId": "torrada",
+    "optionItemIds": [
+      "torrada",
+      "bolo",
+      "queijo"
+    ]
+  },
+  {
+    "id": "w07-t-e07",
+    "type": "readChoose",
+    "targetItemId": "espetada",
+    "optionItemIds": [
+      "espetada",
+      "peixe-espada-preto",
+      "poncha"
+    ]
+  },
+  {
+    "id": "w07-t-e08",
+    "type": "readChoose",
+    "targetItemId": "cada",
+    "optionItemIds": [
+      "cada",
+      "caro",
+      "barato"
+    ]
+  },
+  {
+    "id": "w07-t-e09",
+    "type": "fillGap",
+    "sentencePt": "Mais ___ café, se faz favor.",
+    "sentencePl": "Jeszcze jedną kawę, proszę.",
+    "options": [
+      "um",
+      "uma"
+    ],
+    "answer": "um",
+    "fullItemId": "mais-um-cafe-sfv",
+    "wrongExplanations": {
+      "uma": "„uma” — przed żeńskimi (mais uma água)."
+    },
+    "explanationPl": "o café → mais um.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w07-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Quanto ___ os bolos?",
+    "sentencePl": "Ile kosztują ciasta?",
+    "options": [
+      "custam",
+      "custa"
+    ],
+    "answer": "custam",
+    "fullItemId": "quanto-custam-os-bolos-q",
+    "wrongExplanations": {
+      "custa": "„custa” — o jednej rzeczy."
+    },
+    "explanationPl": "kilka rzeczy → custam.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w07-t-e11",
+    "type": "fillGap",
+    "sentencePt": "Um quilo ___ bananas, se faz favor.",
+    "sentencePl": "Kilo bananów, proszę.",
+    "options": [
+      "de",
+      "das"
+    ],
+    "answer": "de",
+    "fullItemId": "um-quilo-de-bananas-sfv",
+    "wrongExplanations": {
+      "das": "Po „um quilo” nie ma rodzajnika: de bananas."
+    },
+    "explanationPl": "Po ilości: de bez rodzajnika.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w07-t-e12",
+    "type": "fillGap",
+    "sentencePt": "___ mim, um café.",
+    "sentencePl": "Dla mnie kawa.",
+    "options": [
+      "Para",
+      "Por"
+    ],
+    "answer": "Para",
+    "fullItemId": "para-mim-um-cafe",
+    "wrongExplanations": {
+      "Por": "„por” — z „por favor”. Dla mnie → para mim."
+    },
+    "explanationPl": "dla mnie = para mim.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-t-e13",
+    "type": "fillGap",
+    "sentencePt": "Só estou a ___, obrigado.",
+    "sentencePl": "Tylko się rozglądam, dziękuję.",
+    "options": [
+      "ver",
+      "comer"
+    ],
+    "answer": "ver",
+    "fullItemId": "cs-so-estou-a-ver-obrigado",
+    "wrongExplanations": {
+      "comer": "„estou a comer” = jem."
+    },
+    "explanationPl": "estou a ver = oglądam.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-t-e14",
+    "type": "fillGap",
+    "sentencePt": "A espetada é ___ carne.",
+    "sentencePl": "Espetada jest z mięsa.",
+    "options": [
+      "de",
+      "com"
+    ],
+    "answer": "de",
+    "fullItemId": "a-espetada-e-de-carne",
+    "wrongExplanations": {
+      "com": "„com” = razem z (café com leite)."
+    },
+    "explanationPl": "z czego zrobione → de.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w07-t-e15",
+    "type": "buildSentence",
+    "targetItemId": "um-copo-de-agua-sfv",
+    "tiles": [
+      "Um",
+      "copo",
+      "de",
+      "água",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "garrafa",
+      "uma"
+    ],
+    "promptPl": "Poproś o szklankę wody."
+  },
+  {
+    "id": "w07-t-e16",
+    "type": "transform",
+    "baseItemId": "mais-um-cafe-sfv",
+    "instructionPl": "Poproś o jeszcze jedną wodę.",
+    "targetItemId": "mais-uma-agua-sfv",
+    "tiles": [
+      "Mais",
+      "uma",
+      "água",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "um",
+      "café"
+    ]
+  },
+  {
+    "id": "w07-t-e17",
+    "type": "transform",
+    "baseItemId": "e-barato",
+    "instructionPl": "Powiedz odwrotnie: to bardzo drogie!",
+    "targetItemId": "e-muito-caro",
+    "tiles": [
+      "É",
+      "muito",
+      "caro"
+    ],
+    "distractors": [
+      "barato",
+      "barata"
+    ]
+  },
+  {
+    "id": "w07-t-e18",
+    "type": "typeAnswer",
+    "targetItemId": "queijo",
+    "promptPl": "Napisz: „ser”."
+  },
+  {
+    "id": "w07-t-e19",
+    "type": "recallChoose",
+    "targetItemId": "cs-a-conta-sfv",
+    "optionItemIds": [
+      "cs-a-conta-sfv",
+      "quanto-e-q",
+      "cs-e-tudo-obrigado"
+    ],
+    "promptPl": "Poproś o rachunek."
+  },
+  {
+    "id": "w07-t-e20",
+    "type": "recallChoose",
+    "targetItemId": "aqui-esta",
+    "optionItemIds": [
+      "aqui-esta",
+      "cs-posso-pagar-com-cartao",
+      "isto"
+    ],
+    "promptPl": "Podajesz pieniądze. Powiedz: „Proszę (oto jest).”"
+  }
+]

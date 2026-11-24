@@ -1,0 +1,1631 @@
+[
+  {
+    "id": "marcar",
+    "kind": "word",
+    "pt": "marcar",
+    "pl": "umówić, zarezerwować (termin)",
+    "pronunciation": {
+      "plSlow": "măr-KAR",
+      "ipa": "mɐɾˈkaɾ",
+      "notePl": "Pierwsze a przytłumione (ă); r przed k krótkie.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "marcar uma consulta (wizytę u lekarza), marcar uma reunião (spotkanie), marcar uma hora (termin, np. u fryzjera). Odmiana regularna (-ar): marco, marcas, marca… Czas przeszły: marquei (c → qu, jak fiquei).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "consulta",
+    "kind": "word",
+    "pt": "consulta",
+    "pl": "wizyta (u lekarza, dentysty)",
+    "pronunciation": {
+      "plSlow": "kõ-SUɫ-tă",
+      "ipa": "kõˈsuɫtɐ",
+      "notePl": "on = nosowe õ; l przed t to ciemne ɫ (nie polskie ł).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "zdrowie"
+    ],
+    "usagePl": "a consulta (żeńska): Tenho uma consulta às dez. = Mam wizytę o dziesiątej.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reuniao",
+    "kind": "word",
+    "pt": "reunião",
+    "pl": "spotkanie, zebranie (np. w pracy)",
+    "pronunciation": {
+      "plSlow": "rri-u-ni-ÃU",
+      "notePl": "r na początku = mocne r. W szybkiej mowie sylaby się zlewają (mniej więcej „rriu-NJÃU”). Zapis niepewny — posłuchaj nagrania.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "praca"
+    ],
+    "usagePl": "a reunião (żeńska) — spotkanie służbowe albo zebranie (np. rodziców w przedszkolu). Spotkanie ze znajomymi to raczej „encontro” albo po prostu plan: Vamos jantar fora?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cabeleireiro",
+    "kind": "word",
+    "pt": "cabeleireiro",
+    "pl": "fryzjer; zakład fryzjerski",
+    "pronunciation": {
+      "plSlow": "kă-by-lăj-RĂJ-ru",
+      "ipa": "kɐβɨlɐjˈɾɐjɾu",
+      "notePl": "Dwa razy „ei” = „ăj” (norma lizbońska); akcent na drugie „ei”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "o cabeleireiro / a cabeleireira (fryzjerka). Vou ao cabeleireiro. = Idę do fryzjera.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marcar-uma-hora",
+    "kind": "phrase",
+    "pt": "marcar uma hora",
+    "pl": "umówić termin (na konkretną godzinę)",
+    "pronunciation": {
+      "plSlow": "măr-KAR U-mă O-ră",
+      "ipa": "mɐɾˈkaɾ ˈumɐ ˈɔɾɐ",
+      "notePl": "h w „hora” nieme.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "Np. u fryzjera: Queria marcar uma hora. Bardzo często mówi się też: Queria fazer uma marcação (marcação = umówiony termin).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-que-dia-q",
+    "kind": "phrase",
+    "pt": "Para que dia?",
+    "pl": "Na który dzień?",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ky DI-ă?",
+      "ipa": "ˈpɐɾɐ kɨ ˈdiɐ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "pytania"
+    ],
+    "usagePl": "Odpowiedź też z „para”: Para amanhã. Para sexta-feira.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ser",
+    "kind": "phrase",
+    "pt": "Pode ser.",
+    "pl": "Może być. / Pasuje.",
+    "pronunciation": {
+      "plSlow": "PO-dy SÊR.",
+      "ipa": "ˈpɔðɨ ˈseɾ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "Jako pytanie: Pode ser às dez? = Może być o dziesiątej? Bardzo częste przy ustalaniu terminów.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-uma-consulta-amanha-as-dez",
+    "kind": "sentence",
+    "pt": "Tenho uma consulta amanhã às dez.",
+    "pl": "Mam wizytę jutro o dziesiątej.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă kõ-SUɫ-tă ă-mă-ŃÃ aż DESZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-marcar-uma-hora-sfv",
+    "kind": "sentence",
+    "pt": "Queria marcar uma hora, se faz favor.",
+    "pl": "Chciałbym / chciałabym umówić termin, proszę.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă măr-KAR U-mă O-ră, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-tenho-uma-reuniao-as-nove",
+    "kind": "sentence",
+    "pt": "Amanhã tenho uma reunião às nove.",
+    "pl": "Jutro mam spotkanie o dziewiątej.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ TĂ-ńu U-mă rri-u-ni-ÃU aż NO-wy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-sexta-feira-sfv",
+    "kind": "sentence",
+    "pt": "Para sexta-feira, se faz favor.",
+    "pl": "Na piątek, proszę.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră SĂJSZ-tă FĂJ-ră, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ser-as-dez-q",
+    "kind": "sentence",
+    "pt": "Pode ser às dez?",
+    "pl": "Może być o dziesiątej?",
+    "pronunciation": {
+      "plSlow": "PO-dy SÊR aż DESZ?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-vou-ao-cabeleireiro",
+    "kind": "sentence",
+    "pt": "No sábado vou ao cabeleireiro.",
+    "pl": "W sobotę idę do fryzjera.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du WÔ au kă-by-lăj-RĂJ-ru.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-queria-marcar-uma-consulta",
+    "kind": "sentence",
+    "pt": "Bom dia. Queria marcar uma consulta.",
+    "pl": "Dzień dobry. Chciałbym umówić wizytę.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă. ky-RI-ă măr-KAR U-mă kõ-SUɫ-tă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-amanha-sfv",
+    "kind": "sentence",
+    "pt": "Para amanhã, se faz favor.",
+    "pl": "Na jutro, proszę.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ă-mă-ŃÃ, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-nao-ha-pode-ser-na-sexta-feira-q",
+    "kind": "sentence",
+    "pt": "Amanhã não há. Pode ser na sexta-feira?",
+    "pl": "Na jutro nie ma (wolnych terminów). Może być w piątek?",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ NÃU A. PO-dy SÊR nă SĂJSZ-tă FĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "não há = nie ma (tu: wolnych terminów).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ser-a-que-horas-q",
+    "kind": "sentence",
+    "pt": "Pode ser. A que horas?",
+    "pl": "Może być. O której?",
+    "pronunciation": {
+      "plSlow": "PO-dy SÊR. ă ky O-răsz?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-e-meia",
+    "kind": "sentence",
+    "pt": "Às dez e meia.",
+    "pl": "O wpół do jedenastej.",
+    "pronunciation": {
+      "plSlow": "aż DEZ i MĂJ-ă.",
+      "notePl": "dez przed samogłoską → „DEZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-e-meia-esta-bem-obrigado",
+    "kind": "sentence",
+    "pt": "Às dez e meia está bem. Obrigado.",
+    "ptFem": "Às dez e meia está bem. Obrigada.",
+    "pl": "Wpół do jedenastej pasuje. Dziękuję.",
+    "pronunciation": {
+      "plSlow": "aż DEZ i MĂJ-ă ysz-TA BÃJ. o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "aż DEZ i MĂJ-ă ysz-TA BÃJ. o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reservar",
+    "kind": "word",
+    "pt": "reservar",
+    "pl": "rezerwować",
+    "pronunciation": {
+      "plSlow": "rry-zyr-WAR",
+      "ipa": "ʁɨzɨɾˈvaɾ",
+      "notePl": "r na początku = mocne r (rr); s między samogłoskami = z; e nieakcentowane zredukowane (y).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "usagePl": "reservar uma mesa (stolik), reservar um quarto (pokój). Odmiana regularna (-ar): reservo, reservas, reserva…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reserva",
+    "kind": "word",
+    "pt": "reserva",
+    "pl": "rezerwacja",
+    "pronunciation": {
+      "plSlow": "rry-ZER-wă",
+      "ipa": "ʁɨˈzɛɾvɐ",
+      "notePl": "Otwarte e (ZER).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "usagePl": "a reserva (żeńska): Tenho uma reserva. = Mam rezerwację.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "restaurante",
+    "kind": "word",
+    "pt": "restaurante",
+    "pl": "restauracja",
+    "pronunciation": {
+      "plSlow": "rrysz-tau-RÃ-ty",
+      "ipa": "ʁɨʃtawˈɾɐ̃tɨ",
+      "notePl": "r na początku = mocne r; s przed t = sz; au jak polskie „au”; an = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "usagePl": "o restaurante (męski): no restaurante, ao restaurante.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pessoa",
+    "kind": "word",
+    "pt": "pessoa",
+    "pl": "osoba",
+    "pronunciation": {
+      "plSlow": "py-SÔ-ă",
+      "ipa": "pɨˈsoɐ",
+      "notePl": "Trzy sylaby: pes-SO-a; zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "usagePl": "a pessoa — zawsze rodzaj ŻEŃSKI, także o mężczyźnie: duas pessoas, quatro pessoas.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-reservar-uma-mesa-para-sabado",
+    "kind": "sentence",
+    "pt": "Queria reservar uma mesa para sábado.",
+    "pl": "Chciałbym / chciałabym zarezerwować stolik na sobotę.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă rry-zyr-WAR U-mă MÊ-ză PĂ-ră SA-bă-du.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-quatro-pessoas-as-oito",
+    "kind": "sentence",
+    "pt": "Para quatro pessoas, às oito.",
+    "pl": "Dla czterech osób, na ósmą.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră KUA-tru py-SÔ-ăsz, az ÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-nome-de-tomasz",
+    "kind": "sentence",
+    "pt": "Em nome de Tomasz.",
+    "pl": "Na nazwisko (imię) Tomasz.",
+    "pronunciation": {
+      "plSlow": "ãj NÔ-my dy TO-masz.",
+      "notePl": "Polskie imię wymawiasz po polsku.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "usagePl": "Podaj swoje imię i nazwisko — wymawiasz je normalnie, po polsku.",
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-uma-reserva-para-duas-pessoas",
+    "kind": "sentence",
+    "pt": "Tenho uma reserva para duas pessoas.",
+    "pl": "Mam rezerwację dla dwóch osób.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă rry-ZER-wă PĂ-ră DU-ăsz py-SÔ-ăsz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-restaurante-fica-perto-do-mercado",
+    "kind": "sentence",
+    "pt": "O restaurante fica perto do mercado.",
+    "pl": "Restauracja jest blisko targu.",
+    "pronunciation": {
+      "plSlow": "u rrysz-tau-RÃ-ty FI-kă PER-tu du myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma-mesa-para-quatro-sfv",
+    "kind": "sentence",
+    "pt": "Uma mesa para quatro, se faz favor.",
+    "pl": "Stolik dla czterech osób, proszę.",
+    "pronunciation": {
+      "plSlow": "U-mă MÊ-ză PĂ-ră KUA-tru, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-queria-reservar-uma-mesa-para-sabado",
+    "kind": "sentence",
+    "pt": "Boa tarde! Queria reservar uma mesa para sábado.",
+    "pl": "Dzień dobry! Chciałbym zarezerwować stolik na sobotę.",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! ky-RI-ă rry-zyr-WAR U-mă MÊ-ză PĂ-ră SA-bă-du.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-oito-nao-temos-mesa-pode-ser-as-nove-q",
+    "kind": "sentence",
+    "pt": "Às oito não temos mesa. Pode ser às nove?",
+    "pl": "Na ósmą nie mamy stolika. Może być na dziewiątą?",
+    "pronunciation": {
+      "plSlow": "az ÔJ-tu NÃU TÊ-muż MÊ-ză. PO-dy SÊR aż NO-wy?",
+      "notePl": "temos przed m → „TÊ-muż”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-nove-pode-ser",
+    "kind": "sentence",
+    "pt": "Às nove pode ser.",
+    "pl": "Dziewiąta może być.",
+    "pronunciation": {
+      "plSlow": "aż NO-wy PO-dy SÊR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ligar",
+    "kind": "word",
+    "pt": "ligar",
+    "pl": "dzwonić (do kogoś)",
+    "pronunciation": {
+      "plSlow": "li-GAR",
+      "ipa": "liˈɣaɾ",
+      "notePl": "g między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "ligar a alguém (do kogoś): Ligo à Ana. Ligar para… (dokądś): Ligo para o restaurante. Odmiana regularna (-ar): ligo, ligas, liga…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-tel",
+    "kind": "phrase",
+    "pt": "Estou?",
+    "pl": "Halo? (odbierając telefon)",
+    "tts": "Estou?",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ?",
+      "plNatural": "SZTÔ?",
+      "ipa": "ɨʃˈto",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Tak w Portugalii często odbiera się telefon (dosł. „jestem”). Słychać też: Está? / Estou, sim? / Sim? Gdy na linii nic nie słychać: Está lá?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quem-fala-q",
+    "kind": "phrase",
+    "pt": "Quem fala?",
+    "pl": "Kto mówi?",
+    "pronunciation": {
+      "plSlow": "KÃJ FA-lă?",
+      "ipa": "ˈkɐ̃j ˈfalɐ",
+      "notePl": "quem = nosowe „ãj” (jak „tem”), qu = k.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "posso-falar-com-q",
+    "kind": "phrase",
+    "pt": "Posso falar com…?",
+    "pl": "Czy mogę rozmawiać z…?",
+    "tts": "Posso falar com",
+    "pronunciation": {
+      "plSlow": "PO-su fă-LAR kõ …?",
+      "ipa": "ˈpɔsu fɐˈlaɾ kõ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Grzecznie dodaj: …, se faz favor? Bardziej oficjalnie: Queria falar com…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "posso-falar-com-a-marta-sfv",
+    "kind": "sentence",
+    "pt": "Posso falar com a Marta, se faz favor?",
+    "pl": "Czy mogę rozmawiać z Martą?",
+    "pronunciation": {
+      "plSlow": "PO-su fă-LAR kõ ă MAR-tă, sy FASZ fă-WÔR?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "daqui-fala-o-tomasz",
+    "kind": "sentence",
+    "pt": "Daqui fala o Tomasz.",
+    "pl": "Mówi Tomasz. (przez telefon)",
+    "pronunciation": {
+      "plSlow": "dă-KI FA-lă u TO-masz.",
+      "notePl": "Polskie imię wymawiasz po polsku.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "daqui = de + aqui (stąd). Prościej też: É o Tomasz.",
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-agora-nao-pode",
+    "kind": "sentence",
+    "pt": "A Marta agora não pode.",
+    "pl": "Marta teraz nie może (rozmawiać).",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă ă-GO-ră NÃU PO-dy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "logo-a-noite-ligo-a-ana",
+    "kind": "sentence",
+    "pt": "Logo à noite ligo à Ana.",
+    "pl": "Dziś wieczorem zadzwonię do Any.",
+    "pronunciation": {
+      "plSlow": "LO-gu a NÔJ-ty LI-gu a Ă-nă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Czas teraźniejszy też mówi o przyszłości: ligo = zadzwonię.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-quem-fala-q",
+    "kind": "sentence",
+    "pt": "Estou? Quem fala?",
+    "pl": "Halo? Kto mówi?",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ? KÃJ FA-lă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ligo-a-ana-mais-tarde",
+    "kind": "sentence",
+    "pt": "Ligo à Ana mais tarde.",
+    "pl": "Zadzwonię do Any później.",
+    "pronunciation": {
+      "plSlow": "LI-gu a Ă-nă MAJSZ TAR-dy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-posso-falar-com-a-marta-sfv",
+    "kind": "sentence",
+    "pt": "Bom dia. Posso falar com a Marta, se faz favor?",
+    "pl": "Dzień dobry. Czy mogę rozmawiać z Martą?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă. PO-su fă-LAR kõ ă MAR-tă, sy FASZ fă-WÔR?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-momento-a-marta-agora-nao-pode",
+    "kind": "sentence",
+    "pt": "Um momento… A Marta agora não pode.",
+    "pl": "Chwileczkę… Marta teraz nie może rozmawiać.",
+    "pronunciation": {
+      "plSlow": "ũ mu-MẼ-tu… ă MAR-tă ă-GO-ră NÃU PO-dy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-bem-ligo-mais-tarde-obrigado",
+    "kind": "sentence",
+    "pt": "Está bem. Ligo mais tarde. Obrigado!",
+    "ptFem": "Está bem. Ligo mais tarde. Obrigada!",
+    "pl": "Dobrze. Zadzwonię później. Dziękuję!",
+    "pronunciation": {
+      "plSlow": "ysz-TA BÃJ. LI-gu MAJSZ TAR-dy. o-bri-GA-du!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TA BÃJ. LI-gu MAJSZ TAR-dy. o-bri-GA-dă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mudar",
+    "kind": "word",
+    "pt": "mudar",
+    "pl": "zmieniać, zmienić",
+    "pronunciation": {
+      "plSlow": "mu-DAR",
+      "ipa": "muˈðaɾ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "mudar a hora (zmienić godzinę), mudar o dia (zmienić dzień). Odmiana regularna (-ar).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desmarcar",
+    "kind": "word",
+    "pt": "desmarcar",
+    "pl": "odwołać (umówioną wizytę, spotkanie)",
+    "pronunciation": {
+      "plSlow": "dyż-măr-KAR",
+      "ipa": "dɨʒmɐɾˈkaɾ",
+      "notePl": "s przed m = ż.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "Przeciwieństwo „marcar”: desmarcar uma consulta / uma reunião. Ogólniejsze słowo: cancelar.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cancelar",
+    "kind": "word",
+    "pt": "cancelar",
+    "pl": "anulować, odwołać",
+    "pronunciation": {
+      "plSlow": "kã-sy-LAR",
+      "ipa": "kɐ̃sɨˈlaɾ",
+      "notePl": "an = nosowe ã; c przed e = s.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "rezerwacje"
+    ],
+    "usagePl": "cancelar a reserva (anulować rezerwację), cancelar a consulta. Przy wizycie u lekarza mówi się też desmarcar.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "outro",
+    "kind": "word",
+    "pt": "outro",
+    "ptFem": "outra",
+    "pl": "inny; drugi",
+    "plFem": "inna; druga",
+    "pronunciation": {
+      "plSlow": "Ô-tru",
+      "ipa": "ˈotɾu",
+      "notePl": "ou = zamknięte ô.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "Ô-tră",
+      "ipa": "ˈotɾɐ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "usagePl": "Zgadza się z rzeczownikiem: outro dia (inny dzień), outra hora (inna godzina). Zwykle bez „um”: Pode ser outro dia?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ligar-liguei",
+    "kind": "word",
+    "pt": "liguei",
+    "pl": "(ja) dzwoniłem / dzwoniłam",
+    "pronunciation": {
+      "plSlow": "li-GĂJ",
+      "ipa": "liˈɣɐj",
+      "notePl": "gu przed e = g (u nieme); -ei = „ăj”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon",
+      "przeszlosc"
+    ],
+    "usagePl": "ligar → liguei: g zmienia się w gu, żeby zostało twarde „g” (jak ficar → fiquei).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-dizer-lhe-que-liguei-q",
+    "kind": "sentence",
+    "pt": "Pode dizer-lhe que liguei?",
+    "pl": "Może mu / jej Pan / Pani przekazać, że dzwoniłem / dzwoniłam?",
+    "pronunciation": {
+      "plSlow": "PO-dy di-ZÊR-ljy ky li-GĂJ?",
+      "ipa": "ˈpɔðɨ ðiˈzeɾʎɨ kɨ liˈɣɐj",
+      "notePl": "-lhe: lh = lj, e słabe — „ljy” bardzo krótko, doczepione do czasownika.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "lhe = jemu / jej (także: Panu / Pani). Stoi PO bezokoliczniku, z myślnikiem: dizer-lhe. Odpowiedź: Eu digo-lhe. (Przekażę.)",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-mudar-a-hora-da-consulta",
+    "kind": "sentence",
+    "pt": "Queria mudar a hora da consulta.",
+    "pl": "Chciałbym / chciałabym zmienić godzinę wizyty.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă mu-DAR ă O-ră dă kõ-SUɫ-tă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-desmarcar-a-consulta-de-amanha",
+    "kind": "sentence",
+    "pt": "Queria desmarcar a consulta de amanhã.",
+    "pl": "Chciałbym / chciałabym odwołać jutrzejszą wizytę.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă dyż-măr-KAR ă kõ-SUɫ-tă dy ă-mă-ŃÃ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ser-outro-dia-q",
+    "kind": "sentence",
+    "pt": "Pode ser outro dia?",
+    "pl": "Może być inny dzień?",
+    "pronunciation": {
+      "plSlow": "PO-dy SÊR Ô-tru DI-ă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-hoje-nao-esta",
+    "kind": "sentence",
+    "pt": "A Marta hoje não está.",
+    "pl": "Marty dziś nie ma.",
+    "pronunciation": {
+      "plSlow": "ă MAR-tă Ô-ży NÃU ysz-TA.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "não está = nie ma jej (tutaj) — dosł. „nie jest”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-digo-lhe",
+    "kind": "sentence",
+    "pt": "Eu digo-lhe.",
+    "pl": "Przekażę mu / jej. (dosł. Powiem mu / jej.)",
+    "pronunciation": {
+      "plSlow": "ÊU DI-gu-ljy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Po zaimku „eu” zaimek lhe zostaje po czasowniku: Eu digo-lhe.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-marta-hoje-nao-esta-dlg",
+    "kind": "sentence",
+    "pt": "Bom dia. A Marta hoje não está.",
+    "pl": "Dzień dobry. Marty dziś nie ma.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă. ă MAR-tă Ô-ży NÃU ysz-TA.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "claro-quem-fala-q",
+    "kind": "sentence",
+    "pt": "Claro. Quem fala?",
+    "pl": "Oczywiście. Kto mówi?",
+    "pronunciation": {
+      "plSlow": "KLA-ru. KÃJ FA-lă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-tomasz-amanha-tenho-uma-reuniao-com-a-marta-mas-queria-mudar-a-hora",
+    "kind": "sentence",
+    "pt": "É o Tomasz. Amanhã tenho uma reunião com a Marta, mas queria mudar a hora.",
+    "pl": "Mówi Tomasz. Jutro mam spotkanie z Martą, ale chciałbym zmienić godzinę.",
+    "pronunciation": {
+      "plSlow": "E u TO-masz. ă-mă-ŃÃ TĂ-ńu U-mă rri-u-ni-ÃU kõ ă MAR-tă, măsz ky-RI-ă mu-DAR ă O-ră.",
+      "notePl": "Polskie imię wymawiasz po polsku.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon",
+      "przedszkole"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-eu-digo-lhe",
+    "kind": "sentence",
+    "pt": "Muito bem, eu digo-lhe.",
+    "pl": "Dobrze, przekażę jej.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ, ÊU DI-gu-ljy.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "numero",
+    "kind": "word",
+    "pt": "número",
+    "pl": "numer",
+    "pronunciation": {
+      "plSlow": "NU-my-ru",
+      "ipa": "ˈnumɨɾu",
+      "notePl": "Akcent na pierwszej sylabie (ú); środkowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "o número de telemóvel (numer komórki), o número de telefone.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-numero-e",
+    "kind": "phrase",
+    "pt": "O meu número é…",
+    "pl": "Mój numer to…",
+    "tts": "O meu número é",
+    "pronunciation": {
+      "plSlow": "u MÊU NU-my-ru E …",
+      "ipa": "u ˈmew ˈnumɨɾu ˈɛ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Numer komórki w Portugalii ma 9 cyfr i zwykle zaczyna się od 9. Dyktuje się go najczęściej w grupach po trzy cyfry: nove um dois, três quatro cinco…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-escreve-q",
+    "kind": "phrase",
+    "pt": "Como se escreve?",
+    "pl": "Jak to się pisze?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy ysz-KRE-wy?",
+      "ipa": "ˈkomu sɨ ɨʃˈkɾɛvɨ",
+      "notePl": "escreve: otwarte e (KRE); s przed k = sz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon",
+      "pytania"
+    ],
+    "usagePl": "Zaimek „se” stoi tu PRZED czasownikiem, bo zdanie zaczyna się od słowa pytającego (como). Pytanie o imię: Como se escreve o seu nome?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "te-o-eme-a-esse-ze",
+    "kind": "sentence",
+    "pt": "Tê, ó, eme, á, esse, zê.",
+    "pl": "T, O, M, A, S, Z (literowanie imienia Tomasz).",
+    "pronunciation": {
+      "plSlow": "TÊ, O, E-my, A, E-sy, ZÊ.",
+      "notePl": "Nazwy liter: tê, ó (otwarte), eme, á, esse, zê. Trudniejsze litery w polskich imionach: k = capa, w = dâblio, y = ípsilon, j = jota, h = agá. Zapis niezweryfikowany — posłuchaj nagrania.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Przeliteruj swoje imię tak samo, litera po literze.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-numero-esta-errado",
+    "kind": "sentence",
+    "pt": "O número está errado.",
+    "pl": "Numer jest błędny.",
+    "pronunciation": {
+      "plSlow": "u NU-my-ru ysz-TA y-RRA-du.",
+      "notePl": "errado: rr = mocne r; pierwsze e słabe (bywa też „i”).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Np. gdy w formularzu albo w telefonie jest zły numer. Gdy ktoś dzwoni pod zły numer, mówi się raczej: É engano.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-engano",
+    "kind": "phrase",
+    "pt": "É engano.",
+    "pl": "To pomyłka. (zły numer)",
+    "pronunciation": {
+      "plSlow": "E ẽ-GĂ-nu.",
+      "ipa": "ˈɛ ẽˈɡɐnu",
+      "notePl": "en = nosowe ẽ; akcentowane a przed n = ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Gdy ktoś dzwoni pod zły numer: Desculpe, é engano. Gdy to Ty się pomylisz: Desculpe, enganei-me no número.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-numero-e-912345678",
+    "kind": "sentence",
+    "pt": "O meu número é nove um dois, três quatro cinco, seis sete oito.",
+    "pl": "Mój numer to 912 345 678.",
+    "pronunciation": {
+      "plSlow": "u MÊU NU-my-ru E NO-wy Ũ DÔJSZ, TRÊSZ KUA-tru SĨ-ku, SĂJSZ SE-ty ÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Numer przykładowy. Pauzy po każdej trójce cyfr.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-numero-e-962875431",
+    "kind": "sentence",
+    "pt": "O meu número é nove seis dois, oito sete cinco, quatro três um.",
+    "pl": "Mój numer to 962 875 431.",
+    "pronunciation": {
+      "plSlow": "u MÊU NU-my-ru E NO-wy SĂJŻ DÔJSZ, ÔJ-tu SE-ty SĨ-ku, KUA-tru TRÊZ Ũ.",
+      "notePl": "seis przed d → „SĂJŻ”; três przed samogłoską → „TRÊZ”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Numer przykładowy.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-escreve-o-seu-nome-q",
+    "kind": "sentence",
+    "pt": "Como se escreve o seu nome?",
+    "pl": "Jak się pisze Pana / Pani imię?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy ysz-KRE-wy u SÊU NÔ-my?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-e-engano",
+    "kind": "sentence",
+    "pt": "Desculpe, é engano.",
+    "pl": "Przepraszam, to pomyłka (zły numer).",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, E ẽ-GĂ-nu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-queria-marcar-uma-hora-para-sexta-feira-as-tres",
+    "kind": "sentence",
+    "pt": "Bom dia! Queria marcar uma hora para sexta-feira, às três.",
+    "pl": "Dzień dobry! Chciałbym umówić termin na piątek, na trzecią.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! ky-RI-ă măr-KAR U-mă O-ră PĂ-ră SĂJSZ-tă FĂJ-ră, asz TRÊSZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-ser-em-nome-de-quem-q",
+    "kind": "sentence",
+    "pt": "Pode ser. Em nome de quem?",
+    "pl": "Może być. Na jakie nazwisko?",
+    "pronunciation": {
+      "plSlow": "PO-dy SÊR. ãj NÔ-my dy KÃJ?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-912345678",
+    "kind": "sentence",
+    "pt": "É o nove um dois, três quatro cinco, seis sete oito.",
+    "pl": "To 912 345 678.",
+    "pronunciation": {
+      "plSlow": "E u NO-wy Ũ DÔJSZ, TRÊSZ KUA-tru SĨ-ku, SĂJSZ SE-ty ÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "usagePl": "Numer przykładowy. „É o…” — przed numerem często stoi rodzajnik.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "entao",
+    "kind": "word",
+    "pt": "então",
+    "pl": "więc; no to; w takim razie",
+    "pronunciation": {
+      "plSlow": "ẽ-TÃU",
+      "ipa": "ẽˈtɐ̃w̃",
+      "notePl": "Dwie nosówki: en = ẽ, ão = ãu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "usagePl": "Na początku zdania podsumowuje: Então, combinado! = No to umowa stoi! Samo „Então?” = No i jak? / No i?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ate-ja",
+    "kind": "phrase",
+    "pt": "Até já!",
+    "pl": "Do zaraz! (zobaczymy się za chwilę)",
+    "pronunciation": {
+      "plSlow": "ă-TE ŻA!",
+      "ipa": "ɐˈtɛ ˈʒa",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "usagePl": "Gdy zobaczycie się za kilka minut. Później tego dnia: Até logo! Jutro: Até amanhã!",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-que-horas-q",
+    "kind": "phrase",
+    "pt": "Para que horas?",
+    "pl": "Na którą godzinę?",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ky O-răsz?",
+      "ipa": "ˈpɐɾɐ kɨ ˈɔɾɐʃ",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje",
+      "pytania"
+    ],
+    "usagePl": "Przy rezerwacji i umawianiu: Para que horas? — Para as oito. (A que horas? = O której?)",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reservar-reservei",
+    "kind": "word",
+    "pt": "reservei",
+    "pl": "(ja) zarezerwowałem / zarezerwowałam",
+    "pronunciation": {
+      "plSlow": "rry-zyr-WĂJ",
+      "ipa": "ʁɨzɨɾˈvɐj",
+      "notePl": "-ei = „ăj”, akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje",
+      "przeszlosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "entao-combinado",
+    "kind": "sentence",
+    "pt": "Então, combinado!",
+    "pl": "No to umowa stoi!",
+    "pronunciation": {
+      "plSlow": "ẽ-TÃU, kõ-bi-NA-du!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-reservar-uma-mesa-no-restaurante",
+    "kind": "sentence",
+    "pt": "Vou reservar uma mesa no restaurante.",
+    "pl": "Zarezerwuję stolik w restauracji.",
+    "pronunciation": {
+      "plSlow": "WÔ rry-zyr-WAR U-mă MÊ-ză nu rrysz-tau-RÃ-ty.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "reservei-uma-mesa-no-restaurante",
+    "kind": "sentence",
+    "pt": "Reservei uma mesa no restaurante.",
+    "pl": "Zarezerwowałem / zarezerwowałam stolik w restauracji.",
+    "pronunciation": {
+      "plSlow": "rry-zyr-WĂJ U-mă MÊ-ză nu rrysz-tau-RÃ-ty.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ontem-liguei-a-marta",
+    "kind": "sentence",
+    "pt": "Ontem liguei à Marta.",
+    "pl": "Wczoraj dzwoniłem / dzwoniłam do Marty.",
+    "pronunciation": {
+      "plSlow": "Õ-tãj li-GĂJ a MAR-tă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-e-a-ana-como-correu-o-dia-q",
+    "kind": "sentence",
+    "pt": "Olá! É a Ana. Como correu o dia?",
+    "pl": "Cześć! Tu Ana. Jak minął dzień?",
+    "pronunciation": {
+      "plSlow": "o-LA! E ă Ă-nă. KÔ-mu ku-RRÊU u DI-ă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "correu-bem-fui-a-praia-com-o-meu-filho",
+    "kind": "sentence",
+    "pt": "Correu bem! Fui à praia com o meu filho.",
+    "pl": "Dobrze! Byłem z synem na plaży.",
+    "pronunciation": {
+      "plSlow": "ku-RRÊU BÃJ! FUJ a PRAJ-ă kõ u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-queres-jantar-fora-no-sabado-q",
+    "kind": "sentence",
+    "pt": "Muito bem! Queres jantar fora no sábado?",
+    "pl": "Super! Chcesz zjeść kolację na mieście w sobotę?",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! KE-ryż żã-TAR FO-ră nu SA-bă-du?",
+      "notePl": "queres przed ż → „KE-ryż”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-ideia-vou-reservar-uma-mesa-no-restaurante",
+    "kind": "sentence",
+    "pt": "Boa ideia! Vou reservar uma mesa no restaurante.",
+    "pl": "Dobry pomysł! Zarezerwuję stolik w restauracji.",
+    "pronunciation": {
+      "plSlow": "BÔ-ă i-DĂJ-ă! WÔ rry-zyr-WAR U-mă MÊ-ză nu rrysz-tau-RÃ-ty.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-as-oito-entao-combinado",
+    "kind": "sentence",
+    "pt": "Para as oito. Então, combinado!",
+    "pl": "Na ósmą. No to umowa stoi!",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ăz ÔJ-tu. ẽ-TÃU, kõ-bi-NA-du!",
+      "notePl": "as przed samogłoską → „ăz”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12"
+    ],
+    "usagePl": "„para as oito” — bez ściągnięcia (nie „às”): na (godzinę) ósmą.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-duas-pessoas",
+    "kind": "sentence",
+    "pt": "Para duas pessoas.",
+    "pl": "Dla dwóch osób.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră DU-ăsz py-SÔ-ăsz.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-as-oito-sfv",
+    "kind": "sentence",
+    "pt": "Para as oito, se faz favor.",
+    "pl": "Na ósmą, proszę.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ăz ÔJ-tu, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-nove-nao-posso-pode-ser-mais-cedo-q",
+    "kind": "sentence",
+    "pt": "Às nove não posso. Pode ser mais cedo?",
+    "pl": "O dziewiątej nie mogę. Może być wcześniej?",
+    "pronunciation": {
+      "plSlow": "aż NO-wy NÃU PO-su. PO-dy SÊR MAJSZ SÊ-du?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "rezerwacje"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado-ate-sabado",
+    "kind": "sentence",
+    "pt": "Obrigado! Até sábado!",
+    "ptFem": "Obrigada! Até sábado!",
+    "pl": "Dziękuję! Do soboty!",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du! ă-TE SA-bă-du!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă! ă-TE SA-bă-du!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w12"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-alguma-reuniao-esta-semana-q",
+    "kind": "sentence",
+    "pt": "Tem alguma reunião esta semana?",
+    "pl": "Ma Pan / Pani jakieś spotkanie w tym tygodniu?",
+    "pronunciation": {
+      "plSlow": "TÃJ aɫ-GU-mă rri-u-ni-ÃU ESZ-tă sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-esta-semana-nao-tenho",
+    "kind": "sentence",
+    "pt": "Não, esta semana não tenho.",
+    "pl": "Nie, w tym tygodniu nie mam.",
+    "pronunciation": {
+      "plSlow": "NÃU, ESZ-tă sy-MĂ-nă NÃU TĂ-ńu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-quinta-feira-tenho-uma-consulta-as-tres",
+    "kind": "sentence",
+    "pt": "Na quinta-feira tenho uma consulta às três.",
+    "pl": "W czwartek mam wizytę o trzeciej.",
+    "pronunciation": {
+      "plSlow": "nă KĨ-tă FĂJ-ră TĂ-ńu U-mă kõ-SUɫ-tă asz TRÊSZ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w12",
+      "umawianie"
+    ],
+    "reviewStatus": "draft"
+  }
+]

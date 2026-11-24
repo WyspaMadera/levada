@@ -1,0 +1,244 @@
+[
+  {
+    "id": "w12-d67",
+    "titlePl": "Wizyta u lekarza",
+    "contextPl": "Jesteś w recepcji przychodni i chcesz umówić wizytę. Rozmowa grzeczna (o senhor).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "bom-dia-queria-marcar-uma-consulta",
+        "isLearner": true
+      },
+      {
+        "speaker": "Recepcja",
+        "itemId": "para-que-dia-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "para-amanha-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Recepcja",
+        "itemId": "amanha-nao-ha-pode-ser-na-sexta-feira-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "pode-ser-a-que-horas-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Recepcja",
+        "itemId": "as-dez-e-meia"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-dez-e-meia-esta-bem-obrigado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w12-d68",
+    "titlePl": "Stolik na sobotę",
+    "contextPl": "Wchodzisz do restauracji blisko domu, żeby zarezerwować stolik na sobotę. Rozmowa grzeczna. W miejsce „Tomasz” możesz podać swoje imię i nazwisko.",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "boa-tarde-queria-reservar-uma-mesa-para-sabado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Kelner",
+        "itemId": "cs-para-quantas-pessoas"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "para-quatro-pessoas-as-oito",
+        "isLearner": true
+      },
+      {
+        "speaker": "Kelner",
+        "itemId": "as-oito-nao-temos-mesa-pode-ser-as-nove-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-nove-pode-ser",
+        "isLearner": true
+      },
+      {
+        "speaker": "Kelner",
+        "itemId": "cs-em-nome-de-quem"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "em-nome-de-tomasz",
+        "isLearner": true
+      },
+      {
+        "speaker": "Kelner",
+        "itemId": "muito-bem-ate-sabado"
+      }
+    ]
+  },
+  {
+    "id": "w12-d69",
+    "titlePl": "Telefon do przedszkola",
+    "contextPl": "Dzwonisz do przedszkola, żeby porozmawiać z Martą. Odbiera inna pracownica. Rozmowa grzeczna.",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Przedszkole",
+        "itemId": "estou-tel"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "bom-dia-posso-falar-com-a-marta-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Przedszkole",
+        "itemId": "quem-fala-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "daqui-fala-o-tomasz",
+        "isLearner": true
+      },
+      {
+        "speaker": "Przedszkole",
+        "itemId": "um-momento-a-marta-agora-nao-pode"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "esta-bem-ligo-mais-tarde-obrigado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w12-d70",
+    "titlePl": "Proszę przekazać, że dzwoniłem",
+    "contextPl": "Następnego dnia dzwonisz znowu do przedszkola. Jutro masz spotkanie z Martą, ale chcesz zmienić godzinę.",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Przedszkole",
+        "itemId": "estou-tel"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "bom-dia-posso-falar-com-a-marta-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Przedszkole",
+        "itemId": "a-marta-hoje-nao-esta-dlg"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "pode-dizer-lhe-que-liguei-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Przedszkole",
+        "itemId": "claro-quem-fala-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-o-tomasz-amanha-tenho-uma-reuniao-com-a-marta-mas-queria-mudar-a-hora",
+        "isLearner": true
+      },
+      {
+        "speaker": "Przedszkole",
+        "itemId": "muito-bem-eu-digo-lhe"
+      }
+    ]
+  },
+  {
+    "id": "w12-d71",
+    "titlePl": "U fryzjera — przez telefon",
+    "contextPl": "Dzwonisz do zakładu fryzjerskiego. Fryzjerka pyta o imię i numer telefonu. Numer w dialogu jest przykładowy.",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "bom-dia-queria-marcar-uma-hora-para-sexta-feira-as-tres",
+        "isLearner": true
+      },
+      {
+        "speaker": "Fryzjerka",
+        "itemId": "pode-ser-em-nome-de-quem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "em-nome-de-tomasz",
+        "isLearner": true
+      },
+      {
+        "speaker": "Fryzjerka",
+        "itemId": "como-se-escreve-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "te-o-eme-a-esse-ze",
+        "isLearner": true
+      },
+      {
+        "speaker": "Fryzjerka",
+        "itemId": "cs-qual-e-o-seu-numero-de-telemovel"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-o-912345678",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w12-d72",
+    "titlePl": "Kolacja w sobotę",
+    "contextPl": "Wieczorem dzwoni Ana. Jesteście po imieniu (tu).",
+    "level": "A2",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "estou-tel",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ola-e-a-ana-como-correu-o-dia-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "correu-bem-fui-a-praia-com-o-meu-filho",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "muito-bem-queres-jantar-fora-no-sabado-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "boa-ideia-vou-reservar-uma-mesa-no-restaurante",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "para-que-horas-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "para-as-oito-entao-combinado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "muito-bem-ate-sabado"
+      }
+    ]
+  }
+]

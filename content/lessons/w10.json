@@ -1,0 +1,609 @@
+[
+  {
+    "id": "w10-l55",
+    "week": 10,
+    "day": 1,
+    "phase": 3,
+    "titlePl": "Co będziesz robić? Ir + bezokolicznik",
+    "subtitlePl": "vou trabalhar, vamos jantar fora · logo à noite, mais tarde",
+    "goals": [
+      "Mówić o planach: vou + bezokolicznik",
+      "Pytać o plany: O que vais fazer…?",
+      "Używać „logo à noite” i „mais tarde”"
+    ],
+    "canDo": [
+      "Powiem: Vou trabalhar amanhã. Logo à noite vou ver televisão.",
+      "Zaproponuję: Vamos jantar fora?",
+      "Zapytam: O que vais fazer logo à noite?"
+    ],
+    "prerequisites": [
+      "w09-l54"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "nasal-vowels",
+      "textPl": "jantar „żã-TAR” — an przed t to czyste nosowe ã, bez wyraźnego n. Tak samo: amanhã „ă-mă-ŃÃ”.",
+      "itemIds": [
+        "jantar"
+      ]
+    },
+    "newItemIds": [
+      "ir",
+      "jantar",
+      "almocar",
+      "fora",
+      "mais-tarde",
+      "logo-a-noite"
+    ],
+    "grammar": {
+      "titlePl": "Ir + bezokolicznik — plany",
+      "explanationPl": "**Plany i bliska przyszłość:** forma czasownika **ir** (vou, vais, vai, vamos, vão) + **bezokolicznik**:\n*Vou trabalhar amanhã.* — Jutro będę pracować.\n*Vamos jantar fora?* — Zjemy kolację na mieście?\n*O Rui vai almoçar mais tarde.* — Rui zje obiad później.\n\n**Odmieniamy tylko „ir”**, drugi czasownik się nie zmienia: *vou ver* (nie „vou vejo”), *vais fazer*, *vão sair*. Podobnie po polsku: „będę pracować” — odmienia się tylko „być”.\n\n**Przeczenie:** *não* przed formą „ir”: *Amanhã **não vou** trabalhar.*\n\n**Uwaga na „ir” + „ir”:** zwykle nie mówimy „vou ir” (potocznie się zdarza, ale brzmi gorzej). Wystarczy: *Amanhã **vou** ao Funchal.* (znasz to z tygodnia 4).\n\n**Czas teraźniejszy też może mówić o przyszłości** — jak po polsku: *Amanhã trabalho.* (Jutro pracuję.)\n\n**Kiedy?** *logo à noite* (dziś wieczorem) · *mais tarde* (później) · *amanhã* (jutro) · *cedo* (wcześnie).",
+      "table": [
+        [
+          "vou trabalhar",
+          "będę pracować"
+        ],
+        [
+          "vais fazer",
+          "będziesz robić"
+        ],
+        [
+          "vai almoçar",
+          "zje obiad (on / ona / Pan)"
+        ],
+        [
+          "vamos jantar fora",
+          "zjemy kolację na mieście"
+        ],
+        [
+          "vão sair",
+          "wyjdą"
+        ],
+        [
+          "não vou trabalhar",
+          "nie będę pracować"
+        ]
+      ],
+      "tableItemIds": [
+        "ir",
+        "ir-vou",
+        "ir-vais",
+        "ir-vai",
+        "ir-vamos",
+        "ir-vao"
+      ],
+      "exampleIds": [
+        "vou-trabalhar-amanha",
+        "vamos-jantar-fora-q",
+        "logo-a-noite-vou-ver-televisao",
+        "o-rui-vai-almocar-mais-tarde",
+        "hoje-nao-vou-sair",
+        "amanha-vai-chover"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d55"
+    ],
+    "exerciseIds": [
+      "w10-l55-e01",
+      "w10-l55-e02",
+      "w10-l55-e03",
+      "w10-l55-e04",
+      "w10-l55-e05",
+      "w10-l55-e06",
+      "w10-l55-e07",
+      "w10-l55-e08",
+      "w10-l55-e09",
+      "w10-l55-e10",
+      "w10-l55-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l55-s01",
+      "w10-l55-s02",
+      "w10-l55-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w10-l56",
+    "week": 10,
+    "day": 2,
+    "phase": 3,
+    "titlePl": "Pojutrze i w weekend",
+    "subtitlePl": "amanhã de manhã · depois de amanhã · esta semana · este fim de semana · ficar, descansar",
+    "goals": [
+      "Mówić, kiedy coś zrobię: amanhã de manhã, depois de amanhã",
+      "Mówić o weekendzie: no fim de semana, este fim de semana",
+      "Używać „ficar em casa” i „descansar”"
+    ],
+    "canDo": [
+      "Powiem: Depois de amanhã vou descansar.",
+      "Powiem: Este fim de semana vou ficar em casa.",
+      "Zapytam: O que vais fazer no fim de semana?"
+    ],
+    "prerequisites": [
+      "w10-l55"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "depois de amanhã „dy-PÔJŻ dy ă-mă-ŃÃ” — końcowe s przed dźwięcznym d brzmi jak ż.",
+      "itemIds": [
+        "depois-de-amanha"
+      ]
+    },
+    "newItemIds": [
+      "depois-de-amanha",
+      "semana",
+      "fim-de-semana",
+      "ficar",
+      "descansar"
+    ],
+    "grammar": {
+      "titlePl": "Kiedy? Określenia czasu z planami",
+      "explanationPl": "**Jutro i pojutrze:**\n• *amanhã de manhã / à tarde / à noite* — jutro rano / po południu / wieczorem\n• **depois de amanhã** — pojutrze\n\n**Tydzień i weekend:**\n• **a semana** — tydzień (rodzaj **żeński**, inaczej niż po polsku): **esta** semana — w tym tygodniu\n• **o fim de semana** — weekend (męski): **este** fim de semana — w ten weekend; **no** fim de semana — w weekend (także: zwykle w weekendy)\n\n**Bez przyimka!** Po polsku „W ten weekend”, „W tym tygodniu”, a po portugalsku samo *este fim de semana*, *esta semana*.\n\n**Nowe czasowniki do planów:** **ficar** (zostać): *vou ficar em casa* · **descansar** (odpoczywać): *vou descansar*.\n\n**Pytanie:** *O que vais fazer no fim de semana?* (tu) · *O que vai fazer…?* (o senhor / a senhora)",
+      "table": [
+        [
+          "amanhã de manhã",
+          "jutro rano"
+        ],
+        [
+          "depois de amanhã",
+          "pojutrze"
+        ],
+        [
+          "esta semana",
+          "w tym tygodniu"
+        ],
+        [
+          "este fim de semana",
+          "w ten weekend"
+        ],
+        [
+          "no fim de semana",
+          "w weekend"
+        ],
+        [
+          "ficar em casa",
+          "zostać w domu"
+        ]
+      ],
+      "tableItemIds": [
+        "depois-de-amanha",
+        "semana",
+        "fim-de-semana",
+        "ficar",
+        "descansar"
+      ],
+      "exampleIds": [
+        "amanha-de-manha-vou-ao-mercado",
+        "depois-de-amanha-vou-descansar",
+        "este-fim-de-semana-vou-ficar-em-casa",
+        "esta-semana-trabalho-muito",
+        "no-fim-de-semana-vamos-a-praia",
+        "o-que-vais-fazer-no-fim-de-semana-q"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d56"
+    ],
+    "exerciseIds": [
+      "w10-l56-e01",
+      "w10-l56-e02",
+      "w10-l56-e03",
+      "w10-l56-e04",
+      "w10-l56-e05",
+      "w10-l56-e06",
+      "w10-l56-e07",
+      "w10-l56-e08",
+      "w10-l56-e09",
+      "w10-l56-e10",
+      "w10-l56-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l56-s01",
+      "w10-l56-s02",
+      "w10-l56-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w10-l57",
+    "week": 10,
+    "day": 3,
+    "phase": 3,
+    "titlePl": "W przyszłym tygodniu, w przyszłym miesiącu",
+    "subtitlePl": "para a semana · na próxima semana · no próximo mês · quando? · férias",
+    "goals": [
+      "Mówić o dalszych planach: para a semana, no próximo mês",
+      "Pytać „kiedy?”: Quando…?",
+      "Mówić o urlopie i odwiedzinach: ir de férias, visitar"
+    ],
+    "canDo": [
+      "Powiem: Para a semana vou de férias. No próximo mês vou à Polónia.",
+      "Zapytam: Quando vais de férias?",
+      "Powiem: Vou visitar os meus pais."
+    ],
+    "prerequisites": [
+      "w10-l56"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "férias „FE-ri-ăsz” — otwarte e (é); mês „MÊSZ” — zamknięte ê. Akcent graficzny podpowiada, które e jest które.",
+      "itemIds": [
+        "ferias",
+        "mes"
+      ]
+    },
+    "newItemIds": [
+      "para-a-semana",
+      "mes",
+      "quando",
+      "ferias",
+      "visitar"
+    ],
+    "grammar": {
+      "titlePl": "Przyszły tydzień, miesiąc; quando?",
+      "explanationPl": "**W przyszłym…** — przymiotnik *próximo / próxima* zgadza się z rzeczownikiem:\n• **na próxima** semana (a semana — żeńska)\n• **no próximo** mês (o mês — męski) · **no próximo** ano\n\n**Typowo portugalskie:** **para a semana** = w przyszłym tygodniu (nie „na tydzień”!). Znaczy to samo co *na próxima semana*.\n\n**Kiedy?** **Quando** vais à Polónia? — Kiedy jedziesz do Polski? (*quando* = kiedy; *quanto* = ile).\n\n**Urlop:** **as férias** — zawsze w liczbie mnogiej: *vou de férias* (jadę na urlop), *Boas férias!* (Udanego urlopu!).\n\n**Odwiedziny:** **visitar** (regularny, -ar): *Vou visitar os meus pais.* — Odwiedzę rodziców.\n\n**Przypomnienie vir / ir:** *Vou à Polónia* (jadę tam), ale *Os meus pais vêm à Madeira* (przyjeżdżają tu, do mnie).",
+      "table": [
+        [
+          "para a semana",
+          "w przyszłym tygodniu"
+        ],
+        [
+          "na próxima semana",
+          "w przyszłym tygodniu"
+        ],
+        [
+          "no próximo mês",
+          "w przyszłym miesiącu"
+        ],
+        [
+          "Quando…?",
+          "Kiedy…?"
+        ],
+        [
+          "ir de férias",
+          "jechać na urlop"
+        ],
+        [
+          "visitar",
+          "odwiedzać"
+        ]
+      ],
+      "tableItemIds": [
+        "para-a-semana",
+        "mes",
+        "quando",
+        "ferias",
+        "visitar"
+      ],
+      "exampleIds": [
+        "na-proxima-semana-vou-de-ferias",
+        "no-proximo-mes-vou-a-polonia",
+        "vou-visitar-os-meus-pais",
+        "quando-vais-a-polonia-q",
+        "para-a-semana-os-meus-pais-vem-a-madeira"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d57"
+    ],
+    "exerciseIds": [
+      "w10-l57-e01",
+      "w10-l57-e02",
+      "w10-l57-e03",
+      "w10-l57-e04",
+      "w10-l57-e05",
+      "w10-l57-e06",
+      "w10-l57-e07",
+      "w10-l57-e08",
+      "w10-l57-e09",
+      "w10-l57-e10",
+      "w10-l57-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l57-s01",
+      "w10-l57-s02",
+      "w10-l57-s03",
+      "w10-l57-s04"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w10-l58",
+    "week": 10,
+    "day": 4,
+    "phase": 3,
+    "titlePl": "Proponuję, zgadzam się, odmawiam",
+    "subtitlePl": "Vamos…? Queres ir…? · Claro! Boa ideia! Combinado! · Não posso porque…",
+    "goals": [
+      "Proponować: Vamos…? Queres ir…?",
+      "Zgadzać się: Claro! Boa ideia! Combinado!",
+      "Odmawiać z podaniem powodu: Não posso porque…"
+    ],
+    "canDo": [
+      "Zaproponuję: Queres ir ao cinema? Vamos ao cinema no sábado?",
+      "Odmówię: Não posso porque vou trabalhar.",
+      "Potwierdzę: Às seis? Combinado!"
+    ],
+    "prerequisites": [
+      "w10-l57"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "intonation",
+      "textPl": "„Queres ir ao cinema?” — pytanie tak/nie: szyk jak w zdaniu oznajmującym, głos idzie w górę na końcu.",
+      "itemIds": [
+        "queres-ir-ao-cinema-q"
+      ]
+    },
+    "newItemIds": [
+      "porque",
+      "boa-ideia",
+      "combinado",
+      "cinema",
+      "claro"
+    ],
+    "grammar": {
+      "titlePl": "Propozycje i odpowiedzi",
+      "explanationPl": "**Propozycja:**\n• **Vamos** + bezokolicznik / + dokąd? — *Vamos jantar fora?* *Vamos ao cinema?* (Pójdziemy…?)\n• **Queres** + bezokolicznik? — *Queres ir ao cinema?* (Chcesz iść do kina?) — jak po polsku: „chcesz iść”\n• do osoby, z którą jesteś na „Pan / Pani”: *Quer ir…?*\n\n**Zgoda:** **Claro!** (Jasne!) · **Boa ideia!** (Dobry pomysł!) · *Está bem!* · **Combinado!** (Umowa stoi! — gdy ustaliliście dzień i godzinę)\n\n**Odmowa z powodem:** *Não posso **porque** vou trabalhar.* — **porque** = bo, dlatego że. Po polsku przed „bo” stawiamy przecinek, po portugalsku przed *porque* zwykle nie. Potocznie: *Hoje não dá.*\n\n**Kontrpropozycja:** *E no domingo?* · *Mais tarde?* · *Às seis?*",
+      "table": [
+        [
+          "Vamos ao cinema?",
+          "Pójdziemy do kina?"
+        ],
+        [
+          "Queres ir ao cinema?",
+          "Chcesz iść do kina?"
+        ],
+        [
+          "Claro! / Boa ideia!",
+          "Jasne! / Dobry pomysł!"
+        ],
+        [
+          "Combinado!",
+          "Umowa stoi!"
+        ],
+        [
+          "Não posso porque…",
+          "Nie mogę, bo…"
+        ]
+      ],
+      "tableItemIds": [
+        "vamos-ao-cinema-q",
+        "queres-ir-ao-cinema-q",
+        "claro",
+        "boa-ideia",
+        "combinado",
+        "porque"
+      ],
+      "exampleIds": [
+        "queres-ir-ao-cinema-q",
+        "vamos-ao-cinema-no-sabado-q",
+        "nao-posso-porque-vou-trabalhar",
+        "sim-boa-ideia",
+        "claro-a-que-horas-q",
+        "as-seis-combinado"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d58"
+    ],
+    "exerciseIds": [
+      "w10-l58-e01",
+      "w10-l58-e02",
+      "w10-l58-e03",
+      "w10-l58-e04",
+      "w10-l58-e05",
+      "w10-l58-e06",
+      "w10-l58-e07",
+      "w10-l58-e08",
+      "w10-l58-e09",
+      "w10-l58-e10",
+      "w10-l58-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l58-s01",
+      "w10-l58-s02",
+      "w10-l58-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w10-l59",
+    "week": 10,
+    "day": 5,
+    "phase": 3,
+    "titlePl": "Plany na weekend: gostava de…",
+    "subtitlePl": "gostava de… · dar um passeio · nadar · contigo",
+    "goals": [
+      "Wyrażać grzeczne życzenie: gostava de…",
+      "Odróżniać „gosto de” (lubię) od „gostava de” (chciałbym)",
+      "Planować weekend: dar um passeio, ir à praia, nadar"
+    ],
+    "canDo": [
+      "Powiem: Gostava de ir à praia. Gostavas de vir também?",
+      "Zaproponuję: Vamos dar um passeio?",
+      "Powiem: Gosto da praia, mas não gosto de nadar."
+    ],
+    "prerequisites": [
+      "w10-l58"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "v-w",
+      "textPl": "gostava „gusz-TA-wă”, vir „WIR”, visitar „wi-zi-TAR” — portugalskie v to polskie w.",
+      "itemIds": [
+        "gostava-de"
+      ]
+    },
+    "newItemIds": [
+      "gostava-de",
+      "dar-um-passeio",
+      "nadar",
+      "contigo"
+    ],
+    "grammar": {
+      "titlePl": "Gostava de… — chciałbym",
+      "explanationPl": "**Gostava de** + bezokolicznik = **chciałbym / chciałabym**. To grzeczna formuła życzenia, podobna do *queria*:\n*Gostava de ir à praia.* — Chciałbym pójść na plażę.\nDo kolegi: *Gostavas de vir também?* — Chciałbyś też przyjść?\n\nFormalnie to czas przeszły (imperfeito) od *gostar*, ale w tym znaczeniu działa jak polskie „chciałbym”. **Na razie ucz się jej jako gotowego zwrotu.**\n\n**Nie myl:**\n• *Gosto de nadar.* — **Lubię** pływać. (ogólnie)\n• *Gostava de nadar.* — **Chciałbym** popływać. (teraz, w planach)\n\n**Weekend:** **dar um passeio** — iść na spacer (stałe wyrażenie z *dar*) · **nadar** — pływać · *ir à praia* · *ficar em casa* · *descansar*\n\n**Ze mną / z tobą:** *comigo* (ze mną) · **contigo** (z tobą): *Vou contigo!*",
+      "table": [
+        [
+          "gosto de…",
+          "lubię…"
+        ],
+        [
+          "gostava de…",
+          "chciałbym / chciałabym…"
+        ],
+        [
+          "gostavas de…?",
+          "chciałbyś…? (tu)"
+        ],
+        [
+          "dar um passeio",
+          "iść na spacer"
+        ],
+        [
+          "comigo / contigo",
+          "ze mną / z tobą"
+        ]
+      ],
+      "tableItemIds": [
+        "gosto-de",
+        "gostava-de",
+        "dar-um-passeio",
+        "comigo",
+        "contigo"
+      ],
+      "exampleIds": [
+        "gostava-de-ir-a-praia",
+        "no-domingo-vamos-dar-um-passeio",
+        "gostas-de-nadar-q",
+        "gostava-de-nadar-mas-hoje-esta-frio",
+        "vou-contigo",
+        "gostavas-de-vir-tambem-q"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d59"
+    ],
+    "exerciseIds": [
+      "w10-l59-e01",
+      "w10-l59-e02",
+      "w10-l59-e03",
+      "w10-l59-e04",
+      "w10-l59-e05",
+      "w10-l59-e06",
+      "w10-l59-e07",
+      "w10-l59-e08",
+      "w10-l59-e09",
+      "w10-l59-e10",
+      "w10-l59-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l59-s01",
+      "w10-l59-s02",
+      "w10-l59-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w10-l60",
+    "week": 10,
+    "day": 6,
+    "phase": 3,
+    "titlePl": "Może w niedzielę? + sprawdzian",
+    "subtitlePl": "se calhar · Fica para a próxima! · sprawdzian tygodnia 10",
+    "goals": [
+      "Mówić o niepewnych planach: se calhar…",
+      "Uprzejmie kończyć odmowę: Fica para a próxima!",
+      "Sprawdzić wiedzę z tygodnia 10"
+    ],
+    "canDo": [
+      "Powiem: Se calhar vou à praia.",
+      "Odpowiem: Hoje não dá. Fica para a próxima!",
+      "Opowiem o swoich planach na dziś, jutro, weekend i przyszły miesiąc"
+    ],
+    "prerequisites": [
+      "w10-l59"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "connected-speech",
+      "textPl": "„Fica para a próxima!” — w szybkiej mowie „para a” zlewa się w jedną krótką sylabę. Najpierw powiedz powoli, potem płynnie.",
+      "itemIds": [
+        "fica-para-a-proxima"
+      ]
+    },
+    "newItemIds": [
+      "se-calhar",
+      "fica-para-a-proxima"
+    ],
+    "grammar": {
+      "titlePl": "Se calhar…; tydzień 10 w pigułce",
+      "explanationPl": "**Se calhar** = może, możliwe że (bardzo częste w Portugalii, znaczy to samo co *talvez*). Po nim zwykłe zdanie:\n*Se calhar vou à praia.* — Może pójdę na plażę.\n*Se calhar vou trabalhar amanhã.* — Może jutro będę pracować.\n(„se” to tu nie zaimek — *se calhar* traktuj jak jedno słowo.)\n\n**Fica para a próxima!** — To może następnym razem! Uprzejme zakończenie, gdy plan nie wychodzi.\n\n**Tydzień 10 w pigułce:**\n• plany: **vou / vais / vai / vamos / vão + bezokolicznik** (bez „vou ir”)\n• kiedy: *logo à noite, mais tarde, amanhã de manhã, depois de amanhã, esta semana, este fim de semana, para a semana, no próximo mês*\n• propozycje: *Vamos…? Queres…? Gostavas de…?* — odpowiedzi: *Claro! Boa ideia! Combinado! / Não posso porque… / Hoje não dá.*\n• życzenia i niepewność: *gostava de…, se calhar…*\n\nNa koniec rozmowa z Ruiem, a potem sprawdzian tygodnia (ok. 10 minut + monolog). Wynik wskaże lekcje do powtórki; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "Se calhar vou à praia.",
+          "Może pójdę na plażę."
+        ],
+        [
+          "Fica para a próxima!",
+          "To może następnym razem!"
+        ],
+        [
+          "Hoje não dá.",
+          "Dziś nie dam rady."
+        ],
+        [
+          "Combinado!",
+          "Umowa stoi!"
+        ]
+      ],
+      "tableItemIds": [
+        "se-calhar",
+        "fica-para-a-proxima",
+        "hoje-nao-da",
+        "combinado"
+      ],
+      "exampleIds": [
+        "se-calhar-vou-a-praia",
+        "se-calhar-vou-trabalhar-amanha",
+        "hoje-nao-da-fica-para-a-proxima",
+        "vou-trabalhar-amanha",
+        "para-a-semana-vou-de-ferias"
+      ]
+    },
+    "dialogueIds": [
+      "w10-d60"
+    ],
+    "exerciseIds": [
+      "w10-l60-e01",
+      "w10-l60-e02",
+      "w10-l60-e03",
+      "w10-l60-e04",
+      "w10-l60-e05",
+      "w10-l60-e06",
+      "w10-l60-e07",
+      "w10-l60-e08",
+      "w10-l60-e09",
+      "w10-l60-e10",
+      "w10-l60-e11"
+    ],
+    "speakingTaskIds": [
+      "w10-l60-s01",
+      "w10-l60-s02",
+      "w10-l60-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review",
+    "testId": "w10-test"
+  }
+]

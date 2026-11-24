@@ -1,0 +1,206 @@
+[
+  {
+    "id": "w08-l43-s01",
+    "promptPl": "Jesteś w nowym miejscu. Zapytaj, czy w pobliżu jest apteka i supermarket.",
+    "modelItemIds": [
+      "ha-uma-farmacia-aqui-perto-q",
+      "ha-um-supermercado-aqui-perto-q"
+    ]
+  },
+  {
+    "id": "w08-l43-s02",
+    "promptPl": "Powiedz, gdzie mieszkasz i co jest blisko Twojego domu (targ, supermarket, apteka).",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "o-mercado-e-perto-da-minha-casa"
+    ],
+    "hintPl": "Jeśli nazwa Twojej miejscowości ma rodzajnik (o Funchal), mów „no Funchal”. Wymowy Twojej miejscowości nie zgadujemy.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w08-l43-s03",
+    "promptPl": "Ktoś pyta, czy bank jest daleko. Odpowiedz, że blisko — obok apteki.",
+    "modelItemIds": [
+      "nao-e-muito-perto",
+      "sim-o-banco-e-ao-lado-da-farmacia"
+    ]
+  },
+  {
+    "id": "w08-l44-s01",
+    "promptPl": "Zatrzymaj przechodnia i zapytaj grzecznie o drogę do banku.",
+    "modelItemIds": [
+      "desculpe-onde-e-o-banco-q"
+    ]
+  },
+  {
+    "id": "w08-l44-s02",
+    "promptPl": "Wytłumacz turyście drogę: prosto, potem w pierwszą ulicę w prawo.",
+    "modelItemIds": [
+      "siga-em-frente-e-vire-na-primeira-rua-a-direita"
+    ],
+    "hintPl": "Vire… / Siga… — grzeczne gotowe formuły."
+  },
+  {
+    "id": "w08-l44-s03",
+    "promptPl": "Nie jesteś pewien, czy dobrze zrozumiałeś. Powtórz kierunek pytająco.",
+    "modelItemIds": [
+      "na-primeira-rua-a-direita-q"
+    ]
+  },
+  {
+    "id": "w08-l44-s04",
+    "promptPl": "Wytłumacz, jak dojść od Twojego domu do najbliższego sklepu (2–3 kroki).",
+    "modelItemIds": [
+      "siga-em-frente",
+      "vire-a-esquerda",
+      "e-a-segunda-rua-a-direita"
+    ],
+    "hintPl": "Mów o prawdziwej drodze — wzory to tylko przykłady."
+  },
+  {
+    "id": "w08-l45-s01",
+    "promptPl": "Zapytaj, o której odjeżdża autobus do centrum.",
+    "modelItemIds": [
+      "a-que-horas-parte-o-autocarro-para-o-centro-q"
+    ]
+  },
+  {
+    "id": "w08-l45-s02",
+    "promptPl": "Poproś o bilet do centrum.",
+    "modelItemIds": [
+      "um-bilhete-para-o-centro-sfv"
+    ]
+  },
+  {
+    "id": "w08-l45-s03",
+    "promptPl": "Wsiadasz do autobusu. Zapytaj, czy jedzie do centrum (albo do Funchal).",
+    "modelItemIds": [
+      "este-autocarro-vai-para-o-centro-q",
+      "cs-este-autocarro-vai-para-o-funchal"
+    ]
+  },
+  {
+    "id": "w08-l45-s04",
+    "promptPl": "Gdzie jest przystanek najbliżej Twojego domu? Powiedz, obok czego.",
+    "modelItemIds": [
+      "a-paragem-e-ao-lado-do-cafe",
+      "e-aqui-perto-ao-lado-do-banco"
+    ]
+  },
+  {
+    "id": "w08-l46-s01",
+    "promptPl": "Wyjrzyj przez okno: jaka jest dziś pogoda? Powiedz 1–2 zdania.",
+    "modelItemIds": [
+      "hoje-esta-sol-e-esta-calor",
+      "hoje-esta-muito-frio",
+      "esta-a-chover"
+    ],
+    "hintPl": "Mów o prawdziwej pogodzie."
+  },
+  {
+    "id": "w08-l46-s02",
+    "promptPl": "Zapytaj znajomego przez telefon, jaka jest u niego pogoda.",
+    "modelItemIds": [
+      "como-esta-o-tempo-q"
+    ]
+  },
+  {
+    "id": "w08-l46-s03",
+    "promptPl": "Zaproponuj Anie plażę. Potem odpowiedz za Anę, że pada.",
+    "modelItemIds": [
+      "ola-ana-vamos-a-praia-q",
+      "hoje-esta-a-chover"
+    ]
+  },
+  {
+    "id": "w08-l47-s01",
+    "promptPl": "Powiedz, jaką porę roku lubisz i jaka jest wtedy pogoda.",
+    "modelItemIds": [
+      "gosto-muito-do-verao",
+      "no-verao-esta-calor",
+      "gosto-da-primavera"
+    ]
+  },
+  {
+    "id": "w08-l47-s02",
+    "promptPl": "Powiedz, jaka jest zima w Polsce (albo w kraju, z którego jesteś).",
+    "modelItemIds": [
+      "na-polonia-no-inverno-esta-muito-frio"
+    ]
+  },
+  {
+    "id": "w08-l47-s03",
+    "promptPl": "Zapytaj kolegę (tu), czy lubi zimę.",
+    "modelItemIds": [
+      "tu-gostas-do-inverno-q"
+    ]
+  },
+  {
+    "id": "w08-l48-s01",
+    "promptPl": "Powiedz, jak dziś wracasz do domu: pieszo, autobusem czy samochodem.",
+    "modelItemIds": [
+      "vou-a-pe",
+      "vou-de-autocarro",
+      "vou-de-carro"
+    ]
+  },
+  {
+    "id": "w08-l48-s02",
+    "promptPl": "Zapytaj, gdzie jest przystanek i czy to daleko.",
+    "modelItemIds": [
+      "onde-fica-a-paragem-q",
+      "e-longe-q"
+    ]
+  },
+  {
+    "id": "w08-l48-s03",
+    "promptPl": "Wytłumacz komuś drogę do przystanku: prosto, w lewo, obok targu.",
+    "modelItemIds": [
+      "siga-em-frente-e-vire-a-esquerda-e-ao-lado-do-mercado"
+    ]
+  },
+  {
+    "id": "w08-t-s01",
+    "promptPl": "W kawiarni: zamów napój i coś do jedzenia, a potem poproś o rachunek.",
+    "modelItemIds": [
+      "tudo-bem-obrigado-queria-um-galao-sfv",
+      "para-mim-um-cafe",
+      "e-a-conta-sfv-quanto-e-q"
+    ]
+  },
+  {
+    "id": "w08-t-s02",
+    "promptPl": "Zapytaj o drogę do apteki i upewnij się, czy to daleko.",
+    "modelItemIds": [
+      "ha-uma-farmacia-aqui-perto-q",
+      "onde-fica-a-farmacia-q",
+      "e-longe-q"
+    ]
+  },
+  {
+    "id": "w08-t-s03",
+    "promptPl": "Zapytaj, o której odjeżdża autobus do centrum, i poproś o bilet.",
+    "modelItemIds": [
+      "a-que-horas-parte-o-autocarro-para-o-centro-q",
+      "um-bilhete-para-o-centro-sfv"
+    ]
+  },
+  {
+    "id": "w08-t-s04",
+    "promptPl": "Powiedz, gdzie mieszkasz i jaka jest dziś tam pogoda.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "hoje-esta-sol-e-esta-calor"
+    ],
+    "hintPl": "Wymowy Twojej miejscowości nie zgadujemy — powiedz ją tak, jak mówią miejscowi.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "id": "w01-l01-e01",
+    "type": "listenChoose",
+    "targetItemId": "sim",
+    "optionItemIds": [
+      "sim",
+      "nao"
+    ],
+    "promptPl": "Posłuchaj. Co słyszysz?"
+  },
+  {
+    "id": "w01-l01-e02",
+    "type": "listenChoose",
+    "targetItemId": "nao",
+    "optionItemIds": [
+      "sim",
+      "nao"
+    ],
+    "promptPl": "Posłuchaj. Co słyszysz?"
+  },
+  {
+    "id": "w01-l01-e03",
+    "type": "minimalPair",
+    "itemIds": [
+      "avo-f",
+      "avo-m"
+    ],
+    "promptPl": "Babcia czy dziadek? Słuchaj samogłoski na końcu: otwarte ó czy zamknięte ô."
+  },
+  {
+    "id": "w01-l01-e04",
+    "type": "listenChoose",
+    "targetItemId": "cafe",
+    "optionItemIds": [
+      "cafe",
+      "portugal",
+      "madeira"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l01-e05",
+    "type": "readChoose",
+    "targetItemId": "funchal",
+    "optionItemIds": [
+      "funchal",
+      "madeira",
+      "portugal"
+    ],
+    "promptPl": "Co to jest?"
+  },
+  {
+    "id": "w01-l01-e06",
+    "type": "recallChoose",
+    "targetItemId": "portugues",
+    "optionItemIds": [
+      "portugues",
+      "portugal",
+      "madeira"
+    ],
+    "promptPl": "Wybierz słowo „język portugalski”."
+  },
+  {
+    "id": "w01-l01-e07",
+    "type": "recallSay",
+    "targetItemId": "portugal",
+    "promptPl": "Powiedz na głos. Pamiętaj: akcent na OSTATNIEJ sylabie."
+  },
+  {
+    "id": "w01-l01-e08",
+    "type": "recallSay",
+    "targetItemId": "nao",
+    "promptPl": "Powiedz na głos — całe przez nos, bez „ł” na końcu."
+  },
+  {
+    "id": "w01-l01-e09",
+    "type": "buildSentence",
+    "targetItemId": "sim-cafe",
+    "tiles": [
+      "Sim",
+      "café"
+    ],
+    "distractors": [
+      "não"
+    ],
+    "promptPl": "Ułóż odpowiedź: „Tak, kawę.”"
+  },
+  {
+    "id": "w01-l02-e01",
+    "type": "listenChoose",
+    "targetItemId": "bom-dia",
+    "optionItemIds": [
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l02-e02",
+    "type": "listenChoose",
+    "targetItemId": "boa-noite",
+    "optionItemIds": [
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l02-e03",
+    "type": "readChoose",
+    "targetItemId": "adeus",
+    "optionItemIds": [
+      "adeus",
+      "ate-logo",
+      "ola"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w01-l02-e04",
+    "type": "recallChoose",
+    "targetItemId": "boa-tarde",
+    "optionItemIds": [
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite"
+    ],
+    "promptPl": "Jest 15:00. Jak się przywitasz?"
+  },
+  {
+    "id": "w01-l02-e05",
+    "type": "fillGap",
+    "sentencePt": "___ dia!",
+    "sentencePl": "Dzień dobry!",
+    "options": [
+      "Bom",
+      "Boa"
+    ],
+    "answer": "Bom",
+    "fullItemId": "bom-dia",
+    "wrongExplanations": {
+      "Boa": "„Boa” pasuje do słów żeńskich (tarde, noite). „Dia” jest męskie."
+    },
+    "explanationPl": "„dia” jest rodzaju męskiego (mimo końcówki -a!), więc „bom”.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w01-l02-e06",
+    "type": "fillGap",
+    "sentencePt": "Boa ___!",
+    "sentencePl": "Dobranoc!",
+    "options": [
+      "noite",
+      "dia"
+    ],
+    "answer": "noite",
+    "fullItemId": "boa-noite",
+    "wrongExplanations": {
+      "dia": "Przed „dia” stoi „bom”, nie „boa”."
+    },
+    "explanationPl": "„boa noite” — dobry wieczór / dobranoc.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w01-l02-e07",
+    "type": "buildSentence",
+    "targetItemId": "ola-bom-dia",
+    "tiles": [
+      "Olá",
+      "bom",
+      "dia"
+    ],
+    "distractors": [
+      "boa"
+    ],
+    "promptPl": "Ułóż: „Cześć, dzień dobry!”"
+  },
+  {
+    "id": "w01-l02-e08",
+    "type": "recallSay",
+    "targetItemId": "tudo-bem-q",
+    "promptPl": "Zapytaj, co słychać."
+  },
+  {
+    "id": "w01-l02-e09",
+    "type": "recallSay",
+    "targetItemId": "boa-tarde",
+    "promptPl": "Jest 16:00. Przywitaj się."
+  },
+  {
+    "id": "w01-l02-e10",
+    "type": "typeAnswer",
+    "targetItemId": "ola",
+    "acceptedAnswers": [
+      "olá"
+    ],
+    "promptPl": "Napisz po portugalsku: „cześć”."
+  },
+  {
+    "id": "w01-l03-e01",
+    "type": "listenChoose",
+    "targetItemId": "obrigado",
+    "optionItemIds": [
+      "obrigado",
+      "por-favor",
+      "de-nada"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l03-e02",
+    "type": "readChoose",
+    "targetItemId": "de-nada",
+    "optionItemIds": [
+      "de-nada",
+      "desculpe",
+      "por-favor"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w01-l03-e03",
+    "type": "recallChoose",
+    "targetItemId": "com-licenca",
+    "optionItemIds": [
+      "desculpe",
+      "com-licenca"
+    ],
+    "promptPl": "Chcesz przejść obok kogoś w wąskim przejściu. Co powiesz?",
+    "explanationPl": "„Com licença” = prośba o pozwolenie (przejść, wejść). „Desculpe” = przeprosiny lub zaczepienie kogoś.",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w01-l03-e04",
+    "type": "fillGap",
+    "sentencePt": "Muito ___!",
+    "sentencePl": "Bardzo dziękuję!",
+    "options": [
+      "obrigado",
+      "obrigada"
+    ],
+    "answer": "obrigada",
+    "wrongExplanations": {
+      "obrigado": "To forma, której używa mężczyzna. Mówi kobieta, więc: obrigada."
+    },
+    "explanationPl": "Kobieta mówi „obrigada”, mężczyzna „obrigado” — zależy od osoby, KTÓRA dziękuje.",
+    "mistakeCategory": "gender-article",
+    "promptPl": "Dziękuje KOBIETA. Uzupełnij."
+  },
+  {
+    "id": "w01-l03-e05",
+    "type": "buildSentence",
+    "targetItemId": "um-cafe-sfv",
+    "tiles": [
+      "Um",
+      "café",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "boa"
+    ],
+    "promptPl": "Zamów kawę."
+  },
+  {
+    "id": "w01-l03-e06",
+    "type": "recallSay",
+    "targetItemId": "muito-obrigado",
+    "promptPl": "Podziękuj bardzo (pamiętaj o nosowym „muito”)."
+  },
+  {
+    "id": "w01-l03-e07",
+    "type": "recallSay",
+    "targetItemId": "um-cafe-sfv",
+    "promptPl": "Zamów kawę."
+  },
+  {
+    "id": "w01-l03-e08",
+    "type": "typeAnswer",
+    "targetItemId": "de-nada",
+    "promptPl": "Ktoś Ci dziękuje. Napisz: „nie ma za co”."
+  },
+  {
+    "id": "w01-l03-e09",
+    "type": "listenChoose",
+    "targetItemId": "desculpe",
+    "optionItemIds": [
+      "desculpe",
+      "com-licenca",
+      "obrigado"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l04-e01",
+    "type": "listenChoose",
+    "targetItemId": "como-se-chama",
+    "optionItemIds": [
+      "como-se-chama",
+      "como-te-chamas",
+      "muito-prazer"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l04-e02",
+    "type": "readChoose",
+    "targetItemId": "igualmente",
+    "optionItemIds": [
+      "igualmente",
+      "muito-prazer",
+      "de-nada"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w01-l04-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-te-chamas",
+    "optionItemIds": [
+      "como-se-chama",
+      "como-te-chamas"
+    ],
+    "promptPl": "Pytasz małe dziecko o imię. Co powiesz?",
+    "explanationPl": "Do dzieci używamy formy „tu”: Como te chamas? Forma „Como se chama?” jest grzecznościowa.",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w01-l04-e04",
+    "type": "fillGap",
+    "sentencePt": "Como ___ chama?",
+    "sentencePl": "Jak się Pan nazywa?",
+    "options": [
+      "se",
+      "te"
+    ],
+    "answer": "se",
+    "fullItemId": "como-se-chama",
+    "wrongExplanations": {
+      "te": "„te” to forma „ty” — do dzieci i znajomych."
+    },
+    "explanationPl": "Forma grzecznościowa = 3. osoba: „se chama”.",
+    "mistakeCategory": "politeness",
+    "promptPl": "Pytasz starszego pana o imię. Uzupełnij."
+  },
+  {
+    "id": "w01-l04-e05",
+    "type": "fillGap",
+    "sentencePt": "___-me Ana.",
+    "sentencePl": "Nazywam się Ana.",
+    "options": [
+      "Chamo",
+      "Chama"
+    ],
+    "answer": "Chamo",
+    "fullItemId": "chamo-me-ana",
+    "wrongExplanations": {
+      "Chama": "„Chama” to 3. osoba. O sobie mówisz: Chamo-me."
+    },
+    "explanationPl": "„Chamo” = (ja) nazywam. „Chama” = (on/ona/Pan/Pani) nazywa.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w01-l04-e06",
+    "type": "buildSentence",
+    "targetItemId": "como-se-chama",
+    "tiles": [
+      "Como",
+      "se",
+      "chama"
+    ],
+    "distractors": [
+      "te",
+      "me"
+    ],
+    "promptPl": "Zapytaj grzecznie: „Jak się Pan nazywa?”"
+  },
+  {
+    "id": "w01-l04-e07",
+    "type": "transform",
+    "baseItemId": "como-se-chama",
+    "instructionPl": "Zapytaj teraz dziecko (forma „ty”).",
+    "targetItemId": "como-te-chamas",
+    "tiles": [
+      "Como",
+      "te",
+      "chamas"
+    ],
+    "distractors": [
+      "se",
+      "chama"
+    ]
+  },
+  {
+    "id": "w01-l04-e08",
+    "type": "recallSay",
+    "targetItemId": "muito-prazer",
+    "promptPl": "Powiedz: „bardzo mi miło”."
+  },
+  {
+    "id": "w01-l04-e09",
+    "type": "recallSay",
+    "targetItemId": "como-se-chama",
+    "promptPl": "Zapytaj grzecznie o imię."
+  },
+  {
+    "id": "w01-l05-e01",
+    "type": "listenChoose",
+    "targetItemId": "nao-percebo",
+    "optionItemIds": [
+      "nao-percebo",
+      "pode-repetir",
+      "mais-devagar"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l05-e02",
+    "type": "readChoose",
+    "targetItemId": "mais-devagar",
+    "optionItemIds": [
+      "mais-devagar",
+      "pode-repetir",
+      "fala-ingles-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w01-l05-e03",
+    "type": "recallChoose",
+    "targetItemId": "pode-repetir",
+    "optionItemIds": [
+      "pode-repetir",
+      "fala-ingles-q",
+      "como-se-diz"
+    ],
+    "promptPl": "Poproś o powtórzenie."
+  },
+  {
+    "id": "w01-l05-e04",
+    "type": "transform",
+    "baseItemId": "percebo",
+    "instructionPl": "Zaprzecz: powiedz, że NIE rozumiesz.",
+    "targetItemId": "nao-percebo",
+    "tiles": [
+      "Não",
+      "percebo"
+    ],
+    "distractors": [
+      "sim"
+    ],
+    "explanationPl": "Przeczenie: „não” stawiamy przed czasownikiem.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w01-l05-e05",
+    "type": "buildSentence",
+    "targetItemId": "nao-falo-bem",
+    "tiles": [
+      "Não",
+      "falo",
+      "bem",
+      "português"
+    ],
+    "distractors": [
+      "percebo"
+    ],
+    "promptPl": "Ułóż: „Nie mówię dobrze po portugalsku.”"
+  },
+  {
+    "id": "w01-l05-e06",
+    "type": "transform",
+    "baseItemId": "nao-falo-bem",
+    "instructionPl": "Zamień: nie po portugalsku, tylko po angielsku — i bez „dobrze”.",
+    "targetItemId": "nao-falo-ingles",
+    "tiles": [
+      "Não",
+      "falo",
+      "inglês"
+    ],
+    "distractors": [
+      "bem",
+      "português"
+    ]
+  },
+  {
+    "id": "w01-l05-e07",
+    "type": "recallSay",
+    "targetItemId": "pode-repetir",
+    "promptPl": "Poproś o powtórzenie (grzecznie)."
+  },
+  {
+    "id": "w01-l05-e08",
+    "type": "recallSay",
+    "targetItemId": "mais-devagar",
+    "promptPl": "Poproś, żeby mówić wolniej."
+  },
+  {
+    "id": "w01-l05-e09",
+    "type": "typeAnswer",
+    "targetItemId": "nao-percebo",
+    "acceptedAnswers": [
+      "não percebo"
+    ],
+    "promptPl": "Napisz: „Nie rozumiem.”"
+  },
+  {
+    "id": "w01-l06-e01",
+    "type": "listenChoose",
+    "targetItemId": "ate-amanha",
+    "optionItemIds": [
+      "ate-amanha",
+      "ate-logo",
+      "adeus"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w01-l06-e02",
+    "type": "readChoose",
+    "targetItemId": "nao-faz-mal",
+    "optionItemIds": [
+      "nao-faz-mal",
+      "de-nada",
+      "tudo-bem"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w01-l06-e03",
+    "type": "buildSentence",
+    "targetItemId": "tudo-bem-obrigado",
+    "tiles": [
+      "Tudo",
+      "bem",
+      "obrigado"
+    ],
+    "distractors": [
+      "boa"
+    ],
+    "acceptedAnswers": [
+      "Tudo bem, obrigada."
+    ],
+    "promptPl": "Odpowiedz: „Wszystko w porządku, dziękuję.”"
+  },
+  {
+    "id": "w01-l06-e04",
+    "type": "recallSay",
+    "targetItemId": "nao-faz-mal",
+    "promptPl": "Ktoś Cię przeprasza. Powiedz: „Nic nie szkodzi.”"
+  },
+  {
+    "id": "w01-l06-e05",
+    "type": "recallSay",
+    "targetItemId": "obrigado-ate-amanha",
+    "promptPl": "Podziękuj i pożegnaj się do jutra."
+  },
+  {
+    "id": "w01-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "boa-tarde",
+    "optionItemIds": [
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite"
+    ]
+  },
+  {
+    "id": "w01-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "com-licenca",
+    "optionItemIds": [
+      "com-licenca",
+      "desculpe",
+      "de-nada"
+    ]
+  },
+  {
+    "id": "w01-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "pode-repetir",
+    "optionItemIds": [
+      "pode-repetir",
+      "mais-devagar",
+      "nao-percebo"
+    ]
+  },
+  {
+    "id": "w01-t-e04",
+    "type": "minimalPair",
+    "itemIds": [
+      "avo-f",
+      "avo-m"
+    ]
+  },
+  {
+    "id": "w01-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "como-se-chama",
+    "optionItemIds": [
+      "como-se-chama",
+      "como-te-chamas",
+      "muito-prazer"
+    ]
+  },
+  {
+    "id": "w01-t-e06",
+    "type": "readChoose",
+    "targetItemId": "igualmente",
+    "optionItemIds": [
+      "igualmente",
+      "muito-prazer",
+      "obrigado"
+    ]
+  },
+  {
+    "id": "w01-t-e07",
+    "type": "readChoose",
+    "targetItemId": "ate-logo",
+    "optionItemIds": [
+      "ate-logo",
+      "adeus",
+      "ate-amanha"
+    ]
+  },
+  {
+    "id": "w01-t-e08",
+    "type": "recallChoose",
+    "targetItemId": "se-faz-favor",
+    "optionItemIds": [
+      "se-faz-favor",
+      "obrigado",
+      "de-nada"
+    ],
+    "promptPl": "Chcesz zwrócić uwagę kelnera. Co powiesz?"
+  },
+  {
+    "id": "w01-t-e09",
+    "type": "fillGap",
+    "sentencePt": "Bom ___!",
+    "sentencePl": "Dzień dobry!",
+    "options": [
+      "dia",
+      "tarde",
+      "noite"
+    ],
+    "answer": "dia",
+    "fullItemId": "bom-dia",
+    "wrongExplanations": {
+      "tarde": "„tarde” jest żeńskie: boa tarde.",
+      "noite": "„noite” jest żeńskie: boa noite."
+    },
+    "explanationPl": "„bom” łączy się z męskim „dia”; „tarde” i „noite” są żeńskie (boa).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w01-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Como ___ chamas?",
+    "sentencePl": "Jak masz na imię?",
+    "options": [
+      "te",
+      "se",
+      "me"
+    ],
+    "answer": "te",
+    "fullItemId": "como-te-chamas",
+    "wrongExplanations": {
+      "se": "„se chama” to forma grzecznościowa (bez -s na końcu).",
+      "me": "„me” = mnie/się (o sobie): Chamo-me."
+    },
+    "explanationPl": "Forma „ty”: te chamas.",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w01-t-e11",
+    "type": "buildSentence",
+    "targetItemId": "desculpe-nao-percebo",
+    "tiles": [
+      "Desculpe",
+      "não",
+      "percebo"
+    ],
+    "distractors": [
+      "bem"
+    ]
+  },
+  {
+    "id": "w01-t-e12",
+    "type": "buildSentence",
+    "targetItemId": "um-cafe-sfv",
+    "tiles": [
+      "Um",
+      "café",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "bom"
+    ]
+  },
+  {
+    "id": "w01-t-e13",
+    "type": "typeAnswer",
+    "targetItemId": "obrigado",
+    "acceptedAnswers": [
+      "obrigada"
+    ],
+    "promptPl": "Napisz: „dziękuję”."
+  },
+  {
+    "id": "w01-t-e14",
+    "type": "typeAnswer",
+    "targetItemId": "boa-noite",
+    "promptPl": "Napisz: „dobry wieczór / dobranoc”."
+  }
+]

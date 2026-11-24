@@ -1,0 +1,1128 @@
+[
+  {
+    "id": "w10-l55-e01",
+    "type": "listenChoose",
+    "targetItemId": "vamos-jantar-fora-q",
+    "optionItemIds": [
+      "vamos-jantar-fora-q",
+      "vamos-a-praia",
+      "vamos-amanha-q"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l55-e02",
+    "type": "readChoose",
+    "targetItemId": "logo-a-noite",
+    "optionItemIds": [
+      "logo-a-noite",
+      "a-noite",
+      "mais-tarde"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l55-e03",
+    "type": "recallChoose",
+    "targetItemId": "vou-trabalhar-amanha",
+    "optionItemIds": [
+      "vou-trabalhar-amanha",
+      "trabalho-aqui",
+      "estou-a-trabalhar"
+    ],
+    "promptPl": "Powiedz o planie: „Jutro będę pracować.”"
+  },
+  {
+    "id": "w10-l55-e04",
+    "type": "fillGap",
+    "sentencePt": "O Rui vai ___ mais tarde.",
+    "sentencePl": "Rui zje obiad później.",
+    "options": [
+      "almoçar",
+      "almoço"
+    ],
+    "answer": "almoçar",
+    "fullItemId": "o-rui-vai-almocar-mais-tarde",
+    "wrongExplanations": {
+      "almoço": "„o almoço” = obiad (rzeczownik). Po „vai” potrzebny bezokolicznik: almoçar."
+    },
+    "explanationPl": "Odmieniamy tylko „ir” (vai); drugi czasownik zostaje w bezokoliczniku: almoçar.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l55-e05",
+    "type": "fillGap",
+    "sentencePt": "Amanhã ___ ao Funchal.",
+    "sentencePl": "Jutro jadę do Funchal.",
+    "options": [
+      "vou",
+      "vou ir"
+    ],
+    "answer": "vou",
+    "wrongExplanations": {
+      "vou ir": "W pt-PT unika się „vou ir”. O planie z „ir” mówimy po prostu: vou (ao Funchal, à praia)."
+    },
+    "explanationPl": "Z samym „ir” zwykle nie mówimy „vou ir” (zdarza się potocznie, ale lepiej i prościej): Amanhã vou ao Funchal.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w10-l55-e06",
+    "type": "buildSentence",
+    "targetItemId": "vamos-jantar-fora-q",
+    "tiles": [
+      "Vamos",
+      "jantar",
+      "fora"
+    ],
+    "distractors": [
+      "vou",
+      "em"
+    ],
+    "promptPl": "Zaproponuj: „Zjemy kolację na mieście?”"
+  },
+  {
+    "id": "w10-l55-e07",
+    "type": "transform",
+    "baseItemId": "trabalho-em-casa",
+    "instructionPl": "Zamień na plan na jutro: Amanhã vou + bezokolicznik.",
+    "targetItemId": "amanha-vou-trabalhar-em-casa",
+    "tiles": [
+      "Amanhã",
+      "vou",
+      "trabalhar",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "trabalho",
+      "vai"
+    ]
+  },
+  {
+    "id": "w10-l55-e08",
+    "type": "transform",
+    "baseItemId": "vou-trabalhar-amanha",
+    "instructionPl": "Zaprzecz: jutro NIE będziesz pracować.",
+    "targetItemId": "amanha-nao-vou-trabalhar",
+    "tiles": [
+      "Amanhã",
+      "não",
+      "vou",
+      "trabalhar"
+    ],
+    "distractors": [
+      "trabalho",
+      "nunca"
+    ],
+    "acceptedAnswers": [
+      "Não vou trabalhar amanhã"
+    ]
+  },
+  {
+    "id": "w10-l55-e09",
+    "type": "recallSay",
+    "targetItemId": "vamos-jantar-fora-q",
+    "promptPl": "Zaproponuj znajomym kolację na mieście."
+  },
+  {
+    "id": "w10-l55-e10",
+    "type": "recallSay",
+    "targetItemId": "logo-a-noite-vou-ver-televisao",
+    "promptPl": "Powiedz, że dziś wieczorem będziesz oglądać telewizję."
+  },
+  {
+    "id": "w10-l55-e11",
+    "type": "typeAnswer",
+    "targetItemId": "mais-tarde",
+    "promptPl": "Napisz: „później”."
+  },
+  {
+    "id": "w10-l56-e01",
+    "type": "listenChoose",
+    "targetItemId": "depois-de-amanha",
+    "optionItemIds": [
+      "depois-de-amanha",
+      "ate-amanha",
+      "fim-de-semana"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l56-e02",
+    "type": "readChoose",
+    "targetItemId": "fim-de-semana",
+    "optionItemIds": [
+      "fim-de-semana",
+      "semana",
+      "sabado"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l56-e03",
+    "type": "recallChoose",
+    "targetItemId": "descansar",
+    "optionItemIds": [
+      "descansar",
+      "ficar",
+      "trabalhar"
+    ],
+    "promptPl": "Wybierz „odpoczywać”."
+  },
+  {
+    "id": "w10-l56-e04",
+    "type": "fillGap",
+    "sentencePt": "___ fim de semana vou ficar em casa.",
+    "sentencePl": "W ten weekend zostanę w domu.",
+    "options": [
+      "Este",
+      "Esta"
+    ],
+    "answer": "Este",
+    "fullItemId": "este-fim-de-semana-vou-ficar-em-casa",
+    "wrongExplanations": {
+      "Esta": "„esta” — przed żeńskimi: esta semana."
+    },
+    "explanationPl": "o fim de semana (męski) → este.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l56-e05",
+    "type": "fillGap",
+    "sentencePt": "Esta ___ trabalho muito.",
+    "sentencePl": "W tym tygodniu dużo pracuję.",
+    "options": [
+      "semana",
+      "fim de semana"
+    ],
+    "answer": "semana",
+    "fullItemId": "esta-semana-trabalho-muito",
+    "wrongExplanations": {
+      "fim de semana": "„o fim de semana” jest męski → este fim de semana. Tu pasuje: esta semana."
+    },
+    "explanationPl": "a semana (żeńska) → esta semana.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l56-e06",
+    "type": "fillGap",
+    "sentencePt": "Vou ___ em casa.",
+    "sentencePl": "Zostanę w domu.",
+    "options": [
+      "ficar",
+      "fica"
+    ],
+    "answer": "ficar",
+    "wrongExplanations": {
+      "fica": "„fica” = zostaje / znajduje się (on, ona). Po „vou” → ficar."
+    },
+    "explanationPl": "Po „vou” bezokolicznik: vou ficar.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l56-e07",
+    "type": "buildSentence",
+    "targetItemId": "este-fim-de-semana-vou-ficar-em-casa",
+    "tiles": [
+      "Este",
+      "fim",
+      "de",
+      "semana",
+      "vou",
+      "ficar",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "esta",
+      "fica"
+    ],
+    "promptPl": "Powiedz: „W ten weekend zostanę w domu.”"
+  },
+  {
+    "id": "w10-l56-e08",
+    "type": "transform",
+    "baseItemId": "no-sabado-vou-a-praia",
+    "instructionPl": "Zmień czas: pojutrze.",
+    "targetItemId": "depois-de-amanha-vou-a-praia",
+    "tiles": [
+      "Depois",
+      "de",
+      "amanhã",
+      "vou",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "no",
+      "ao"
+    ]
+  },
+  {
+    "id": "w10-l56-e09",
+    "type": "recallSay",
+    "targetItemId": "o-que-vais-fazer-no-fim-de-semana-q",
+    "promptPl": "Zapytaj kolegę (tu) o plany na weekend."
+  },
+  {
+    "id": "w10-l56-e10",
+    "type": "recallSay",
+    "targetItemId": "este-fim-de-semana-vou-ficar-em-casa",
+    "promptPl": "Powiedz, że w ten weekend zostajesz w domu."
+  },
+  {
+    "id": "w10-l56-e11",
+    "type": "typeAnswer",
+    "targetItemId": "semana",
+    "promptPl": "Napisz: „tydzień”."
+  },
+  {
+    "id": "w10-l57-e01",
+    "type": "listenChoose",
+    "targetItemId": "na-proxima-semana-vou-de-ferias",
+    "optionItemIds": [
+      "na-proxima-semana-vou-de-ferias",
+      "no-proximo-mes-vou-a-polonia",
+      "vou-visitar-os-meus-pais"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l57-e02",
+    "type": "readChoose",
+    "targetItemId": "para-a-semana",
+    "optionItemIds": [
+      "para-a-semana",
+      "fim-de-semana",
+      "semana"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l57-e03",
+    "type": "recallChoose",
+    "targetItemId": "quando-vais-a-polonia-q",
+    "optionItemIds": [
+      "quando-vais-a-polonia-q",
+      "para-onde-vais-q",
+      "quantos-anos-tens-q"
+    ],
+    "promptPl": "Zapytaj kolegę, KIEDY jedzie do Polski."
+  },
+  {
+    "id": "w10-l57-e04",
+    "type": "fillGap",
+    "sentencePt": "___ próxima semana vou de férias.",
+    "sentencePl": "W przyszłym tygodniu jadę na urlop.",
+    "options": [
+      "Na",
+      "No"
+    ],
+    "answer": "Na",
+    "fullItemId": "na-proxima-semana-vou-de-ferias",
+    "wrongExplanations": {
+      "No": "„no” — przed męskimi: no próximo mês."
+    },
+    "explanationPl": "a semana (żeńska) → na próxima semana.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l57-e05",
+    "type": "fillGap",
+    "sentencePt": "No próximo ___ vou à Polónia.",
+    "sentencePl": "W przyszłym miesiącu jadę do Polski.",
+    "options": [
+      "mês",
+      "semana"
+    ],
+    "answer": "mês",
+    "fullItemId": "no-proximo-mes-vou-a-polonia",
+    "wrongExplanations": {
+      "semana": "„semana” jest żeńska → na próxima semana."
+    },
+    "explanationPl": "no próximo (męskie) → o mês.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l57-e06",
+    "type": "fillGap",
+    "sentencePt": "___ vais à Polónia?",
+    "sentencePl": "Kiedy jedziesz do Polski?",
+    "options": [
+      "Quando",
+      "Quanto",
+      "Onde"
+    ],
+    "answer": "Quando",
+    "fullItemId": "quando-vais-a-polonia-q",
+    "wrongExplanations": {
+      "Quanto": "„quanto” = ile (Quanto custa?).",
+      "Onde": "„onde” = gdzie."
+    },
+    "explanationPl": "kiedy = quando.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-l57-e07",
+    "type": "buildSentence",
+    "targetItemId": "vou-visitar-os-meus-pais",
+    "tiles": [
+      "Vou",
+      "visitar",
+      "os",
+      "meus",
+      "pais"
+    ],
+    "distractors": [
+      "minhas",
+      "vai"
+    ],
+    "promptPl": "Powiedz: „Odwiedzę rodziców.”"
+  },
+  {
+    "id": "w10-l57-e08",
+    "type": "transform",
+    "baseItemId": "na-proxima-semana-vou-de-ferias",
+    "instructionPl": "Powiedz to samo typowo portugalsko: „para a semana…”.",
+    "targetItemId": "para-a-semana-vou-de-ferias",
+    "tiles": [
+      "Para",
+      "a",
+      "semana",
+      "vou",
+      "de",
+      "férias"
+    ],
+    "distractors": [
+      "na",
+      "próxima"
+    ]
+  },
+  {
+    "id": "w10-l57-e09",
+    "type": "recallSay",
+    "targetItemId": "no-proximo-mes-vou-a-polonia",
+    "promptPl": "Powiedz, że w przyszłym miesiącu jedziesz do Polski."
+  },
+  {
+    "id": "w10-l57-e10",
+    "type": "recallSay",
+    "targetItemId": "vou-visitar-os-meus-pais",
+    "promptPl": "Powiedz, że odwiedzisz rodziców."
+  },
+  {
+    "id": "w10-l57-e11",
+    "type": "typeAnswer",
+    "targetItemId": "ferias",
+    "promptPl": "Napisz: „urlop, wakacje”."
+  },
+  {
+    "id": "w10-l58-e01",
+    "type": "listenChoose",
+    "targetItemId": "boa-ideia",
+    "optionItemIds": [
+      "boa-ideia",
+      "combinado",
+      "claro"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l58-e02",
+    "type": "readChoose",
+    "targetItemId": "nao-posso-porque-vou-trabalhar",
+    "optionItemIds": [
+      "nao-posso-porque-vou-trabalhar",
+      "hoje-nao-posso-amanha-q",
+      "amanha-nao-vou-trabalhar"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l58-e03",
+    "type": "recallChoose",
+    "targetItemId": "queres-ir-ao-cinema-q",
+    "optionItemIds": [
+      "queres-ir-ao-cinema-q",
+      "vamos-ao-cinema-no-sabado-q",
+      "vamos-jantar-fora-q"
+    ],
+    "promptPl": "Zapytaj kolegę, czy CHCE iść do kina."
+  },
+  {
+    "id": "w10-l58-e04",
+    "type": "fillGap",
+    "sentencePt": "Queres ___ ao cinema?",
+    "sentencePl": "Chcesz iść do kina?",
+    "options": [
+      "ir",
+      "vais",
+      "vai"
+    ],
+    "answer": "ir",
+    "fullItemId": "queres-ir-ao-cinema-q",
+    "wrongExplanations": {
+      "vais": "„vais” = idziesz. Po „queres” → bezokolicznik: ir.",
+      "vai": "„vai” = idzie (on / ona)."
+    },
+    "explanationPl": "Po „queres” (chcesz) bezokolicznik: queres ir.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l58-e05",
+    "type": "fillGap",
+    "sentencePt": "Não posso ___ vou trabalhar.",
+    "sentencePl": "Nie mogę, bo będę pracować.",
+    "options": [
+      "porque",
+      "mas",
+      "e"
+    ],
+    "answer": "porque",
+    "fullItemId": "nao-posso-porque-vou-trabalhar",
+    "wrongExplanations": {
+      "mas": "„mas” = ale.",
+      "e": "„e” = i."
+    },
+    "explanationPl": "bo = porque.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-l58-e06",
+    "type": "fillGap",
+    "sentencePt": "Vamos ___ cinema no sábado?",
+    "sentencePl": "Pójdziemy do kina w sobotę?",
+    "options": [
+      "ao",
+      "no",
+      "à"
+    ],
+    "answer": "ao",
+    "fullItemId": "vamos-ao-cinema-no-sabado-q",
+    "wrongExplanations": {
+      "no": "„no cinema” = w kinie (gdzie?). Dokąd → ao cinema.",
+      "à": "„à” — przed żeńskimi (à praia)."
+    },
+    "explanationPl": "Dokąd? o cinema → a + o = ao.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l58-e07",
+    "type": "buildSentence",
+    "targetItemId": "nao-posso-porque-vou-trabalhar",
+    "tiles": [
+      "Não",
+      "posso",
+      "porque",
+      "vou",
+      "trabalhar"
+    ],
+    "distractors": [
+      "trabalho",
+      "mas"
+    ],
+    "promptPl": "Odmów: „Nie mogę, bo będę pracować.”"
+  },
+  {
+    "id": "w10-l58-e08",
+    "type": "transform",
+    "baseItemId": "vamos-jantar-fora-q",
+    "instructionPl": "Zaproponuj kino zamiast kolacji.",
+    "targetItemId": "vamos-ao-cinema-q",
+    "tiles": [
+      "Vamos",
+      "ao",
+      "cinema"
+    ],
+    "distractors": [
+      "jantar",
+      "à"
+    ]
+  },
+  {
+    "id": "w10-l58-e09",
+    "type": "recallSay",
+    "targetItemId": "sim-boa-ideia",
+    "promptPl": "Kolega proponuje kolację. Zgódź się z entuzjazmem."
+  },
+  {
+    "id": "w10-l58-e10",
+    "type": "recallSay",
+    "targetItemId": "nao-posso-porque-vou-trabalhar",
+    "promptPl": "Odmów: nie możesz, bo będziesz pracować."
+  },
+  {
+    "id": "w10-l58-e11",
+    "type": "typeAnswer",
+    "targetItemId": "porque",
+    "promptPl": "Napisz: „bo”."
+  },
+  {
+    "id": "w10-l59-e01",
+    "type": "listenChoose",
+    "targetItemId": "gostava-de-ir-a-praia",
+    "optionItemIds": [
+      "gostava-de-ir-a-praia",
+      "vou-a-praia-vamos-q",
+      "gosto-da-praia-mas-nao-gosto-de-nadar"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l59-e02",
+    "type": "readChoose",
+    "targetItemId": "dar-um-passeio",
+    "optionItemIds": [
+      "dar-um-passeio",
+      "nadar",
+      "descansar"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l59-e03",
+    "type": "recallChoose",
+    "targetItemId": "vou-contigo",
+    "optionItemIds": [
+      "vou-contigo",
+      "vens-comigo-q",
+      "vou-para-casa"
+    ],
+    "promptPl": "Powiedz: „Idę z tobą!”"
+  },
+  {
+    "id": "w10-l59-e04",
+    "type": "fillGap",
+    "sentencePt": "___ de ir à praia.",
+    "sentencePl": "Chciałbym pójść na plażę.",
+    "options": [
+      "Gostava",
+      "Gosto"
+    ],
+    "answer": "Gostava",
+    "fullItemId": "gostava-de-ir-a-praia",
+    "wrongExplanations": {
+      "Gosto": "„gosto de” = lubię (ogólnie). Chciałbym → gostava de."
+    },
+    "explanationPl": "chciałbym = gostava de… (grzeczne życzenie).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-l59-e05",
+    "type": "fillGap",
+    "sentencePt": "Vamos ___ um passeio?",
+    "sentencePl": "Pójdziemy na spacer?",
+    "options": [
+      "dar",
+      "ir",
+      "vou"
+    ],
+    "answer": "dar",
+    "fullItemId": "vamos-dar-um-passeio-q",
+    "wrongExplanations": {
+      "ir": "„ir um passeio” — tak się nie mówi. Spacer „się daje”: dar um passeio.",
+      "vou": "Po „vamos” bezokolicznik — i to „dar”: vamos dar um passeio."
+    },
+    "explanationPl": "Stałe wyrażenie: dar um passeio = iść na spacer.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-l59-e06",
+    "type": "fillGap",
+    "sentencePt": "Gostavas de ___ também?",
+    "sentencePl": "Chciałbyś też przyjść?",
+    "options": [
+      "vir",
+      "vens",
+      "vem"
+    ],
+    "answer": "vir",
+    "fullItemId": "gostavas-de-vir-tambem-q",
+    "wrongExplanations": {
+      "vens": "„vens” = przychodzisz. Po „gostavas de” → bezokolicznik.",
+      "vem": "„vem” = przychodzi (on / ona)."
+    },
+    "explanationPl": "Po „gostavas de” bezokolicznik: vir.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l59-e07",
+    "type": "buildSentence",
+    "targetItemId": "gostava-de-nadar-mas-hoje-esta-frio",
+    "tiles": [
+      "Gostava",
+      "de",
+      "nadar",
+      "mas",
+      "hoje",
+      "está",
+      "frio"
+    ],
+    "distractors": [
+      "gosto",
+      "é"
+    ],
+    "promptPl": "Powiedz: „Chciałbym popływać, ale dziś jest zimno.”"
+  },
+  {
+    "id": "w10-l59-e08",
+    "type": "transform",
+    "baseItemId": "no-sabado-vou-a-praia",
+    "instructionPl": "Powiedz grzecznie, że w sobotę CHCIAŁBYŚ pójść na plażę.",
+    "targetItemId": "no-sabado-gostava-de-ir-a-praia",
+    "tiles": [
+      "No",
+      "sábado",
+      "gostava",
+      "de",
+      "ir",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "vou",
+      "gosto"
+    ]
+  },
+  {
+    "id": "w10-l59-e09",
+    "type": "recallSay",
+    "targetItemId": "vamos-dar-um-passeio-q",
+    "promptPl": "Zaproponuj spacer."
+  },
+  {
+    "id": "w10-l59-e10",
+    "type": "recallSay",
+    "targetItemId": "gostava-de-ir-a-praia",
+    "promptPl": "Powiedz grzecznie, że chciałbyś pójść na plażę."
+  },
+  {
+    "id": "w10-l59-e11",
+    "type": "typeAnswer",
+    "targetItemId": "nadar",
+    "promptPl": "Napisz: „pływać”."
+  },
+  {
+    "id": "w10-l60-e01",
+    "type": "listenChoose",
+    "targetItemId": "fica-para-a-proxima",
+    "optionItemIds": [
+      "fica-para-a-proxima",
+      "combinado",
+      "nao-faz-mal"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w10-l60-e02",
+    "type": "readChoose",
+    "targetItemId": "se-calhar-vou-a-praia",
+    "optionItemIds": [
+      "se-calhar-vou-a-praia",
+      "gostava-de-ir-a-praia",
+      "no-sabado-vou-a-praia"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w10-l60-e03",
+    "type": "recallChoose",
+    "targetItemId": "combinado",
+    "optionItemIds": [
+      "combinado",
+      "claro",
+      "boa-ideia"
+    ],
+    "promptPl": "Potwierdź umówiony plan: „Umowa stoi!”"
+  },
+  {
+    "id": "w10-l60-e04",
+    "type": "fillGap",
+    "sentencePt": "Logo à noite vou ___ televisão.",
+    "sentencePl": "Dziś wieczorem będę oglądać telewizję.",
+    "options": [
+      "ver",
+      "vejo",
+      "vê"
+    ],
+    "answer": "ver",
+    "fullItemId": "logo-a-noite-vou-ver-televisao",
+    "wrongExplanations": {
+      "vejo": "„vejo” = oglądam (teraz / zwykle). Plan: vou ver.",
+      "vê": "„vê” = ogląda (on / ona)."
+    },
+    "explanationPl": "Po „vou” bezokolicznik: vou ver.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l60-e05",
+    "type": "fillGap",
+    "sentencePt": "O que ___ fazer no fim de semana?",
+    "sentencePl": "Co będziesz robić w weekend?",
+    "options": [
+      "vais",
+      "vai",
+      "vou"
+    ],
+    "answer": "vais",
+    "fullItemId": "o-que-vais-fazer-no-fim-de-semana-q",
+    "wrongExplanations": {
+      "vai": "„vai” — Pan / Pani (grzecznie) albo on / ona.",
+      "vou": "„vou” — ja."
+    },
+    "explanationPl": "tu → vais fazer.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-l60-e06",
+    "type": "fillGap",
+    "sentencePt": "___ semana vou de férias.",
+    "sentencePl": "W przyszłym tygodniu jadę na urlop.",
+    "options": [
+      "Para a",
+      "Para o"
+    ],
+    "answer": "Para a",
+    "fullItemId": "para-a-semana-vou-de-ferias",
+    "wrongExplanations": {
+      "Para o": "„o” — przed męskimi. Semana jest żeńska → para a semana."
+    },
+    "explanationPl": "a semana (żeńska) → para a semana.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-l60-e07",
+    "type": "buildSentence",
+    "targetItemId": "se-calhar-vou-a-praia",
+    "tiles": [
+      "Se",
+      "calhar",
+      "vou",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "ao",
+      "vais"
+    ],
+    "promptPl": "Powiedz: „Może pójdę na plażę.”"
+  },
+  {
+    "id": "w10-l60-e08",
+    "type": "transform",
+    "baseItemId": "vou-trabalhar-amanha",
+    "instructionPl": "Dodaj niepewność: „może” (se calhar).",
+    "targetItemId": "se-calhar-vou-trabalhar-amanha",
+    "tiles": [
+      "Se",
+      "calhar",
+      "vou",
+      "trabalhar",
+      "amanhã"
+    ],
+    "distractors": [
+      "trabalho",
+      "vai"
+    ],
+    "acceptedAnswers": [
+      "Se calhar amanhã vou trabalhar"
+    ]
+  },
+  {
+    "id": "w10-l60-e09",
+    "type": "recallSay",
+    "targetItemId": "fica-para-a-proxima",
+    "promptPl": "Odmawiasz zaproszenia. Zakończ uprzejmie: „To może następnym razem!”"
+  },
+  {
+    "id": "w10-l60-e10",
+    "type": "recallSay",
+    "targetItemId": "se-calhar-vou-a-praia",
+    "promptPl": "Powiedz, że może pójdziesz na plażę."
+  },
+  {
+    "id": "w10-l60-e11",
+    "type": "typeAnswer",
+    "targetItemId": "combinado",
+    "promptPl": "Napisz jednym słowem: „Umowa stoi!”"
+  },
+  {
+    "id": "w10-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "vamos-jantar-fora-q",
+    "optionItemIds": [
+      "vamos-jantar-fora-q",
+      "vamos-ao-cinema-q",
+      "vamos-dar-um-passeio-q"
+    ]
+  },
+  {
+    "id": "w10-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "depois-de-amanha-vou-descansar",
+    "optionItemIds": [
+      "depois-de-amanha-vou-descansar",
+      "amanha-de-manha-vou-ao-mercado",
+      "este-fim-de-semana-vou-ficar-em-casa"
+    ]
+  },
+  {
+    "id": "w10-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "para-a-semana-vou-de-ferias",
+    "optionItemIds": [
+      "para-a-semana-vou-de-ferias",
+      "no-proximo-mes-vou-a-polonia",
+      "vou-visitar-os-meus-pais"
+    ]
+  },
+  {
+    "id": "w10-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "nao-posso-porque-vou-trabalhar",
+    "optionItemIds": [
+      "nao-posso-porque-vou-trabalhar",
+      "amanha-nao-vou-trabalhar",
+      "vou-trabalhar-amanha"
+    ]
+  },
+  {
+    "id": "w10-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "gostava-de-ir-a-praia",
+    "optionItemIds": [
+      "gostava-de-ir-a-praia",
+      "se-calhar-vou-a-praia",
+      "no-sabado-vou-a-praia"
+    ]
+  },
+  {
+    "id": "w10-t-e06",
+    "type": "readChoose",
+    "targetItemId": "logo-a-noite",
+    "optionItemIds": [
+      "logo-a-noite",
+      "mais-tarde",
+      "a-noite"
+    ]
+  },
+  {
+    "id": "w10-t-e07",
+    "type": "readChoose",
+    "targetItemId": "fim-de-semana",
+    "optionItemIds": [
+      "fim-de-semana",
+      "semana",
+      "mes"
+    ]
+  },
+  {
+    "id": "w10-t-e08",
+    "type": "readChoose",
+    "targetItemId": "se-calhar",
+    "optionItemIds": [
+      "se-calhar",
+      "claro",
+      "combinado"
+    ]
+  },
+  {
+    "id": "w10-t-e09",
+    "type": "readChoose",
+    "targetItemId": "fica-para-a-proxima",
+    "optionItemIds": [
+      "fica-para-a-proxima",
+      "boa-ideia",
+      "nao-faz-mal"
+    ]
+  },
+  {
+    "id": "w10-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Amanhã vou ___ em casa.",
+    "sentencePl": "Jutro będę pracować w domu.",
+    "options": [
+      "trabalhar",
+      "trabalho"
+    ],
+    "answer": "trabalhar",
+    "fullItemId": "amanha-vou-trabalhar-em-casa",
+    "wrongExplanations": {
+      "trabalho": "„trabalho” = pracuję. Po „vou” → trabalhar."
+    },
+    "explanationPl": "vou + bezokolicznik.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w10-t-e11",
+    "type": "fillGap",
+    "sentencePt": "Vamos ___ fora?",
+    "sentencePl": "Zjemy kolację na mieście?",
+    "options": [
+      "jantar",
+      "almoço"
+    ],
+    "answer": "jantar",
+    "fullItemId": "vamos-jantar-fora-q",
+    "wrongExplanations": {
+      "almoço": "„o almoço” = obiad (rzeczownik). Po „vamos” bezokolicznik, np. jantar / almoçar."
+    },
+    "explanationPl": "jantar fora = zjeść kolację na mieście.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-t-e12",
+    "type": "fillGap",
+    "sentencePt": "Amanhã ___ ao Funchal.",
+    "sentencePl": "Jutro jadę do Funchal.",
+    "options": [
+      "vou",
+      "vou ir"
+    ],
+    "answer": "vou",
+    "wrongExplanations": {
+      "vou ir": "W pt-PT zwykle unika się „vou ir” (potocznie się zdarza) — lepiej: Amanhã vou ao Funchal."
+    },
+    "explanationPl": "Z „ir”: po prostu vou (bez „vou ir”).",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w10-t-e13",
+    "type": "fillGap",
+    "sentencePt": "___ fim de semana vou ficar em casa.",
+    "sentencePl": "W ten weekend zostanę w domu.",
+    "options": [
+      "Este",
+      "Esta"
+    ],
+    "answer": "Este",
+    "fullItemId": "este-fim-de-semana-vou-ficar-em-casa",
+    "wrongExplanations": {
+      "Esta": "„esta” — przed żeńskimi (esta semana)."
+    },
+    "explanationPl": "o fim de semana → este.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-t-e14",
+    "type": "fillGap",
+    "sentencePt": "No próximo ___ vou à Polónia.",
+    "sentencePl": "W przyszłym miesiącu jadę do Polski.",
+    "options": [
+      "mês",
+      "semana"
+    ],
+    "answer": "mês",
+    "fullItemId": "no-proximo-mes-vou-a-polonia",
+    "wrongExplanations": {
+      "semana": "„semana” jest żeńska: na próxima semana."
+    },
+    "explanationPl": "no próximo → o mês.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w10-t-e15",
+    "type": "fillGap",
+    "sentencePt": "Não posso ___ vou trabalhar.",
+    "sentencePl": "Nie mogę, bo będę pracować.",
+    "options": [
+      "porque",
+      "mas"
+    ],
+    "answer": "porque",
+    "fullItemId": "nao-posso-porque-vou-trabalhar",
+    "wrongExplanations": {
+      "mas": "„mas” = ale."
+    },
+    "explanationPl": "bo = porque.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-t-e16",
+    "type": "fillGap",
+    "sentencePt": "___ de ir à praia.",
+    "sentencePl": "Chciałbym pójść na plażę.",
+    "options": [
+      "Gostava",
+      "Gosto"
+    ],
+    "answer": "Gostava",
+    "fullItemId": "gostava-de-ir-a-praia",
+    "wrongExplanations": {
+      "Gosto": "„gosto de” = lubię."
+    },
+    "explanationPl": "chciałbym = gostava de…",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w10-t-e17",
+    "type": "buildSentence",
+    "targetItemId": "o-que-vais-fazer-no-fim-de-semana-q",
+    "tiles": [
+      "O",
+      "que",
+      "vais",
+      "fazer",
+      "no",
+      "fim",
+      "de",
+      "semana"
+    ],
+    "distractors": [
+      "vai",
+      "faz"
+    ],
+    "promptPl": "Zapytaj kolegę: „Co będziesz robić w weekend?”"
+  },
+  {
+    "id": "w10-t-e18",
+    "type": "transform",
+    "baseItemId": "vamos-a-praia",
+    "instructionPl": "Zaproś kolegę pytaniem z „Queres…?”.",
+    "targetItemId": "queres-ir-a-praia-q",
+    "tiles": [
+      "Queres",
+      "ir",
+      "à",
+      "praia"
+    ],
+    "distractors": [
+      "vais",
+      "ao"
+    ]
+  },
+  {
+    "id": "w10-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "fim-de-semana",
+    "promptPl": "Napisz: „weekend”."
+  },
+  {
+    "id": "w10-t-e20",
+    "type": "typeAnswer",
+    "targetItemId": "depois-de-amanha",
+    "promptPl": "Napisz: „pojutrze”."
+  },
+  {
+    "id": "w10-t-e21",
+    "type": "recallChoose",
+    "targetItemId": "queres-ir-ao-cinema-q",
+    "optionItemIds": [
+      "queres-ir-ao-cinema-q",
+      "vamos-ao-cinema-q",
+      "quando-vais-de-ferias-q"
+    ],
+    "promptPl": "Zapytaj kolegę, czy chce iść do kina."
+  },
+  {
+    "id": "w10-t-e22",
+    "type": "recallChoose",
+    "targetItemId": "o-que-vais-fazer-logo-a-noite-q",
+    "optionItemIds": [
+      "o-que-vais-fazer-logo-a-noite-q",
+      "ola-o-que-fazes-a-noite-q",
+      "o-que-estas-a-fazer-q"
+    ],
+    "promptPl": "Zapytaj kolegę o plan na DZIŚ wieczór."
+  }
+]

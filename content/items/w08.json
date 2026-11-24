@@ -1,0 +1,1913 @@
+[
+  {
+    "id": "farmacia",
+    "kind": "word",
+    "pt": "farmácia",
+    "pl": "apteka",
+    "pronunciation": {
+      "plSlow": "făr-MA-si-ă",
+      "ipa": "fɐɾˈmasjɐ",
+      "notePl": "Akcent na MA (á). Końcówka „-cia” — zwykłe s + i (jak w „família”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "a farmácia — rodzaj żeński.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "banco",
+    "kind": "word",
+    "pt": "banco",
+    "pl": "bank",
+    "pronunciation": {
+      "plSlow": "BÃ-ku",
+      "ipa": "ˈbɐ̃ku",
+      "notePl": "an przed k = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "o banco — rodzaj męski. To samo słowo znaczy też „ławka”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mercado",
+    "kind": "word",
+    "pt": "mercado",
+    "pl": "targ, hala targowa",
+    "pronunciation": {
+      "plSlow": "myr-KA-du",
+      "ipa": "mɨɾˈkaðu",
+      "notePl": "Pierwsze e zredukowane (y), jak w „supermercado”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "o mercado — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "perto",
+    "kind": "word",
+    "pt": "perto",
+    "pl": "blisko",
+    "pronunciation": {
+      "plSlow": "PER-tu",
+      "ipa": "ˈpɛɾtu",
+      "notePl": "Otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "É perto. = To blisko. perto de… = blisko (czegoś): perto da praia, perto do banco.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "longe",
+    "kind": "word",
+    "pt": "longe",
+    "pl": "daleko",
+    "pronunciation": {
+      "plSlow": "LÕ-ży",
+      "ipa": "ˈlõʒɨ",
+      "notePl": "on = nosowe õ; g przed e = ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "É longe? = Czy to daleko?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ao-lado-de",
+    "kind": "phrase",
+    "pt": "ao lado de…",
+    "pl": "obok…, przy…",
+    "tts": "ao lado de",
+    "pronunciation": {
+      "plSlow": "au LA-du dy …",
+      "ipa": "aw ˈlaðu ðɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "de + o = do, de + a = da: ao lado do banco, ao lado da farmácia.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha",
+    "kind": "word",
+    "pt": "há",
+    "pl": "jest, są (= istnieje, znajduje się gdzieś)",
+    "pronunciation": {
+      "plSlow": "A",
+      "ipa": "a",
+      "notePl": "h jest nieme; otwarte a.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "usagePl": "Há uma farmácia aqui perto? = Czy jest tu w pobliżu apteka? „Há” się nie zmienia: há um banco, há dois bancos.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-uma-farmacia-aqui-perto-q",
+    "kind": "sentence",
+    "pt": "Há uma farmácia aqui perto?",
+    "pl": "Czy jest tu w pobliżu apteka?",
+    "pronunciation": {
+      "plSlow": "A U-mă făr-MA-si-ă ă-KI PER-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-farmacia-e-ao-lado-do-banco",
+    "kind": "sentence",
+    "pt": "A farmácia é ao lado do banco.",
+    "pl": "Apteka jest obok banku.",
+    "pronunciation": {
+      "plSlow": "ă făr-MA-si-ă E au LA-du du BÃ-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-banco-e-longe-q",
+    "kind": "sentence",
+    "pt": "O banco é longe?",
+    "pl": "Czy bank jest daleko?",
+    "pronunciation": {
+      "plSlow": "u BÃ-ku E LÕ-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-e-muito-perto",
+    "kind": "sentence",
+    "pt": "Não, é muito perto.",
+    "pl": "Nie, jest bardzo blisko.",
+    "pronunciation": {
+      "plSlow": "NÃU, E MŨJ-tu PER-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-mercado-e-perto-da-minha-casa",
+    "kind": "sentence",
+    "pt": "O mercado é perto da minha casa.",
+    "pl": "Targ jest blisko mojego domu.",
+    "pronunciation": {
+      "plSlow": "u myr-KA-du E PER-tu dă MI-ńă KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-um-supermercado-aqui-perto-q",
+    "kind": "sentence",
+    "pt": "Há um supermercado aqui perto?",
+    "pl": "Czy jest tu w pobliżu supermarket?",
+    "pronunciation": {
+      "plSlow": "A ũ su-per-myr-KA-du ă-KI PER-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ana-ha-uma-farmacia-aqui-perto-q",
+    "kind": "sentence",
+    "pt": "Ana, há uma farmácia aqui perto?",
+    "pl": "Ano, czy jest tu w pobliżu apteka?",
+    "pronunciation": {
+      "plSlow": "Ă-nă, A U-mă făr-MA-si-ă ă-KI PER-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-sim-e-ao-lado-do-banco",
+    "kind": "sentence",
+    "pt": "Há, sim. É ao lado do banco.",
+    "pl": "Tak, jest. Obok banku.",
+    "pronunciation": {
+      "plSlow": "A, SĨ. E au LA-du du BÃ-ku.",
+      "notePl": "Odpowiadamy „tak”, powtarzając czasownik: Há, sim.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-banco-e-longe-q",
+    "kind": "sentence",
+    "pt": "E o banco é longe?",
+    "pl": "A bank jest daleko?",
+    "pronunciation": {
+      "plSlow": "i u BÃ-ku E LÕ-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-o-supermercado-e-longe-mas-o-mercado-e-perto",
+    "kind": "sentence",
+    "pt": "Não, o supermercado é longe. Mas o mercado é perto.",
+    "pl": "Nie, supermarket jest daleko. Ale targ jest blisko.",
+    "pronunciation": {
+      "plSlow": "NÃU, u su-per-myr-KA-du E LÕ-ży. măz u myr-KA-du E PER-tu.",
+      "notePl": "mas przed samogłoską → „măz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-direita",
+    "kind": "phrase",
+    "pt": "à direita",
+    "pl": "w prawo; po prawej",
+    "pronunciation": {
+      "plSlow": "a di-RĂJ-tă",
+      "ipa": "a ðiˈɾɐjtɐ",
+      "notePl": "ei = „ăj” (norma lizbońska). à = a + a — otwarte a.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "usagePl": "Vire à direita. = Proszę skręcić w prawo. É à direita. = To po prawej.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-esquerda",
+    "kind": "phrase",
+    "pt": "à esquerda",
+    "pl": "w lewo; po lewej",
+    "pronunciation": {
+      "plSlow": "a ysz-KÊR-dă",
+      "plNatural": "asz-KÊR-dă",
+      "ipa": "a ɨʃˈkeɾðɐ",
+      "notePl": "Zamknięte ê. W mowie naturalnej „à esquerda” brzmi zwykle jak jedno słowo: „asz-KÊR-dă”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-frente",
+    "kind": "phrase",
+    "pt": "em frente",
+    "pl": "prosto (przed siebie)",
+    "pronunciation": {
+      "plSlow": "ãj FRẼ-ty",
+      "ipa": "ɐ̃j̃ ˈfɾẽtɨ",
+      "notePl": "em = nosowe „ãj”; en przed t = nosowe ẽ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "usagePl": "Siga em frente. = Proszę iść prosto.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vire",
+    "kind": "word",
+    "pt": "vire",
+    "pl": "proszę skręcić (o senhor / a senhora)",
+    "pronunciation": {
+      "plSlow": "WI-ry",
+      "ipa": "ˈviɾɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "usagePl": "Grzecznościowa forma rozkazująca od „virar” (skręcać). Na razie traktuj ją jako gotową formułę: Vire à direita. Vire na primeira rua.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "siga",
+    "kind": "word",
+    "pt": "siga",
+    "pl": "proszę iść / jechać dalej (o senhor / a senhora)",
+    "pronunciation": {
+      "plSlow": "SI-gă",
+      "ipa": "ˈsiɣɐ",
+      "notePl": "g między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "usagePl": "Grzecznościowa forma od „seguir” (iść dalej). Gotowa formuła: Siga em frente.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "primeiro",
+    "kind": "word",
+    "pt": "primeiro",
+    "ptFem": "primeira",
+    "pl": "pierwszy",
+    "plFem": "pierwsza",
+    "pronunciation": {
+      "plSlow": "pri-MĂJ-ru",
+      "ipa": "pɾiˈmɐjɾu",
+      "notePl": "ei = „ăj” (norma lizbońska).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "pri-MĂJ-ră",
+      "ipa": "pɾiˈmɐjɾɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "usagePl": "a primeira rua = pierwsza ulica; a segunda rua = druga ulica (jak w „segunda-feira”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "siga-em-frente",
+    "kind": "sentence",
+    "pt": "Siga em frente.",
+    "pl": "Proszę iść prosto.",
+    "pronunciation": {
+      "plSlow": "SI-gă ãj FRẼ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vire-a-direita",
+    "kind": "sentence",
+    "pt": "Vire à direita.",
+    "pl": "Proszę skręcić w prawo.",
+    "pronunciation": {
+      "plSlow": "WI-ry a di-RĂJ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vire-a-esquerda",
+    "kind": "sentence",
+    "pt": "Vire à esquerda.",
+    "pl": "Proszę skręcić w lewo.",
+    "pronunciation": {
+      "plSlow": "WI-ry a ysz-KÊR-dă.",
+      "plNatural": "WI-ry asz-KÊR-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vire-na-primeira-rua-a-esquerda",
+    "kind": "sentence",
+    "pt": "Vire na primeira rua à esquerda.",
+    "pl": "Proszę skręcić w pierwszą ulicę w lewo.",
+    "pronunciation": {
+      "plSlow": "WI-ry nă pri-MĂJ-ră RRU-ă a ysz-KÊR-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-segunda-rua-a-direita",
+    "kind": "sentence",
+    "pt": "É a segunda rua à direita.",
+    "pl": "To druga ulica po prawej.",
+    "pronunciation": {
+      "plSlow": "E ă sy-GŨ-dă RRU-ă a di-RĂJ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-onde-e-o-banco-q",
+    "kind": "sentence",
+    "pt": "Desculpe, onde é o banco?",
+    "pl": "Przepraszam, gdzie jest bank?",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, Õ-dy E u BÃ-ku?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "siga-em-frente-e-vire-na-primeira-rua-a-direita",
+    "kind": "sentence",
+    "pt": "Siga em frente e vire na primeira rua à direita.",
+    "pl": "Proszę iść prosto i skręcić w pierwszą ulicę w prawo.",
+    "pronunciation": {
+      "plSlow": "SI-gă ãj FRẼ-ty i WI-ry nă pri-MĂJ-ră RRU-ă a di-RĂJ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-primeira-rua-a-direita-q",
+    "kind": "sentence",
+    "pt": "Na primeira rua à direita?",
+    "pl": "W pierwszą ulicę w prawo?",
+    "pronunciation": {
+      "plSlow": "nă pri-MĂJ-ră RRU-ă a di-RĂJ-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-o-banco-e-ao-lado-da-farmacia",
+    "kind": "sentence",
+    "pt": "Sim. O banco é ao lado da farmácia.",
+    "pl": "Tak. Bank jest obok apteki.",
+    "pronunciation": {
+      "plSlow": "SĨ. u BÃ-ku E au LA-du dă făr-MA-si-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-longe-q",
+    "kind": "sentence",
+    "pt": "É longe?",
+    "pl": "Czy to daleko?",
+    "pronunciation": {
+      "plSlow": "E LÕ-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-e-perto",
+    "kind": "sentence",
+    "pt": "Não, é perto.",
+    "pl": "Nie, to blisko.",
+    "pronunciation": {
+      "plSlow": "NÃU, E PER-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "autocarro",
+    "kind": "word",
+    "pt": "autocarro",
+    "pl": "autobus",
+    "pronunciation": {
+      "plSlow": "au-tu-KA-rru",
+      "ipa": "awtuˈkaʁu",
+      "notePl": "au = „au”; o nieakcentowane = u; rr = mocne r.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "o autocarro — tak mówi się w Portugalii (słowo brazylijskie jest inne).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "paragem",
+    "kind": "word",
+    "pt": "paragem",
+    "pl": "przystanek",
+    "pronunciation": {
+      "plSlow": "pă-RA-żãj",
+      "ipa": "pɐˈɾaʒɐ̃j̃",
+      "notePl": "g przed e = ż; końcowe -em = nosowe „ãj”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "a paragem — rodzaj ŻEŃSKI (po polsku „przystanek” jest męski): a paragem do autocarro.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bilhete",
+    "kind": "word",
+    "pt": "bilhete",
+    "pl": "bilet",
+    "pronunciation": {
+      "plSlow": "bi-LJÊ-ty",
+      "ipa": "biˈʎetɨ",
+      "notePl": "lh = lj (jeden dźwięk); zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "o bilhete — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "centro",
+    "kind": "word",
+    "pt": "centro",
+    "pl": "centrum",
+    "pronunciation": {
+      "plSlow": "SẼ-tru",
+      "ipa": "ˈsẽtɾu",
+      "notePl": "en = nosowe ẽ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "o centro → para o centro (do centrum), no centro (w centrum).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-parte-q",
+    "kind": "phrase",
+    "pt": "A que horas parte…?",
+    "pl": "O której odjeżdża…?",
+    "tts": "A que horas parte?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz PAR-ty …?",
+      "ipa": "ɐ kɨ ˈɔɾɐʃ ˈpaɾtɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "usagePl": "parte = odjeżdża (od „partir”). „A que horas…?” znasz z tygodnia 4.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "proximo",
+    "kind": "word",
+    "pt": "próximo",
+    "ptFem": "próxima",
+    "pl": "następny",
+    "plFem": "następna",
+    "pronunciation": {
+      "plSlow": "PRO-si-mu",
+      "ipa": "ˈpɾɔsimu",
+      "notePl": "x czytane tu jak „s”; otwarte o; akcent na pierwszej sylabie (ó).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "PRO-si-mă",
+      "ipa": "ˈpɾɔsimɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "o próximo autocarro = następny autobus; a próxima paragem = następny przystanek.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-parte-o-autocarro-para-o-centro-q",
+    "kind": "sentence",
+    "pt": "A que horas parte o autocarro para o centro?",
+    "pl": "O której odjeżdża autobus do centrum?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz PAR-ty u au-tu-KA-rru PĂ-ră u SẼ-tru?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-proximo-parte-as-dez-e-meia",
+    "kind": "sentence",
+    "pt": "O próximo parte às dez e meia.",
+    "pl": "Następny odjeżdża o wpół do jedenastej (10:30).",
+    "pronunciation": {
+      "plSlow": "u PRO-si-mu PAR-ty aż DEZ i MĂJ-ă.",
+      "notePl": "às przed d → „aż”; dez przed samogłoską → „DEZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-bilhete-para-o-centro-sfv",
+    "kind": "sentence",
+    "pt": "Um bilhete para o centro, se faz favor.",
+    "pl": "Bilet do centrum, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ bi-LJÊ-ty PĂ-ră u SẼ-tru, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-paragem-e-ao-lado-do-cafe",
+    "kind": "sentence",
+    "pt": "A paragem é ao lado do café.",
+    "pl": "Przystanek jest obok kawiarni.",
+    "pronunciation": {
+      "plSlow": "ă pă-RA-żãj E au LA-du du kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "este-autocarro-vai-para-o-centro-q",
+    "kind": "sentence",
+    "pt": "Este autocarro vai para o centro?",
+    "pl": "Czy ten autobus jedzie do centrum?",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty au-tu-KA-rru WAJ PĂ-ră u SẼ-tru?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-parte-o-autocarro-para-o-funchal-q",
+    "kind": "sentence",
+    "pt": "A que horas parte o autocarro para o Funchal?",
+    "pl": "O której odjeżdża autobus do Funchal?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz PAR-ty u au-tu-KA-rru PĂ-ră u fũ-SZAɫ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-e-meia-e-onde-e-a-paragem-q",
+    "kind": "sentence",
+    "pt": "Às dez e meia? E onde é a paragem?",
+    "pl": "O wpół do jedenastej? A gdzie jest przystanek?",
+    "pronunciation": {
+      "plSlow": "aż DEZ i MĂJ-ă? i Õ-dy E ă pă-RA-żãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-aqui-perto-ao-lado-do-banco",
+    "kind": "sentence",
+    "pt": "É aqui perto, ao lado do banco.",
+    "pl": "Tu niedaleko, obok banku.",
+    "pronunciation": {
+      "plSlow": "E ă-KI PER-tu, au LA-du du BÃ-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado-ate-logo",
+    "kind": "sentence",
+    "pt": "Obrigado! Até logo!",
+    "ptFem": "Obrigada! Até logo!",
+    "pl": "Dzięki! Na razie!",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du! ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă! ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-esta-o-tempo-q",
+    "kind": "phrase",
+    "pt": "Como está o tempo?",
+    "pl": "Jaka jest pogoda?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ysz-TA u TẼ-pu?",
+      "plNatural": "KÔ-mu‿SZTA u TẼ-pu?",
+      "ipa": "ˈkomu ɨʃˈta u ˈtẽpu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "pytania"
+    ],
+    "usagePl": "o tempo = czas ALBO pogoda — znaczenie wynika z sytuacji.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-sol",
+    "kind": "phrase",
+    "pt": "Está sol.",
+    "pl": "Jest słonecznie. (dosł. Jest słońce.)",
+    "pronunciation": {
+      "plSlow": "ysz-TA SOɫ.",
+      "plNatural": "SZTA SOɫ.",
+      "ipa": "ɨʃˈta ˈsɔɫ",
+      "notePl": "sol — otwarte o i ciemne ɫ (nie polskie ł).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-calor",
+    "kind": "phrase",
+    "pt": "Está calor.",
+    "pl": "Jest gorąco.",
+    "pronunciation": {
+      "plSlow": "ysz-TA kă-LÔR.",
+      "plNatural": "SZTA kă-LÔR.",
+      "ipa": "ɨʃˈta kɐˈloɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "usagePl": "calor to rzeczownik (upał, ciepło) — dosł. „jest upał”. Słyszy się też „faz calor”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-frio",
+    "kind": "phrase",
+    "pt": "Está frio.",
+    "pl": "Jest zimno.",
+    "pronunciation": {
+      "plSlow": "ysz-TA FRI-u.",
+      "plNatural": "SZTA FRI-u.",
+      "ipa": "ɨʃˈta ˈfɾiu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "usagePl": "Słyszy się też „faz frio”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-vento",
+    "kind": "phrase",
+    "pt": "Está vento.",
+    "pl": "Jest wietrznie. (dosł. Jest wiatr.)",
+    "pronunciation": {
+      "plSlow": "ysz-TA WẼ-tu.",
+      "plNatural": "SZTA WẼ-tu.",
+      "ipa": "ɨʃˈta ˈvẽtu",
+      "notePl": "en = nosowe ẽ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "usagePl": "Mówi się też „faz vento” albo „há vento” — wszystkie trzy formy są w użyciu.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-a-chover",
+    "kind": "phrase",
+    "pt": "Está a chover.",
+    "pl": "Pada deszcz (teraz).",
+    "pronunciation": {
+      "plSlow": "ysz-TA ă szu-WÊR.",
+      "plNatural": "SZTA‿ă szu-WÊR.",
+      "ipa": "ɨʃˈta ɐ ʃuˈveɾ",
+      "notePl": "ch = sz; o nieakcentowane = u; zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "usagePl": "estar a + bezokolicznik — jak „estou a trabalhar”: dzieje się teraz.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-esta-sol-e-esta-calor",
+    "kind": "sentence",
+    "pt": "Hoje está sol e está calor.",
+    "pl": "Dziś jest słonecznie i gorąco.",
+    "pronunciation": {
+      "plSlow": "Ô-ży ysz-TA SOɫ i ysz-TA kă-LÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-esta-muito-frio",
+    "kind": "sentence",
+    "pt": "Hoje está muito frio.",
+    "pl": "Dziś jest bardzo zimno.",
+    "pronunciation": {
+      "plSlow": "Ô-ży ysz-TA MŨJ-tu FRI-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-a-chover-no-funchal",
+    "kind": "sentence",
+    "pt": "Está a chover no Funchal.",
+    "pl": "W Funchal pada deszcz.",
+    "pronunciation": {
+      "plSlow": "ysz-TA ă szu-WÊR nu fũ-SZAɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-esta-muito-vento",
+    "kind": "sentence",
+    "pt": "Hoje está muito vento.",
+    "pl": "Dziś jest bardzo wietrznie.",
+    "pronunciation": {
+      "plSlow": "Ô-ży ysz-TA MŨJ-tu WẼ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-ana-vamos-a-praia-q",
+    "kind": "sentence",
+    "pt": "Olá, Ana! Vamos à praia?",
+    "pl": "Cześć, Ano! Idziemy na plażę?",
+    "pronunciation": {
+      "plSlow": "o-LA, Ă-nă! WĂ-muz a PRAJ-ă?",
+      "notePl": "vamos przed samogłoską → „WĂ-muz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-esta-a-chover",
+    "kind": "sentence",
+    "pt": "Hoje? Está a chover!",
+    "pl": "Dzisiaj? Pada deszcz!",
+    "pronunciation": {
+      "plSlow": "Ô-ży? ysz-TA ă szu-WÊR!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-chover-aqui-esta-sol-e-esta-calor",
+    "kind": "sentence",
+    "pt": "A chover? Aqui está sol e está calor!",
+    "pl": "Pada? Tutaj jest słonecznie i gorąco!",
+    "pronunciation": {
+      "plSlow": "ă szu-WÊR? ă-KI ysz-TA SOɫ i ysz-TA kă-LÔR!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aqui-no-funchal-esta-frio-e-esta-muito-vento",
+    "kind": "sentence",
+    "pt": "Aqui, no Funchal, está frio e está muito vento.",
+    "pl": "Tutaj, w Funchal, jest zimno i bardzo wietrznie.",
+    "pronunciation": {
+      "plSlow": "ă-KI, nu fũ-SZAɫ, ysz-TA FRI-u i ysz-TA MŨJ-tu WẼ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-amanha-q",
+    "kind": "sentence",
+    "pt": "Vamos amanhã?",
+    "pl": "Pójdziemy jutro?",
+    "pronunciation": {
+      "plSlow": "WĂ-muz ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "verao",
+    "kind": "word",
+    "pt": "verão",
+    "pl": "lato",
+    "pronunciation": {
+      "plSlow": "wy-RÃU",
+      "ipa": "vɨˈɾɐ̃w̃",
+      "notePl": "Pierwsze e zredukowane (y); ão = „ãu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "czas"
+    ],
+    "usagePl": "o verão → no verão (latem).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "inverno",
+    "kind": "word",
+    "pt": "inverno",
+    "pl": "zima",
+    "pronunciation": {
+      "plSlow": "ĩ-WER-nu",
+      "ipa": "ĩˈvɛɾnu",
+      "notePl": "in = nosowe ĩ; otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "czas"
+    ],
+    "usagePl": "o inverno → no inverno (zimą).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "primavera",
+    "kind": "word",
+    "pt": "primavera",
+    "pl": "wiosna",
+    "pronunciation": {
+      "plSlow": "pri-mă-WE-ră",
+      "ipa": "pɾimɐˈvɛɾɐ",
+      "notePl": "Otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "czas"
+    ],
+    "usagePl": "a primavera → na primavera (wiosną).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "outono",
+    "kind": "word",
+    "pt": "outono",
+    "pl": "jesień",
+    "pronunciation": {
+      "plSlow": "ô-TÔ-nu",
+      "ipa": "oˈtonu",
+      "notePl": "ou = zamknięte „ô”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "czas"
+    ],
+    "usagePl": "o outono → no outono (jesienią).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chove",
+    "kind": "word",
+    "pt": "chove",
+    "pl": "pada (deszcz) — zwykle, ogólnie",
+    "pronunciation": {
+      "plSlow": "SZO-wy",
+      "ipa": "ˈʃɔvɨ",
+      "notePl": "ch = sz; otwarte o.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "usagePl": "Chove muito? = Czy dużo pada? (ogólnie). Teraz, w tej chwili: Está a chover.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "todo-o-ano",
+    "kind": "phrase",
+    "pt": "todo o ano",
+    "pl": "przez cały rok",
+    "pronunciation": {
+      "plSlow": "TÔ-du u Ă-nu",
+      "ipa": "ˈtodu u ˈɐnu",
+      "notePl": "ano — akcentowane a przed n = „ă”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "czas"
+    ],
+    "usagePl": "Gotowe wyrażenie: todo o ano = (przez) cały rok.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-verao-esta-calor",
+    "kind": "sentence",
+    "pt": "No verão está calor.",
+    "pl": "Latem jest gorąco.",
+    "pronunciation": {
+      "plSlow": "nu wy-RÃU ysz-TA kă-LÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-polonia-no-inverno-esta-muito-frio",
+    "kind": "sentence",
+    "pt": "Na Polónia, no inverno, está muito frio.",
+    "pl": "W Polsce zimą jest bardzo zimno.",
+    "pronunciation": {
+      "plSlow": "nă pu-LO-ni-ă, nu ĩ-WER-nu, ysz-TA MŨJ-tu FRI-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-muito-do-verao",
+    "kind": "sentence",
+    "pt": "Gosto muito do verão.",
+    "pl": "Bardzo lubię lato.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MŨJ-tu du wy-RÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-da-primavera",
+    "kind": "sentence",
+    "pt": "Gosto da primavera.",
+    "pl": "Lubię wiosnę.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu dă pri-mă-WE-ră.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-inverno-chove-muito-q",
+    "kind": "sentence",
+    "pt": "No inverno chove muito?",
+    "pl": "Czy zimą dużo pada?",
+    "pronunciation": {
+      "plSlow": "nu ĩ-WER-nu SZO-wy MŨJ-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-polonia-esta-muito-frio-no-inverno-q",
+    "kind": "sentence",
+    "pt": "Na Polónia está muito frio no inverno?",
+    "pl": "Czy w Polsce zimą jest bardzo zimno?",
+    "pronunciation": {
+      "plSlow": "nă pu-LO-ni-ă ysz-TA MŨJ-tu FRI-u nu ĩ-WER-nu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-sim-e-aqui-esta-calor-todo-o-ano-q",
+    "kind": "sentence",
+    "pt": "Está, sim! E aqui? Está calor todo o ano?",
+    "pl": "Tak! A tutaj? Jest ciepło przez cały rok?",
+    "pronunciation": {
+      "plSlow": "ysz-TA, SĨ! i ă-KI? ysz-TA kă-LÔR TÔ-du u Ă-nu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-no-inverno-esta-mais-frio",
+    "kind": "sentence",
+    "pt": "Não! No inverno está mais frio.",
+    "pl": "Nie! Zimą jest chłodniej.",
+    "pronunciation": {
+      "plSlow": "NÃU! nu ĩ-WER-nu ysz-TA MAJSZ FRI-u.",
+      "notePl": "mais frio = zimniej (dosł. „bardziej zimno”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-chove-muito-q",
+    "kind": "sentence",
+    "pt": "E chove muito?",
+    "pl": "A dużo pada?",
+    "pronunciation": {
+      "plSlow": "i SZO-wy MŨJ-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-vezes-tu-gostas-do-inverno-q",
+    "kind": "sentence",
+    "pt": "Às vezes. Tu gostas do inverno?",
+    "pl": "Czasami. Lubisz zimę?",
+    "pronunciation": {
+      "plSlow": "aż WÊ-zysz. TU GOSZ-tăż du ĩ-WER-nu?",
+      "notePl": "gostas = (ty) lubisz; s przed d → ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-gosto-muito-do-verao",
+    "kind": "sentence",
+    "pt": "Não. Gosto muito do verão!",
+    "pl": "Nie. Bardzo lubię lato!",
+    "pronunciation": {
+      "plSlow": "NÃU. GOSZ-tu MŨJ-tu du wy-RÃU!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tu-gostas-do-inverno-q",
+    "kind": "sentence",
+    "pt": "Tu gostas do inverno?",
+    "pl": "Lubisz zimę?",
+    "pronunciation": {
+      "plSlow": "TU GOSZ-tăż du ĩ-WER-nu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-mais-do-inverno",
+    "kind": "sentence",
+    "pt": "Gosto mais do inverno.",
+    "pl": "Wolę zimę. (dosł. Bardziej lubię zimę.)",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MAJŻ du ĩ-WER-nu.",
+      "notePl": "mais przed dźwięcznym d → „MAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar"
+    ],
+    "usagePl": "gostar mais de… = woleć.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-fica-q",
+    "kind": "phrase",
+    "pt": "Onde fica…?",
+    "pl": "Gdzie jest / gdzie się znajduje…? (o miejscach)",
+    "tts": "Onde fica?",
+    "pronunciation": {
+      "plSlow": "Õ-dy FI-kă …?",
+      "ipa": "ˈõdɨ ˈfikɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "usagePl": "O miejscach, które się nie przemieszczają (sklep, przystanek, ulica). Znaczy to samo co „Onde é…?”. Odpowiedź: Fica ao lado do banco.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-pe",
+    "kind": "phrase",
+    "pt": "a pé",
+    "pl": "pieszo, na piechotę",
+    "pronunciation": {
+      "plSlow": "ă PE",
+      "ipa": "ɐ ˈpɛ",
+      "notePl": "pé — otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "Vou a pé. = Idę pieszo.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-autocarro",
+    "kind": "phrase",
+    "pt": "de autocarro",
+    "pl": "autobusem",
+    "pronunciation": {
+      "plSlow": "dy au-tu-KA-rru",
+      "plNatural": "dau-tu-KA-rru",
+      "ipa": "dɨ awtuˈkaʁu",
+      "notePl": "W mowie naturalnej „de autocarro” często zlewa się: „dau-tu-KA-rru”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "usagePl": "Środek transportu: de + pojazd bez rodzajnika (de autocarro, de carro). Wyjątek: a pé.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-fica-a-paragem-q",
+    "kind": "sentence",
+    "pt": "Onde fica a paragem?",
+    "pl": "Gdzie jest przystanek?",
+    "pronunciation": {
+      "plSlow": "Õ-dy FI-kă ă pă-RA-żãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-fica-a-farmacia-q",
+    "kind": "sentence",
+    "pt": "Onde fica a farmácia?",
+    "pl": "Gdzie jest apteka?",
+    "pronunciation": {
+      "plSlow": "Õ-dy FI-kă ă făr-MA-si-ă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-a-pe",
+    "kind": "sentence",
+    "pt": "Vou a pé.",
+    "pl": "Idę pieszo.",
+    "pronunciation": {
+      "plSlow": "WÔ ă PE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-de-autocarro",
+    "kind": "sentence",
+    "pt": "Vou de autocarro.",
+    "pl": "Jadę autobusem.",
+    "pronunciation": {
+      "plSlow": "WÔ dy au-tu-KA-rru.",
+      "plNatural": "WÔ dau-tu-KA-rru.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-de-carro",
+    "kind": "sentence",
+    "pt": "Vou de carro.",
+    "pl": "Jadę samochodem.",
+    "pronunciation": {
+      "plSlow": "WÔ dy KA-rru.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-vai-para-casa-a-pe-q",
+    "kind": "sentence",
+    "pt": "Boa tarde! Vai para casa a pé?",
+    "pl": "Dzień dobry! Idzie Pan do domu pieszo?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! WAJ PĂ-ră KA-ză ă PE?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-hoje-vou-de-autocarro-onde-fica-a-paragem-q",
+    "kind": "sentence",
+    "pt": "Não, hoje vou de autocarro. Onde fica a paragem?",
+    "pl": "Nie, dziś jadę autobusem. Gdzie jest przystanek?",
+    "pronunciation": {
+      "plSlow": "NÃU, Ô-ży WÔ dy au-tu-KA-rru. Õ-dy FI-kă ă pă-RA-żãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "siga-em-frente-e-vire-a-esquerda-e-ao-lado-do-mercado",
+    "kind": "sentence",
+    "pt": "Siga em frente e vire à esquerda. É ao lado do mercado.",
+    "pl": "Proszę iść prosto i skręcić w lewo. To obok targu.",
+    "pronunciation": {
+      "plSlow": "SI-gă ãj FRẼ-ty i WI-ry a ysz-KÊR-dă. E au LA-du du myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-e-muito-perto-mas-esta-a-chover",
+    "kind": "sentence",
+    "pt": "Não, é muito perto. Mas está a chover!",
+    "pl": "Nie, bardzo blisko. Ale pada deszcz!",
+    "pronunciation": {
+      "plSlow": "NÃU, E MŨJ-tu PER-tu. măz ysz-TA ă szu-WÊR!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-faz-mal-obrigado-ate-amanha",
+    "kind": "sentence",
+    "pt": "Não faz mal. Obrigado! Até amanhã!",
+    "ptFem": "Não faz mal. Obrigada! Até amanhã!",
+    "pl": "Nic nie szkodzi. Dziękuję! Do jutra!",
+    "pronunciation": {
+      "plSlow": "NÃU FAŻ MAɫ. o-bri-GA-du! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU FAŻ MAɫ. o-bri-GA-dă! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-um-supermercado-perto-da-sua-casa-q",
+    "kind": "sentence",
+    "pt": "Há um supermercado perto da sua casa?",
+    "pl": "Czy blisko Pana / Pani domu jest supermarket?",
+    "pronunciation": {
+      "plSlow": "A ũ su-per-myr-KA-du PER-tu dă SU-ă KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ha-sim-e-muito-perto",
+    "kind": "sentence",
+    "pt": "Há, sim. É muito perto.",
+    "pl": "Tak, jest. Bardzo blisko.",
+    "pronunciation": {
+      "plSlow": "A, SĨ. E MŨJ-tu PER-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-esta-o-tempo-hoje-q",
+    "kind": "sentence",
+    "pt": "Como está o tempo hoje?",
+    "pl": "Jaka jest dziś pogoda?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ysz-TA u TẼ-pu Ô-ży?",
+      "plNatural": "KÔ-mu‿SZTA u TẼ-pu Ô-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosta-mais-do-verao-ou-do-inverno-q",
+    "kind": "sentence",
+    "pt": "Gosta mais do verão ou do inverno?",
+    "pl": "Woli Pan / Pani lato czy zimę?",
+    "pronunciation": {
+      "plSlow": "GOSZ-tă MAJŻ du wy-RÃU ô du ĩ-WER-nu?",
+      "notePl": "mais przed dźwięcznym d → „MAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "pogoda",
+      "gostar",
+      "pytania"
+    ],
+    "usagePl": "gostar mais de… = woleć (dosł. „bardziej lubić”).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-vai-para-o-centro-q",
+    "kind": "sentence",
+    "pt": "Como vai para o centro?",
+    "pl": "Jak Pan / Pani jeździ do centrum?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu WAJ PĂ-ră u SẼ-tru?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "transport",
+      "miasto",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-precisa-de-ajuda-q",
+    "kind": "sentence",
+    "pt": "Boa tarde! Precisa de ajuda?",
+    "pl": "Dzień dobry! Potrzebuje Pan / Pani pomocy?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! pry-SI-ză dy ă-ŻU-dă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-farmacia-e-longe-q",
+    "kind": "sentence",
+    "pt": "A farmácia é longe?",
+    "pl": "Czy apteka jest daleko?",
+    "pronunciation": {
+      "plSlow": "ă făr-MA-si-ă E LÕ-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-ao-lado-do-mercado",
+    "kind": "sentence",
+    "pt": "É ao lado do mercado.",
+    "pl": "To obok targu.",
+    "pronunciation": {
+      "plSlow": "E au LA-du du myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08",
+      "miasto",
+      "kierunki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-nao-posso-trabalho",
+    "kind": "sentence",
+    "pt": "Amanhã não posso. Trabalho.",
+    "pl": "Jutro nie mogę. Pracuję.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ NÃU PO-su. tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w08"
+    ],
+    "reviewStatus": "draft"
+  }
+]

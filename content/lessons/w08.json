@@ -1,0 +1,615 @@
+[
+  {
+    "id": "w08-l43",
+    "week": 8,
+    "day": 1,
+    "phase": 2,
+    "titlePl": "Co jest w pobliżu?",
+    "subtitlePl": "há · perto, longe · ao lado de · farmácia, banco, mercado",
+    "goals": [
+      "Pytać, czy coś jest w okolicy: Há… aqui perto?",
+      "Mówić „blisko / daleko / obok”",
+      "Nazywać kilka miejsc w mieście"
+    ],
+    "canDo": [
+      "Zapytam: Há uma farmácia aqui perto?",
+      "Powiem: É perto. É longe. A farmácia é ao lado do banco.",
+      "Powiem: O mercado é perto da minha casa."
+    ],
+    "prerequisites": [
+      "w07-l42"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "perto „PER-tu” — otwarte e, jak polskie „e”. Porównaj z zamkniętym ê w „você”.",
+      "itemIds": [
+        "perto"
+      ]
+    },
+    "newItemIds": [
+      "farmacia",
+      "banco",
+      "mercado",
+      "perto",
+      "longe",
+      "ao-lado-de",
+      "ha"
+    ],
+    "grammar": {
+      "titlePl": "Há… (jest / są) oraz perto, longe, ao lado de",
+      "explanationPl": "**Há = jest / są (istnieje, znajduje się gdzieś).** Ta forma się nie zmienia:\n**Há** uma farmácia aqui perto? — Czy jest tu w pobliżu (jakaś) apteka?\n**Há** dois bancos aqui. — Są tu dwa banki.\nOdpowiedź: **Há, sim.** / **Não, não há.**\n\n**Há czy é?**\n• **Há** uma farmácia…? — pytamy, czy w ogóle jakaś apteka istnieje w okolicy.\n• **Onde é** a farmácia? — wiemy, że jest; pytamy, gdzie (o miejsca stałe, jak w tygodniu 6: Onde é a casa de banho?).\n\n**Blisko / daleko / obok:** É **perto**. · É **longe**. · **ao lado de** + do/da:\nao lado **do** banco (o banco) · ao lado **da** farmácia (a farmácia) · perto **da** minha casa.\n\n**Uwaga:** w Portugalii o okolicę pytamy standardowo „Há…?”, a nie „Tem…?” („Tem…?” — do sprzedawcy: czy Pan ma…).",
+      "table": [
+        [
+          "Há uma farmácia aqui perto?",
+          "Czy jest tu w pobliżu apteka?"
+        ],
+        [
+          "É perto. / É longe.",
+          "To blisko. / To daleko."
+        ],
+        [
+          "ao lado do banco",
+          "obok banku"
+        ],
+        [
+          "ao lado da farmácia",
+          "obok apteki"
+        ]
+      ],
+      "tableItemIds": [
+        "ha-uma-farmacia-aqui-perto-q",
+        "perto",
+        "longe",
+        "ao-lado-de"
+      ],
+      "exampleIds": [
+        "ha-uma-farmacia-aqui-perto-q",
+        "a-farmacia-e-ao-lado-do-banco",
+        "o-banco-e-longe-q",
+        "nao-e-muito-perto",
+        "o-mercado-e-perto-da-minha-casa",
+        "ha-um-supermercado-aqui-perto-q"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d43"
+    ],
+    "exerciseIds": [
+      "w08-l43-e01",
+      "w08-l43-e02",
+      "w08-l43-e03",
+      "w08-l43-e04",
+      "w08-l43-e05",
+      "w08-l43-e06",
+      "w08-l43-e07",
+      "w08-l43-e08",
+      "w08-l43-e09",
+      "w08-l43-e10",
+      "w08-l43-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l43-s01",
+      "w08-l43-s02",
+      "w08-l43-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w08-l44",
+    "week": 8,
+    "day": 2,
+    "phase": 2,
+    "titlePl": "Pytam o drogę",
+    "subtitlePl": "à direita, à esquerda, em frente · vire, siga · a primeira rua",
+    "goals": [
+      "Rozumieć i podawać proste wskazówki: w prawo, w lewo, prosto",
+      "Używać gotowych formuł „vire…”, „siga…”",
+      "Mówić „pierwsza / druga ulica”"
+    ],
+    "canDo": [
+      "Zapytam: Desculpe, onde é o banco?",
+      "Zrozumiem: Siga em frente e vire na primeira rua à direita.",
+      "Powiem: É a segunda rua à esquerda."
+    ],
+    "prerequisites": [
+      "w08-l43"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "reduced-e",
+      "textPl": "esquerda „ysz-KÊR-dă”, frente „FRẼ-ty”, vire „WI-ry” — nieakcentowane e jest bardzo krótkie albo prawie znika.",
+      "itemIds": [
+        "a-esquerda",
+        "vire"
+      ]
+    },
+    "newItemIds": [
+      "a-direita",
+      "a-esquerda",
+      "em-frente",
+      "vire",
+      "siga",
+      "primeiro",
+      "rua"
+    ],
+    "grammar": {
+      "titlePl": "Kierunki; vire / siga jako gotowe formuły",
+      "explanationPl": "**Kierunki:** **à direita** — w prawo / po prawej · **à esquerda** — w lewo / po lewej · **em frente** — prosto.\n\n**Vire… / Siga…** to grzeczne polecenia do osoby, do której mówisz „o senhor / a senhora” (dosł. „niech Pan skręci”, „niech Pan idzie dalej”). Pochodzą od *virar* (skręcać) i *seguir* (iść dalej). Tryb rozkazujący poznasz później — **na razie traktuj je jak gotowe formuły**:\n• **Siga em frente.** — Proszę iść prosto.\n• **Vire à direita / à esquerda.** — Proszę skręcić w prawo / w lewo.\n• **Vire na primeira rua à esquerda.** — Proszę skręcić w pierwszą ulicę w lewo.\n\n**Pierwsza, druga:** a **primeira** rua, a **segunda** rua (rua jest żeńska; „segunda” znasz z *segunda-feira*). Przed męskim: o **primeiro** dia.\n\n**W ulicę → na:** vire **na** primeira rua (em + a = na). **W stronę → à:** vire **à** direita.\n\n**Wymowa:** „à” to otwarte a; „à esquerda” w szybkiej mowie brzmi prawie jak jedno słowo: „asz-KÊR-dă”.",
+      "table": [
+        [
+          "à direita",
+          "w prawo; po prawej"
+        ],
+        [
+          "à esquerda",
+          "w lewo; po lewej"
+        ],
+        [
+          "em frente",
+          "prosto"
+        ],
+        [
+          "Vire…",
+          "Proszę skręcić…"
+        ],
+        [
+          "Siga…",
+          "Proszę iść / jechać dalej…"
+        ],
+        [
+          "a primeira rua",
+          "pierwsza ulica"
+        ]
+      ],
+      "tableItemIds": [
+        "a-direita",
+        "a-esquerda",
+        "em-frente",
+        "vire",
+        "siga",
+        "primeiro"
+      ],
+      "exampleIds": [
+        "siga-em-frente",
+        "vire-a-direita",
+        "vire-a-esquerda",
+        "vire-na-primeira-rua-a-esquerda",
+        "e-a-segunda-rua-a-direita",
+        "desculpe-onde-e-o-banco-q"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d44"
+    ],
+    "exerciseIds": [
+      "w08-l44-e01",
+      "w08-l44-e02",
+      "w08-l44-e03",
+      "w08-l44-e04",
+      "w08-l44-e05",
+      "w08-l44-e06",
+      "w08-l44-e07",
+      "w08-l44-e08",
+      "w08-l44-e09",
+      "w08-l44-e10",
+      "w08-l44-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l44-s01",
+      "w08-l44-s02",
+      "w08-l44-s03",
+      "w08-l44-s04"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w08-l45",
+    "week": 8,
+    "day": 3,
+    "phase": 2,
+    "titlePl": "Autobusem",
+    "subtitlePl": "o autocarro, a paragem, o bilhete · A que horas parte…? · o próximo",
+    "goals": [
+      "Pytać o godzinę odjazdu autobusu",
+      "Kupować bilet: Um bilhete para…",
+      "Pytać o przystanek i kierunek"
+    ],
+    "canDo": [
+      "Zapytam: A que horas parte o autocarro para o centro?",
+      "Zrozumiem: O próximo parte às dez e meia.",
+      "Powiem: Um bilhete para o centro, se faz favor."
+    ],
+    "prerequisites": [
+      "w08-l44"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "r-strong",
+      "textPl": "autocarro „au-tu-KA-rru” — rr to mocne r, inne niż pojedyncze r w „para”.",
+      "itemIds": [
+        "autocarro"
+      ]
+    },
+    "newItemIds": [
+      "autocarro",
+      "paragem",
+      "bilhete",
+      "centro",
+      "a-que-horas-parte-q",
+      "proximo",
+      "cs-este-autocarro-vai-para-o-funchal"
+    ],
+    "grammar": {
+      "titlePl": "Transport: A que horas parte…? para o centro; o próximo",
+      "explanationPl": "**Słówka z rodzajem:** **o** autocarro (autobus — w Portugalii tylko tak), **a** paragem (przystanek — żeński!), **o** bilhete (bilet), **o** centro (centrum).\n\n**O której odjeżdża?** **A que horas parte** o autocarro? (*parte* = odjeżdża). „A que horas…?” znasz z godzin w tygodniu 4. Odpowiedź: Parte **às** dez e meia.\n\n**Dokąd → para:** o autocarro **para o** centro / **para o** Funchal · um bilhete **para o** centro. Czy ten autobus jedzie do…? → **Este autocarro vai para…?**\n\n**Następny:** **o próximo** (autocarro) · **a próxima** (paragem). O próximo parte às onze.\n\n**Uwaga praktyczna:** godziny i ceny w ćwiczeniach są przykładowe. Prawdziwy rozkład i ceny biletów sprawdzaj na przystanku albo u przewoźnika.",
+      "table": [
+        [
+          "o autocarro",
+          "autobus"
+        ],
+        [
+          "a paragem",
+          "przystanek"
+        ],
+        [
+          "o bilhete",
+          "bilet"
+        ],
+        [
+          "A que horas parte…?",
+          "O której odjeżdża…?"
+        ],
+        [
+          "o próximo / a próxima",
+          "następny / następna"
+        ],
+        [
+          "para o centro",
+          "do centrum"
+        ]
+      ],
+      "tableItemIds": [
+        "autocarro",
+        "paragem",
+        "bilhete",
+        "a-que-horas-parte-q",
+        "proximo",
+        "centro"
+      ],
+      "exampleIds": [
+        "a-que-horas-parte-o-autocarro-para-o-centro-q",
+        "o-proximo-parte-as-dez-e-meia",
+        "um-bilhete-para-o-centro-sfv",
+        "cs-onde-e-a-paragem",
+        "a-paragem-e-ao-lado-do-cafe",
+        "este-autocarro-vai-para-o-centro-q"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d45"
+    ],
+    "exerciseIds": [
+      "w08-l45-e01",
+      "w08-l45-e02",
+      "w08-l45-e03",
+      "w08-l45-e04",
+      "w08-l45-e05",
+      "w08-l45-e06",
+      "w08-l45-e07",
+      "w08-l45-e08",
+      "w08-l45-e09",
+      "w08-l45-e10",
+      "w08-l45-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l45-s01",
+      "w08-l45-s02",
+      "w08-l45-s03",
+      "w08-l45-s04"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w08-l46",
+    "week": 8,
+    "day": 4,
+    "phase": 2,
+    "titlePl": "Jaka jest pogoda?",
+    "subtitlePl": "está sol, está calor, está frio, está vento · está a chover",
+    "goals": [
+      "Pytać o pogodę: Como está o tempo?",
+      "Opisywać pogodę z „está”",
+      "Mówić, że pada: está a chover"
+    ],
+    "canDo": [
+      "Zapytam: Como está o tempo?",
+      "Powiem: Hoje está sol e está calor. Está frio. Está muito vento.",
+      "Powiem: Está a chover!"
+    ],
+    "prerequisites": [
+      "w08-l45"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "dark-l",
+      "textPl": "sol „SOɫ” — otwarte o i ciemne ɫ na końcu: czubek języka przy zębach, tył języka uniesiony. To nie jest polskie „ł”.",
+      "itemIds": [
+        "sol"
+      ]
+    },
+    "newItemIds": [
+      "tempo",
+      "como-esta-o-tempo-q",
+      "esta-sol",
+      "esta-calor",
+      "esta-frio",
+      "esta-vento",
+      "esta-a-chover"
+    ],
+    "grammar": {
+      "titlePl": "Pogoda: está + sol / calor / frio / vento; está a chover",
+      "explanationPl": "**Pogoda to stan „teraz” → estar:** **Está** sol. **Está** calor. **Está** frio. **Está** vento.\nPo portugalsku to rzeczowniki: dosł. „jest słońce / upał / zimno / wiatr”. Nie mówimy „é frio” o pogodzie.\n\n**Pada deszcz (teraz):** **Está a chover.** — to znane *estar a + bezokolicznik* (jak *estou a trabalhar*).\n\n**Pytanie:** **Como está o tempo?** — Jaka jest pogoda? (*o tempo* = czas albo pogoda).\n\n**Inne formy, które usłyszysz:** **faz** calor, **faz** frio, **faz** sol (od *fazer*), a o wietrze także **há** vento. Znaczą to samo — na początek wystarczy „está”.\n\n**Bardzo:** Hoje está **muito** calor / **muito** frio / **muito** vento.\n\n**Wymowa:** w szybkiej mowie „está” brzmi często „SZTA”: está sol → „SZTA SOɫ”.",
+      "table": [
+        [
+          "Está sol.",
+          "Jest słonecznie."
+        ],
+        [
+          "Está calor.",
+          "Jest gorąco."
+        ],
+        [
+          "Está frio.",
+          "Jest zimno."
+        ],
+        [
+          "Está vento.",
+          "Jest wietrznie."
+        ],
+        [
+          "Está a chover.",
+          "Pada deszcz."
+        ],
+        [
+          "faz calor / faz frio",
+          "(też:) jest gorąco / zimno"
+        ]
+      ],
+      "tableItemIds": [
+        "esta-sol",
+        "esta-calor",
+        "esta-frio",
+        "esta-vento",
+        "esta-a-chover"
+      ],
+      "exampleIds": [
+        "hoje-esta-sol-e-esta-calor",
+        "hoje-esta-muito-frio",
+        "esta-a-chover-no-funchal",
+        "hoje-esta-muito-vento",
+        "hoje-esta-muito-calor"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d46"
+    ],
+    "exerciseIds": [
+      "w08-l46-e01",
+      "w08-l46-e02",
+      "w08-l46-e03",
+      "w08-l46-e04",
+      "w08-l46-e05",
+      "w08-l46-e06",
+      "w08-l46-e07",
+      "w08-l46-e08",
+      "w08-l46-e09",
+      "w08-l46-e10",
+      "w08-l46-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l46-s01",
+      "w08-l46-s02",
+      "w08-l46-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w08-l47",
+    "week": 8,
+    "day": 5,
+    "phase": 2,
+    "titlePl": "Pory roku",
+    "subtitlePl": "o verão, o inverno, a primavera, o outono · chove · todo o ano",
+    "goals": [
+      "Nazywać pory roku i mówić „latem, zimą…”",
+      "Odróżniać „chove” (zwykle) od „está a chover” (teraz)",
+      "Mówić, którą porę roku lubię"
+    ],
+    "canDo": [
+      "Powiem: No verão está calor. Na Polónia, no inverno, está muito frio.",
+      "Zapytam: No inverno chove muito?",
+      "Powiem: Gosto muito do verão. Gosto da primavera."
+    ],
+    "prerequisites": [
+      "w08-l46"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "v-w",
+      "textPl": "verão, inverno, primavera — portugalskie v to polskie „w”: „wy-RÃU”, „ĩ-WER-nu”, „pri-mă-WE-ră”.",
+      "itemIds": [
+        "verao",
+        "inverno"
+      ]
+    },
+    "newItemIds": [
+      "verao",
+      "inverno",
+      "primavera",
+      "outono",
+      "chove",
+      "todo-o-ano"
+    ],
+    "grammar": {
+      "titlePl": "Pory roku: no verão, na primavera; chove / está a chover",
+      "explanationPl": "**Pory roku z rodzajnikiem:** **o** verão (lato), **o** inverno (zima), **a** primavera (wiosna), **o** outono (jesień).\n\n**Kiedy? → em + rodzajnik:** **no** verão (latem), **no** inverno, **no** outono, **na** primavera. Po polsku: „latem, zimą” — po portugalsku dosł. „w lecie, w zimie”.\n\n**Lubię:** gosto **do** verão (de + o), gosto **da** primavera (de + a).\n\n**Zwykle czy teraz?**\n• **Chove** muito no inverno? — Czy zimą dużo pada? (ogólnie, zwykle)\n• **Está a chover.** — Pada (teraz, w tej chwili).\nTak samo jak *como* (jem — zwykle) i *estou a comer* (jem — teraz).\n\n**Porównanie:** Está **mais** frio. — Jest zimniej (dosł. „bardziej zimno”). **todo o ano** — przez cały rok.",
+      "table": [
+        [
+          "o verão → no verão",
+          "lato → latem"
+        ],
+        [
+          "o inverno → no inverno",
+          "zima → zimą"
+        ],
+        [
+          "a primavera → na primavera",
+          "wiosna → wiosną"
+        ],
+        [
+          "o outono → no outono",
+          "jesień → jesienią"
+        ],
+        [
+          "chove / está a chover",
+          "pada (zwykle) / pada (teraz)"
+        ]
+      ],
+      "tableItemIds": [
+        "verao",
+        "inverno",
+        "primavera",
+        "outono",
+        "chove"
+      ],
+      "exampleIds": [
+        "no-verao-esta-calor",
+        "na-polonia-no-inverno-esta-muito-frio",
+        "gosto-muito-do-verao",
+        "gosto-da-primavera",
+        "no-inverno-chove-muito-q"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d47"
+    ],
+    "exerciseIds": [
+      "w08-l47-e01",
+      "w08-l47-e02",
+      "w08-l47-e03",
+      "w08-l47-e04",
+      "w08-l47-e05",
+      "w08-l47-e06",
+      "w08-l47-e07",
+      "w08-l47-e08",
+      "w08-l47-e09",
+      "w08-l47-e10",
+      "w08-l47-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l47-s01",
+      "w08-l47-s02",
+      "w08-l47-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w08-l48",
+    "week": 8,
+    "day": 6,
+    "phase": 2,
+    "titlePl": "Miasto i pogoda + sprawdzian etapowy",
+    "subtitlePl": "Onde fica…? · a pé, de autocarro · sprawdzian drugiego miesiąca",
+    "goals": [
+      "Pytać o miejsca: Onde fica…?",
+      "Mówić, jak się poruszam: a pé, de autocarro, de carro",
+      "Sprawdzić wiedzę z miesiąca 2 (tygodnie 5–8)"
+    ],
+    "canDo": [
+      "Zapytam: Onde fica a paragem?",
+      "Powiem: Vou a pé. Vou de autocarro.",
+      "Opiszę swój dzień i dom, zamówię w kawiarni, zapytam o drogę i cenę"
+    ],
+    "prerequisites": [
+      "w08-l47"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "intonation",
+      "textPl": "„É longe?” — pytanie tak/nie: szyk jak w zdaniu oznajmującym, głos idzie w górę na końcu.",
+      "itemIds": [
+        "e-longe-q"
+      ]
+    },
+    "newItemIds": [
+      "onde-fica-q",
+      "a-pe",
+      "de-autocarro"
+    ],
+    "grammar": {
+      "titlePl": "Miesiąc 2 — co już umiesz; Onde fica…? a pé / de autocarro",
+      "explanationPl": "**Onde fica…?** — Gdzie jest / gdzie się znajduje…? O miejsca stałe (przystanek, sklep, ulica). Znaczy to samo co **Onde é…?** Odpowiedź: **Fica** ao lado do mercado. / **É** ao lado do mercado.\n\n**Czym? → de + pojazd (bez rodzajnika):** Vou **de** autocarro. Vou **de** carro. **Wyjątek:** pieszo = **a pé**.\n\n**Miesiąc 2 w pigułce:**\n• tydz. 5: czasowniki -ar/-er/-ir (trabalho, como, falamos, comem…), rytm dnia (Levanto-me às…), **estar a** + bezokolicznik\n• tydz. 6: **ser** + przymiotniki (alto / alta), **o meu / a minha**, **o seu / a sua**, dom, **gostar de**\n• tydz. 7: **queria… / para mim…**, mais um / mais uma, ceny (**custa / custam**), um quilo **de**…, Tem…? Aqui está.\n• tydz. 8: **Há…?**, perto / longe / ao lado de, **vire / siga**, à direita / à esquerda / em frente, autobus, pogoda z **está**, pory roku\n\nNa koniec — rozmowa z Martą, a potem sprawdzian etapowy (ok. 10 minut + monolog). Wynik wskaże lekcje do powtórki; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "Onde fica…? = Onde é…?",
+          "Gdzie jest…? (miejsce)"
+        ],
+        [
+          "Vou a pé.",
+          "Idę pieszo."
+        ],
+        [
+          "Vou de autocarro.",
+          "Jadę autobusem."
+        ],
+        [
+          "Vou de carro.",
+          "Jadę samochodem."
+        ]
+      ],
+      "tableItemIds": [
+        "onde-fica-q",
+        "vou-a-pe",
+        "vou-de-autocarro",
+        "vou-de-carro"
+      ],
+      "exampleIds": [
+        "onde-fica-a-paragem-q",
+        "onde-fica-a-farmacia-q",
+        "vou-a-pe",
+        "vou-de-autocarro",
+        "vou-de-carro"
+      ]
+    },
+    "dialogueIds": [
+      "w08-d48"
+    ],
+    "exerciseIds": [
+      "w08-l48-e01",
+      "w08-l48-e02",
+      "w08-l48-e03",
+      "w08-l48-e04",
+      "w08-l48-e05",
+      "w08-l48-e06",
+      "w08-l48-e07",
+      "w08-l48-e08",
+      "w08-l48-e09",
+      "w08-l48-e10",
+      "w08-l48-e11"
+    ],
+    "speakingTaskIds": [
+      "w08-l48-s01",
+      "w08-l48-s02",
+      "w08-l48-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review",
+    "testId": "w08-test"
+  }
+]

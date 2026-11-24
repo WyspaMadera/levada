@@ -1,0 +1,936 @@
+[
+  {
+    "id": "rd-01-01",
+    "kind": "sentence",
+    "pt": "Bom dia! Chamo-me Tomasz. E a senhora?",
+    "pl": "Dzień dobry! Nazywam się Tomasz. A Pani?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! SZĂ-mu-my TO-masz. i ă sy-ŃO-ră?",
+      "plNatural": "BÕ DI-ă! SZĂ-mu-my TO-masz. jă sy-ŃO-ră?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-02",
+    "kind": "sentence",
+    "pt": "Chamo-me Ana. Muito prazer!",
+    "pl": "Nazywam się Ana. Bardzo mi miło!",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my Ă-nă. MŨJ-tu pră-ZÊR!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-03",
+    "kind": "sentence",
+    "pt": "Igualmente. Tudo bem?",
+    "pl": "Wzajemnie. Co słychać?",
+    "pronunciation": {
+      "plSlow": "i-guaɫ-MẼ-ty. TU-du BÃJ?",
+      "plNatural": "i-guaɫ-MẼT(y). TU-du BÃJ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-04",
+    "kind": "sentence",
+    "pt": "Tudo bem, obrigada. Hoje está muito calor!",
+    "pl": "Wszystko dobrze, dziękuję. Dziś jest bardzo gorąco!",
+    "pronunciation": {
+      "plSlow": "TU-du BÃJ, o-bri-GA-dă. Ô-ży ysz-TA MŨJ-tu kă-LÔR!",
+      "plNatural": "TU-du BÃJ, o-bri-GA-dă. Ô-ży SZTA MŨJ-tu kă-LÔR!",
+      "notePl": "Mówi Ana (kobieta) — dlatego „obrigada”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-05",
+    "kind": "sentence",
+    "pt": "Desculpe, não percebo. Mais devagar, por favor.",
+    "pl": "Przepraszam, nie rozumiem. Wolniej, proszę.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, NÃU pyr-SÊ-bu. MAJŻ dy-wă-GAR, pur fă-WÔR.",
+      "plNatural": "dysz-KUɫP(y), NÃU pyr-SÊ-bu. MAJŻ dy-wă-GAR, pur fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-06",
+    "kind": "sentence",
+    "pt": "Hoje… está… muito… calor!",
+    "pl": "Dziś… jest… bardzo… gorąco!",
+    "pronunciation": {
+      "plSlow": "Ô-ży… ysz-TA… MŨJ-tu… kă-LÔR!",
+      "notePl": "Ana powtarza powoli — każde słowo osobno.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-01-07",
+    "kind": "sentence",
+    "pt": "Ah, percebo! Obrigado. Até logo!",
+    "pl": "Aha, rozumiem! Dziękuję. Do zobaczenia!",
+    "pronunciation": {
+      "plSlow": "A, pyr-SÊ-bu! o-bri-GA-du. ă-TE LO-gu!",
+      "notePl": "Mówi Tomasz (mężczyzna) — dlatego „obrigado”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-01"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-02-01",
+    "kind": "sentence",
+    "pt": "Olá! Chamo-me Tomasz. Sou polaco.",
+    "pl": "Cześć! Nazywam się Tomasz. Jestem Polakiem.",
+    "pronunciation": {
+      "plSlow": "o-LA! SZĂ-mu-my TO-masz. SÔ pu-LA-ku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-02"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-02-02",
+    "kind": "sentence",
+    "pt": "Sou da Polónia e estou no Funchal.",
+    "pl": "Jestem z Polski, a (teraz) jestem w Funchal.",
+    "pronunciation": {
+      "plSlow": "SÔ dă pu-LO-ni-ă i ysz-TÔ nu fũ-SZAɫ.",
+      "plNatural": "SÔ dă pu-LO-niă i SZTÔ nu fũ-SZAɫ.",
+      "notePl": "Pochodzenie: ser (sou). Miejsce teraz: estar (estou).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-02-03",
+    "kind": "sentence",
+    "pt": "A Ana é portuguesa. É da Madeira.",
+    "pl": "Ana jest Portugalką. Jest z Madery.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă E pur-tu-GÊ-ză. E dă mă-DĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-02-04",
+    "kind": "sentence",
+    "pt": "Hoje a Ana está cansada.",
+    "pl": "Dziś Ana jest zmęczona.",
+    "pronunciation": {
+      "plSlow": "Ô-ży ă Ă-nă ysz-TA kã-SA-dă.",
+      "plNatural": "Ô-ży ă Ă-nă SZTA kã-SA-dă.",
+      "notePl": "Samopoczucie teraz: estar (está).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-02-05",
+    "kind": "sentence",
+    "pt": "E eu? Eu estou bem. Estou em casa.",
+    "pl": "A ja? Ja czuję się dobrze. Jestem w domu.",
+    "pronunciation": {
+      "plSlow": "i ÊU? ÊU ysz-TÔ BÃJ. ysz-TÔ ãj KA-ză.",
+      "plNatural": "i ÊU? ÊU SZTÔ BÃJ. SZTÔ‿ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-02"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-01",
+    "kind": "sentence",
+    "pt": "Hoje o Tomasz e a Ana estão no café do Rui, no Funchal.",
+    "pl": "Dziś Tomasz i Ana są w kawiarni Ruiego, w Funchal.",
+    "pronunciation": {
+      "plSlow": "Ô-ży u TO-maz i ă Ă-nă ysz-TÃU nu kă-FE du RRUJ, nu fũ-SZAɫ.",
+      "plNatural": "Ô-ży u TO-maz i ă Ă-nă SZTÃU nu kă-FE du RRUJ, nu fũ-SZAɫ.",
+      "notePl": "Końcowe „sz” w „Tomasz” przed samogłoską brzmi jak „z” (łączenie wyrazów).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-02",
+    "kind": "sentence",
+    "pt": "Bom dia! Café ou chá?",
+    "pl": "Dzień dobry! Kawa czy herbata?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! kă-FE ô SZA?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-03",
+    "kind": "sentence",
+    "pt": "Um café e um chá, se faz favor.",
+    "pl": "Poproszę kawę i herbatę.",
+    "pronunciation": {
+      "plSlow": "ũ kă-FE i ũ SZA, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-04",
+    "kind": "sentence",
+    "pt": "A Ana tem fome.",
+    "pl": "Ana jest głodna.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă TÃJ FO-my.",
+      "notePl": "Dosłownie: Ana ma głód.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-05",
+    "kind": "sentence",
+    "pt": "E um bolo, se faz favor!",
+    "pl": "I ciastko, poproszę!",
+    "pronunciation": {
+      "plSlow": "i ũ BÔ-lu, sy FASZ fă-WÔR!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-03-06",
+    "kind": "sentence",
+    "pt": "O café aqui é muito bom!",
+    "pl": "Kawa tutaj jest bardzo dobra!",
+    "pronunciation": {
+      "plSlow": "u kă-FE ă-KI E MŨJ-tu BÕ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-03"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-01",
+    "kind": "sentence",
+    "pt": "O Tomasz tem uma casa nova no Funchal.",
+    "pl": "Tomasz ma nowy dom w Funchal.",
+    "pronunciation": {
+      "plSlow": "u TO-masz TÃJ U-mă KA-ză NO-wă nu fũ-SZAɫ.",
+      "notePl": "„Casa” to dom, ale też mieszkanie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-02",
+    "kind": "sentence",
+    "pt": "A casa é pequena, mas é bonita.",
+    "pl": "Dom jest mały, ale ładny.",
+    "pronunciation": {
+      "plSlow": "ă KA-ză E py-KÊ-nă, măz E bu-NI-tă.",
+      "plNatural": "ă KA-ză E py-KÊ-nă, mă‿ZE bu-NI-tă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-03",
+    "kind": "sentence",
+    "pt": "Tem uma varanda e uma mesa grande.",
+    "pl": "Ma balkon i duży stół.",
+    "pronunciation": {
+      "plSlow": "TÃJ U-mă wă-RÃ-dă i U-mă MÊ-ză GRÃ-dy.",
+      "notePl": "Podmiot (a casa) pominięty: (Dom) ma…",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-04",
+    "kind": "sentence",
+    "pt": "Bom dia, Tomasz! Posso entrar?",
+    "pl": "Dzień dobry, Tomaszu! Mogę wejść?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă, TO-masz! PO-su ẽ-TRAR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-05",
+    "kind": "sentence",
+    "pt": "Sim, pode! Quer um café ou um chá?",
+    "pl": "Tak, proszę! Chce Pani kawę czy herbatę?",
+    "pronunciation": {
+      "plSlow": "SĨ, PO-dy! KER ũ kă-FE ô ũ SZA?",
+      "plNatural": "SĨ, PO-dy! KE‿RŨ kă-FE ô ũ SZA?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-04-06",
+    "kind": "sentence",
+    "pt": "Queria uma água, se faz favor. A casa é muito bonita!",
+    "pl": "Poproszę wodę. Dom jest bardzo ładny!",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă U-mă A-guă, sy FASZ fă-WÔR. ă KA-ză E MŨJ-tu bu-NI-tă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-01",
+    "kind": "sentence",
+    "pt": "O Tomasz precisa de um telemóvel novo.",
+    "pl": "Tomasz potrzebuje nowego telefonu.",
+    "pronunciation": {
+      "plSlow": "u TO-masz pry-SI-ză dy ũ te-le-MO-weɫ NÔ-wu.",
+      "plNatural": "u TO-masz pry-SI-ză dũ te-le-MO-weɫ NÔ-wu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-02",
+    "kind": "sentence",
+    "pt": "Boa tarde! Quanto custa o telemóvel pequeno?",
+    "pl": "Dzień dobry! Ile kosztuje mały telefon?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! KUÃ-tu KUSZ-tă u te-le-MO-weɫ py-KÊ-nu?",
+      "plNatural": "BÔ-ă TARD(y)! KUÃ-tu KUSZ-tă u te-le-MO-weɫ py-KÊ-nu?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-03",
+    "kind": "sentence",
+    "pt": "Custa noventa euros.",
+    "pl": "Kosztuje dziewięćdziesiąt euro.",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă nu-WẼ-tă ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-04",
+    "kind": "sentence",
+    "pt": "E o grande?",
+    "pl": "A duży?",
+    "pronunciation": {
+      "plSlow": "i u GRÃ-dy?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-05",
+    "kind": "sentence",
+    "pt": "O grande custa cento e vinte euros.",
+    "pl": "Duży kosztuje sto dwadzieścia euro.",
+    "pronunciation": {
+      "plSlow": "u GRÃ-dy KUSZ-tă SẼ-tu i WĨ-ty ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-06",
+    "kind": "sentence",
+    "pt": "Cento e vinte? É muito! Queria o pequeno, se faz favor.",
+    "pl": "Sto dwadzieścia? To dużo! Poproszę mały.",
+    "pronunciation": {
+      "plSlow": "SẼ-tu i WĨ-ty? E MŨJ-tu! ky-RI-ă u py-KÊ-nu, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-05-07",
+    "kind": "sentence",
+    "pt": "Muito bem. São noventa euros.",
+    "pl": "Dobrze. Razem dziewięćdziesiąt euro.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ. SÃU nu-WẼ-tă ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "czytanka",
+      "rd-05"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-01",
+    "kind": "sentence",
+    "pt": "Hoje o Tomasz não vai ao trabalho.",
+    "pl": "Dziś Tomasz nie idzie do pracy.",
+    "pronunciation": {
+      "plSlow": "Ô-ży u TO-maż NÃU WAJ au tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-02",
+    "kind": "sentence",
+    "pt": "Vai com o filho ao café do Rui, no Funchal.",
+    "pl": "Idzie z synem do kawiarni Ruiego, w Funchal.",
+    "pronunciation": {
+      "plSlow": "WAJ kõ u FI-lju au kă-FE du RRUJ, nu fũ-SZAɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-03",
+    "kind": "sentence",
+    "pt": "O Tomasz quer um café e o filho quer um sumo.",
+    "pl": "Tomasz chce kawę, a syn chce sok.",
+    "pronunciation": {
+      "plSlow": "u TO-masz KER ũ kă-FE i u FI-lju KER ũ SU-mu.",
+      "plNatural": "u TO-masz KE‿RŨ kă-FE i u FI-lju KE‿RŨ SU-mu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-04",
+    "kind": "sentence",
+    "pt": "Mas onde está a carteira?",
+    "pl": "Ale gdzie jest portfel?",
+    "pronunciation": {
+      "plSlow": "măz Õ-dy ysz-TA ă kăr-TĂJ-ră?",
+      "plNatural": "mă‿ZÕ-dy‿SZTA ă kăr-TĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-05",
+    "kind": "sentence",
+    "pt": "Não está no carro… Ah! Está com o Rui!",
+    "pl": "Nie ma go w samochodzie… Aha! Ma go Rui!",
+    "pronunciation": {
+      "plSlow": "NÃU ysz-TA nu KA-rru… A! ysz-TA kõ u RRUJ!",
+      "plNatural": "NÃU SZTA nu KA-rru… A! SZTA kõ u RRUJ!",
+      "notePl": "Dosłownie: (portfel) jest z Ruim.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-06-06",
+    "kind": "sentence",
+    "pt": "Muito obrigado, Rui! Vamos à praia!",
+    "pl": "Bardzo dziękuję, Rui! Chodźmy na plażę!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu o-bri-GA-du, RRUJ! WĂ-muz a PRAJ-ă!",
+      "plNatural": "MŨJ-tu o-bri-GA-du, RRUJ! WĂ-mu‿ZA PRAJ-ă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-06"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-01",
+    "kind": "sentence",
+    "pt": "O filho do Tomasz tem cinco anos.",
+    "pl": "Syn Tomasza ma pięć lat.",
+    "pronunciation": {
+      "plSlow": "u FI-lju du TO-masz TÃJ SĨ-ku Ă-nusz.",
+      "plNatural": "u FI-lju du TO-masz TÃJ SĨ-ku‿Ă-nusz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-02",
+    "kind": "sentence",
+    "pt": "De segunda-feira a sexta-feira, vai à escola.",
+    "pl": "Od poniedziałku do piątku chodzi do przedszkola.",
+    "pronunciation": {
+      "plSlow": "dy sy-GŨ-dă FĂJ-ră ă SĂJSZ-tă FĂJ-ră, WAJ a ysz-KO-lă.",
+      "notePl": "„de … a …” = od … do …. Przyimek „a” nieakcentowany (ă), „à” = a + a (otwarte a).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-03",
+    "kind": "sentence",
+    "pt": "A educadora chama-se Marta.",
+    "pl": "Wychowawczyni ma na imię Marta.",
+    "pronunciation": {
+      "plSlow": "ă i-du-kă-DÔ-ră SZĂ-mă-sy MAR-tă.",
+      "notePl": "Początkowe nieakcentowane „e” w „educadora” zwykle brzmi jak „i” — zapis do sprawdzenia ze słuchu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-04",
+    "kind": "sentence",
+    "pt": "Hoje é quinta-feira.",
+    "pl": "Dziś jest czwartek.",
+    "pronunciation": {
+      "plSlow": "Ô-ży E KĨ-tă FĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-05",
+    "kind": "sentence",
+    "pt": "Às nove, o Tomasz vai com o filho.",
+    "pl": "O dziewiątej Tomasz idzie z synem.",
+    "pronunciation": {
+      "plSlow": "aż NO-wy, u TO-maż WAJ kõ u FI-lju.",
+      "notePl": "„Às nove”: s przed dźwięcznym n brzmi jak ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-06",
+    "kind": "sentence",
+    "pt": "Bom dia, Marta! Hoje não posso às três e meia.",
+    "pl": "Dzień dobry, Marto! Dziś nie mogę o wpół do czwartej.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă, MAR-tă! Ô-ży NÃU PO-su asz TRÊZ i MĂJ-ă.",
+      "plNatural": "BÕ DI-ă, MAR-tă! Ô-ży NÃU PO-su asz TRÊ‿ZI MĂJ-ă.",
+      "notePl": "Chodzi o godzinę odbioru syna.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-07",
+    "kind": "sentence",
+    "pt": "Posso às cinco?",
+    "pl": "Mogę o piątej?",
+    "pronunciation": {
+      "plSlow": "PO-su asz SĨ-ku?",
+      "notePl": "Krótka forma — z kontekstu wiadomo, że chodzi o odbiór dziecka.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-07-08",
+    "kind": "sentence",
+    "pt": "Às cinco? Sim, pode. Até logo!",
+    "pl": "O piątej? Tak, może Pan. Do zobaczenia!",
+    "pronunciation": {
+      "plSlow": "asz SĨ-ku? SĨ, PO-dy. ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-07"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-01",
+    "kind": "sentence",
+    "pt": "Chamo-me Tomasz e moro no Funchal com a minha mulher e o meu filho.",
+    "pl": "Nazywam się Tomasz i mieszkam w Funchal z żoną i synem.",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my TO-maz i MO-ru nu fũ-SZAɫ kõ ă MI-ńă mu-LJER i u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-02",
+    "kind": "sentence",
+    "pt": "O meu filho tem cinco anos e fala português muito bem!",
+    "pl": "Mój syn ma pięć lat i mówi po portugalsku bardzo dobrze!",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju TÃJ SĨ-ku Ă-nuz i FA-lă pur-tu-GÊŻ MŨJ-tu BÃJ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-03",
+    "kind": "sentence",
+    "pt": "A minha mãe e o meu pai moram na Polónia.",
+    "pl": "Moja mama i mój tata mieszkają w Polsce.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă MÃJ i u MÊU PAJ MO-rãu nă pu-LO-ni-ă.",
+      "plNatural": "ă MI-ńă MÃJ i u MÊU PAJ MO-rãu nă pu-LO-niă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-04",
+    "kind": "sentence",
+    "pt": "No sábado, vamos a uma levada.",
+    "pl": "W sobotę idziemy na levadę.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du, WĂ-muz ă U-mă ly-WA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-05",
+    "kind": "sentence",
+    "pt": "Vamos de carro, às nove.",
+    "pl": "Jedziemy samochodem, o dziewiątej.",
+    "pronunciation": {
+      "plSlow": "WĂ-muż dy KA-rru, aż NO-wy.",
+      "notePl": "„de carro” = samochodem.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-06",
+    "kind": "sentence",
+    "pt": "A levada tem água e é muito bonita.",
+    "pl": "Levadą płynie woda i jest tam bardzo ładnie.",
+    "pronunciation": {
+      "plSlow": "ă ly-WA-dă TÃJ A-guă i E MŨJ-tu bu-NI-tă.",
+      "notePl": "Dosłownie: Levada ma wodę i jest bardzo ładna.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-07",
+    "kind": "sentence",
+    "pt": "O meu filho tem muitas perguntas!",
+    "pl": "Mój syn ma mnóstwo pytań!",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju TÃJ MŨJ-tăsz pyr-GŨ-tăsz!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-08",
+    "kind": "sentence",
+    "pt": "Ao meio-dia, temos fome.",
+    "pl": "W południe jesteśmy głodni.",
+    "pronunciation": {
+      "plSlow": "au MĂJ-u DI-ă, TÊ-musz FO-my.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "rd-08-09",
+    "kind": "sentence",
+    "pt": "E no domingo? No domingo estamos em casa.",
+    "pl": "A w niedzielę? W niedzielę jesteśmy w domu.",
+    "pronunciation": {
+      "plSlow": "i nu du-MĨ-gu? nu du-MĨ-gu ysz-TĂ-muz ãj KA-ză.",
+      "plNatural": "i nu du-MĨ-gu? nu du-MĨ-gu SZTĂ-mu‿zãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "czytanka",
+      "rd-08"
+    ],
+    "reviewStatus": "draft"
+  }
+]

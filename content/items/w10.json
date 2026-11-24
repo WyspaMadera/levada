@@ -1,0 +1,1907 @@
+[
+  {
+    "id": "ir",
+    "kind": "word",
+    "pt": "ir",
+    "pl": "iść, jechać (bezokolicznik)",
+    "pronunciation": {
+      "plSlow": "IR",
+      "ipa": "ˈiɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "Formy znasz z tygodnia 4: vou, vais, vai, vamos, vão. Vou + bezokolicznik = zamierzam / będę (coś robić): vou trabalhar.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "jantar",
+    "kind": "word",
+    "pt": "jantar",
+    "pl": "jeść kolację; kolacja",
+    "pronunciation": {
+      "plSlow": "żã-TAR",
+      "ipa": "ʒɐ̃ˈtaɾ",
+      "notePl": "j = ż; an przed t = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "jedzenie"
+    ],
+    "usagePl": "jantar (czasownik) = jeść kolację; o jantar = kolacja. Odmiana regularna, jak „trabalhar”: janto, jantas, janta…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "almocar",
+    "kind": "word",
+    "pt": "almoçar",
+    "pl": "jeść obiad (w południe)",
+    "pronunciation": {
+      "plSlow": "aɫ-mu-SAR",
+      "ipa": "aɫmuˈsaɾ",
+      "notePl": "Ciemne ɫ (nie polskie ł); o nieakcentowane = u; ç = s.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "jedzenie"
+    ],
+    "usagePl": "o almoço = obiad. Znasz je z „pequeno-almoço” (dosł. „mały obiad”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fora",
+    "kind": "word",
+    "pt": "fora",
+    "pl": "na zewnątrz; poza domem",
+    "pronunciation": {
+      "plSlow": "FO-ră",
+      "ipa": "ˈfɔɾɐ",
+      "notePl": "Otwarte o.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "jantar fora = zjeść kolację na mieście (np. w restauracji); almoçar fora = zjeść obiad na mieście.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-tarde",
+    "kind": "phrase",
+    "pt": "mais tarde",
+    "pl": "później",
+    "pronunciation": {
+      "plSlow": "MAJSZ TAR-dy",
+      "ipa": "majʃ ˈtaɾðɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "tarde = późno (ale „à tarde” = po południu).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "logo-a-noite",
+    "kind": "phrase",
+    "pt": "logo à noite",
+    "pl": "dziś wieczorem (później, tego samego dnia)",
+    "pronunciation": {
+      "plSlow": "LO-gu a NÔJ-ty",
+      "ipa": "ˈlɔɣu a ˈnojtɨ",
+      "notePl": "logo — pierwsze o otwarte, drugie = u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "logo = później dzisiaj (jak w „até logo”). Porównaj: à noite = wieczorem (ogólnie, zwykle).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-trabalhar-amanha",
+    "kind": "sentence",
+    "pt": "Vou trabalhar amanhã.",
+    "pl": "Jutro będę pracować.",
+    "pronunciation": {
+      "plSlow": "WÔ tră-bă-LJAR ă-mă-ŃÃ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-jantar-fora-q",
+    "kind": "sentence",
+    "pt": "Vamos jantar fora?",
+    "pl": "Zjemy kolację na mieście?",
+    "pronunciation": {
+      "plSlow": "WĂ-muż żã-TAR FO-ră?",
+      "notePl": "vamos przed ż → „WĂ-muż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "logo-a-noite-vou-ver-televisao",
+    "kind": "sentence",
+    "pt": "Logo à noite vou ver televisão.",
+    "pl": "Dziś wieczorem będę oglądać telewizję.",
+    "pronunciation": {
+      "plSlow": "LO-gu a NÔJ-ty WÔ WÊR ty-ly-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-vai-almocar-mais-tarde",
+    "kind": "sentence",
+    "pt": "O Rui vai almoçar mais tarde.",
+    "pl": "Rui zje obiad później.",
+    "pronunciation": {
+      "plSlow": "u RRUJ WAJ aɫ-mu-SAR MAJSZ TAR-dy.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-vou-sair",
+    "kind": "sentence",
+    "pt": "Hoje não vou sair.",
+    "pl": "Dziś nigdzie nie wychodzę.",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU WÔ să-IR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-vai-chover",
+    "kind": "sentence",
+    "pt": "Amanhã vai chover.",
+    "pl": "Jutro będzie padać.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ WAJ szu-WÊR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-vou-trabalhar-em-casa",
+    "kind": "sentence",
+    "pt": "Amanhã vou trabalhar em casa.",
+    "pl": "Jutro będę pracować w domu.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ WÔ tră-bă-LJAR ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-nao-vou-trabalhar",
+    "kind": "sentence",
+    "pt": "Amanhã não vou trabalhar.",
+    "pl": "Jutro nie będę pracować.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ NÃU WÔ tră-bă-LJAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-vais-fazer-logo-a-noite-q",
+    "kind": "sentence",
+    "pt": "O que vais fazer logo à noite?",
+    "pl": "Co robisz dziś wieczorem? (jakie masz plany)",
+    "pronunciation": {
+      "plSlow": "u ky WAJSZ fă-ZÊR LO-gu a NÔJ-ty?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-vai-fazer-amanha-q",
+    "kind": "sentence",
+    "pt": "O que vai fazer amanhã?",
+    "pl": "Co Pan / Pani będzie robić jutro?",
+    "pronunciation": {
+      "plSlow": "u ky WAJ fă-ZÊR ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-vais-fazer-logo-a-noite-q",
+    "kind": "sentence",
+    "pt": "Olá! O que vais fazer logo à noite?",
+    "pl": "Cześć! Co robisz dziś wieczorem?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky WAJSZ fă-ZÊR LO-gu a NÔJ-ty?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-trabalhar-ate-as-oito-e-tu",
+    "kind": "sentence",
+    "pt": "Vou trabalhar até às oito. E tu?",
+    "pl": "Będę pracować do ósmej. A ty?",
+    "pronunciation": {
+      "plSlow": "WÔ tră-bă-LJAR ă-TE az ÔJ-tu. i TU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-jantar-fora-o-rui-tambem-vai",
+    "kind": "sentence",
+    "pt": "Vamos jantar fora? O Rui também vai.",
+    "pl": "Zjemy kolację na mieście? Rui też idzie.",
+    "pronunciation": {
+      "plSlow": "WĂ-muż żã-TAR FO-ră? u RRUJ tã-BÃJ WAJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-oito-nao-posso-mais-tarde-q",
+    "kind": "sentence",
+    "pt": "Às oito não posso. Mais tarde?",
+    "pl": "O ósmej nie mogę. Później?",
+    "pronunciation": {
+      "plSlow": "az ÔJ-tu NÃU PO-su. MAJSZ TAR-dy?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-tarde-as-nove-q",
+    "kind": "sentence",
+    "pt": "Mais tarde? Às nove?",
+    "pl": "Później? O dziewiątej?",
+    "pronunciation": {
+      "plSlow": "MAJSZ TAR-dy? aż NO-wy?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-nove-esta-bem-ate-logo",
+    "kind": "sentence",
+    "pt": "Às nove está bem. Até logo!",
+    "pl": "Dziewiąta pasuje. Na razie!",
+    "pronunciation": {
+      "plSlow": "aż NO-wy ysz-TA BÃJ. ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-de-amanha",
+    "kind": "phrase",
+    "pt": "depois de amanhã",
+    "pl": "pojutrze",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ dy ă-mă-ŃÃ",
+      "ipa": "dɨˈpojʒ dɨ ɐmɐˈɲɐ̃",
+      "notePl": "depois przed d: s → ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "semana",
+    "kind": "word",
+    "pt": "semana",
+    "pl": "tydzień",
+    "pronunciation": {
+      "plSlow": "sy-MĂ-nă",
+      "ipa": "sɨˈmɐnɐ",
+      "notePl": "Pierwsze e zredukowane (y); akcentowane a przed n = ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "a semana — rodzaj ŻEŃSKI (po polsku „tydzień” jest męski): esta semana = w tym tygodniu.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fim-de-semana",
+    "kind": "phrase",
+    "pt": "fim de semana",
+    "pl": "weekend",
+    "pronunciation": {
+      "plSlow": "FĨ dy sy-MĂ-nă",
+      "ipa": "ˈfĩ dɨ sɨˈmɐnɐ",
+      "notePl": "fim — nosowe ĩ, bez wyraźnego m.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "o fim de semana (dosł. „koniec tygodnia”) — rodzaj męski. no fim de semana = w weekend; este fim de semana = w ten weekend.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ficar",
+    "kind": "word",
+    "pt": "ficar",
+    "pl": "zostać, zostawać",
+    "pronunciation": {
+      "plSlow": "fi-KAR",
+      "ipa": "fiˈkaɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "ficar em casa = zostać w domu. To ten sam czasownik co w „Onde fica…?” (gdzie się znajduje).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "descansar",
+    "kind": "word",
+    "pt": "descansar",
+    "pl": "odpoczywać",
+    "pronunciation": {
+      "plSlow": "dysz-kã-SAR",
+      "ipa": "dɨʃkɐ̃ˈsaɾ",
+      "notePl": "Pierwsze e zredukowane; s przed k = sz; an = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-de-manha-vou-ao-mercado",
+    "kind": "sentence",
+    "pt": "Amanhã de manhã vou ao mercado.",
+    "pl": "Jutro rano idę na targ.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ dy mă-ŃÃ WÔ au myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-de-amanha-vou-descansar",
+    "kind": "sentence",
+    "pt": "Depois de amanhã vou descansar.",
+    "pl": "Pojutrze będę odpoczywać.",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ dy ă-mă-ŃÃ WÔ dysz-kã-SAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "este-fim-de-semana-vou-ficar-em-casa",
+    "kind": "sentence",
+    "pt": "Este fim de semana vou ficar em casa.",
+    "pl": "W ten weekend zostanę w domu.",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty FĨ dy sy-MĂ-nă WÔ fi-KAR ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-semana-trabalho-muito",
+    "kind": "sentence",
+    "pt": "Esta semana trabalho muito.",
+    "pl": "W tym tygodniu dużo pracuję.",
+    "pronunciation": {
+      "plSlow": "ESZ-tă sy-MĂ-nă tră-BA-lju MŨJ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-fim-de-semana-vamos-a-praia",
+    "kind": "sentence",
+    "pt": "No fim de semana vamos à praia.",
+    "pl": "W weekend idziemy na plażę.",
+    "pronunciation": {
+      "plSlow": "nu FĨ dy sy-MĂ-nă WĂ-muz a PRAJ-ă.",
+      "notePl": "vamos przed samogłoską → „WĂ-muz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-vais-fazer-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "O que vais fazer no fim de semana?",
+    "pl": "Co będziesz robić w weekend?",
+    "pronunciation": {
+      "plSlow": "u ky WAJSZ fă-ZÊR nu FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-de-amanha-vou-a-praia",
+    "kind": "sentence",
+    "pt": "Depois de amanhã vou à praia.",
+    "pl": "Pojutrze idę na plażę.",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ dy ă-mă-ŃÃ WÔ a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-vai-fazer-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "O que vai fazer no fim de semana?",
+    "pl": "Co Pan / Pani będzie robić w weekend?",
+    "pronunciation": {
+      "plSlow": "u ky WAJ fă-ZÊR nu FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-vais-fazer-no-fim-de-semana-q",
+    "kind": "sentence",
+    "pt": "Olá! O que vais fazer no fim de semana?",
+    "pl": "Cześć! Co będziesz robić w weekend?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky WAJSZ fă-ZÊR nu FĨ dy sy-MĂ-nă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-vou-trabalhar-mas-no-domingo-vou-descansar",
+    "kind": "sentence",
+    "pt": "No sábado vou trabalhar. Mas no domingo vou descansar!",
+    "pl": "W sobotę będę pracować. Ale w niedzielę będę odpoczywać!",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du WÔ tră-bă-LJAR. măż nu du-MĨ-gu WÔ dysz-kã-SAR!",
+      "notePl": "mas przed n → „măż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-tambem-vou-ficar-em-casa",
+    "kind": "sentence",
+    "pt": "Eu também! Vou ficar em casa.",
+    "pl": "Ja też! Zostanę w domu.",
+    "pronunciation": {
+      "plSlow": "ÊU tã-BÃJ! WÔ fi-KAR ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-depois-de-amanha-trabalhas-q",
+    "kind": "sentence",
+    "pt": "E depois de amanhã? Trabalhas?",
+    "pl": "A pojutrze? Pracujesz?",
+    "pronunciation": {
+      "plSlow": "i dy-PÔJŻ dy ă-mă-ŃÃ? tră-BA-ljăsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-sim-esta-semana-trabalho-muito",
+    "kind": "sentence",
+    "pt": "Trabalho, sim. Esta semana trabalho muito!",
+    "pl": "Tak, pracuję. W tym tygodniu dużo pracuję!",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju, SĨ. ESZ-tă sy-MĂ-nă tră-BA-lju MŨJ-tu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-a-semana",
+    "kind": "phrase",
+    "pt": "para a semana",
+    "pl": "w przyszłym tygodniu",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ă sy-MĂ-nă",
+      "notePl": "W szybkiej mowie „para a” zlewa się w jedną krótką sylabę (mniej więcej „pra”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "Typowo portugalskie. To samo znaczy: na próxima semana. Uwaga: to NIE jest „na tydzień”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mes",
+    "kind": "word",
+    "pt": "mês",
+    "pl": "miesiąc",
+    "pronunciation": {
+      "plSlow": "MÊSZ",
+      "ipa": "ˈmeʃ",
+      "notePl": "Zamknięte ê; końcowe s = sz (przed dźwięczną spółgłoską ż).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas"
+    ],
+    "usagePl": "o mês (męski); l.mn. os meses. no próximo mês = w przyszłym miesiącu; este mês = w tym miesiącu.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quando",
+    "kind": "word",
+    "pt": "quando",
+    "pl": "kiedy",
+    "pronunciation": {
+      "plSlow": "KUÃ-du",
+      "ipa": "ˈkwɐ̃du",
+      "notePl": "qu = „ku” (u słychać); an = nosowe ã.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "czas",
+      "pytania"
+    ],
+    "usagePl": "Quando vais à Polónia? = Kiedy jedziesz do Polski?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ferias",
+    "kind": "word",
+    "pt": "férias",
+    "pl": "urlop; wakacje",
+    "pronunciation": {
+      "plSlow": "FE-ri-ăsz",
+      "ipa": "ˈfɛɾjɐʃ",
+      "notePl": "Otwarte e (é).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "Zawsze w liczbie mnogiej: as férias. ir de férias = jechać na urlop; estar de férias = być na urlopie. Boas férias! = Udanego urlopu!",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "visitar",
+    "kind": "word",
+    "pt": "visitar",
+    "pl": "odwiedzać; zwiedzać",
+    "pronunciation": {
+      "plSlow": "wi-zi-TAR",
+      "ipa": "viziˈtaɾ",
+      "notePl": "s między samogłoskami = z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "Odmiana regularna (-ar). visitar os pais = odwiedzić rodziców; visitar Lisboa = zwiedzić Lizbonę.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-proxima-semana-vou-de-ferias",
+    "kind": "sentence",
+    "pt": "Na próxima semana vou de férias.",
+    "pl": "W przyszłym tygodniu jadę na urlop.",
+    "pronunciation": {
+      "plSlow": "nă PRO-si-mă sy-MĂ-nă WÔ dy FE-ri-ăsz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-a-semana-vou-de-ferias",
+    "kind": "sentence",
+    "pt": "Para a semana vou de férias.",
+    "pl": "W przyszłym tygodniu jadę na urlop.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ă sy-MĂ-nă WÔ dy FE-ri-ăsz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-proximo-mes-vou-a-polonia",
+    "kind": "sentence",
+    "pt": "No próximo mês vou à Polónia.",
+    "pl": "W przyszłym miesiącu jadę do Polski.",
+    "pronunciation": {
+      "plSlow": "nu PRO-si-mu MÊŻ WÔ a pu-LO-ni-ă.",
+      "notePl": "mês przed w → „MÊŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-visitar-os-meus-pais",
+    "kind": "sentence",
+    "pt": "Vou visitar os meus pais.",
+    "pl": "Odwiedzę rodziców.",
+    "pronunciation": {
+      "plSlow": "WÔ wi-zi-TAR uż MÊUSZ PAJSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quando-vais-a-polonia-q",
+    "kind": "sentence",
+    "pt": "Quando vais à Polónia?",
+    "pl": "Kiedy jedziesz do Polski?",
+    "pronunciation": {
+      "plSlow": "KUÃ-du WAJZ a pu-LO-ni-ă?",
+      "notePl": "vais przed samogłoską → „WAJZ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-a-semana-os-meus-pais-vem-a-madeira",
+    "kind": "sentence",
+    "pt": "Para a semana, os meus pais vêm à Madeira.",
+    "pl": "W przyszłym tygodniu moi rodzice przyjeżdżają na Maderę.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră ă sy-MĂ-nă, uż MÊUSZ PAJŻ WÃJ-ãj a mă-DĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quando-vais-de-ferias-q",
+    "kind": "sentence",
+    "pt": "Quando vais de férias?",
+    "pl": "Kiedy jedziesz na urlop?",
+    "pronunciation": {
+      "plSlow": "KUÃ-du WAJŻ dy FE-ri-ăsz?",
+      "notePl": "vais przed d → „WAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quando-vai-de-ferias-q",
+    "kind": "sentence",
+    "pt": "Quando vai de férias?",
+    "pl": "Kiedy jedzie Pan / Pani na urlop?",
+    "pronunciation": {
+      "plSlow": "KUÃ-du WAJ dy FE-ri-ăsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-proxima-semana-o-meu-filho-nao-vem",
+    "kind": "sentence",
+    "pt": "Na próxima semana o meu filho não vem.",
+    "pl": "W przyszłym tygodniu mój syn nie przyjdzie.",
+    "pronunciation": {
+      "plSlow": "nă PRO-si-mă sy-MĂ-nă u MÊU FI-lju NÃU WÃJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-marta-na-proxima-semana-o-meu-filho-nao-vem",
+    "kind": "sentence",
+    "pt": "Bom dia, Marta! Na próxima semana o meu filho não vem.",
+    "pl": "Dzień dobry, Marto! W przyszłym tygodniu mój syn nie przyjdzie.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă, MAR-tă! nă PRO-si-mă sy-MĂ-nă u MÊU FI-lju NÃU WÃJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "przedszkole"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ah-sim-vao-de-ferias-q",
+    "kind": "sentence",
+    "pt": "Ah, sim? Vão de férias?",
+    "pl": "Ach tak? Jedziecie na urlop? (Państwo)",
+    "pronunciation": {
+      "plSlow": "A, SĨ? WÃU dy FE-ri-ăsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-a-polonia-vamos-visitar-os-meus-pais",
+    "kind": "sentence",
+    "pt": "Vamos à Polónia. Vamos visitar os meus pais.",
+    "pl": "Jedziemy do Polski. Odwiedzimy moich rodziców.",
+    "pronunciation": {
+      "plSlow": "WĂ-muz a pu-LO-ni-ă. WĂ-muż wi-zi-TAR uż MÊUSZ PAJSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-e-quando-vem-q",
+    "kind": "sentence",
+    "pt": "Muito bem! E quando vêm?",
+    "pl": "Bardzo dobrze! A kiedy Państwo wracają? (dosł. przyjeżdżają)",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! i KUÃ-du WÃJ-ãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "vêm = os senhores vêm (Państwo przyjeżdżają) — z punktu widzenia Marty: wracacie tutaj.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-proximo-mes-no-dia-tres",
+    "kind": "sentence",
+    "pt": "No próximo mês, no dia três.",
+    "pl": "W przyszłym miesiącu, trzeciego.",
+    "pronunciation": {
+      "plSlow": "nu PRO-si-mu MÊSZ, nu DI-ă TRÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "usagePl": "no dia três = trzeciego (dnia miesiąca).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boas-ferias",
+    "kind": "sentence",
+    "pt": "Boas férias!",
+    "pl": "Udanego urlopu!",
+    "pronunciation": {
+      "plSlow": "BÔ-ăsz FE-ri-ăsz!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "porque",
+    "kind": "word",
+    "pt": "porque",
+    "pl": "bo; dlatego że",
+    "pronunciation": {
+      "plSlow": "PUR-ky",
+      "ipa": "ˈpuɾkɨ",
+      "notePl": "o nieakcentowane = u; końcowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "spojniki"
+    ],
+    "usagePl": "Não posso porque vou trabalhar. = Nie mogę, bo będę pracować. Pytanie „dlaczego?” brzmi inaczej: Porquê? (z akcentem).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-ideia",
+    "kind": "phrase",
+    "pt": "Boa ideia!",
+    "pl": "Dobry pomysł!",
+    "pronunciation": {
+      "plSlow": "BÔ-ă i-DĂJ-ă!",
+      "ipa": "ˈboɐ iˈðɐjɐ",
+      "notePl": "ideia: ei = „ăj” (norma lizbońska); wariant „ej” też jest powszechny.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "combinado",
+    "kind": "phrase",
+    "pt": "Combinado!",
+    "pl": "Umowa stoi! / Jesteśmy umówieni!",
+    "pronunciation": {
+      "plSlow": "kõ-bi-NA-du!",
+      "ipa": "kõbiˈnaðu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "Bardzo częste w Portugalii na potwierdzenie planu: — Às oito? — Combinado!",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cinema",
+    "kind": "word",
+    "pt": "cinema",
+    "pl": "kino",
+    "pronunciation": {
+      "plSlow": "si-NÊ-mă",
+      "ipa": "siˈnemɐ",
+      "notePl": "c przed i = s; zamknięte ê przed m.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "o cinema (męski) → ao cinema (do kina), no cinema (w kinie).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "claro",
+    "kind": "phrase",
+    "pt": "Claro!",
+    "pl": "Jasne! Oczywiście!",
+    "pronunciation": {
+      "plSlow": "KLA-ru!",
+      "ipa": "ˈklaɾu",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queres-ir-ao-cinema-q",
+    "kind": "sentence",
+    "pt": "Queres ir ao cinema?",
+    "pl": "Chcesz iść do kina?",
+    "pronunciation": {
+      "plSlow": "KE-ryz IR au si-NÊ-mă?",
+      "notePl": "queres przed samogłoską → „KE-ryz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-ao-cinema-no-sabado-q",
+    "kind": "sentence",
+    "pt": "Vamos ao cinema no sábado?",
+    "pl": "Pójdziemy do kina w sobotę?",
+    "pronunciation": {
+      "plSlow": "WĂ-muz au si-NÊ-mă nu SA-bă-du?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-posso-porque-vou-trabalhar",
+    "kind": "sentence",
+    "pt": "Não posso porque vou trabalhar.",
+    "pl": "Nie mogę, bo będę pracować.",
+    "pronunciation": {
+      "plSlow": "NÃU PO-su PUR-ky WÔ tră-bă-LJAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "Po polsku przed „bo” stawiamy przecinek; po portugalsku przed „porque” zwykle nie.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-boa-ideia",
+    "kind": "sentence",
+    "pt": "Sim! Boa ideia!",
+    "pl": "Tak! Dobry pomysł!",
+    "pronunciation": {
+      "plSlow": "SĨ! BÔ-ă i-DĂJ-ă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "claro-a-que-horas-q",
+    "kind": "sentence",
+    "pt": "Claro! A que horas?",
+    "pl": "Jasne! O której?",
+    "pronunciation": {
+      "plSlow": "KLA-ru! ă ky O-răsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-seis-combinado",
+    "kind": "sentence",
+    "pt": "Às seis? Combinado!",
+    "pl": "O szóstej? Umowa stoi!",
+    "pronunciation": {
+      "plSlow": "asz SĂJSZ? kõ-bi-NA-du!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-ao-cinema-q",
+    "kind": "sentence",
+    "pt": "Vamos ao cinema?",
+    "pl": "Pójdziemy do kina?",
+    "pronunciation": {
+      "plSlow": "WĂ-muz au si-NÊ-mă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queres-ir-ao-cinema-no-sabado-q",
+    "kind": "sentence",
+    "pt": "Queres ir ao cinema no sábado?",
+    "pl": "Chcesz iść do kina w sobotę?",
+    "pronunciation": {
+      "plSlow": "KE-ryz IR au si-NÊ-mă nu SA-bă-du?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-nao-posso-porque-vou-trabalhar",
+    "kind": "sentence",
+    "pt": "No sábado não posso porque vou trabalhar.",
+    "pl": "W sobotę nie mogę, bo będę pracować.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du NÃU PO-su PUR-ky WÔ tră-bă-LJAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-no-domingo-q",
+    "kind": "sentence",
+    "pt": "E no domingo?",
+    "pl": "A w niedzielę?",
+    "pronunciation": {
+      "plSlow": "i nu du-MĨ-gu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-sim-boa-ideia-a-que-horas-q",
+    "kind": "sentence",
+    "pt": "No domingo, sim! Boa ideia! A que horas?",
+    "pl": "W niedzielę tak! Dobry pomysł! O której?",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu, SĨ! BÔ-ă i-DĂJ-ă! ă ky O-răsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-seis-q",
+    "kind": "sentence",
+    "pt": "Às seis?",
+    "pl": "O szóstej?",
+    "pronunciation": {
+      "plSlow": "asz SĂJSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostava-de",
+    "kind": "phrase",
+    "pt": "gostava de…",
+    "pl": "chciałbym… / chciałabym…",
+    "tts": "gostava de",
+    "pronunciation": {
+      "plSlow": "gusz-TA-wă dy …",
+      "ipa": "ɡuʃˈtavɐ ðɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "gostar"
+    ],
+    "usagePl": "Grzeczna formuła życzenia, jak „queria”. Po niej bezokolicznik: Gostava de ir à praia. Do kolegi: Gostavas de…? (Chciałbyś…?). Uwaga: gosto de… = lubię; gostava de… = chciałbym.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "dar-um-passeio",
+    "kind": "phrase",
+    "pt": "dar um passeio",
+    "pl": "iść na spacer, przejść się",
+    "pronunciation": {
+      "plSlow": "DAR ũ pă-SĂJ-u",
+      "ipa": "ˈdaɾ ũ pɐˈsɐju",
+      "notePl": "passeio: ei = „ăj” (norma lizbońska).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "Dosł. „dać spacer” — stałe wyrażenie z „dar”. Vamos dar um passeio? = Pójdziemy na spacer?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nadar",
+    "kind": "word",
+    "pt": "nadar",
+    "pl": "pływać",
+    "pronunciation": {
+      "plSlow": "nă-DAR",
+      "ipa": "nɐˈðaɾ",
+      "notePl": "Pierwsze a przytłumione (ă); d między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "contigo",
+    "kind": "word",
+    "pt": "contigo",
+    "pl": "z tobą",
+    "pronunciation": {
+      "plSlow": "kõ-TI-gu",
+      "ipa": "kõˈtiɣu",
+      "notePl": "on = nosowe õ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "zaimki"
+    ],
+    "usagePl": "com + ti = contigo (jak comigo = ze mną). Vou contigo! = Idę z tobą!",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostava-de-ir-a-praia",
+    "kind": "sentence",
+    "pt": "Gostava de ir à praia.",
+    "pl": "Chciałbym / chciałabym pójść na plażę.",
+    "pronunciation": {
+      "plSlow": "gusz-TA-wă dy IR a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-vamos-dar-um-passeio",
+    "kind": "sentence",
+    "pt": "No domingo vamos dar um passeio.",
+    "pl": "W niedzielę pójdziemy na spacer.",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu WĂ-muż DAR ũ pă-SĂJ-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostas-de-nadar-q",
+    "kind": "sentence",
+    "pt": "Gostas de nadar?",
+    "pl": "Lubisz pływać?",
+    "pronunciation": {
+      "plSlow": "GOSZ-tăż dy nă-DAR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "gostar"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostava-de-nadar-mas-hoje-esta-frio",
+    "kind": "sentence",
+    "pt": "Gostava de nadar, mas hoje está frio.",
+    "pl": "Chciałbym / chciałabym popływać, ale dziś jest zimno.",
+    "pronunciation": {
+      "plSlow": "gusz-TA-wă dy nă-DAR, măz Ô-ży ysz-TA FRI-u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-contigo",
+    "kind": "sentence",
+    "pt": "Vou contigo!",
+    "pl": "Idę z tobą!",
+    "pronunciation": {
+      "plSlow": "WÔ kõ-TI-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostavas-de-vir-tambem-q",
+    "kind": "sentence",
+    "pt": "Gostavas de vir também?",
+    "pl": "Chciałbyś / chciałabyś też przyjść?",
+    "pronunciation": {
+      "plSlow": "gusz-TA-wăż dy WIR tã-BÃJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-gostava-de-ir-a-praia",
+    "kind": "sentence",
+    "pt": "No sábado gostava de ir à praia.",
+    "pl": "W sobotę chciałbym / chciałabym pójść na plażę.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du gusz-TA-wă dy IR a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-dar-um-passeio-q",
+    "kind": "sentence",
+    "pt": "Vamos dar um passeio?",
+    "pl": "Pójdziemy na spacer?",
+    "pronunciation": {
+      "plSlow": "WĂ-muż DAR ũ pă-SĂJ-u?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gostava-de-ir-a-praia-gostavas-de-vir-tambem-q",
+    "kind": "sentence",
+    "pt": "Gostava de ir à praia. Gostavas de vir também?",
+    "pl": "Chciałbym pójść na plażę. Chciałabyś też przyjść?",
+    "pronunciation": {
+      "plSlow": "gusz-TA-wă dy IR a PRAJ-ă. gusz-TA-wăż dy WIR tã-BÃJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-da-praia-mas-nao-gosto-de-nadar",
+    "kind": "sentence",
+    "pt": "Gosto da praia, mas não gosto de nadar.",
+    "pl": "Lubię plażę, ale nie lubię pływać.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu dă PRAJ-ă, măż NÃU GOSZ-tu dy nă-DAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-ideia-no-domingo-de-manha-q",
+    "kind": "sentence",
+    "pt": "Boa ideia! No domingo de manhã?",
+    "pl": "Dobry pomysł! W niedzielę rano?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă i-DĂJ-ă! nu du-MĨ-gu dy mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "combinado-ate-domingo",
+    "kind": "sentence",
+    "pt": "Combinado! Até domingo!",
+    "pl": "Umowa stoi! Do niedzieli!",
+    "pronunciation": {
+      "plSlow": "kõ-bi-NA-du! ă-TE du-MĨ-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "se-calhar",
+    "kind": "phrase",
+    "pt": "se calhar",
+    "pl": "może, możliwe że",
+    "pronunciation": {
+      "plSlow": "sy kă-LJAR",
+      "ipa": "sɨ kɐˈʎaɾ",
+      "notePl": "lh = lj (jeden dźwięk).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "Bardzo częste w Portugalii (znaczy to samo co „talvez”). Po nim zwykłe zdanie: Se calhar vou à praia. = Może pójdę na plażę. „se” to tu nie zaimek — całość traktuj jak jedno słowo.",
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fica-para-a-proxima",
+    "kind": "phrase",
+    "pt": "Fica para a próxima!",
+    "pl": "To może następnym razem!",
+    "pronunciation": {
+      "plSlow": "FI-kă PĂ-ră ă PRO-si-mă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "usagePl": "Uprzejme zakończenie, gdy plan nie wychodzi — dosł. „zostaje na następny (raz)”. Mówi ten, kto odmawia, albo ten, kto zapraszał.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "se-calhar-vou-a-praia",
+    "kind": "sentence",
+    "pt": "Se calhar vou à praia.",
+    "pl": "Może pójdę na plażę.",
+    "pronunciation": {
+      "plSlow": "sy kă-LJAR WÔ a PRAJ-ă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "se-calhar-vou-trabalhar-amanha",
+    "kind": "sentence",
+    "pt": "Se calhar vou trabalhar amanhã.",
+    "pl": "Może jutro będę pracować.",
+    "pronunciation": {
+      "plSlow": "sy kă-LJAR WÔ tră-bă-LJAR ă-mă-ŃÃ.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-da-fica-para-a-proxima",
+    "kind": "sentence",
+    "pt": "Hoje não dá. Fica para a próxima!",
+    "pl": "Dziś nie dam rady. To może następnym razem!",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU DA. FI-kă PĂ-ră ă PRO-si-mă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-jantar-fora-logo-a-noite-q",
+    "kind": "sentence",
+    "pt": "Vamos jantar fora logo à noite?",
+    "pl": "Zjemy dziś wieczorem kolację na mieście?",
+    "pronunciation": {
+      "plSlow": "WĂ-muż żã-TAR FO-ră LO-gu a NÔJ-ty?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-da-vou-sair-do-trabalho-muito-tarde",
+    "kind": "sentence",
+    "pt": "Hoje não dá. Vou sair do trabalho muito tarde.",
+    "pl": "Dziś nie dam rady. Wyjdę z pracy bardzo późno.",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU DA. WÔ să-IR du tră-BA-lju MŨJ-tu TAR-dy.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-faz-mal-fica-para-a-proxima",
+    "kind": "sentence",
+    "pt": "Não faz mal. Fica para a próxima!",
+    "pl": "Nic nie szkodzi. To może następnym razem!",
+    "pronunciation": {
+      "plSlow": "NÃU FAŻ MAɫ. FI-kă PĂ-ră ă PRO-si-mă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-no-sabado-queres-ir-a-praia-q",
+    "kind": "sentence",
+    "pt": "E no sábado? Queres ir à praia?",
+    "pl": "A w sobotę? Chcesz iść na plażę?",
+    "pronunciation": {
+      "plSlow": "i nu SA-bă-du? KE-ryz IR a PRAJ-ă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "se-calhar-vou-trabalhar-mas-no-domingo-sim",
+    "kind": "sentence",
+    "pt": "Se calhar vou trabalhar… Mas no domingo, sim!",
+    "pl": "Może będę pracować… Ale w niedzielę tak!",
+    "pronunciation": {
+      "plSlow": "sy kă-LJAR WÔ tră-bă-LJAR… măż nu du-MĨ-gu, SĨ!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-da-fica-para-a-proxima",
+    "kind": "sentence",
+    "pt": "Não dá. Fica para a próxima!",
+    "pl": "Nie dam rady. To może następnym razem!",
+    "pronunciation": {
+      "plSlow": "NÃU DA. FI-kă PĂ-ră ă PRO-si-mă!",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "combinado-domingo-as-dez",
+    "kind": "sentence",
+    "pt": "Combinado! Domingo, às dez.",
+    "pl": "Umowa stoi! Niedziela, o dziesiątej.",
+    "pronunciation": {
+      "plSlow": "kõ-bi-NA-du! du-MĨ-gu, aż DESZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queres-ir-a-praia-q",
+    "kind": "sentence",
+    "pt": "Queres ir à praia?",
+    "pl": "Chcesz iść na plażę?",
+    "pronunciation": {
+      "plSlow": "KE-ryz IR a PRAJ-ă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "depois-vamos-jantar-fora-q",
+    "kind": "sentence",
+    "pt": "Depois vamos jantar fora?",
+    "pl": "A potem zjemy kolację na mieście?",
+    "pronunciation": {
+      "plSlow": "dy-PÔJŻ WĂ-muż żã-TAR FO-ră?",
+      "notePl": "depois przed w → „dy-PÔJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w10",
+      "plany"
+    ],
+    "reviewStatus": "draft"
+  }
+]

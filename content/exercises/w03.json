@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "w03-l13-e01",
+    "type": "listenChoose",
+    "targetItemId": "grande",
+    "optionItemIds": [
+      "grande",
+      "pequeno",
+      "bonito"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w03-l13-e02",
+    "type": "readChoose",
+    "targetItemId": "pequeno",
+    "optionItemIds": [
+      "pequeno",
+      "grande",
+      "novo"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w03-l13-e03",
+    "type": "recallChoose",
+    "targetItemId": "bonito",
+    "optionItemIds": [
+      "bonito",
+      "novo",
+      "grande"
+    ],
+    "promptPl": "Wybierz „ładny”."
+  },
+  {
+    "id": "w03-l13-e04",
+    "type": "fillGap",
+    "sentencePt": "A casa é ___.",
+    "sentencePl": "Dom jest nowy.",
+    "options": [
+      "nova",
+      "novo"
+    ],
+    "answer": "nova",
+    "fullItemId": "a-casa-e-nova",
+    "wrongExplanations": {
+      "novo": "„novo” pasuje do rzeczowników męskich (o carro novo). Casa jest żeńska, choć po polsku „dom” jest męski."
+    },
+    "explanationPl": "casa jest żeńska (a casa) → przymiotnik też żeński: nova.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l13-e05",
+    "type": "fillGap",
+    "sentencePt": "As casas são ___.",
+    "sentencePl": "Domy są ładne.",
+    "options": [
+      "bonitas",
+      "bonita",
+      "bonitos"
+    ],
+    "answer": "bonitas",
+    "wrongExplanations": {
+      "bonita": "Brakuje -s: casas są w liczbie mnogiej → bonitas.",
+      "bonitos": "-os to końcówka męska. Casas są żeńskie → bonitas."
+    },
+    "explanationPl": "as casas — żeńskie i w liczbie mnogiej → bonitas (-a + -s).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l13-e06",
+    "type": "buildSentence",
+    "targetItemId": "tenho-um-carro-pequeno",
+    "tiles": [
+      "Tenho",
+      "um",
+      "carro",
+      "pequeno"
+    ],
+    "distractors": [
+      "pequena",
+      "uma"
+    ],
+    "promptPl": "Powiedz: „Mam mały samochód.”"
+  },
+  {
+    "id": "w03-l13-e07",
+    "type": "transform",
+    "baseItemId": "a-casa-e-grande",
+    "instructionPl": "Zmień na liczbę mnogą (domy).",
+    "targetItemId": "as-casas-sao-grandes",
+    "tiles": [
+      "As",
+      "casas",
+      "são",
+      "grandes"
+    ],
+    "distractors": [
+      "é",
+      "grande"
+    ]
+  },
+  {
+    "id": "w03-l13-e08",
+    "type": "transform",
+    "baseItemId": "o-carro-e-novo",
+    "instructionPl": "Powiedz to samo o domu (a casa).",
+    "targetItemId": "a-casa-e-nova",
+    "tiles": [
+      "A",
+      "casa",
+      "é",
+      "nova"
+    ],
+    "distractors": [
+      "O",
+      "novo"
+    ]
+  },
+  {
+    "id": "w03-l13-e09",
+    "type": "recallSay",
+    "targetItemId": "tenho-um-carro-pequeno",
+    "promptPl": "Powiedz, że masz mały samochód."
+  },
+  {
+    "id": "w03-l13-e10",
+    "type": "recallSay",
+    "targetItemId": "e-muito-bonita",
+    "promptPl": "Ana pokazuje Ci swój dom. Powiedz: jest bardzo ładny!"
+  },
+  {
+    "id": "w03-l13-e11",
+    "type": "typeAnswer",
+    "targetItemId": "grande",
+    "promptPl": "Napisz: „duży”."
+  },
+  {
+    "id": "w03-l14-e01",
+    "type": "listenChoose",
+    "targetItemId": "querer-quero",
+    "optionItemIds": [
+      "querer-quero",
+      "querer-quer",
+      "querer-queremos"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w03-l14-e02",
+    "type": "readChoose",
+    "targetItemId": "querer-querem",
+    "optionItemIds": [
+      "querer-querem",
+      "querer-queremos",
+      "querer-queres"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w03-l14-e03",
+    "type": "recallChoose",
+    "targetItemId": "agua",
+    "optionItemIds": [
+      "agua",
+      "cha",
+      "cafe"
+    ],
+    "promptPl": "Wybierz „woda”."
+  },
+  {
+    "id": "w03-l14-e04",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ um café.",
+    "sentencePl": "Chcę kawę.",
+    "options": [
+      "quero",
+      "quer",
+      "queres"
+    ],
+    "answer": "quero",
+    "wrongExplanations": {
+      "quer": "„quer” = (on/ona/Pan) chce.",
+      "queres": "„queres” = (ty) chcesz."
+    },
+    "explanationPl": "eu → quero.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w03-l14-e05",
+    "type": "fillGap",
+    "sentencePt": "Tu ___ um chá?",
+    "sentencePl": "Chcesz herbaty?",
+    "options": [
+      "queres",
+      "quer"
+    ],
+    "answer": "queres",
+    "wrongExplanations": {
+      "quer": "„quer” to forma dla on/ona/Pan/Pani."
+    },
+    "explanationPl": "tu → queres (z -s, jak tu falas).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w03-l14-e06",
+    "type": "fillGap",
+    "sentencePt": "___ um chá, se faz favor.",
+    "sentencePl": "Poproszę herbatę.",
+    "options": [
+      "Queria",
+      "Quero"
+    ],
+    "answer": "Queria",
+    "fullItemId": "queria-um-cha-sfv",
+    "wrongExplanations": {
+      "Quero": "„Quero” nie jest błędem gramatycznym, ale brzmi bezpośrednio („chcę”). Grzeczniej: Queria."
+    },
+    "explanationPl": "Przy ladzie mówimy grzecznie: Queria… (chciałbym/chciałabym).",
+    "mistakeCategory": "politeness",
+    "promptPl": "Zamawiasz przy ladzie. Wybierz grzeczniejszą formę."
+  },
+  {
+    "id": "w03-l14-e07",
+    "type": "buildSentence",
+    "targetItemId": "queremos-dois-cafes",
+    "tiles": [
+      "Queremos",
+      "dois",
+      "cafés"
+    ],
+    "distractors": [
+      "Querem",
+      "duas"
+    ],
+    "promptPl": "Powiedz: „Chcemy dwie kawy.”"
+  },
+  {
+    "id": "w03-l14-e08",
+    "type": "transform",
+    "baseItemId": "quero-um-cafe",
+    "instructionPl": "Powiedz to grzecznie, jak przy ladzie (z „se faz favor”).",
+    "targetItemId": "queria-um-cafe-sfv",
+    "tiles": [
+      "Queria",
+      "um",
+      "café",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "Quero"
+    ]
+  },
+  {
+    "id": "w03-l14-e09",
+    "type": "recallSay",
+    "targetItemId": "queria-um-cha-sfv",
+    "promptPl": "Poproś grzecznie o herbatę."
+  },
+  {
+    "id": "w03-l14-e10",
+    "type": "recallSay",
+    "targetItemId": "quer-uma-agua-q",
+    "promptPl": "Zaproponuj gościowi (Pan/Pani) wodę."
+  },
+  {
+    "id": "w03-l14-e11",
+    "type": "typeAnswer",
+    "targetItemId": "querer-quero",
+    "promptPl": "Napisz: „(ja) chcę”."
+  },
+  {
+    "id": "w03-l15-e01",
+    "type": "listenChoose",
+    "targetItemId": "poder-posso",
+    "optionItemIds": [
+      "poder-posso",
+      "pode",
+      "poder-podem"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w03-l15-e02",
+    "type": "readChoose",
+    "targetItemId": "podia-ajudar-me-sfv-q",
+    "optionItemIds": [
+      "podia-ajudar-me-sfv-q",
+      "posso-entrar-q",
+      "nao-posso"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w03-l15-e03",
+    "type": "recallChoose",
+    "targetItemId": "ajudar",
+    "optionItemIds": [
+      "ajudar",
+      "entrar",
+      "querer"
+    ],
+    "promptPl": "Wybierz „pomóc”."
+  },
+  {
+    "id": "w03-l15-e04",
+    "type": "fillGap",
+    "sentencePt": "___ entrar?",
+    "sentencePl": "Czy mogę wejść?",
+    "options": [
+      "Posso",
+      "Pode",
+      "Podes"
+    ],
+    "answer": "Posso",
+    "fullItemId": "posso-entrar-q",
+    "wrongExplanations": {
+      "Pode": "„Pode” = (on/Pan) może.",
+      "Podes": "„Podes” = (ty) możesz."
+    },
+    "explanationPl": "Pytasz o siebie (ja) → posso.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w03-l15-e05",
+    "type": "fillGap",
+    "sentencePt": "Pode ___?",
+    "sentencePl": "Czy może mi Pan pomóc?",
+    "options": [
+      "ajudar-me",
+      "me ajudar"
+    ],
+    "answer": "ajudar-me",
+    "fullItemId": "pode-ajudar-me-q",
+    "wrongExplanations": {
+      "me ajudar": "Tak mówi się w Brazylii. W Portugalii: ajudar-me."
+    },
+    "explanationPl": "W Portugalii zaimek „me” stoi po czasowniku, z łącznikiem: ajudar-me (jak chamo-me).",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w03-l15-e06",
+    "type": "fillGap",
+    "sentencePt": "___ ajudar-me, se faz favor?",
+    "sentencePl": "Czy mógłby Pan mi pomóc?",
+    "options": [
+      "Podia",
+      "Podes"
+    ],
+    "answer": "Podia",
+    "fullItemId": "podia-ajudar-me-sfv-q",
+    "wrongExplanations": {
+      "Podes": "„Podes” to forma „ty” — do nieznajomego dorosłego zbyt poufała. Grzecznie: Podia (albo Pode)."
+    },
+    "explanationPl": "Do obcej osoby najgrzeczniej: Podia…? (Czy mógłby Pan / mogłaby Pani…?).",
+    "mistakeCategory": "politeness",
+    "promptPl": "Prosisz o pomoc nieznajomą osobę w sklepie."
+  },
+  {
+    "id": "w03-l15-e07",
+    "type": "buildSentence",
+    "targetItemId": "pode-ajudar-me-q",
+    "tiles": [
+      "Pode",
+      "ajudar-me"
+    ],
+    "distractors": [
+      "me",
+      "Posso"
+    ],
+    "promptPl": "Zapytaj: „Czy może mi Pan pomóc?”"
+  },
+  {
+    "id": "w03-l15-e08",
+    "type": "transform",
+    "baseItemId": "posso-entrar-q",
+    "instructionPl": "Zapytaj w imieniu całej rodziny (my).",
+    "targetItemId": "podemos-entrar-q",
+    "tiles": [
+      "Podemos",
+      "entrar"
+    ],
+    "distractors": [
+      "Podem",
+      "Posso"
+    ]
+  },
+  {
+    "id": "w03-l15-e09",
+    "type": "recallSay",
+    "targetItemId": "posso-entrar-q",
+    "promptPl": "Pukasz do drzwi gabinetu. Zapytaj, czy możesz wejść."
+  },
+  {
+    "id": "w03-l15-e10",
+    "type": "recallSay",
+    "targetItemId": "pode-ajudar-me-q",
+    "promptPl": "Poproś przechodnia o pomoc."
+  },
+  {
+    "id": "w03-l15-e11",
+    "type": "typeAnswer",
+    "targetItemId": "poder-posso",
+    "promptPl": "Napisz: „(ja) mogę”."
+  },
+  {
+    "id": "w03-l16-e01",
+    "type": "listenChoose",
+    "targetItemId": "preciso-de-ajuda",
+    "optionItemIds": [
+      "preciso-de-ajuda",
+      "preciso-de-um-medico",
+      "preciso-do-telemovel"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w03-l16-e02",
+    "type": "readChoose",
+    "targetItemId": "medico",
+    "optionItemIds": [
+      "medico",
+      "ajuda",
+      "telemovel"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w03-l16-e03",
+    "type": "recallChoose",
+    "targetItemId": "telemovel",
+    "optionItemIds": [
+      "telemovel",
+      "carro",
+      "mesa"
+    ],
+    "promptPl": "Wybierz „telefon komórkowy”."
+  },
+  {
+    "id": "w03-l16-e04",
+    "type": "fillGap",
+    "sentencePt": "Preciso ___ ajuda.",
+    "sentencePl": "Potrzebuję pomocy.",
+    "options": [
+      "de",
+      "do",
+      "da"
+    ],
+    "answer": "de",
+    "fullItemId": "preciso-de-ajuda",
+    "wrongExplanations": {
+      "do": "do = de + o (konkretna rzecz rodzaju męskiego). Tu mówimy ogólnie o pomocy.",
+      "da": "da = de + a (konkretna rzecz). Tu mówimy ogólnie — bez rodzajnika: de ajuda."
+    },
+    "explanationPl": "Pomoc ogólnie, bez rodzajnika → samo „de”.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l16-e05",
+    "type": "fillGap",
+    "sentencePt": "Preciso ___ telemóvel.",
+    "sentencePl": "Potrzebuję (mojego) telefonu.",
+    "options": [
+      "do",
+      "da",
+      "de o"
+    ],
+    "answer": "do",
+    "fullItemId": "preciso-do-telemovel",
+    "wrongExplanations": {
+      "da": "da = de + a. Telemóvel jest męski → do.",
+      "de o": "de + o zawsze łączą się w jedno słowo: do."
+    },
+    "explanationPl": "o telemóvel (męski, konkretny) → de + o = do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l16-e06",
+    "type": "fillGap",
+    "sentencePt": "Precisas ___ mesa?",
+    "sentencePl": "Potrzebujesz (tego) stołu?",
+    "options": [
+      "da",
+      "do"
+    ],
+    "answer": "da",
+    "fullItemId": "precisas-da-mesa-q",
+    "wrongExplanations": {
+      "do": "do = de + o (męski). Mesa jest żeńska → da."
+    },
+    "explanationPl": "a mesa (żeńska) → de + a = da.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l16-e07",
+    "type": "buildSentence",
+    "targetItemId": "preciso-de-um-medico",
+    "tiles": [
+      "Preciso",
+      "de",
+      "um",
+      "médico"
+    ],
+    "distractors": [
+      "do",
+      "uma"
+    ],
+    "promptPl": "Powiedz: „Potrzebuję lekarza.”"
+  },
+  {
+    "id": "w03-l16-e08",
+    "type": "transform",
+    "baseItemId": "preciso-de-ajuda",
+    "instructionPl": "Zapytaj nieznajomego (Pan/Pani), czy potrzebuje pomocy.",
+    "targetItemId": "precisa-de-ajuda-q",
+    "tiles": [
+      "Precisa",
+      "de",
+      "ajuda"
+    ],
+    "distractors": [
+      "Preciso",
+      "da"
+    ]
+  },
+  {
+    "id": "w03-l16-e09",
+    "type": "recallSay",
+    "targetItemId": "preciso-de-ajuda",
+    "promptPl": "Powiedz, że potrzebujesz pomocy."
+  },
+  {
+    "id": "w03-l16-e10",
+    "type": "recallSay",
+    "targetItemId": "preciso-de-um-medico",
+    "promptPl": "Źle się czujesz. Powiedz, że potrzebujesz lekarza."
+  },
+  {
+    "id": "w03-l16-e11",
+    "type": "typeAnswer",
+    "targetItemId": "ajuda",
+    "promptPl": "Napisz: „pomoc”."
+  },
+  {
+    "id": "w03-l17-e01",
+    "type": "listenChoose",
+    "targetItemId": "catorze",
+    "optionItemIds": [
+      "catorze",
+      "quarenta",
+      "quatro"
+    ],
+    "promptPl": "Posłuchaj uważnie. Jaka liczba?"
+  },
+  {
+    "id": "w03-l17-e02",
+    "type": "listenChoose",
+    "targetItemId": "dezasseis",
+    "optionItemIds": [
+      "dezasseis",
+      "seis",
+      "sessenta"
+    ],
+    "promptPl": "Posłuchaj. Jaka liczba?"
+  },
+  {
+    "id": "w03-l17-e03",
+    "type": "readChoose",
+    "targetItemId": "quinze",
+    "optionItemIds": [
+      "quinze",
+      "cinco",
+      "cinquenta"
+    ],
+    "promptPl": "Jaka to liczba?"
+  },
+  {
+    "id": "w03-l17-e04",
+    "type": "recallChoose",
+    "targetItemId": "doze",
+    "optionItemIds": [
+      "doze",
+      "dois",
+      "dez"
+    ],
+    "promptPl": "Wybierz „dwanaście”."
+  },
+  {
+    "id": "w03-l17-e05",
+    "type": "fillGap",
+    "sentencePt": "Custa trinta ___ cinco euros.",
+    "sentencePl": "Kosztuje trzydzieści pięć euro.",
+    "options": [
+      "e",
+      "mais",
+      "de"
+    ],
+    "answer": "e",
+    "fullItemId": "custa-trinta-e-cinco-euros",
+    "wrongExplanations": {
+      "mais": "„mais” = więcej. W liczbach używamy „e”.",
+      "de": "„de” = z, od. W liczbach używamy „e”."
+    },
+    "explanationPl": "Dziesiątki i jedności łączymy spójnikiem „e” (wym. „i”): trinta e cinco.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w03-l17-e06",
+    "type": "fillGap",
+    "sentencePt": "Custa doze ___.",
+    "sentencePl": "Kosztuje dwanaście euro.",
+    "options": [
+      "euros",
+      "euro"
+    ],
+    "answer": "euros",
+    "fullItemId": "custa-doze-euros",
+    "wrongExplanations": {
+      "euro": "Po polsku „dwanaście euro”, ale po portugalsku liczba mnoga: doze euros."
+    },
+    "explanationPl": "Po liczbie większej niż 1 — liczba mnoga: euros. (um euro, dois euros)",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w03-l17-e07",
+    "type": "buildSentence",
+    "targetItemId": "custa-doze-euros",
+    "tiles": [
+      "Custa",
+      "doze",
+      "euros"
+    ],
+    "distractors": [
+      "dois",
+      "Quanto"
+    ]
+  },
+  {
+    "id": "w03-l17-e08",
+    "type": "transform",
+    "baseItemId": "custa-doze-euros",
+    "instructionPl": "Jesteś przy kasie: podaj kwotę 20 euro tak, jak kasjer („São…”).",
+    "targetItemId": "sao-vinte-euros",
+    "tiles": [
+      "São",
+      "vinte",
+      "euros"
+    ],
+    "distractors": [
+      "Custa",
+      "doze"
+    ]
+  },
+  {
+    "id": "w03-l17-e09",
+    "type": "recallSay",
+    "targetItemId": "quanto-custa-q",
+    "promptPl": "Zapytaj o cenę."
+  },
+  {
+    "id": "w03-l17-e10",
+    "type": "recallSay",
+    "targetItemId": "dezenas-30-100",
+    "promptPl": "Policz dziesiątkami od 30 do 100."
+  },
+  {
+    "id": "w03-l17-e11",
+    "type": "typeAnswer",
+    "targetItemId": "quinze",
+    "promptPl": "Napisz: „piętnaście”."
+  },
+  {
+    "id": "w03-l18-e01",
+    "type": "listenChoose",
+    "targetItemId": "onde-mora-q",
+    "optionItemIds": [
+      "onde-mora-q",
+      "quantos-anos-tem-q",
+      "quanto-custa-q"
+    ],
+    "promptPl": "Posłuchaj. O co pyta?"
+  },
+  {
+    "id": "w03-l18-e02",
+    "type": "readChoose",
+    "targetItemId": "quantos-anos-tem-q",
+    "optionItemIds": [
+      "quantos-anos-tem-q",
+      "quanto-custa-q",
+      "onde-mora-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w03-l18-e03",
+    "type": "recallChoose",
+    "targetItemId": "moro-no-funchal",
+    "optionItemIds": [
+      "moro-no-funchal",
+      "estou-no-funchal",
+      "moro-na-madeira"
+    ],
+    "promptPl": "Wybierz: „Mieszkam w Funchal.”"
+  },
+  {
+    "id": "w03-l18-e04",
+    "type": "fillGap",
+    "sentencePt": "___ trinta e cinco anos.",
+    "sentencePl": "Mam trzydzieści pięć lat.",
+    "options": [
+      "Tenho",
+      "Sou",
+      "Estou"
+    ],
+    "answer": "Tenho",
+    "fullItemId": "tenho-trinta-e-cinco-anos",
+    "wrongExplanations": {
+      "Sou": "Po angielsku „I am 35”, ale po portugalsku — jak po polsku — „mam lat”: Tenho.",
+      "Estou": "„Estou” to stan lub miejsce. Wiek: Tenho … anos."
+    },
+    "explanationPl": "Wiek wyrażamy przez ter (mieć) — jak po polsku „mam … lat”.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w03-l18-e05",
+    "type": "fillGap",
+    "sentencePt": "Moro ___ Madeira.",
+    "sentencePl": "Mieszkam na Maderze.",
+    "options": [
+      "na",
+      "no",
+      "em"
+    ],
+    "answer": "na",
+    "fullItemId": "moro-na-madeira",
+    "wrongExplanations": {
+      "no": "no = em + o (męski), np. no Funchal. Madeira jest żeńska → na.",
+      "em": "Przed „a Madeira” em łączy się z rodzajnikiem: na."
+    },
+    "explanationPl": "a Madeira (żeńska) → em + a = na.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l18-e06",
+    "type": "fillGap",
+    "sentencePt": "___ anos tem?",
+    "sentencePl": "Ile ma lat?",
+    "options": [
+      "Quantos",
+      "Quanto"
+    ],
+    "answer": "Quantos",
+    "fullItemId": "quantos-anos-tem-q",
+    "wrongExplanations": {
+      "Quanto": "„quanto” bez rzeczownika (Quanto custa?). Przed „anos” → quantos."
+    },
+    "explanationPl": "„ile lat” — anos to rzeczownik męski w liczbie mnogiej → quantos.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-l18-e07",
+    "type": "buildSentence",
+    "targetItemId": "tenho-trinta-e-cinco-anos",
+    "tiles": [
+      "Tenho",
+      "trinta",
+      "e",
+      "cinco",
+      "anos"
+    ],
+    "distractors": [
+      "sou",
+      "de"
+    ]
+  },
+  {
+    "id": "w03-l18-e08",
+    "type": "transform",
+    "baseItemId": "onde-mora-q",
+    "instructionPl": "Zapytaj kolegę (ty).",
+    "targetItemId": "onde-moras-q",
+    "tiles": [
+      "Onde",
+      "moras"
+    ],
+    "distractors": [
+      "mora",
+      "moro"
+    ]
+  },
+  {
+    "id": "w03-l18-e09",
+    "type": "recallSay",
+    "targetItemId": "onde-mora-q",
+    "promptPl": "Zapytaj grzecznie nowego znajomego z pracy, gdzie mieszka."
+  },
+  {
+    "id": "w03-l18-e10",
+    "type": "recallSay",
+    "targetItemId": "tenho-trinta-e-cinco-anos",
+    "promptPl": "W urzędzie słyszysz: „Quantos anos tem?”. Odpowiedz (tu: 35 lat)."
+  },
+  {
+    "id": "w03-l18-e11",
+    "type": "typeAnswer",
+    "targetItemId": "moro",
+    "promptPl": "Napisz: „(ja) mieszkam”."
+  },
+  {
+    "id": "w03-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "querer-queremos",
+    "optionItemIds": [
+      "querer-quero",
+      "querer-queremos",
+      "querer-querem"
+    ]
+  },
+  {
+    "id": "w03-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "poder-podem",
+    "optionItemIds": [
+      "poder-posso",
+      "poder-podemos",
+      "poder-podem"
+    ]
+  },
+  {
+    "id": "w03-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "catorze",
+    "optionItemIds": [
+      "catorze",
+      "quarenta",
+      "quatro"
+    ]
+  },
+  {
+    "id": "w03-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "dezassete",
+    "optionItemIds": [
+      "dezassete",
+      "sete",
+      "setenta"
+    ]
+  },
+  {
+    "id": "w03-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "preciso-do-telemovel",
+    "optionItemIds": [
+      "preciso-do-telemovel",
+      "preciso-de-ajuda",
+      "preciso-de-um-medico"
+    ]
+  },
+  {
+    "id": "w03-t-e06",
+    "type": "readChoose",
+    "targetItemId": "podia-ajudar-me-sfv-q",
+    "optionItemIds": [
+      "podia-ajudar-me-sfv-q",
+      "posso-entrar-q",
+      "podes-repetir-q"
+    ]
+  },
+  {
+    "id": "w03-t-e07",
+    "type": "readChoose",
+    "targetItemId": "quantos-anos-tem-q",
+    "optionItemIds": [
+      "quantos-anos-tem-q",
+      "quanto-custa-q",
+      "onde-mora-q"
+    ]
+  },
+  {
+    "id": "w03-t-e08",
+    "type": "fillGap",
+    "sentencePt": "O carro é ___.",
+    "sentencePl": "Samochód jest nowy.",
+    "options": [
+      "novo",
+      "nova"
+    ],
+    "answer": "novo",
+    "fullItemId": "o-carro-e-novo",
+    "wrongExplanations": {
+      "nova": "„nova” — z rzeczownikami żeńskimi (a casa nova)."
+    },
+    "explanationPl": "o carro (męski) → novo.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-t-e09",
+    "type": "fillGap",
+    "sentencePt": "As casas são ___.",
+    "sentencePl": "Domy są małe.",
+    "options": [
+      "pequenas",
+      "pequena",
+      "pequenos"
+    ],
+    "answer": "pequenas",
+    "wrongExplanations": {
+      "pequena": "Brakuje -s (liczba mnoga).",
+      "pequenos": "-os to końcówka męska."
+    },
+    "explanationPl": "as casas (ż., l. mn.) → pequenas.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Preciso ___ telemóvel.",
+    "sentencePl": "Potrzebuję (mojego) telefonu.",
+    "options": [
+      "do",
+      "da",
+      "de"
+    ],
+    "answer": "do",
+    "fullItemId": "preciso-do-telemovel",
+    "wrongExplanations": {
+      "da": "Telemóvel jest męski → do.",
+      "de": "Konkretny telefon (z rodzajnikiem o) → de + o = do."
+    },
+    "explanationPl": "de + o (telemóvel) = do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w03-t-e11",
+    "type": "fillGap",
+    "sentencePt": "___ um chá, se faz favor.",
+    "sentencePl": "Poproszę herbatę.",
+    "options": [
+      "Queria",
+      "Quero"
+    ],
+    "answer": "Queria",
+    "fullItemId": "queria-um-cha-sfv",
+    "wrongExplanations": {
+      "Quero": "Poprawne, ale bezpośrednie („chcę”). Grzeczniej: Queria."
+    },
+    "explanationPl": "Przy ladzie grzecznie: Queria…",
+    "mistakeCategory": "politeness"
+  },
+  {
+    "id": "w03-t-e12",
+    "type": "fillGap",
+    "sentencePt": "Pode ___?",
+    "sentencePl": "Czy może mi Pan pomóc?",
+    "options": [
+      "ajudar-me",
+      "me ajudar"
+    ],
+    "answer": "ajudar-me",
+    "fullItemId": "pode-ajudar-me-q",
+    "wrongExplanations": {
+      "me ajudar": "Szyk brazylijski. W Portugalii: ajudar-me."
+    },
+    "explanationPl": "PT-PT: zaimek po czasowniku — ajudar-me.",
+    "mistakeCategory": "word-order"
+  },
+  {
+    "id": "w03-t-e13",
+    "type": "buildSentence",
+    "targetItemId": "tenho-trinta-e-cinco-anos",
+    "tiles": [
+      "Tenho",
+      "trinta",
+      "e",
+      "cinco",
+      "anos"
+    ],
+    "distractors": [
+      "Sou"
+    ]
+  },
+  {
+    "id": "w03-t-e14",
+    "type": "transform",
+    "baseItemId": "preciso-de-ajuda",
+    "instructionPl": "Zapytaj nieznajomego (Pan/Pani), czy potrzebuje pomocy.",
+    "targetItemId": "precisa-de-ajuda-q",
+    "tiles": [
+      "Precisa",
+      "de",
+      "ajuda"
+    ],
+    "distractors": [
+      "Preciso",
+      "do"
+    ]
+  },
+  {
+    "id": "w03-t-e15",
+    "type": "typeAnswer",
+    "targetItemId": "quanto-custa-q",
+    "promptPl": "Napisz: „Ile kosztuje?”"
+  },
+  {
+    "id": "w03-t-e16",
+    "type": "typeAnswer",
+    "targetItemId": "moro-no-funchal",
+    "promptPl": "Napisz: „Mieszkam w Funchal.”"
+  },
+  {
+    "id": "w03-t-e17",
+    "type": "recallChoose",
+    "targetItemId": "dezanove",
+    "optionItemIds": [
+      "dezanove",
+      "dezasseis",
+      "noventa"
+    ],
+    "promptPl": "Wybierz „dziewiętnaście”."
+  }
+]

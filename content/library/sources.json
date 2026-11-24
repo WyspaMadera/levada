@@ -1,0 +1,182 @@
+[
+  {
+    "id": "portuguese-with-leo",
+    "name": "Portuguese With Leo",
+    "kind": "youtube",
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "url": "https://www.portuguesewithleo.com/",
+    "descriptionPl": "Kanał YouTube i podcast Leonarda Coelho, lizbończyka uczącego portugalskiego europejskiego. Mówi wyraźnie i w umiarkowanym tempie, więc to dobry most między nagraniami dla uczących się a naturalną mową.",
+    "variant": "pt-PT",
+    "transcript": "yes",
+    "cost": "freemium",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Filmy i podcasty są darmowe; transkrypcje odcinków podcastu pobierzesz po bezpłatnej rejestracji w szkole autora na Teachable. Kursy (np. wymowa, B1) są płatne.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "practice-portuguese",
+    "name": "Practice Portuguese",
+    "kind": "podcast",
+    "levels": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "url": "https://www.practiceportuguese.com/",
+    "descriptionPl": "Serwis i podcast do nauki portugalskiego europejskiego z odcinkami audio i wideo na różnych poziomach, plus krótkie odcinki „Shorties”. Dobre do regularnego słuchania dialogów z życia w Portugalii.",
+    "variant": "pt-PT",
+    "transcript": "partial",
+    "cost": "freemium",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Audio i wideo odcinków są darmowe, ale większość transkrypcji jest dostępna tylko w płatnym członkostwie Premium.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "portuguese-lab",
+    "name": "Portuguese Lab Podcast",
+    "kind": "podcast",
+    "levels": [
+      "poczatkujacy",
+      "A1",
+      "A2"
+    ],
+    "url": "https://www.portugueselab.com/podcast",
+    "descriptionPl": "Podcast Susany Morais o portugalskim europejskim: gramatyka, słownictwo i praktyczne dialogi. Ma serie dla zupełnie początkujących (np. „Your first guided listening lesson”, „Listen & speak”).",
+    "variant": "pt-PT",
+    "transcript": "partial",
+    "cost": "freemium",
+    "approxTimePl": "seria lekcji słuchania dla początkujących",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Transkrypcje i tłumaczenia części odcinków są na stronie Portuguese Lab; niektóre serie (np. „Portuguese by Ear” po 8. lekcji) są tylko dla członków płatnej Portuguese Lab Academy.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "talk-the-streets",
+    "name": "Talk the Streets",
+    "kind": "website",
+    "levels": [
+      "poczatkujacy",
+      "A1",
+      "A2"
+    ],
+    "url": "https://www.talkthestreets.com/",
+    "descriptionPl": "Kanał YouTube i strona Liz Sharmy, nauczycielki mieszkającej w Portugalii, skupione na portugalskim europejskim, wymowie i rozumieniu prawdziwej mowy. Przydatne na start, żeby oswoić się z brzmieniem pt-PT.",
+    "variant": "pt-PT",
+    "transcript": "unknown",
+    "cost": "freemium",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Link prowadzi do strony autorki; kanał YouTube nosi tę samą nazwę. Filmy na YouTube są darmowe, kurs „Portuguese Pro” jest płatny.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "mia-esmeriz-academy",
+    "name": "Mia Esmeriz Academy",
+    "kind": "youtube",
+    "levels": [
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "url": "https://www.youtube.com/@MiaEsmerizAcademy",
+    "descriptionPl": "Kanał YouTube i podcast Mii Esmeriz o portugalskim europejskim, oparty na historiach i codziennych sytuacjach. Odcinki są oznaczane poziomem, więc łatwo dobrać coś dla siebie.",
+    "variant": "pt-PT",
+    "transcript": "unknown",
+    "cost": "freemium",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Kanał i podcast są ogólnodostępne; kursy w szkole online autorki są płatne (jest też darmowy kurs wprowadzający).",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "slow-portuguese-with-maria",
+    "name": "Slow Portuguese With Maria",
+    "kind": "podcast",
+    "levels": [
+      "poczatkujacy",
+      "A1",
+      "A2"
+    ],
+    "url": "https://podcasts.apple.com/podcast/id1773919035",
+    "descriptionPl": "Podcast Marii Amador, która mówi powoli i wyraźnie po portugalsku europejskim o słownictwie, gramatyce i życiu w Portugalii. Dobry do pierwszych prób słuchania całych wypowiedzi.",
+    "variant": "pt-PT",
+    "transcript": "unknown",
+    "cost": "unknown",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Link do Apple Podcasts; podcast jest też w innych aplikacjach (np. Pocket Casts). Autorka oferuje osobno płatne lekcje konwersacji.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "rtp-antena-1-madeira",
+    "name": "RTP Antena 1 Madeira",
+    "kind": "radio",
+    "levels": [
+      "naturalny",
+      "madera"
+    ],
+    "url": "https://www.rtp.pt/play/direto/antena1madeira",
+    "descriptionPl": "Regionalne radio publiczne grupy RTP z lokalnymi programami i informacjami z Madery, do słuchania na żywo w RTP Play. Trudne dla początkujących, ale świetne do osłuchania się z naturalną mową i z tematami, którymi żyje wyspa.",
+    "variant": "pt-PT",
+    "transcript": "no",
+    "cost": "free",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "To prawdziwe radio, nie materiał dydaktyczny: tempo jest naturalne. Zacznij od krótkich serwisów informacyjnych i nie zrażaj się, jeśli rozumiesz niewiele. Część czasu antena może nadawać program ogólnokrajowej Antena 1.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "rtp-ensina",
+    "name": "RTP Ensina",
+    "kind": "website",
+    "levels": [
+      "B1",
+      "naturalny"
+    ],
+    "url": "https://ensina.rtp.pt/",
+    "descriptionPl": "Edukacyjny serwis portugalskiego nadawcy publicznego RTP z materiałami audio i wideo dla szkół (historia, nauki, język portugalski). Krótkie filmy i podcasty z Portugalii to dobry materiał do słuchania na wyższym poziomie.",
+    "variant": "pt-PT",
+    "transcript": "unknown",
+    "cost": "unknown",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Materiały są tworzone dla portugalskich uczniów, nie dla obcokrajowców — bez uproszczeń językowych.",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "youglish-pt",
+    "name": "YouGlish (portugalski, PT)",
+    "kind": "tool",
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "naturalny"
+    ],
+    "url": "https://youglish.com/pronounce/portugu%C3%AAs/portuguese/pt",
+    "descriptionPl": "Wyszukiwarka wymowy, która pokazuje dane słowo w prawdziwych nagraniach wideo. Dla portugalskiego można wybrać wariant PT (europejski), żeby słyszeć wymowę z Portugalii.",
+    "variant": "mixed",
+    "transcript": "unknown",
+    "cost": "unknown",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Zawsze sprawdzaj, czy wybrany jest wariant PT, a nie BR (brazylijski).",
+    "verifiedHow": "search"
+  },
+  {
+    "id": "forvo",
+    "name": "Forvo",
+    "kind": "tool",
+    "levels": [
+      "poczatkujacy",
+      "A1",
+      "A2",
+      "B1"
+    ],
+    "url": "https://forvo.com/",
+    "descriptionPl": "Słownik wymowy z nagraniami pojedynczych słów i zwrotów wykonanymi przez rodzimych użytkowników. Przydatny, gdy chcesz usłyszeć konkretne słowo.",
+    "variant": "mixed",
+    "transcript": "no",
+    "cost": "free",
+    "verifiedAt": "2026-11-24",
+    "notesPl": "Nagrania pochodzą z różnych krajów — przy portugalskim wybieraj nagrania z akcentem „Portugal”, nie „Brazil”. Dla wielu słów nagrań z Portugalii jest mało, a ich jakość bywa różna (oceniają je użytkownicy).",
+    "verifiedHow": "search"
+  }
+]

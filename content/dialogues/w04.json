@@ -1,0 +1,235 @@
+[
+  {
+    "id": "w04-d19",
+    "titlePl": "Dokąd idziesz?",
+    "contextPl": "Spotykasz Anę na ulicy. Jesteście po imieniu (tu).",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-para-onde-vais-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "vou-ao-supermercado-e-tu"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "vou-a-praia-vamos-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "hoje-nao-posso-amanha-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "amanha-sim-ate-amanha"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-amanha"
+      }
+    ]
+  },
+  {
+    "id": "w04-d20",
+    "titlePl": "Gdzie jest kluczyk?",
+    "contextPl": "Jesteś u Any. Macie razem jechać do Câmara de Lobos, ale Ana nie może znaleźć kluczyka do samochodu.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "onde-esta-a-chave-do-carro-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-esta-na-mesa-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-nao-esta"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-na-cozinha-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-ah-esta-com-o-rui"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-onde-esta-o-rui-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "esta-no-trabalho"
+      }
+    ]
+  },
+  {
+    "id": "w04-d21",
+    "titlePl": "Środa czy czwartek?",
+    "contextPl": "Marta, wychowawczyni z przedszkola, chce się z Tobą umówić na krótką rozmowę. Rozmowa formalna.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "bom-dia-o-senhor-pode-na-quarta-feira-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "desculpe-na-quarta-feira-nao-posso"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-na-quinta-feira-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "quinta-feira-sim-posso"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "muito-bem-ate-quinta-feira"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-quinta-obrigado"
+      }
+    ]
+  },
+  {
+    "id": "w04-d22",
+    "titlePl": "O której na plażę?",
+    "contextPl": "Ana proponuje jutrzejsze wyjście na plażę. Jesteście po imieniu.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "vamos-a-praia-amanha-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-a-que-horas-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "as-dez-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "as-dez-nao-posso-ao-meio-dia-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ao-meio-dia-esta-bem"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-amanha"
+      }
+    ]
+  },
+  {
+    "id": "w04-d23",
+    "titlePl": "To mój syn",
+    "contextPl": "Idziesz z synem ulicą i spotykasz Anę. (W dialogu Tomek ma syna — w Twoich własnych odpowiedziach informacje o dzieciach są zawsze opcjonalne.)",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ola-ana-este-e-o-meu-filho"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ola-quantos-anos-tens-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ele-tem-cinco-anos"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-a-mae-esta-em-casa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-esta-no-trabalho"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "podes-ajudar-me-amanha-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "amanha-sim-posso-a-que-horas-q"
+      },
+      {
+        "speaker": "Ana",
+        "fem": true,
+        "itemId": "as-dez-obrigado"
+      }
+    ]
+  },
+  {
+    "id": "w04-d24",
+    "titlePl": "Rozmowa na festynie",
+    "contextPl": "Koniec pierwszego miesiąca. Na festynie w Câmara de Lobos spotykasz Martę. Rozmawiacie grzecznie (o senhor / a senhora). „O café do Rui” = kawiarnia Ruiego.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-como-esta"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "estou-bem-obrigado-e-a-senhora"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "bem-obrigada-de-onde-e-o-senhor-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sou-da-polonia-mas-moro-no-funchal"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "amanha-vou-ao-funchal-as-dez"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "eu-tambem-vamos-ao-cafe-do-rui-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "esta-bem-ate-amanha"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-amanha"
+      }
+    ]
+  }
+]

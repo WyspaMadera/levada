@@ -1,0 +1,238 @@
+[
+  {
+    "id": "w07-d37",
+    "titlePl": "Śniadanie u Ruiego",
+    "contextPl": "Rano wchodzisz z Aną do kawiarni Ruiego. Z Ruiem jesteście po imieniu, ale zamawiając, i tak mówisz grzecznie: „queria…, se faz favor”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "bom-dia-tudo-bem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "tudo-bem-obrigado-queria-um-galao-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "um-galao-e-para-comer-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "uma-torrada-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-para-a-ana-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "para-mim-um-sumo-de-laranja-e-um-pastel-de-nata"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "muito-bem"
+      }
+    ]
+  },
+  {
+    "id": "w07-d38",
+    "titlePl": "Jeszcze kawa i rachunek",
+    "contextPl": "Ciąg dalszy śniadania. Rui podchodzi do stolika. Ana jest kobietą, więc mówi „obrigada”. Ceny w dialogach są przykładowe.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "mais-alguma-coisa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "sim-mais-um-cafe-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-a-ana-mais-um-sumo-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-obrigado-um-copo-de-agua-sfv",
+        "fem": true
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-a-conta-sfv-quanto-e-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "sao-seis-euros"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "obrigado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w07-d39",
+    "titlePl": "Ile kosztują ciasta?",
+    "contextPl": "Stoisz przy witrynie z ciastami w kawiarni Ruiego. Ceny są przykładowe.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "quanto-custa-o-pastel-de-nata-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "custa-um-euro-e-vinte"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-os-bolos-quanto-custam-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "custam-dois-euros-cada"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "queria-um-pastel-de-nata-e-um-bolo-sfv",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "sao-tres-euros-e-vinte"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-barato-obrigado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w07-d40",
+    "titlePl": "Lista zakupów",
+    "contextPl": "Ana jedzie do supermarketu i pyta, czy coś Ci kupić. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "vou-ao-supermercado-precisas-de-alguma-coisa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "sim-sfv-um-quilo-de-bananas",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "um-quilo-de-bananas-mais-alguma-coisa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "meio-quilo-de-tomates-e-uma-garrafa-de-agua",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-queijo-tens-queijo-em-casa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "tenho-sim-e-tudo-obrigado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "esta-bem-ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w07-d41",
+    "titlePl": "Przy ladzie",
+    "contextPl": "W kawiarni Ruiego jest też lada z rzeczami na wynos. Z Ruiem jesteście po imieniu, więc pytasz „Tens…?”. W sklepie do sprzedawcy powiesz „Tem…?”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-posso-ajudar-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "tens-sumo-de-laranja-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "tenho-sim-aqui-esta"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "obrigado-e-quanto-custa-isto-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "custa-dois-euros-e-cinquenta"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "cs-posso-pagar-com-cartao",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "podes-sim"
+      }
+    ]
+  },
+  {
+    "id": "w07-d42",
+    "titlePl": "Kolacja po maderskiemu",
+    "contextPl": "Jesteś z Aną w restauracji. Ana pomaga Ci wybrać dania z karty. Poncha to napój alkoholowy.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "ana-o-que-e-a-espetada-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-de-carne-e-muito-boa"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-o-bolo-do-caco-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-pao-gosto-muito-de-bolo-do-caco"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "para-mim-uma-espetada-e-um-bolo-do-caco",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "eu-queria-o-peixe-espada-preto-queres-uma-poncha-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-obrigado-uma-agua-sfv",
+        "isLearner": true
+      }
+    ]
+  }
+]

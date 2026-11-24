@@ -1,0 +1,75 @@
+[
+  {
+    "id": "de-onde-e-q",
+    "kind": "sentence",
+    "pt": "De onde é?",
+    "pl": "Skąd Pan/Pani jest?",
+    "pronunciation": {
+      "plSlow": "dy Õ-dy E?",
+      "plNatural": "DJÕ-dy‿E?",
+      "ipa": "dɨ ˈõdɨ ɛ",
+      "notePl": "W szybkiej mowie „de onde” zlewa się w „djõdy”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "rozmowy",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fala-portugues-q",
+    "kind": "sentence",
+    "pt": "Fala português?",
+    "pl": "Czy mówi Pan/Pani po portugalsku?",
+    "pronunciation": {
+      "plSlow": "FA-lă pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "rozmowy",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-filhos-q",
+    "kind": "sentence",
+    "pt": "Tem filhos?",
+    "pl": "Ma Pan/Pani dzieci?",
+    "pronunciation": {
+      "plSlow": "TÃJ FI-ljusz?",
+      "ipa": "tɐ̃j̃ ˈfiʎuʃ",
+      "notePl": "„filhos” = synowie albo dzieci (ogólnie).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "rozmowy",
+      "pytania",
+      "rodzina"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-tenho-filhos",
+    "kind": "sentence",
+    "pt": "Não, não tenho filhos.",
+    "pl": "Nie, nie mam dzieci.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU TĂ-ńu FI-ljusz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "rozmowy",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  }
+]

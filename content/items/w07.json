@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "galao",
+    "kind": "word",
+    "pt": "galão",
+    "pl": "galão (kawa z mlekiem w wysokiej szklance)",
+    "pronunciation": {
+      "plSlow": "gă-LÃU",
+      "ipa": "ɡɐˈlɐ̃w̃",
+      "notePl": "ão = nosowe „ãu”; pierwsze a nieakcentowane (ă).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "Kawa z dużą ilością mleka, podawana w wysokiej szklance. Samo „um café” to małe, mocne espresso.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sumo-de-laranja",
+    "kind": "phrase",
+    "pt": "sumo de laranja",
+    "pl": "sok pomarańczowy",
+    "pronunciation": {
+      "plSlow": "SU-mu dy lă-RÃ-żă",
+      "ipa": "ˈsumu ðɨ lɐˈɾɐ̃ʒɐ",
+      "notePl": "an przed j = nosowe ã; j = ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "Sok to w Portugalii „o sumo” (słowo brazylijskie jest inne). Samo „sumo” = sok.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "leite",
+    "kind": "word",
+    "pt": "leite",
+    "pl": "mleko",
+    "pronunciation": {
+      "plSlow": "LĂJ-ty",
+      "ipa": "ˈlɐjtɨ",
+      "notePl": "ei = „ăj” (norma lizbońska; wariant „ej” też jest częsty i zrozumiały). Końcowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "o leite (męski). café com leite = kawa z mlekiem.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "torrada",
+    "kind": "word",
+    "pt": "torrada",
+    "pl": "grzanka, tost (zwykle z masłem)",
+    "pronunciation": {
+      "plSlow": "tu-RRA-dă",
+      "ipa": "tuˈʁaðɐ",
+      "notePl": "rr = mocne r; pierwsze o zredukowane do u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "a torrada — rodzaj żeński: uma torrada.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bolo",
+    "kind": "word",
+    "pt": "bolo",
+    "pl": "ciasto",
+    "pronunciation": {
+      "plSlow": "BÔ-lu",
+      "ipa": "ˈbolu",
+      "notePl": "Zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "o bolo — rodzaj męski; l.mn. os bolos.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pastel-de-nata",
+    "kind": "phrase",
+    "pt": "pastel de nata",
+    "pl": "pastel de nata (babeczka z kremem)",
+    "pronunciation": {
+      "plSlow": "păsz-TEɫ dy NA-tă",
+      "ipa": "pɐʃˈtɛɫ ðɨ ˈnatɐ",
+      "notePl": "s przed t = sz; końcowe l = ciemne ɫ (to nie jest polskie ł); otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "o pastel de nata (męski) — babeczka z ciasta francuskiego z kremem. L.mn.: os pastéis de nata.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-mim",
+    "kind": "phrase",
+    "pt": "para mim",
+    "pl": "dla mnie",
+    "pronunciation": {
+      "plSlow": "PĂ-ră MĨ",
+      "ipa": "ˈpɐɾɐ ˈmĩ",
+      "notePl": "mim — nosowe ĩ, bez wyraźnego „m” na końcu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "Zamawiając, zwłaszcza w grupie: Para mim, um café. (Dla mnie kawa.)",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-um-galao-sfv",
+    "kind": "sentence",
+    "pt": "Queria um galão, se faz favor.",
+    "pl": "Poproszę galão. (dosł. Chciałbym / chciałabym galão.)",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ũ gă-LÃU, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-mim-um-cafe",
+    "kind": "sentence",
+    "pt": "Para mim, um café.",
+    "pl": "Dla mnie kawa.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră MĨ, ũ kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-sumo-de-laranja-sfv",
+    "kind": "sentence",
+    "pt": "Um sumo de laranja, se faz favor.",
+    "pl": "Sok pomarańczowy, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ SU-mu dy lă-RÃ-żă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-galao-e-cafe-com-leite",
+    "kind": "sentence",
+    "pt": "Um galão é café com leite.",
+    "pl": "Galão to kawa z mlekiem.",
+    "pronunciation": {
+      "plSlow": "ũ gă-LÃU E kă-FE kõ LĂJ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-uma-torrada-e-um-cha",
+    "kind": "sentence",
+    "pt": "Queria uma torrada e um chá.",
+    "pl": "Poproszę grzankę i herbatę.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă U-mă tu-RRA-dă i ũ SZA.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-bolo-aqui-e-muito-bom",
+    "kind": "sentence",
+    "pt": "O bolo aqui é muito bom!",
+    "pl": "Ciasto jest tu bardzo dobre!",
+    "pronunciation": {
+      "plSlow": "u BÔ-lu ă-KI E MŨJ-tu BÕ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-tudo-bem-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Tudo bem?",
+    "pl": "Dzień dobry! Wszystko w porządku?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! TU-du BÃJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tudo-bem-obrigado-queria-um-galao-sfv",
+    "kind": "sentence",
+    "pt": "Tudo bem, obrigado. Queria um galão, se faz favor.",
+    "ptFem": "Tudo bem, obrigada. Queria um galão, se faz favor.",
+    "pl": "Wszystko dobrze, dziękuję. Poproszę galão.",
+    "pronunciation": {
+      "plSlow": "TU-du BÃJ, o-bri-GA-du. ky-RI-ă ũ gă-LÃU, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "TU-du BÃJ, o-bri-GA-dă. ky-RI-ă ũ gă-LÃU, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-galao-e-para-comer-q",
+    "kind": "sentence",
+    "pt": "Um galão. E para comer?",
+    "pl": "Galão. A do jedzenia?",
+    "pronunciation": {
+      "plSlow": "ũ gă-LÃU. i PĂ-ră ku-MÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-para-comer-q",
+    "kind": "sentence",
+    "pt": "E para comer?",
+    "pl": "A do jedzenia? (Coś do jedzenia?)",
+    "pronunciation": {
+      "plSlow": "i PĂ-ră ku-MÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma-torrada-sfv",
+    "kind": "sentence",
+    "pt": "Uma torrada, se faz favor.",
+    "pl": "Grzankę, proszę.",
+    "pronunciation": {
+      "plSlow": "U-mă tu-RRA-dă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-pastel-de-nata-sfv",
+    "kind": "sentence",
+    "pt": "Um pastel de nata, se faz favor.",
+    "pl": "Pastel de nata, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ păsz-TEɫ dy NA-tă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-para-a-ana-q",
+    "kind": "sentence",
+    "pt": "E para a Ana?",
+    "pl": "A dla Any?",
+    "pronunciation": {
+      "plSlow": "i PĂ-ră ă Ă-nă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-mim-um-sumo-de-laranja-e-um-pastel-de-nata",
+    "kind": "sentence",
+    "pt": "Para mim, um sumo de laranja e um pastel de nata.",
+    "pl": "Dla mnie sok pomarańczowy i pastel de nata.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră MĨ, ũ SU-mu dy lă-RÃ-żă i ũ păsz-TEɫ dy NA-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-um",
+    "kind": "phrase",
+    "pt": "mais um…",
+    "pl": "jeszcze jeden / jedną… (r. męski)",
+    "tts": "mais um",
+    "pronunciation": {
+      "plSlow": "MAJZ Ũ …",
+      "ipa": "majz ˈũ",
+      "notePl": "s przed samogłoską brzmi jak z: „MAJZ Ũ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "Mais um café = jeszcze jedną kawę. Liczy się rodzaj rzeczy: o café → mais um.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-uma",
+    "kind": "phrase",
+    "pt": "mais uma…",
+    "pl": "jeszcze jedna / jedną… (r. żeński)",
+    "tts": "mais uma",
+    "pronunciation": {
+      "plSlow": "MAJZ U-mă …",
+      "ipa": "majz ˈumɐ",
+      "notePl": "s przed samogłoską brzmi jak z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "Mais uma água = jeszcze jedną wodę (a água — żeńska).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-alguma-coisa-q",
+    "kind": "phrase",
+    "pt": "Mais alguma coisa?",
+    "pl": "Coś jeszcze? (Czy podać coś jeszcze?)",
+    "pronunciation": {
+      "plSlow": "MAJZ aɫ-GU-mă KÔJ-ză?",
+      "ipa": "majz aɫˈɣumɐ ˈkojzɐ",
+      "notePl": "mais przed samogłoską → „MAJZ”; alguma — ciemne ɫ; coisa — „KÔJ-ză”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie",
+      "zakupy"
+    ],
+    "usagePl": "Typowe pytanie kelnera lub sprzedawcy. Odpowiedzi: Não, é tudo, obrigado. / Sim, mais um café, se faz favor.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "copo",
+    "kind": "word",
+    "pt": "copo",
+    "pl": "szklanka",
+    "pronunciation": {
+      "plSlow": "KO-pu",
+      "ipa": "ˈkɔpu",
+      "notePl": "Otwarte o (jak w polskim „kot”); końcowe o = u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "um copo de água = szklanka wody.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-e-q",
+    "kind": "phrase",
+    "pt": "Quanto é?",
+    "pl": "Ile płacę? / Ile to razem?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu E?",
+      "ipa": "ˈkwɐ̃tu ˈɛ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie",
+      "zakupy"
+    ],
+    "usagePl": "Przy płaceniu, za całość. „Quanto custa…?” — pytanie o cenę jednej rzeczy.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Mais um café, se faz favor.",
+    "pl": "Jeszcze jedną kawę, proszę.",
+    "pronunciation": {
+      "plSlow": "MAJZ Ũ kă-FE, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-uma-agua-sfv",
+    "kind": "sentence",
+    "pt": "Mais uma água, se faz favor.",
+    "pl": "Jeszcze jedną wodę, proszę.",
+    "pronunciation": {
+      "plSlow": "MAJZ U-mă A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-copo-de-agua-sfv",
+    "kind": "sentence",
+    "pt": "Um copo de água, se faz favor.",
+    "pl": "Szklankę wody, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ KO-pu dy A-guă, sy FASZ fă-WÔR.",
+      "plNatural": "ũ KO-pu DA-guă, sy FASZ fă-WÔR.",
+      "notePl": "„de água” w mowie naturalnej często zlewa się w „DA-guă”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-e-tudo-obrigado",
+    "kind": "sentence",
+    "pt": "Não, é tudo, obrigado.",
+    "ptFem": "Não, é tudo, obrigada.",
+    "pl": "Nie, to wszystko, dziękuję.",
+    "pronunciation": {
+      "plSlow": "NÃU, E TU-du, o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, E TU-du, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-seis-euros",
+    "kind": "sentence",
+    "pt": "São seis euros.",
+    "pl": "Razem sześć euro.",
+    "pronunciation": {
+      "plSlow": "SÃU SĂJZ ÊU-rusz.",
+      "notePl": "seis przed samogłoską: s → z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-mais-um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Sim, mais um café, se faz favor.",
+    "pl": "Tak, jeszcze jedną kawę, proszę.",
+    "pronunciation": {
+      "plSlow": "SĨ, MAJZ Ũ kă-FE, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-ana-mais-um-sumo-q",
+    "kind": "sentence",
+    "pt": "E a Ana? Mais um sumo?",
+    "pl": "A Ana? Jeszcze jeden sok?",
+    "pronunciation": {
+      "plSlow": "i ă Ă-nă? MAJZ Ũ SU-mu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-obrigado-um-copo-de-agua-sfv",
+    "kind": "sentence",
+    "pt": "Não, obrigado. Um copo de água, se faz favor.",
+    "ptFem": "Não, obrigada. Um copo de água, se faz favor.",
+    "pl": "Nie, dziękuję. Szklankę wody, proszę.",
+    "pronunciation": {
+      "plSlow": "NÃU, o-bri-GA-du. ũ KO-pu dy A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, o-bri-GA-dă. ũ KO-pu dy A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-conta-sfv-quanto-e-q",
+    "kind": "sentence",
+    "pt": "E a conta, se faz favor. Quanto é?",
+    "pl": "I rachunek, proszę. Ile płacę?",
+    "pronunciation": {
+      "plSlow": "i ă KÕ-tă, sy FASZ fă-WÔR. KUÃ-tu E?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "centimos",
+    "kind": "word",
+    "pt": "cêntimos",
+    "pl": "centy (eurocenty)",
+    "pronunciation": {
+      "plSlow": "SẼ-ti-musz",
+      "ipa": "ˈsẽtimuʃ",
+      "notePl": "ên = nosowe ẽ; akcent na pierwszej sylabie (ê).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "usagePl": "1 euro = 100 cêntimos. Przy cenach „cêntimos” zwykle się pomija: dois euros e cinquenta (2,50 €).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "preco",
+    "kind": "word",
+    "pt": "preço",
+    "pl": "cena",
+    "pronunciation": {
+      "plSlow": "PRÊ-su",
+      "ipa": "ˈpɾesu",
+      "notePl": "ç = s; zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "usagePl": "o preço — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custam-q",
+    "kind": "phrase",
+    "pt": "Quanto custam?",
+    "pl": "Ile kosztują?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tãu?",
+      "ipa": "ˈkwɐ̃tu ˈkuʃtɐ̃w̃",
+      "notePl": "-am na końcu = nosowe „ãu” (jak w „falam”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby",
+      "pytania"
+    ],
+    "usagePl": "O kilku rzeczach: Quanto custam os bolos? O jednej: Quanto custa o bolo?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "barato",
+    "kind": "word",
+    "pt": "barato",
+    "ptFem": "barata",
+    "pl": "tani",
+    "plFem": "tania",
+    "pronunciation": {
+      "plSlow": "bă-RA-tu",
+      "ipa": "bɐˈɾatu",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "bă-RA-tă",
+      "ipa": "bɐˈɾatɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "usagePl": "É barato! = (To) tanie! Przeciwieństwo: caro / cara (drogi / droga).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cada",
+    "kind": "word",
+    "pt": "cada",
+    "pl": "każdy; za sztukę",
+    "pronunciation": {
+      "plSlow": "KĂ-dă",
+      "ipa": "ˈkɐðɐ",
+      "notePl": "Akcentowane a brzmi tu zwykle jak „ă” — do sprawdzenia ze słuchu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "usagePl": "Custam dois euros cada. = Kosztują po dwa euro (za sztukę). „cada” się nie odmienia.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custa-um-euro-e-vinte",
+    "kind": "sentence",
+    "pt": "Custa um euro e vinte.",
+    "pl": "Kosztuje euro dwadzieścia (1,20 €).",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă ũ ÊU-ru i WĨ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-dois-euros-e-cinquenta",
+    "kind": "sentence",
+    "pt": "São dois euros e cinquenta.",
+    "pl": "Razem dwa euro pięćdziesiąt (2,50 €).",
+    "pronunciation": {
+      "plSlow": "SÃU DÔJZ ÊU-ruz i sĩ-KUẼ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custa-cinquenta-centimos",
+    "kind": "sentence",
+    "pt": "Custa cinquenta cêntimos.",
+    "pl": "Kosztuje pięćdziesiąt centów.",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă sĩ-KUẼ-tă SẼ-ti-musz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custam-os-bolos-q",
+    "kind": "sentence",
+    "pt": "Quanto custam os bolos?",
+    "pl": "Ile kosztują ciasta?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tãu uż BÔ-lusz?",
+      "notePl": "os przed dźwięcznym b → „uż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custam-dois-euros-cada",
+    "kind": "sentence",
+    "pt": "Custam dois euros cada.",
+    "pl": "Kosztują po dwa euro (za sztukę).",
+    "pronunciation": {
+      "plSlow": "KUSZ-tãu DÔJZ ÊU-rusz KĂ-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-muito-caro",
+    "kind": "sentence",
+    "pt": "É muito caro!",
+    "pl": "To bardzo drogie!",
+    "pronunciation": {
+      "plSlow": "E MŨJ-tu KA-ru!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-barato",
+    "kind": "sentence",
+    "pt": "É barato!",
+    "pl": "To tanie!",
+    "pronunciation": {
+      "plSlow": "E bă-RA-tu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-preco-e-bom",
+    "kind": "sentence",
+    "pt": "O preço é bom.",
+    "pl": "Cena jest dobra.",
+    "pronunciation": {
+      "plSlow": "u PRÊ-su E BÕ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custa-o-pastel-de-nata-q",
+    "kind": "sentence",
+    "pt": "Quanto custa o pastel de nata?",
+    "pl": "Ile kosztuje pastel de nata?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă u păsz-TEɫ dy NA-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-os-bolos-quanto-custam-q",
+    "kind": "sentence",
+    "pt": "E os bolos? Quanto custam?",
+    "pl": "A ciasta? Ile kosztują?",
+    "pronunciation": {
+      "plSlow": "i uż BÔ-lusz? KUÃ-tu KUSZ-tãu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queria-um-pastel-de-nata-e-um-bolo-sfv",
+    "kind": "sentence",
+    "pt": "Queria um pastel de nata e um bolo, se faz favor.",
+    "pl": "Poproszę pastel de nata i ciasto.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ũ păsz-TEɫ dy NA-tă i ũ BÔ-lu, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-tres-euros-e-vinte",
+    "kind": "sentence",
+    "pt": "São três euros e vinte.",
+    "pl": "Razem trzy euro dwadzieścia (3,20 €).",
+    "pronunciation": {
+      "plSlow": "SÃU TRÊZ ÊU-ruz i WĨ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-barato-obrigado",
+    "kind": "sentence",
+    "pt": "É barato! Obrigado.",
+    "ptFem": "É barato! Obrigada.",
+    "pl": "Tanio! Dziękuję.",
+    "pronunciation": {
+      "plSlow": "E bă-RA-tu! o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "E bă-RA-tu! o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-quilo-de",
+    "kind": "phrase",
+    "pt": "um quilo de…",
+    "pl": "kilogram… (kilo)",
+    "tts": "um quilo de",
+    "pronunciation": {
+      "plSlow": "ũ KI-lu dy …",
+      "ipa": "ũ ˈkilu ðɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "Po ilości: de + rzeczownik bez rodzajnika: um quilo de bananas (kilo bananów).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meio-quilo-de",
+    "kind": "phrase",
+    "pt": "meio quilo de…",
+    "pl": "pół kilo…",
+    "tts": "meio quilo de",
+    "pronunciation": {
+      "plSlow": "MĂJ-u KI-lu dy …",
+      "ipa": "ˈmɐju ˈkilu ðɨ",
+      "notePl": "meio — jak w „meio-dia”: „MĂJ-u”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "meio = pół — przed rzeczownikiem męskim (meio quilo); meia — przed żeńskim (meia hora).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma-garrafa-de",
+    "kind": "phrase",
+    "pt": "uma garrafa de…",
+    "pl": "butelka…",
+    "tts": "uma garrafa de",
+    "pronunciation": {
+      "plSlow": "U-mă gă-RRA-fă dy …",
+      "ipa": "ˈumɐ ɡɐˈʁafɐ ðɨ",
+      "notePl": "rr = mocne r.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "a garrafa (żeńska): uma garrafa de água = butelka wody.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bananas",
+    "kind": "word",
+    "pt": "bananas",
+    "pl": "banany",
+    "pronunciation": {
+      "plSlow": "bă-NĂ-năsz",
+      "ipa": "bɐˈnɐnɐʃ",
+      "notePl": "Akcentowane a przed n brzmi jak „ă”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "jedzenie"
+    ],
+    "usagePl": "a banana, as bananas.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tomates",
+    "kind": "word",
+    "pt": "tomates",
+    "pl": "pomidory",
+    "pronunciation": {
+      "plSlow": "tu-MA-tysz",
+      "ipa": "tuˈmatɨʃ",
+      "notePl": "Pierwsze o zredukowane do u; końcowe -es = „ysz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "jedzenie"
+    ],
+    "usagePl": "o tomate, os tomates.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "queijo",
+    "kind": "word",
+    "pt": "queijo",
+    "pl": "ser",
+    "pronunciation": {
+      "plSlow": "KĂJ-żu",
+      "ipa": "ˈkɐjʒu",
+      "notePl": "qu = k; ei = „ăj” (norma lizbońska); j = ż.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "jedzenie"
+    ],
+    "usagePl": "o queijo — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-quilo-de-bananas-sfv",
+    "kind": "sentence",
+    "pt": "Um quilo de bananas, se faz favor.",
+    "pl": "Kilo bananów, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ KI-lu dy bă-NĂ-năsz, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meio-quilo-de-bananas-sfv",
+    "kind": "sentence",
+    "pt": "Meio quilo de bananas, se faz favor.",
+    "pl": "Pół kilo bananów, proszę.",
+    "pronunciation": {
+      "plSlow": "MĂJ-u KI-lu dy bă-NĂ-năsz, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meio-quilo-de-tomates",
+    "kind": "sentence",
+    "pt": "Meio quilo de tomates.",
+    "pl": "Pół kilo pomidorów.",
+    "pronunciation": {
+      "plSlow": "MĂJ-u KI-lu dy tu-MA-tysz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "uma-garrafa-de-agua",
+    "kind": "sentence",
+    "pt": "Uma garrafa de água.",
+    "pl": "Butelka wody.",
+    "pronunciation": {
+      "plSlow": "U-mă gă-RRA-fă dy A-guă.",
+      "plNatural": "U-mă gă-RRA-fă DA-guă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custa-o-queijo-q",
+    "kind": "sentence",
+    "pt": "Quanto custa o queijo?",
+    "pl": "Ile kosztuje ser?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă u KĂJ-żu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-quilo-de-bananas-custa-dois-euros",
+    "kind": "sentence",
+    "pt": "O quilo de bananas custa dois euros.",
+    "pl": "Kilo bananów kosztuje dwa euro.",
+    "pronunciation": {
+      "plSlow": "u KI-lu dy bă-NĂ-năsz KUSZ-tă DÔJZ ÊU-rusz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-queijo-e-pao-em-casa",
+    "kind": "sentence",
+    "pt": "Tenho queijo e pão em casa.",
+    "pl": "Mam w domu ser i chleb.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu KĂJ-żu i PÃU ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ao-supermercado-precisas-de-alguma-coisa-q",
+    "kind": "sentence",
+    "pt": "Vou ao supermercado. Precisas de alguma coisa?",
+    "pl": "Jadę do supermarketu. Potrzebujesz czegoś?",
+    "pronunciation": {
+      "plSlow": "WÔ au su-per-myr-KA-du. pry-SI-zăż dy aɫ-GU-mă KÔJ-ză?",
+      "notePl": "precisas przed dźwięcznym d → „zăż”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-sfv-um-quilo-de-bananas",
+    "kind": "sentence",
+    "pt": "Sim, se faz favor! Um quilo de bananas.",
+    "pl": "Tak, proszę! Kilo bananów.",
+    "pronunciation": {
+      "plSlow": "SĨ, sy FASZ fă-WÔR! ũ KI-lu dy bă-NĂ-năsz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-quilo-de-bananas-mais-alguma-coisa-q",
+    "kind": "sentence",
+    "pt": "Um quilo de bananas. Mais alguma coisa?",
+    "pl": "Kilo bananów. Coś jeszcze?",
+    "pronunciation": {
+      "plSlow": "ũ KI-lu dy bă-NĂ-năsz. MAJZ aɫ-GU-mă KÔJ-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meio-quilo-de-tomates-e-uma-garrafa-de-agua",
+    "kind": "sentence",
+    "pt": "Meio quilo de tomates e uma garrafa de água.",
+    "pl": "Pół kilo pomidorów i butelkę wody.",
+    "pronunciation": {
+      "plSlow": "MĂJ-u KI-lu dy tu-MA-tyz i U-mă gă-RRA-fă dy A-guă.",
+      "notePl": "tomates przed samogłoską („i”) → „tyz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-queijo-tens-queijo-em-casa-q",
+    "kind": "sentence",
+    "pt": "E queijo? Tens queijo em casa?",
+    "pl": "A ser? Masz ser w domu?",
+    "pronunciation": {
+      "plSlow": "i KĂJ-żu? TÃJSZ KĂJ-żu ãj KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-sim-e-tudo-obrigado",
+    "kind": "sentence",
+    "pt": "Tenho, sim. É tudo, obrigado!",
+    "ptFem": "Tenho, sim. É tudo, obrigada!",
+    "pl": "Mam. To wszystko, dzięki!",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu, SĨ. E TU-du, o-bri-GA-du!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "TĂ-ńu, SĨ. E TU-du, o-bri-GA-dă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-bem-ate-logo",
+    "kind": "sentence",
+    "pt": "Está bem! Até logo!",
+    "pl": "Dobrze! Na razie!",
+    "pronunciation": {
+      "plSlow": "ysz-TA BÃJ! ă-TE LO-gu!",
+      "plNatural": "SZTA BÃJ! ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "posso-ajudar-q",
+    "kind": "phrase",
+    "pt": "Posso ajudar?",
+    "pl": "W czym mogę pomóc? (dosł. Mogę pomóc?)",
+    "pronunciation": {
+      "plSlow": "PO-su ă-żu-DAR?",
+      "ipa": "ˈpɔsu ɐʒuˈðaɾ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "Tak zwykle zaczyna sprzedawca. Odpowiedzi: Só estou a ver, obrigado. / Tem…?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-q",
+    "kind": "phrase",
+    "pt": "Tem…?",
+    "pl": "Czy ma Pan / Pani…? Czy jest…?",
+    "tts": "Tem?",
+    "pronunciation": {
+      "plSlow": "TÃJ …?",
+      "ipa": "tɐ̃j̃",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "usagePl": "W sklepie, zwykle bez rodzajnika: Tem pão? Tem bananas? Do znajomego: Tens…?",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "isto",
+    "kind": "word",
+    "pt": "isto",
+    "pl": "to (ta rzecz tutaj)",
+    "pronunciation": {
+      "plSlow": "ISZ-tu",
+      "ipa": "ˈiʃtu",
+      "notePl": "s przed t = sz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "Pokazując rzecz: Quanto custa isto? = Ile to kosztuje? „isto” się nie odmienia.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "aqui-esta",
+    "kind": "phrase",
+    "pt": "Aqui está.",
+    "pl": "Proszę (podając coś). / Oto jest.",
+    "pronunciation": {
+      "plSlow": "ă-KI ysz-TA.",
+      "plNatural": "ă-KI‿SZTA.",
+      "ipa": "ɐˈki ɨʃˈta",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "usagePl": "Mówimy, podając pieniądze, kartę albo towar.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quanto-custa-isto-q",
+    "kind": "sentence",
+    "pt": "Quanto custa isto?",
+    "pl": "Ile to kosztuje?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă ISZ-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-pao-q",
+    "kind": "sentence",
+    "pt": "Tem pão?",
+    "pl": "Czy jest chleb? (Ma Pan / Pani chleb?)",
+    "pronunciation": {
+      "plSlow": "TÃJ PÃU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tem-sumo-de-laranja-q",
+    "kind": "sentence",
+    "pt": "Tem sumo de laranja?",
+    "pl": "Czy jest sok pomarańczowy?",
+    "pronunciation": {
+      "plSlow": "TÃJ SU-mu dy lă-RÃ-żă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tens-sumo-de-laranja-q",
+    "kind": "sentence",
+    "pt": "Tens sumo de laranja?",
+    "pl": "Masz sok pomarańczowy?",
+    "pronunciation": {
+      "plSlow": "TÃJSZ SU-mu dy lă-RÃ-żă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tenho-sim-aqui-esta",
+    "kind": "sentence",
+    "pt": "Tenho, sim. Aqui está.",
+    "pl": "Tak, mam. Proszę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu, SĨ. ă-KI ysz-TA.",
+      "plNatural": "TĂ-ńu, SĨ. ă-KI‿SZTA.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-sim",
+    "kind": "sentence",
+    "pt": "Pode, sim.",
+    "pl": "Tak, może Pan / Pani.",
+    "pronunciation": {
+      "plSlow": "PO-dy, SĨ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-posso-ajudar-q",
+    "kind": "sentence",
+    "pt": "Olá! Posso ajudar?",
+    "pl": "Cześć! W czym mogę pomóc?",
+    "pronunciation": {
+      "plSlow": "o-LA! PO-su ă-żu-DAR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado-e-quanto-custa-isto-q",
+    "kind": "sentence",
+    "pt": "Obrigado. E quanto custa isto?",
+    "ptFem": "Obrigada. E quanto custa isto?",
+    "pl": "Dzięki. A ile kosztuje to?",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du. i KUÃ-tu KUSZ-tă ISZ-tu?",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă. i KUÃ-tu KUSZ-tă ISZ-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "custa-dois-euros-e-cinquenta",
+    "kind": "sentence",
+    "pt": "Custa dois euros e cinquenta.",
+    "pl": "Kosztuje dwa euro pięćdziesiąt.",
+    "pronunciation": {
+      "plSlow": "KUSZ-tă DÔJZ ÊU-ruz i sĩ-KUẼ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy",
+      "liczby"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podes-sim",
+    "kind": "sentence",
+    "pt": "Podes, sim!",
+    "pl": "Jasne, możesz!",
+    "pronunciation": {
+      "plSlow": "PO-dysz, SĨ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "zakupy"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bolo-do-caco",
+    "kind": "phrase",
+    "pt": "bolo do caco",
+    "pl": "bolo do caco (płaski, okrągły chlebek z Madery)",
+    "pronunciation": {
+      "plSlow": "BÔ-lu du KA-ku",
+      "ipa": "ˈbolu ðu ˈkaku",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "usagePl": "Typowe pieczywo Madery. Choć „bolo” zwykle znaczy „ciasto”, bolo do caco to chlebek, nie słodkie ciasto. Często podawany na ciepło z masłem czosnkowym.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "espetada",
+    "kind": "word",
+    "pt": "espetada",
+    "pl": "espetada (szaszłyk mięsny)",
+    "pronunciation": {
+      "plSlow": "ysz-py-TA-dă",
+      "ipa": "ɨʃpɨˈtaðɐ",
+      "notePl": "Początkowe e prawie znika; s przed p = sz; drugie e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "usagePl": "a espetada — popularne danie na Maderze: szaszłyk, zwykle z wołowiny.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peixe-espada-preto",
+    "kind": "phrase",
+    "pt": "peixe-espada-preto",
+    "pl": "pałasz czarny (ryba)",
+    "pronunciation": {
+      "plSlow": "PĂJ-szy ysz-PA-dă PRÊ-tu",
+      "ipa": "ˈpɐjʃɨ ɨʃˈpaðɐ ˈpɾetu",
+      "notePl": "ei = „ăj”; x = sz; preto — zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "usagePl": "o peixe-espada-preto — ciemna ryba z głębin, często w maderskich restauracjach. W kartach dań nazwa bywa zapisywana bez łączników.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "poncha",
+    "kind": "word",
+    "pt": "poncha",
+    "pl": "poncha (napój alkoholowy)",
+    "pronunciation": {
+      "plSlow": "PÕ-sză",
+      "ipa": "ˈpõʃɐ",
+      "notePl": "on przed ch = nosowe õ; ch = sz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "usagePl": "a poncha — tradycyjny maderski napój ALKOHOLOWY (zwykle z alkoholu z trzciny cukrowej, miodu i soku z cytryny). Nie dla dzieci i nie przed jazdą.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "peixe",
+    "kind": "word",
+    "pt": "peixe",
+    "pl": "ryba (jako jedzenie i zwierzę)",
+    "pronunciation": {
+      "plSlow": "PĂJ-szy",
+      "ipa": "ˈpɐjʃɨ",
+      "notePl": "ei = „ăj”; x = sz; końcowe e zredukowane.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie"
+    ],
+    "usagePl": "o peixe — rodzaj męski.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carne",
+    "kind": "word",
+    "pt": "carne",
+    "pl": "mięso",
+    "pronunciation": {
+      "plSlow": "KAR-ny",
+      "ipa": "ˈkaɾnɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie"
+    ],
+    "usagePl": "a carne — rodzaj żeński.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-espetada-e-de-carne",
+    "kind": "sentence",
+    "pt": "A espetada é de carne.",
+    "pl": "Espetada jest z mięsa.",
+    "pronunciation": {
+      "plSlow": "ă ysz-py-TA-dă E dy KAR-ny.",
+      "notePl": "é de carne = jest z mięsa (z czego zrobione).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-bolo-do-caco-e-pao",
+    "kind": "sentence",
+    "pt": "O bolo do caco é pão.",
+    "pl": "Bolo do caco to pieczywo (chleb).",
+    "pronunciation": {
+      "plSlow": "u BÔ-lu du KA-ku E PÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-muito-de-peixe",
+    "kind": "sentence",
+    "pt": "Gosto muito de peixe.",
+    "pl": "Bardzo lubię ryby.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MŨJ-tu dy PĂJ-szy.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "gosto-muito-de-carne-e-de-peixe",
+    "kind": "sentence",
+    "pt": "Gosto muito de carne e de peixe.",
+    "pl": "Bardzo lubię mięso i ryby.",
+    "pronunciation": {
+      "plSlow": "GOSZ-tu MŨJ-tu dy KAR-ny i dy PĂJ-szy.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "gostar"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-bebo-poncha",
+    "kind": "sentence",
+    "pt": "Não bebo poncha.",
+    "pl": "Nie piję ponchy.",
+    "pronunciation": {
+      "plSlow": "NÃU BÊ-bu PÕ-sză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-mim-uma-espetada-sfv",
+    "kind": "sentence",
+    "pt": "Para mim, uma espetada, se faz favor.",
+    "pl": "Dla mnie espetadę, proszę.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră MĨ, U-mă ysz-py-TA-dă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ana-o-que-e-a-espetada-q",
+    "kind": "sentence",
+    "pt": "Ana, o que é a espetada?",
+    "pl": "Ano, co to jest espetada?",
+    "pronunciation": {
+      "plSlow": "Ă-nă, u ky E ă ysz-py-TA-dă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-de-carne-e-muito-boa",
+    "kind": "sentence",
+    "pt": "É de carne. É muito boa!",
+    "pl": "Jest z mięsa. Jest bardzo dobra!",
+    "pronunciation": {
+      "plSlow": "E dy KAR-ny. E MŨJ-tu BÔ-ă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-bolo-do-caco-q",
+    "kind": "sentence",
+    "pt": "E o bolo do caco?",
+    "pl": "A bolo do caco?",
+    "pronunciation": {
+      "plSlow": "i u BÔ-lu du KA-ku?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-pao-gosto-muito-de-bolo-do-caco",
+    "kind": "sentence",
+    "pt": "É pão. Gosto muito de bolo do caco!",
+    "pl": "To chlebek. Bardzo lubię bolo do caco!",
+    "pronunciation": {
+      "plSlow": "E PÃU. GOSZ-tu MŨJ-tu dy BÔ-lu du KA-ku!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-mim-uma-espetada-e-um-bolo-do-caco",
+    "kind": "sentence",
+    "pt": "Para mim, uma espetada e um bolo do caco.",
+    "pl": "Dla mnie espetada i bolo do caco.",
+    "pronunciation": {
+      "plSlow": "PĂ-ră MĨ, U-mă ysz-py-TA-dă i ũ BÔ-lu du KA-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-queria-o-peixe-espada-preto-queres-uma-poncha-q",
+    "kind": "sentence",
+    "pt": "Eu queria o peixe-espada-preto. Queres uma poncha?",
+    "pl": "Ja poproszę pałasza czarnego. Chcesz ponchę?",
+    "pronunciation": {
+      "plSlow": "ÊU ky-RI-ă u PĂJ-szy ysz-PA-dă PRÊ-tu. KE-ryz U-mă PÕ-sză?",
+      "notePl": "queres przed samogłoską → „KE-ryz”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "kuchnia-madery"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-obrigado-uma-agua-sfv",
+    "kind": "sentence",
+    "pt": "Não, obrigado. Uma água, se faz favor.",
+    "ptFem": "Não, obrigada. Uma água, se faz favor.",
+    "pl": "Nie, dziękuję. Wodę, proszę.",
+    "pronunciation": {
+      "plSlow": "NÃU, o-bri-GA-du. U-mă A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "NÃU, o-bri-GA-dă. U-mă A-guă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado-bom-dia",
+    "kind": "sentence",
+    "pt": "Obrigado! Bom dia!",
+    "ptFem": "Obrigada! Bom dia!",
+    "pl": "Dziękuję! Miłego dnia!",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du! BÕ DI-ă!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă! BÕ DI-ă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "kawiarnia",
+      "jedzenie"
+    ],
+    "usagePl": "„Bom dia!” mówi się także na pożegnanie (= miłego dnia).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-come-ao-pequeno-almoco-q",
+    "kind": "sentence",
+    "pt": "O que come ao pequeno-almoço?",
+    "pl": "Co Pan / Pani je na śniadanie?",
+    "pronunciation": {
+      "plSlow": "u ky KO-my au py-KÊ-nu aɫ-MÔ-su?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-uma-torrada-e-bebo-um-galao",
+    "kind": "sentence",
+    "pt": "Como uma torrada e bebo um galão.",
+    "pl": "Jem grzankę i piję galão.",
+    "pronunciation": {
+      "plSlow": "KÔ-mu U-mă tu-RRA-dă i BÊ-bu ũ gă-LÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-pao-e-bebo-cafe",
+    "kind": "sentence",
+    "pt": "Como pão e bebo café.",
+    "pl": "Jem chleb i piję kawę.",
+    "pronunciation": {
+      "plSlow": "KÔ-mu PÃU i BÊ-bu kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-gosta-de-comer-q",
+    "kind": "sentence",
+    "pt": "O que gosta de comer?",
+    "pl": "Co Pan / Pani lubi jeść?",
+    "pronunciation": {
+      "plSlow": "u ky GOSZ-tă dy ku-MÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w07",
+      "jedzenie",
+      "gostar",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  }
+]

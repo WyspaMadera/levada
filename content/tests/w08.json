@@ -1,0 +1,112 @@
+[
+  {
+    "id": "w08-test",
+    "week": 8,
+    "kind": "stage",
+    "titlePl": "Sprawdzian drugiego miesiąca",
+    "introPl": "Około 10 minut. Sprawdzian etapowy z tygodni 5–8: codzienne czynności (czasowniki -ar/-er/-ir, estar a + bezokolicznik), rodzina i dom (ser + przymiotniki, o meu / a minha), kawiarnia i zakupy (queria…, ceny, ilości), miasto, transport i pogoda. Wynik wskaże lekcje do powtórki — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w08-t-e01",
+          "w08-t-e02",
+          "w08-t-e03",
+          "w08-t-e04",
+          "w08-t-e05",
+          "w08-t-e06"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w08-t-e07",
+          "w08-t-e08",
+          "w08-t-e09",
+          "w08-t-e10",
+          "w08-t-e11"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w08-t-e12",
+          "w08-t-e13",
+          "w08-t-e14",
+          "w08-t-e15",
+          "w08-t-e16",
+          "w08-t-e17",
+          "w08-t-e18",
+          "w08-t-e19",
+          "w08-t-e20"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w08-t-e21",
+          "w08-t-e22",
+          "w08-t-e23",
+          "w08-t-e24"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w08-t-s01",
+      "w08-t-s02",
+      "w08-t-s03",
+      "w08-t-s04"
+    ],
+    "monologues": [
+      {
+        "id": "w08-t-m01",
+        "promptPl": "Opisz swój typowy dzień i swój dom — około półtorej minuty, bez przygotowania.",
+        "hintPl": "Levanto-me às… De manhã… À tarde… À noite… Às vezes… O meu apartamento / A minha casa é… Tem… Gosto de…",
+        "targetSeconds": 90,
+        "checklistPl": [
+          "Powiedziałem/powiedziałam, o której wstaję (Levanto-me às… / Acordo às…)",
+          "Powiedziałem/powiedziałam, co jem lub piję rano (Tomo o pequeno-almoço… / Como… / Bebo…)",
+          "Opowiedziałem/opowiedziałam o pracy albo zajęciach (Trabalho… / À tarde…)",
+          "Użyłem/użyłam sempre, às vezes albo nunca",
+          "Opisałem/opisałam dom lub mieszkanie (é… / tem…)",
+          "Przymiotnik zgadzał się z rzeczą lub osobą (pequeno / pequena)",
+          "Powiedziałem/powiedziałam, co lubię (gosto de… / gosto muito do…)",
+          "Połączyłem/połączyłam zdania (e, mas, também)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w08-caminho"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w05-l25",
+      "w05-l26",
+      "w05-l27",
+      "w05-l28",
+      "w05-l29",
+      "w05-l30",
+      "w06-l31",
+      "w06-l32",
+      "w06-l33",
+      "w06-l34",
+      "w06-l35",
+      "w06-l36",
+      "w07-l37",
+      "w07-l38",
+      "w07-l39",
+      "w07-l40",
+      "w07-l41",
+      "w07-l42",
+      "w08-l43",
+      "w08-l44",
+      "w08-l45",
+      "w08-l46",
+      "w08-l47"
+    ]
+  }
+]

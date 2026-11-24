@@ -1,0 +1,1931 @@
+[
+  {
+    "id": "ir-vou",
+    "kind": "sentence",
+    "pt": "vou",
+    "pl": "(ja) idę / jadę",
+    "pronunciation": {
+      "plSlow": "WÔ",
+      "ipa": "vo",
+      "notePl": "ou = zamknięte ô. „ir” znaczy i „iść”, i „jechać”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ir-vais",
+    "kind": "sentence",
+    "pt": "vais",
+    "pl": "(ty) idziesz / jedziesz",
+    "pronunciation": {
+      "plSlow": "WAJSZ",
+      "ipa": "vajʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ir-vai",
+    "kind": "sentence",
+    "pt": "vai",
+    "pl": "(on/ona/Pan/Pani) idzie / jedzie",
+    "pronunciation": {
+      "plSlow": "WAJ",
+      "ipa": "vaj",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ir-vamos",
+    "kind": "sentence",
+    "pt": "vamos",
+    "pl": "(my) idziemy / jedziemy; chodźmy!",
+    "pronunciation": {
+      "plSlow": "WĂ-musz",
+      "ipa": "ˈvɐmuʃ",
+      "notePl": "Akcentowane a przed m = ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "usagePl": "Samo „Vamos!” = Chodźmy! / Idziemy! „Vamos à praia?” = Idziemy na plażę?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ir-vao",
+    "kind": "sentence",
+    "pt": "vão",
+    "pl": "(oni/wy/Państwo) idą / jadą",
+    "pronunciation": {
+      "plSlow": "WÃU",
+      "ipa": "vɐ̃w̃",
+      "notePl": "Nosowe ãu — rymuje się z „são”, „não”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ao-supermercado",
+    "kind": "phrase",
+    "pt": "ao supermercado",
+    "pl": "do supermarketu",
+    "pronunciation": {
+      "plSlow": "au su-per-myr-KA-du",
+      "ipa": "aw supɛɾmɨɾˈkaðu",
+      "notePl": "ao (a + o) = „au”. W „super-” e otwarte, w „-mer-” zredukowane (y). Akcent: KA.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-praia",
+    "kind": "phrase",
+    "pt": "à praia",
+    "pl": "na plażę",
+    "pronunciation": {
+      "plSlow": "a PRAJ-ă",
+      "ipa": "a ˈpɾajɐ",
+      "notePl": "à (a + a) brzmi jak otwarte „a” — inaczej niż rodzajnik „a” (ă). praia: dyftong aj + krótkie ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "miasto"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-casa",
+    "kind": "phrase",
+    "pt": "para casa",
+    "pl": "do domu",
+    "pronunciation": {
+      "plSlow": "PĂ-ră KA-ză",
+      "plNatural": "pră KA-ză",
+      "ipa": "ˈpɐɾɐ ˈkazɐ",
+      "notePl": "W szybkiej mowie „para” skraca się do „pra”. Bez rodzajnika — jak „em casa”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ao-supermercado",
+    "kind": "sentence",
+    "pt": "Vou ao supermercado.",
+    "pl": "Idę / jadę do supermarketu.",
+    "pronunciation": {
+      "plSlow": "WÔ au su-per-myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-a-praia",
+    "kind": "sentence",
+    "pt": "Vamos à praia!",
+    "pl": "Chodźmy na plażę!",
+    "pronunciation": {
+      "plSlow": "WĂ-muz a PRAJ-ă!",
+      "plNatural": "WĂ-mu‿ZA PRAJ-ă!",
+      "notePl": "s przed samogłoską → z.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-para-casa",
+    "kind": "sentence",
+    "pt": "Vou para casa.",
+    "pl": "Idę / jadę do domu.",
+    "pronunciation": {
+      "plSlow": "WÔ PĂ-ră KA-ză.",
+      "plNatural": "WÔ pră KA-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "para-onde-vais-q",
+    "kind": "sentence",
+    "pt": "Para onde vais?",
+    "pl": "Dokąd idziesz / jedziesz?",
+    "pronunciation": {
+      "plSlow": "PĂ-ră Õ-dy WAJSZ?",
+      "plNatural": "pă-RÕ-dy WAJSZ?",
+      "notePl": "„para onde” zlewa się w mowie: „pă-RÕ-dy”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-vai-ao-supermercado",
+    "kind": "sentence",
+    "pt": "A Ana vai ao supermercado.",
+    "pl": "Ana idzie do supermarketu.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă WAJ au su-per-myr-KA-du.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vais-ao-supermercado-q",
+    "kind": "sentence",
+    "pt": "Vais ao supermercado?",
+    "pl": "Idziesz do supermarketu?",
+    "pronunciation": {
+      "plSlow": "WAJZ au su-per-myr-KA-du?",
+      "plNatural": "WAJ‿zau su-per-myr-KA-du?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-para-onde-vais-q",
+    "kind": "sentence",
+    "pt": "Olá! Para onde vais?",
+    "pl": "Cześć! Dokąd idziesz?",
+    "pronunciation": {
+      "plSlow": "o-LA! PĂ-ră Õ-dy WAJSZ?",
+      "plNatural": "o-LA! pă-RÕ-dy WAJSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-ao-supermercado-e-tu",
+    "kind": "sentence",
+    "pt": "Vou ao supermercado. E tu?",
+    "pl": "Idę do supermarketu. A ty?",
+    "pronunciation": {
+      "plSlow": "WÔ au su-per-myr-KA-du. i TU?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-a-praia-vamos-q",
+    "kind": "sentence",
+    "pt": "Vou à praia. Vamos?",
+    "pl": "Idę na plażę. Idziemy (razem)?",
+    "pronunciation": {
+      "plSlow": "WÔ a PRAJ-ă. WĂ-musz?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "ir"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-posso-amanha-q",
+    "kind": "sentence",
+    "pt": "Hoje não posso. Amanhã?",
+    "pl": "Dziś nie mogę. Jutro?",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU PO-su. ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-sim-ate-amanha",
+    "kind": "sentence",
+    "pt": "Amanhã, sim! Até amanhã!",
+    "pl": "Jutro tak! Do jutra!",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ, SĨ! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-esta-q",
+    "kind": "phrase",
+    "pt": "Onde está…?",
+    "pl": "Gdzie jest…?",
+    "tts": "Onde está?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-TA …?",
+      "plNatural": "Õ-dy‿SZTA …?",
+      "ipa": "ˈõdɨ ɨʃˈta",
+      "notePl": "Początkowe e w „está” prawie znika: „Õ-dy‿SZTA”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "com",
+    "kind": "word",
+    "pt": "com",
+    "pl": "z (kimś, czymś)",
+    "pronunciation": {
+      "plSlow": "kõ",
+      "ipa": "kõ",
+      "notePl": "Nosowe õ, bez „m” na końcu. Znasz je z „com licença”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "przyimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chave",
+    "kind": "word",
+    "pt": "chave",
+    "pl": "klucz",
+    "pronunciation": {
+      "plSlow": "SZA-wy",
+      "plNatural": "SZAW(y)",
+      "ipa": "ˈʃavɨ",
+      "notePl": "ch = sz, v = w, końcowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "dom"
+    ],
+    "usagePl": "a chave — rodzaj żeński. a chave do carro — kluczyk do samochodu.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "carteira",
+    "kind": "word",
+    "pt": "carteira",
+    "pl": "portfel",
+    "pronunciation": {
+      "plSlow": "kăr-TĂJ-ră",
+      "ipa": "kɐɾˈtɐjɾɐ",
+      "notePl": "ei = ăj (norma lizbońska), jak w „Madeira”; wariant „TEJ” też słyszany.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cozinha",
+    "kind": "word",
+    "pt": "cozinha",
+    "pl": "kuchnia",
+    "pronunciation": {
+      "plSlow": "ku-ZI-ńă",
+      "ipa": "kuˈziɲɐ",
+      "notePl": "Pierwsze o → u; nh = ń.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "dom"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-esta-a-chave-q",
+    "kind": "sentence",
+    "pt": "Onde está a chave?",
+    "pl": "Gdzie jest klucz?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-TA ă SZA-wy?",
+      "plNatural": "Õ-dy‿SZTA ă SZA-wy?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-na-mesa",
+    "kind": "sentence",
+    "pt": "Está na mesa.",
+    "pl": "Jest na stole.",
+    "pronunciation": {
+      "plSlow": "ysz-TA nă MÊ-ză.",
+      "plNatural": "SZTA nă MÊ-ză.",
+      "notePl": "em + a = na. Po polsku „na stole”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-telemovel-esta-na-cozinha",
+    "kind": "sentence",
+    "pt": "O telemóvel está na cozinha.",
+    "pl": "Telefon jest w kuchni.",
+    "pronunciation": {
+      "plSlow": "u te-le-MO-weɫ ysz-TA nă ku-ZI-ńă.",
+      "notePl": "Też „na” — po polsku tym razem „w kuchni”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-esta-no-trabalho",
+    "kind": "sentence",
+    "pt": "A Ana está no trabalho.",
+    "pl": "Ana jest w pracy.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă ysz-TA nu tră-BA-lju.",
+      "plNatural": "ă Ă-nă SZTA nu tră-BA-lju.",
+      "notePl": "em + o = no (o trabalho).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-esta-com-a-ana",
+    "kind": "sentence",
+    "pt": "O Rui está com a Ana.",
+    "pl": "Rui jest z Aną.",
+    "pronunciation": {
+      "plSlow": "u RRUJ ysz-TA kõ ă Ă-nă.",
+      "plNatural": "u RRUJ SZTA kõ ă Ă-nă.",
+      "notePl": "com + a: w piśmie się nie łączą.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-carteira-do-rui",
+    "kind": "sentence",
+    "pt": "É a carteira do Rui.",
+    "pl": "To portfel Ruiego.",
+    "pronunciation": {
+      "plSlow": "E ă kăr-TĂJ-ră du RRUJ.",
+      "notePl": "„czyj?” — de + o (o Rui) = do.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-esta-a-chave-do-carro-q",
+    "kind": "sentence",
+    "pt": "Onde está a chave do carro?",
+    "pl": "Gdzie jest kluczyk do samochodu?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-TA ă SZA-wy du KA-rru?",
+      "plNatural": "Õ-dy‿SZTA ă SZA-wy du KA-rru?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-esta-na-mesa-q",
+    "kind": "sentence",
+    "pt": "Não está na mesa?",
+    "pl": "Nie ma go na stole? (dosł. Nie jest na stole?)",
+    "pronunciation": {
+      "plSlow": "NÃU ysz-TA nă MÊ-ză?",
+      "plNatural": "NÃU SZTA nă MÊ-ză?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-nao-esta",
+    "kind": "sentence",
+    "pt": "Não, não está.",
+    "pl": "Nie, nie ma.",
+    "pronunciation": {
+      "plSlow": "NÃU, NÃU ysz-TA.",
+      "plNatural": "NÃU, NÃU SZTA.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-na-cozinha-q",
+    "kind": "sentence",
+    "pt": "E na cozinha?",
+    "pl": "A w kuchni?",
+    "pronunciation": {
+      "plSlow": "i nă ku-ZI-ńă?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-ah-esta-com-o-rui",
+    "kind": "sentence",
+    "pt": "Não… Ah! Está com o Rui!",
+    "pl": "Nie… Aha! Ma go Rui! (dosł. Jest z Ruim.)",
+    "pronunciation": {
+      "plSlow": "NÃU… A! ysz-TA kõ u RRUJ!",
+      "plNatural": "NÃU… A! SZTA kõ u RRUJ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-onde-esta-o-rui-q",
+    "kind": "sentence",
+    "pt": "E onde está o Rui?",
+    "pl": "A gdzie jest Rui?",
+    "pronunciation": {
+      "plSlow": "i Õ-dy ysz-TA u RRUJ?",
+      "plNatural": "i Õ-dy‿SZTA u RRUJ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-no-trabalho",
+    "kind": "sentence",
+    "pt": "Está no trabalho.",
+    "pl": "Jest w pracy.",
+    "pronunciation": {
+      "plSlow": "ysz-TA nu tră-BA-lju.",
+      "plNatural": "SZTA nu tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-esta-o-telemovel-q",
+    "kind": "sentence",
+    "pt": "Onde está o telemóvel?",
+    "pl": "Gdzie jest telefon?",
+    "pronunciation": {
+      "plSlow": "Õ-dy ysz-TA u te-le-MO-weɫ?",
+      "plNatural": "Õ-dy‿SZTA u te-le-MO-weɫ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-com-a-ana",
+    "kind": "sentence",
+    "pt": "Estou com a Ana.",
+    "pl": "Jestem z Aną.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ kõ ă Ă-nă.",
+      "plNatural": "SZTÔ kõ ă Ă-nă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-chave-esta-na-cozinha",
+    "kind": "sentence",
+    "pt": "A chave está na cozinha.",
+    "pl": "Klucz jest w kuchni.",
+    "pronunciation": {
+      "plSlow": "ă SZA-wy ysz-TA nă ku-ZI-ńă.",
+      "plNatural": "ă SZA-wy‿SZTA nă ku-ZI-ńă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "segunda-feira",
+    "kind": "word",
+    "pt": "segunda-feira",
+    "pl": "poniedziałek",
+    "pronunciation": {
+      "plSlow": "sy-GŨ-dă FĂJ-ră",
+      "ipa": "sɨˈɣũdɐ ˈfɐjɾɐ",
+      "notePl": "Dosł. „drugi dzień”. W mowie często samo „segunda”. un = nosowe ũ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "terca-feira",
+    "kind": "word",
+    "pt": "terça-feira",
+    "pl": "wtorek",
+    "pronunciation": {
+      "plSlow": "TÊR-să FĂJ-ră",
+      "ipa": "ˈteɾsɐ ˈfɐjɾɐ",
+      "notePl": "Zamknięte ê. Dosł. „trzeci dzień”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quarta-feira",
+    "kind": "word",
+    "pt": "quarta-feira",
+    "pl": "środa",
+    "pronunciation": {
+      "plSlow": "KUAR-tă FĂJ-ră",
+      "ipa": "ˈkwaɾtɐ ˈfɐjɾɐ",
+      "notePl": "qua = „kua”. Dosł. „czwarty dzień”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quinta-feira",
+    "kind": "word",
+    "pt": "quinta-feira",
+    "pl": "czwartek",
+    "pronunciation": {
+      "plSlow": "KĨ-tă FĂJ-ră",
+      "ipa": "ˈkĩtɐ ˈfɐjɾɐ",
+      "notePl": "Pułapka: quinta = „piąty”, ale to CZWARTEK!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sexta-feira",
+    "kind": "word",
+    "pt": "sexta-feira",
+    "pl": "piątek",
+    "pronunciation": {
+      "plSlow": "SĂJSZ-tă FĂJ-ră",
+      "ipa": "ˈsɐjʃtɐ ˈfɐjɾɐ",
+      "notePl": "Pułapka: sexta = „szósty”, a to PIĄTEK. Norma lizbońska „SĂJSZ-tă”; często też „SÊSZ-tă” / „SĂSZ-tă”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sabado",
+    "kind": "word",
+    "pt": "sábado",
+    "pl": "sobota",
+    "pronunciation": {
+      "plSlow": "SA-bă-du",
+      "ipa": "ˈsaβɐðu",
+      "notePl": "Akcent na pierwszej sylabie. b i d między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "domingo",
+    "kind": "word",
+    "pt": "domingo",
+    "pl": "niedziela",
+    "pronunciation": {
+      "plSlow": "du-MĨ-gu",
+      "ipa": "duˈmĩɡu",
+      "notePl": "in przed g = nosowe ĩ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "que-dia-e-hoje-q",
+    "kind": "phrase",
+    "pt": "Que dia é hoje?",
+    "pl": "Jaki dziś (jest) dzień?",
+    "pronunciation": {
+      "plSlow": "ky DI-ă E Ô-ży?",
+      "ipa": "kɨ ˈdiɐ ɛ ˈoʒɨ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-e-segunda-feira",
+    "kind": "sentence",
+    "pt": "Hoje é segunda-feira.",
+    "pl": "Dziś jest poniedziałek.",
+    "pronunciation": {
+      "plSlow": "Ô-ży E sy-GŨ-dă FĂJ-ră.",
+      "notePl": "Dzień tygodnia → ser (é).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-e-terca-feira",
+    "kind": "sentence",
+    "pt": "Amanhã é terça-feira.",
+    "pl": "Jutro jest wtorek.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ E TÊR-să FĂJ-ră.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-sabado-vou-a-praia",
+    "kind": "sentence",
+    "pt": "No sábado vou à praia.",
+    "pl": "W sobotę idę na plażę.",
+    "pronunciation": {
+      "plSlow": "nu SA-bă-du WÔ a PRAJ-ă.",
+      "notePl": "o sábado (męski) → no sábado.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "na-sexta-feira-nao-posso",
+    "kind": "sentence",
+    "pt": "Na sexta-feira não posso.",
+    "pl": "W piątek nie mogę.",
+    "pronunciation": {
+      "plSlow": "nă SĂJSZ-tă FĂJ-ră NÃU PO-su.",
+      "notePl": "a sexta-feira (żeński) → na sexta-feira.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "no-domingo-estou-em-casa",
+    "kind": "sentence",
+    "pt": "No domingo estou em casa.",
+    "pl": "W niedzielę jestem w domu.",
+    "pronunciation": {
+      "plSlow": "nu du-MĨ-gu ysz-TÔ ãj KA-ză.",
+      "plNatural": "nu du-MĨ-gu SZTÔ‿ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-o-senhor-pode-na-quarta-feira-q",
+    "kind": "sentence",
+    "pt": "Bom dia! O senhor pode na quarta-feira?",
+    "pl": "Dzień dobry! Może Pan w środę?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! u sy-ŃÔR PO-dy nă KUAR-tă FĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-na-quarta-feira-nao-posso",
+    "kind": "sentence",
+    "pt": "Desculpe, na quarta-feira não posso.",
+    "pl": "Przepraszam, w środę nie mogę.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, nă KUAR-tă FĂJ-ră NÃU PO-su.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-na-quinta-feira-q",
+    "kind": "sentence",
+    "pt": "E na quinta-feira?",
+    "pl": "A w czwartek?",
+    "pronunciation": {
+      "plSlow": "i nă KĨ-tă FĂJ-ră?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "quinta-feira-sim-posso",
+    "kind": "sentence",
+    "pt": "Quinta-feira… Sim, posso!",
+    "pl": "Czwartek… Tak, mogę!",
+    "pronunciation": {
+      "plSlow": "KĨ-tă FĂJ-ră… SĨ, PO-su!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-ate-quinta-feira",
+    "kind": "sentence",
+    "pt": "Muito bem. Até quinta-feira!",
+    "pl": "Dobrze. Do czwartku!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ. ă-TE KĨ-tă FĂJ-ră!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ate-quinta-obrigado",
+    "kind": "sentence",
+    "pt": "Até quinta! Obrigado.",
+    "ptFem": "Até quinta! Obrigada.",
+    "pl": "Do czwartku! Dziękuję.",
+    "pronunciation": {
+      "plSlow": "ă-TE KĨ-tă! o-bri-GA-du.",
+      "notePl": "W mowie „-feira” często się pomija: até quinta.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ă-TE KĨ-tă! o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "dni"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "que-horas-sao-q",
+    "kind": "phrase",
+    "pt": "Que horas são?",
+    "pl": "Która (jest) godzina?",
+    "pronunciation": {
+      "plSlow": "ky O-răsz SÃU?",
+      "plNatural": "KJO-răsz SÃU?",
+      "ipa": "kɨ ˈɔɾɐʃ ˈsɐ̃w̃",
+      "notePl": "Dosł. „Które godziny są?”. „que horas” w mowie zlewa się w „kjo-răsz”; h nieme.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meia",
+    "kind": "word",
+    "pt": "meia",
+    "pl": "pół (wpół do…)",
+    "pronunciation": {
+      "plSlow": "MĂJ-ă",
+      "ipa": "ˈmɐjɐ",
+      "notePl": "ei = ăj (norma lizbońska). „e meia” = i pół (:30).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meio-dia",
+    "kind": "word",
+    "pt": "meio-dia",
+    "pl": "południe (12:00)",
+    "pronunciation": {
+      "plSlow": "MĂJ-u DI-ă",
+      "ipa": "ˈmɐju ˈðiɐ",
+      "notePl": "Dwa wyrazy złączone łącznikiem. meio = „MĂJ-u”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-quarto",
+    "kind": "phrase",
+    "pt": "um quarto",
+    "pl": "kwadrans",
+    "pronunciation": {
+      "plSlow": "ũ KUAR-tu",
+      "ipa": "ũ ˈkwaɾtu",
+      "notePl": "„quarto” to też „pokój, sypialnia” — znaczenie wynika z kontekstu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "menos",
+    "kind": "word",
+    "pt": "menos",
+    "pl": "mniej; za (przy godzinach)",
+    "pronunciation": {
+      "plSlow": "MÊ-nusz",
+      "ipa": "ˈmenuʃ",
+      "notePl": "Zamknięte ê. „cinco menos dez” = za dziesięć piąta.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-q",
+    "kind": "phrase",
+    "pt": "A que horas?",
+    "pl": "O której (godzinie)?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz?",
+      "plNatural": "ă KJO-răsz?",
+      "ipa": "ɐ kɨ ˈɔɾɐʃ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny",
+      "pytania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-cinco",
+    "kind": "phrase",
+    "pt": "às cinco",
+    "pl": "o piątej",
+    "pronunciation": {
+      "plSlow": "asz SĨ-ku",
+      "ipa": "aʃ ˈsĩku",
+      "notePl": "às = a + as (o godzinie…). Otwarte a, krótkie i nieakcentowane.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-uma-hora",
+    "kind": "sentence",
+    "pt": "É uma hora.",
+    "pl": "Jest pierwsza.",
+    "pronunciation": {
+      "plSlow": "E U-mă O-ră.",
+      "plNatural": "E U-mă‿O-ră.",
+      "notePl": "Pierwsza godzina — liczba pojedyncza: é.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-duas-horas",
+    "kind": "sentence",
+    "pt": "São duas horas.",
+    "pl": "Jest druga.",
+    "pronunciation": {
+      "plSlow": "SÃU DU-ăz O-răsz.",
+      "plNatural": "SÃU DU-ă‿ZO-răsz.",
+      "notePl": "Od drugiej — liczba mnoga: são. s przed samogłoską → z.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-tres-e-meia",
+    "kind": "sentence",
+    "pt": "São três e meia.",
+    "pl": "Jest wpół do czwartej (3:30).",
+    "pronunciation": {
+      "plSlow": "SÃU TRÊZ i MĂJ-ă.",
+      "plNatural": "SÃU TRÊ‿ZI MĂJ-ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-meio-dia",
+    "kind": "sentence",
+    "pt": "É meio-dia.",
+    "pl": "Jest południe.",
+    "pronunciation": {
+      "plSlow": "E MĂJ-u DI-ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-cinco-menos-dez",
+    "kind": "sentence",
+    "pt": "São cinco menos dez.",
+    "pl": "Jest za dziesięć piąta (4:50).",
+    "pronunciation": {
+      "plSlow": "SÃU SĨ-ku MÊ-nuż DESZ.",
+      "plNatural": "SÃU SĨ-ku MÊ-nuż DESZ.",
+      "notePl": "s przed dźwięcznym d → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-que-horas-sao-q",
+    "kind": "sentence",
+    "pt": "Desculpe, que horas são?",
+    "pl": "Przepraszam, która godzina?",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, ky O-răsz SÃU?",
+      "plNatural": "dysz-KUɫP(y), KJO-răsz SÃU?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-cinco-e-dez",
+    "kind": "sentence",
+    "pt": "São cinco e dez.",
+    "pl": "Jest dziesięć po piątej (5:10).",
+    "pronunciation": {
+      "plSlow": "SÃU SĨ-ku i DESZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sao-tres-e-um-quarto",
+    "kind": "sentence",
+    "pt": "São três e um quarto.",
+    "pl": "Jest kwadrans po trzeciej (3:15).",
+    "pronunciation": {
+      "plSlow": "SÃU TRÊZ i ũ KUAR-tu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vamos-a-praia-amanha-q",
+    "kind": "sentence",
+    "pt": "Vamos à praia amanhã?",
+    "pl": "Idziemy jutro na plażę?",
+    "pronunciation": {
+      "plSlow": "WĂ-muz a PRAJ-ă ă-mă-ŃÃ?",
+      "plNatural": "WĂ-mu‿ZA PRAJ-ă ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-a-que-horas-q",
+    "kind": "sentence",
+    "pt": "Sim! A que horas?",
+    "pl": "Tak! O której?",
+    "pronunciation": {
+      "plSlow": "SĨ! ă ky O-răsz?",
+      "plNatural": "SĨ! ă KJO-răsz?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-q",
+    "kind": "sentence",
+    "pt": "Às dez?",
+    "pl": "O dziesiątej?",
+    "pronunciation": {
+      "plSlow": "aż DESZ?",
+      "plNatural": "aż DESZ?",
+      "notePl": "s przed dźwięcznym d → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-nao-posso-ao-meio-dia-q",
+    "kind": "sentence",
+    "pt": "Às dez não posso. Ao meio-dia?",
+    "pl": "O dziesiątej nie mogę. W południe?",
+    "pronunciation": {
+      "plSlow": "aż DEŻ NÃU PO-su. au MĂJ-u DI-ă?",
+      "plNatural": "aż DEŻ NÃU PO-su. au MĂJ-u DI-ă?",
+      "notePl": "ao (a + o) meio-dia — „o” południu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ao-meio-dia-esta-bem",
+    "kind": "sentence",
+    "pt": "Ao meio-dia… Está bem!",
+    "pl": "W południe… Dobrze!",
+    "pronunciation": {
+      "plSlow": "au MĂJ-u DI-ă… ysz-TA BÃJ!",
+      "plNatural": "au MĂJ-u DI-ă… SZTA BÃJ!",
+      "notePl": "„Está bem!” = Dobrze! / OK! (zgoda).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "czas",
+      "godziny"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "este",
+    "kind": "word",
+    "pt": "este",
+    "pl": "ten (tutaj)",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty",
+      "ipa": "ˈeʃtɨ",
+      "notePl": "Zamknięte ê. Porównaj: esta (ta) — otwarte e.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "zaimki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "meu",
+    "kind": "word",
+    "pt": "meu",
+    "pl": "mój",
+    "pronunciation": {
+      "plSlow": "MÊU",
+      "ipa": "mew",
+      "notePl": "Zamknięte ê + krótkie u — jak w „eu”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "Zwykle z rodzajnikiem: o meu filho, o meu marido.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "minha",
+    "kind": "word",
+    "pt": "minha",
+    "pl": "moja",
+    "pronunciation": {
+      "plSlow": "MI-ńă",
+      "ipa": "ˈmiɲɐ",
+      "notePl": "nh = ń.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina",
+      "zaimki"
+    ],
+    "usagePl": "Zwykle z rodzajnikiem: a minha mulher, a minha filha.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mulher",
+    "kind": "word",
+    "pt": "mulher",
+    "pl": "żona; kobieta",
+    "pronunciation": {
+      "plSlow": "mu-LJER",
+      "ipa": "muˈʎɛɾ",
+      "notePl": "lh = jeden dźwięk (lj). Otwarte e, akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "usagePl": "a minha mulher = moja żona.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "marido",
+    "kind": "word",
+    "pt": "marido",
+    "pl": "mąż",
+    "pronunciation": {
+      "plSlow": "mă-RI-du",
+      "ipa": "mɐˈɾiðu",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "irmao",
+    "kind": "word",
+    "pt": "irmão",
+    "pl": "brat",
+    "pronunciation": {
+      "plSlow": "ir-MÃU",
+      "ipa": "iɾˈmɐ̃w̃",
+      "notePl": "Nosowe ãu na końcu (jak „não”).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "irma",
+    "kind": "word",
+    "pt": "irmã",
+    "pl": "siostra",
+    "pronunciation": {
+      "plSlow": "ir-MÃ",
+      "ipa": "iɾˈmɐ̃",
+      "notePl": "Porównaj: irmão (brat) — ãu, irmã (siostra) — samo ã.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "este-e-o-meu-filho",
+    "kind": "sentence",
+    "pt": "Este é o meu filho.",
+    "pl": "To (jest) mój syn.",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty E u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-e-a-minha-mulher",
+    "kind": "sentence",
+    "pt": "Esta é a minha mulher.",
+    "pl": "To (jest) moja żona.",
+    "pronunciation": {
+      "plSlow": "ESZ-tă E ă MI-ńă mu-LJER.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "este-e-o-meu-marido",
+    "kind": "sentence",
+    "pt": "Este é o meu marido.",
+    "pl": "To (jest) mój mąż.",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty E u MÊU mă-RI-du.",
+      "notePl": "Kobieta też mówi „o meu marido” — meu zgadza się z „marido”, nie z osobą mówiącą.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-e-a-minha-filha",
+    "kind": "sentence",
+    "pt": "Esta é a minha filha.",
+    "pl": "To (jest) moja córka.",
+    "pronunciation": {
+      "plSlow": "ESZ-tă E ă MI-ńă FI-ljă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-minha-irma-mora-na-polonia",
+    "kind": "sentence",
+    "pt": "A minha irmã mora na Polónia.",
+    "pl": "Moja siostra mieszka w Polsce.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă ir-MÃ MO-ră nă pu-LO-ni-ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-minha-mae-esta-na-polonia",
+    "kind": "sentence",
+    "pt": "A minha mãe está na Polónia.",
+    "pl": "Moja mama jest w Polsce.",
+    "pronunciation": {
+      "plSlow": "ă MI-ńă MÃJ ysz-TA nă pu-LO-ni-ă.",
+      "plNatural": "ă MI-ńă MÃJ SZTA nă pu-LO-niă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-meu-filho-tem-cinco-anos",
+    "kind": "sentence",
+    "pt": "O meu filho tem cinco anos.",
+    "pl": "Mój syn ma pięć lat.",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju TÃJ SĨ-ku Ă-nusz.",
+      "plNatural": "u MÊU FI-lju TÃJ SĨ-ku‿Ă-nusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podia-ajudar-me-q",
+    "kind": "sentence",
+    "pt": "Podia ajudar-me?",
+    "pl": "Czy mógłby Pan / mogłaby Pani mi pomóc?",
+    "pronunciation": {
+      "plSlow": "pu-DI-ă ă-żu-DAR-my?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "grzecznosc"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-ana-este-e-o-meu-filho",
+    "kind": "sentence",
+    "pt": "Olá, Ana! Este é o meu filho.",
+    "pl": "Cześć, Ana! To mój syn.",
+    "pronunciation": {
+      "plSlow": "o-LA, Ă-nă! ÊSZ-ty E u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-quantos-anos-tens-q",
+    "kind": "sentence",
+    "pt": "Olá! Quantos anos tens?",
+    "pl": "Cześć! Ile masz lat?",
+    "pronunciation": {
+      "plSlow": "o-LA! KUÃ-tuz Ă-nusz TÃJSZ?",
+      "plNatural": "o-LA! KUÃ-tu‿ZĂ-nusz TÃJSZ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ele-tem-cinco-anos",
+    "kind": "sentence",
+    "pt": "Ele tem cinco anos.",
+    "pl": "On ma pięć lat.",
+    "pronunciation": {
+      "plSlow": "Ê-ly TÃJ SĨ-ku Ă-nusz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-mae-esta-em-casa-q",
+    "kind": "sentence",
+    "pt": "E a mãe? Está em casa?",
+    "pl": "A mama? Jest w domu?",
+    "pronunciation": {
+      "plSlow": "i ă MÃJ? ysz-TA ãj KA-ză?",
+      "plNatural": "i ă MÃJ? SZTA‿ãj KA-ză?",
+      "notePl": "O mamie dziecka mówi się po prostu „a mãe”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-esta-no-trabalho",
+    "kind": "sentence",
+    "pt": "Não, está no trabalho.",
+    "pl": "Nie, jest w pracy.",
+    "pronunciation": {
+      "plSlow": "NÃU, ysz-TA nu tră-BA-lju.",
+      "plNatural": "NÃU, SZTA nu tră-BA-lju.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "rodzina"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "podes-ajudar-me-amanha-q",
+    "kind": "sentence",
+    "pt": "Podes ajudar-me amanhã?",
+    "pl": "Możesz mi jutro pomóc?",
+    "pronunciation": {
+      "plSlow": "PO-dyz ă-żu-DAR-my ă-mă-ŃÃ?",
+      "plNatural": "PO-dy‿ză-żu-DAR-my ă-mă-ŃÃ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04",
+      "grzecznosc"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-sim-posso-a-que-horas-q",
+    "kind": "sentence",
+    "pt": "Amanhã? Sim, posso. A que horas?",
+    "pl": "Jutro? Tak, mogę. O której?",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ? SĨ, PO-su. ă ky O-răsz?",
+      "plNatural": "ă-mă-ŃÃ? SĨ, PO-su. ă KJO-răsz?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-dez-obrigado",
+    "kind": "sentence",
+    "pt": "Às dez. Obrigado!",
+    "ptFem": "Às dez. Obrigada!",
+    "pl": "O dziesiątej. Dziękuję!",
+    "pronunciation": {
+      "plSlow": "aż DESZ. o-bri-GA-du!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "aż DESZ. o-bri-GA-dă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-como-esta",
+    "kind": "sentence",
+    "pt": "Boa tarde! Como está?",
+    "pl": "Dzień dobry! Jak się Pan miewa?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! KÔ-mu ysz-TA?",
+      "plNatural": "BÔ-ă TAR-dy! KÔ-mu‿SZTA?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-bem-obrigado-e-a-senhora",
+    "kind": "sentence",
+    "pt": "Estou bem, obrigado. E a senhora?",
+    "ptFem": "Estou bem, obrigada. E a senhora?",
+    "pl": "Dobrze, dziękuję. A Pani?",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-du. i ă sy-ŃO-ră?",
+      "plNatural": "SZTÔ BÃJ, o-bri-GA-du. i ă sy-ŃO-ră?",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TÔ BÃJ, o-bri-GA-dă. i ă sy-ŃO-ră?",
+      "plNatural": "SZTÔ BÃJ, o-bri-GA-dă. i ă sy-ŃO-ră?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bem-obrigada-de-onde-e-o-senhor-q",
+    "kind": "sentence",
+    "pt": "Bem, obrigada. De onde é o senhor?",
+    "pl": "Dobrze, dziękuję. Skąd Pan jest?",
+    "pronunciation": {
+      "plSlow": "BÃJ, o-bri-GA-dă. dy Õ-dy E u sy-ŃÔR?",
+      "plNatural": "BÃJ, o-bri-GA-dă. djÕ-dy E u sy-ŃÔR?",
+      "notePl": "„de onde” zlewa się w mowie: „djÕ-dy”. Mówi kobieta — stąd „obrigada”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sou-da-polonia-mas-moro-no-funchal",
+    "kind": "sentence",
+    "pt": "Sou da Polónia, mas moro no Funchal.",
+    "pl": "Jestem z Polski, ale mieszkam w Funchal.",
+    "pronunciation": {
+      "plSlow": "SÔ dă pu-LO-ni-ă, măż MO-ru nu fũ-SZAɫ.",
+      "plNatural": "SÔ dă pu-LO-niă, măż MO-ru nu fũ-SZAɫ.",
+      "notePl": "s przed dźwięcznym m → ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "amanha-vou-ao-funchal-as-dez",
+    "kind": "sentence",
+    "pt": "Amanhã vou ao Funchal, às dez.",
+    "pl": "Jutro jadę do Funchal, o dziesiątej.",
+    "pronunciation": {
+      "plSlow": "ă-mă-ŃÃ WÔ au fũ-SZAɫ, aż DESZ.",
+      "plNatural": "ă-mă-ŃÃ WÔ au fũ-SZAɫ, aż DESZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-tambem-vamos-ao-cafe-do-rui-q",
+    "kind": "sentence",
+    "pt": "Eu também! Vamos ao café do Rui?",
+    "pl": "Ja też! Pójdziemy do kawiarni Ruiego?",
+    "pronunciation": {
+      "plSlow": "ÊU tã-BÃJ! WĂ-muz au kă-FE du RRUJ?",
+      "plNatural": "ÊU tã-BÃJ! WĂ-mu‿zau kă-FE du RRUJ?",
+      "notePl": "o café = kawa, ale też kawiarnia.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "esta-bem-ate-amanha",
+    "kind": "sentence",
+    "pt": "Está bem! Até amanhã!",
+    "pl": "Dobrze! Do jutra!",
+    "pronunciation": {
+      "plSlow": "ysz-TA BÃJ! ă-TE ă-mă-ŃÃ!",
+      "plNatural": "SZTA BÃJ! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w04"
+    ],
+    "reviewStatus": "draft"
+  }
+]

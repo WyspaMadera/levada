@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "cs-pode-escrever",
+    "kind": "sentence",
+    "pt": "Pode escrever, se faz favor?",
+    "pl": "Czy może Pan/Pani to napisać?",
+    "pronunciation": {
+      "plSlow": "PO-dy ysz-kry-WÊR, sy FASZ fă-WÔR?",
+      "plNatural": "PO-dy szkry-WÊR, sy FASZ fă-WÔR?",
+      "notePl": "Początkowe e w „escrever” w szybkiej mowie prawie znika („szkry-WÊR”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole",
+      "transport-prawo-jazdy",
+      "lekarz",
+      "warsztat",
+      "poczta"
+    ],
+    "usagePl": "Gdy nie rozumiesz nazwy, godziny, kwoty albo numeru — poproś o zapisanie.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-fazer-uma-marcacao",
+    "kind": "sentence",
+    "pt": "Queria fazer uma marcação.",
+    "pl": "Chciałbym/Chciałabym umówić wizytę (termin).",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă fă-ZÊR U-mă măr-kă-SÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy",
+      "seguranca-social"
+    ],
+    "usagePl": "„Marcação” = umówiony termin (w urzędzie, u fryzjera, w warsztacie). „Queria…” — uprzejma prośba.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-venho-por-causa-de",
+    "kind": "sentence",
+    "pt": "Venho por causa de …",
+    "pl": "Przychodzę w sprawie…",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu pur KAU-ză dy …",
+      "notePl": "„Venho” — jak „tenho”: norma lizbońska „WĂ-ńu”, poza Lizboną częste „WÊ-ńu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy",
+      "seguranca-social"
+    ],
+    "usagePl": "Na początku rozmowy przy okienku: krótko mówisz, po co przyszedłeś/przyszłaś.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-que-documentos-sao-precisos",
+    "kind": "sentence",
+    "pt": "Que documentos são precisos?",
+    "pl": "Jakie dokumenty są potrzebne?",
+    "pronunciation": {
+      "plSlow": "ky du-ku-MẼ-tusz SÃU pry-SI-zusz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy",
+      "seguranca-social"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-explicar-me",
+    "kind": "sentence",
+    "pt": "Pode explicar-me, se faz favor?",
+    "pl": "Czy może mi Pan/Pani to wyjaśnić?",
+    "pronunciation": {
+      "plSlow": "PO-dy ysz-pli-KAR-my, sy FASZ fă-WÔR?",
+      "notePl": "Początek „ex-” przed spółgłoską: zapis „ysz-”; w części wymowy (m.in. lizbońskiej) słychać też „ăjsz-” — do weryfikacji.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy",
+      "seguranca-social"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-venho-buscar-o-meu-filho",
+    "kind": "sentence",
+    "pt": "Venho buscar o meu filho.",
+    "pl": "Przychodzę odebrać syna.",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu busz-KAR u MÊU FI-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "Córka: „Venho buscar a minha filha.” „Buscar” = przyjść po kogoś / odebrać.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-hoje-ele-esta-um-pouco-cansado",
+    "kind": "sentence",
+    "pt": "Hoje ele está um pouco cansado.",
+    "pl": "Dziś jest trochę zmęczony.",
+    "pronunciation": {
+      "plSlow": "Ô-ży Ê-ly ysz-TA ũ PÔ-ku kã-SA-du.",
+      "plNatural": "Ô-ży Ê-ly SZTA‿ũ PÔ-ku kã-SA-du.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "Przy przyprowadzaniu dziecka. O córce: „Hoje ela está um pouco cansada.”",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-hoje-o-meu-filho-nao-vem",
+    "kind": "sentence",
+    "pt": "Hoje o meu filho não vem.",
+    "pl": "Dziś mój syn nie przyjdzie.",
+    "pronunciation": {
+      "plSlow": "Ô-ży u MÊU FI-lju NÃU WÃJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "Zgłoszenie nieobecności. Córka: „Hoje a minha filha não vem.” Jutro: „Amanhã…”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-meu-filho-esta-doente",
+    "kind": "sentence",
+    "pt": "O meu filho está doente.",
+    "pl": "Mój syn jest chory.",
+    "pronunciation": {
+      "plSlow": "u MÊU FI-lju ysz-TA du-Ẽ-ty.",
+      "plNatural": "u MÊU FI-lju SZTA du-Ẽ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "„Doente” ma tę samą formę dla chłopca i dziewczynki: „A minha filha está doente.”",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-hoje-venho-busca-lo-mais-cedo",
+    "kind": "sentence",
+    "pt": "Hoje venho buscá-lo mais cedo.",
+    "pl": "Dziś odbiorę go wcześniej.",
+    "pronunciation": {
+      "plSlow": "Ô-ży WĂ-ńu busz-KA-lu MAJSZ SÊ-du.",
+      "notePl": "„buscá-lo” = buscar + o (go): r znika, a dostaje akcent.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "O córce: „buscá-la” (busz-KA-lă).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-a-que-horas-posso-vir-busca-lo",
+    "kind": "sentence",
+    "pt": "A que horas posso vir buscá-lo?",
+    "pl": "O której mogę go odebrać?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz PO-su WIR busz-KA-lu?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "O córce: „buscá-la”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-como-correu-o-dia",
+    "kind": "sentence",
+    "pt": "Como correu o dia?",
+    "pl": "Jak minął dzień?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ku-RRÊU u DI-ă?",
+      "notePl": "„correu” — czas przeszły (poszło, minęło). Naucz się jako gotowego zwrotu.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "Pytanie do wychowawczyni przy odbiorze dziecka.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-falar-com-a-educadora",
+    "kind": "sentence",
+    "pt": "Queria falar com a educadora.",
+    "pl": "Chciałbym/Chciałabym porozmawiać z wychowawczynią.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă fă-LAR kõ ă i-du-kă-DÔ-ră.",
+      "notePl": "Początkowe e w „educadora” zapisano jako „i” — jakość tej samogłoski do weryfikacji.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "„Educadora (de infância)” — wychowawczyni w przedszkolu. Wychowawca-mężczyzna: „o educador”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-dar-este-recado-a-educadora",
+    "kind": "sentence",
+    "pt": "Pode dar este recado à educadora?",
+    "pl": "Czy może Pan/Pani przekazać tę wiadomość wychowawczyni?",
+    "pronunciation": {
+      "plSlow": "PO-dy DAR ÊSZ-ty rry-KA-du a i-du-kă-DÔ-ră?",
+      "notePl": "„à” = a + a, wymawiane otwartym „a”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "przedszkole"
+    ],
+    "usagePl": "„Recado” = wiadomość do przekazania komuś (ustnie lub na kartce).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-uma-marcacao-as-dez",
+    "kind": "sentence",
+    "pt": "Tenho uma marcação às dez.",
+    "pl": "Mam umówioną wizytę na dziesiątą.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă măr-kă-SÃU aż DESZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy"
+    ],
+    "usagePl": "Godzinę zmień według potrzeby: „às nove”, „às onze”…",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-venho-tratar-da-carta-de-conducao",
+    "kind": "sentence",
+    "pt": "Venho tratar da carta de condução.",
+    "pl": "Przychodzę w sprawie prawa jazdy.",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu tră-TAR dă KAR-tă dy kõ-du-SÃU.",
+      "notePl": "„tratar de” = załatwiać (sprawę). „Carta de condução” = prawo jazdy (pt-PT).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy"
+    ],
+    "usagePl": "Zwrot ogólny — nie mówi, jaką procedurę załatwiasz. Szczegóły podaj potem albo pokaż dokument.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-pedir-uma-informacao",
+    "kind": "sentence",
+    "pt": "Queria pedir uma informação.",
+    "pl": "Chciałbym/Chciałabym o coś zapytać (prosić o informację).",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă py-DIR U-mă ĩ-fur-mă-SÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-dar-me-o-formulario",
+    "kind": "sentence",
+    "pt": "Pode dar-me o formulário, se faz favor?",
+    "pl": "Czy może mi Pan/Pani dać formularz?",
+    "pronunciation": {
+      "plSlow": "PO-dy DAR-my u fur-mu-LA-ri-u, sy FASZ fă-WÔR?",
+      "plNatural": "PO-dy DAR-my u fur-mu-LA-riu, sy FASZ fă-WÔR?",
+      "notePl": "W wolnym zapisie „-ri-u” to dwie sylaby; w mowie zlewają się w „-riu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-preciso-de-preencher-algum-formulario",
+    "kind": "sentence",
+    "pt": "Preciso de preencher algum formulário?",
+    "pl": "Czy muszę wypełnić jakiś formularz?",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu dy pri-ẽ-SZÊR aɫ-GŨ fur-mu-LA-ri-u?",
+      "plNatural": "pry-SI-zu dy pri-ẽ-SZÊR aɫ-GŨ fur-mu-LA-riu?",
+      "notePl": "„preencher” = wypełnić (formularz); „pre-en-” wymawiane w dwóch sylabach.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "transport-prawo-jazdy"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-meu-numero-de-seguranca-social-e",
+    "kind": "sentence",
+    "pt": "O meu número de Segurança Social é …",
+    "pl": "Mój numer Segurança Social to…",
+    "pronunciation": {
+      "plSlow": "u MÊU NU-my-ru dy sy-gu-RÃ-să su-si-Aɫ E …",
+      "plNatural": "u MÊU NU-mru dy sy-gu-RÃ-să su-SJAɫ E …",
+      "notePl": "„Social” — w mowie zwykle dwie sylaby: „su-SJAɫ”; końcowe l to ciemne ɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "seguranca-social"
+    ],
+    "usagePl": "W pismach i formularzach ten numer często występuje jako skrót NISS. Numery podawaj cyfra po cyfrze.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quais-sao-os-requisitos",
+    "kind": "sentence",
+    "pt": "Quais são os requisitos?",
+    "pl": "Jakie są wymagania?",
+    "pronunciation": {
+      "plSlow": "KUAJSZ SÃU uż rry-ky-ZI-tusz?",
+      "notePl": "„os” przed mocnym r (dźwięcznym) → „uż”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "seguranca-social"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-aqui-os-documentos",
+    "kind": "sentence",
+    "pt": "Tenho aqui os documentos.",
+    "pl": "Mam tu dokumenty.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ă-KI uż du-ku-MẼ-tusz.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "seguranca-social"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-dar-me-isso-por-escrito",
+    "kind": "sentence",
+    "pt": "Pode dar-me isso por escrito?",
+    "pl": "Czy może mi Pan/Pani dać to na piśmie?",
+    "pronunciation": {
+      "plSlow": "PO-dy DAR-my I-su pur ysz-KRI-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "seguranca-social"
+    ],
+    "usagePl": "Uprzejma prośba o zapisanie informacji — przydatna, gdy sprawa jest skomplikowana.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-onde-tenho-de-ir",
+    "kind": "sentence",
+    "pt": "Onde tenho de ir?",
+    "pl": "Dokąd mam pójść?",
+    "pronunciation": {
+      "plSlow": "Õ-dy TĂ-ńu dy IR?",
+      "notePl": "„ter de + bezokolicznik” = musieć.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "seguranca-social"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-bom-dia-em-que-posso-ajudar",
+    "kind": "sentence",
+    "pt": "Bom dia, em que posso ajudar?",
+    "pl": "Dzień dobry, w czym mogę pomóc?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă, ãj ky PO-su ă-żu-DAR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "usagePl": "Gdy obsługujesz klienta (recepcja, biuro, wynajem).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tem-reserva",
+    "kind": "sentence",
+    "pt": "Tem reserva?",
+    "pl": "Czy ma Pan/Pani rezerwację?",
+    "pronunciation": {
+      "plSlow": "TÃJ rry-ZER-wă?",
+      "notePl": "„reserva” — otwarte e w sylabie akcentowanej.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-em-nome-de-quem",
+    "kind": "sentence",
+    "pt": "Em nome de quem?",
+    "pl": "Na jakie nazwisko?",
+    "pronunciation": {
+      "plSlow": "ãj NÔ-my dy KÃJ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-para-quantas-pessoas",
+    "kind": "sentence",
+    "pt": "Para quantas pessoas?",
+    "pl": "Dla ilu osób?",
+    "pronunciation": {
+      "plSlow": "PĂ-ră KUÃ-tăsz py-SÔ-ăsz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-um-momento-sfv",
+    "kind": "sentence",
+    "pt": "Um momento, se faz favor.",
+    "pl": "Chwileczkę, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ mu-MẼ-tu, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-vou-verificar",
+    "kind": "sentence",
+    "pt": "Vou verificar.",
+    "pl": "Sprawdzę.",
+    "pronunciation": {
+      "plSlow": "WÔ wy-ri-fi-KAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-pequeno-almoco-esta-incluido",
+    "kind": "sentence",
+    "pt": "O pequeno-almoço está incluído?",
+    "pl": "Czy śniadanie jest wliczone?",
+    "pronunciation": {
+      "plSlow": "u py-KÊ-nu aɫ-MÔ-su ysz-TA ĩ-klu-I-du?",
+      "notePl": "„pequeno-almoço” (pt-PT) = śniadanie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-qual-e-o-seu-numero-de-telemovel",
+    "kind": "sentence",
+    "pt": "Qual é o seu número de telemóvel?",
+    "pl": "Jaki jest Pana/Pani numer telefonu komórkowego?",
+    "pronunciation": {
+      "plSlow": "KUAɫ E u SÊU NU-my-ru dy te-le-MO-weɫ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "usagePl": "„o seu” — forma grzecznościowa (Pana/Pani).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-a-que-horas-fecha",
+    "kind": "sentence",
+    "pt": "A que horas fecha?",
+    "pl": "O której zamykacie? / O której jest zamknięte?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz FĂ-sză?",
+      "notePl": "„fecha”: w normie lizbońskiej e przed „ch” brzmi jak „ă”; poza Lizboną częste „FÊ-sză”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "turystyka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-ja-fiz-a-reserva",
+    "kind": "sentence",
+    "pt": "Já fiz a reserva.",
+    "pl": "Już zrobiłem/zrobiłam rezerwację.",
+    "pronunciation": {
+      "plSlow": "ŻA FIZ ă rry-ZER-wă.",
+      "notePl": "„fiz” — czas przeszły od „fazer” (ja zrobiłem/zrobiłam).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-confirmar-a-minha-reserva",
+    "kind": "sentence",
+    "pt": "Queria confirmar a minha reserva.",
+    "pl": "Chciałbym/Chciałabym potwierdzić rezerwację.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă kõ-fir-MAR ă MI-ńă rry-ZER-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-a-reserva-esta-em-nome-de",
+    "kind": "sentence",
+    "pt": "A reserva está em nome de …",
+    "pl": "Rezerwacja jest na nazwisko…",
+    "pronunciation": {
+      "plSlow": "ă rry-ZER-wă ysz-TA ãj NÔ-my dy …",
+      "plNatural": "ă rry-ZER-wă SZTA‿ãj NÔ-my dy …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-mudar-a-data-da-reserva",
+    "kind": "sentence",
+    "pt": "Queria mudar a data da reserva.",
+    "pl": "Chciałbym/Chciałabym zmienić termin rezerwacji.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă mu-DAR ă DA-tă dă rry-ZER-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-cancelar-a-reserva",
+    "kind": "sentence",
+    "pt": "Queria cancelar a reserva.",
+    "pl": "Chciałbym/Chciałabym anulować rezerwację.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă kã-sy-LAR ă rry-ZER-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-um-problema-com-a-reserva",
+    "kind": "sentence",
+    "pt": "Tenho um problema com a reserva.",
+    "pl": "Mam problem z rezerwacją.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ũ pru-BLÊ-mă kõ ă rry-ZER-wă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-nao-recebi-a-confirmacao",
+    "kind": "sentence",
+    "pt": "Não recebi a confirmação.",
+    "pl": "Nie dostałem/dostałam potwierdzenia.",
+    "pronunciation": {
+      "plSlow": "NÃU rry-sy-BI ă kõ-fir-mă-SÃU.",
+      "notePl": "„recebi” — czas przeszły (otrzymałem/otrzymałam).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-formulario-nao-funciona",
+    "kind": "sentence",
+    "pt": "O formulário não funciona.",
+    "pl": "Formularz nie działa.",
+    "pronunciation": {
+      "plSlow": "u fur-mu-LA-ri-u NÃU fũ-si-O-nă.",
+      "plNatural": "u fur-mu-LA-riu NÃU fũ-SJO-nă.",
+      "notePl": "„funciona” — otwarte o; „-cio-” w mowie zlewa się w jedną sylabę.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-enviar-me-a-confirmacao",
+    "kind": "sentence",
+    "pt": "Pode enviar-me a confirmação, se faz favor?",
+    "pl": "Czy może mi Pan/Pani wysłać potwierdzenie?",
+    "pronunciation": {
+      "plSlow": "PO-dy ẽ-wi-AR-my ă kõ-fir-mă-SÃU, sy FASZ fă-WÔR?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "rezerwacje-online"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-marcar-uma-consulta",
+    "kind": "sentence",
+    "pt": "Queria marcar uma consulta.",
+    "pl": "Chciałbym/Chciałabym umówić wizytę (u lekarza).",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă măr-KAR U-mă kõ-SUɫ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "usagePl": "„Consulta” = wizyta lekarska.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-uma-consulta-marcada",
+    "kind": "sentence",
+    "pt": "Tenho uma consulta marcada.",
+    "pl": "Mam umówioną wizytę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă kõ-SUɫ-tă măr-KA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-estou-doente",
+    "kind": "sentence",
+    "pt": "Estou doente.",
+    "pl": "Jestem chory/chora.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ du-Ẽ-ty.",
+      "plNatural": "SZTÔ du-Ẽ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "usagePl": "„Doente” — ta sama forma dla kobiety i mężczyzny.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-febre",
+    "kind": "sentence",
+    "pt": "Tenho febre.",
+    "pl": "Mam gorączkę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu FE-bry.",
+      "notePl": "„febre” — otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-doi-me-aqui",
+    "kind": "sentence",
+    "pt": "Dói-me aqui.",
+    "pl": "Boli mnie tutaj.",
+    "pronunciation": {
+      "plSlow": "DOJ-my ă-KI.",
+      "notePl": "„dói” — otwarte o + j.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-doi-me-a-cabeca",
+    "kind": "sentence",
+    "pt": "Dói-me a cabeça.",
+    "pl": "Boli mnie głowa.",
+    "pronunciation": {
+      "plSlow": "DOJ-my ă kă-BÊ-să.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-ha-tres-dias",
+    "kind": "sentence",
+    "pt": "Há três dias.",
+    "pl": "Od trzech dni.",
+    "pronunciation": {
+      "plSlow": "A TRÊŻ DI-ăsz.",
+      "notePl": "„Há” — h nieme. „três” przed dźwięcznym d → „TRÊŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "usagePl": "Odpowiedź na pytanie „Desde quando?” (Od kiedy?).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-sou-alergico-a",
+    "kind": "sentence",
+    "pt": "Sou alérgico a …",
+    "ptFem": "Sou alérgica a …",
+    "pl": "Mam uczulenie na…",
+    "pronunciation": {
+      "plSlow": "SÔ ă-LER-żi-ku ă …",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SÔ ă-LER-żi-kă ă …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "usagePl": "Kobieta mówi „alérgica”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-preciso-de-uma-receita",
+    "kind": "sentence",
+    "pt": "Preciso de uma receita.",
+    "pl": "Potrzebuję recepty.",
+    "pronunciation": {
+      "plSlow": "pry-SI-zu dy U-mă rry-SĂJ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "lekarz"
+    ],
+    "usagePl": "„Receita” = recepta (także przepis kulinarny).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-uma-receita",
+    "kind": "sentence",
+    "pt": "Tenho uma receita.",
+    "pl": "Mam receptę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu U-mă rry-SĂJ-tă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-e-preciso-receita",
+    "kind": "sentence",
+    "pt": "É preciso receita?",
+    "pl": "Czy potrzebna jest recepta?",
+    "pronunciation": {
+      "plSlow": "E pry-SI-zu rry-SĂJ-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tem-alguma-coisa-para-a-dor-de-cabeca",
+    "kind": "sentence",
+    "pt": "Tem alguma coisa para a dor de cabeça?",
+    "pl": "Czy ma Pan/Pani coś na ból głowy?",
+    "pronunciation": {
+      "plSlow": "TÃJ aɫ-GU-mă KÔJ-ză PĂ-ră ă DÔR dy kă-BÊ-să?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-alguma-coisa-para-a-tosse",
+    "kind": "sentence",
+    "pt": "Queria alguma coisa para a tosse.",
+    "pl": "Poproszę coś na kaszel.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă aɫ-GU-mă KÔJ-ză PĂ-ră ă TO-sy.",
+      "notePl": "„tosse” — otwarte o.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-e-para-uma-crianca",
+    "kind": "sentence",
+    "pt": "É para uma criança.",
+    "pl": "To dla dziecka.",
+    "pronunciation": {
+      "plSlow": "E PĂ-ră U-mă kri-Ã-să.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-como-devo-tomar",
+    "kind": "sentence",
+    "pt": "Como devo tomar?",
+    "pl": "Jak mam to przyjmować?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu DÊ-wu tu-MAR?",
+      "notePl": "„devo” (od „dever”) = powinienem/powinnam.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quantas-vezes-por-dia",
+    "kind": "sentence",
+    "pt": "Quantas vezes por dia?",
+    "pl": "Ile razy dziennie?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tăż WÊ-zysz pur DI-ă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-antes-ou-depois-de-comer",
+    "kind": "sentence",
+    "pt": "Antes ou depois de comer?",
+    "pl": "Przed jedzeniem czy po?",
+    "pronunciation": {
+      "plSlow": "Ã-tyz ô dy-PÔJŻ dy ku-MÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "apteka"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-meu-carro-tem-um-problema",
+    "kind": "sentence",
+    "pt": "O meu carro tem um problema.",
+    "pl": "Mój samochód ma usterkę.",
+    "pronunciation": {
+      "plSlow": "u MÊU KA-rru TÃJ ũ pru-BLÊ-mă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-carro-nao-pega",
+    "kind": "sentence",
+    "pt": "O carro não pega.",
+    "pl": "Samochód nie odpala.",
+    "pronunciation": {
+      "plSlow": "u KA-rru NÃU PE-gă.",
+      "notePl": "„pega” — otwarte e.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-faz-um-barulho-estranho",
+    "kind": "sentence",
+    "pt": "Faz um barulho estranho.",
+    "pl": "Wydaje dziwny dźwięk.",
+    "pronunciation": {
+      "plSlow": "FAZ ũ bă-RU-lju ysz-TRĂ-ńu.",
+      "notePl": "„estranho”: norma lizbońska „TRĂ”, poza Lizboną częste „TRÊ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-um-pneu-furado",
+    "kind": "sentence",
+    "pt": "Tenho um pneu furado.",
+    "pl": "Mam przebitą oponę.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ũ PNÊU fu-RA-du.",
+      "notePl": "„pneu” — jedna sylaba, „p” i „n” wymawiane razem.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-fazer-a-revisao",
+    "kind": "sentence",
+    "pt": "Queria fazer a revisão.",
+    "pl": "Chciałbym/Chciałabym zrobić przegląd (serwis).",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă fă-ZÊR ă rry-wi-ZÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "usagePl": "„Revisão” = przegląd serwisowy w warsztacie.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-posso-deixar-o-carro-aqui",
+    "kind": "sentence",
+    "pt": "Posso deixar o carro aqui?",
+    "pl": "Czy mogę zostawić tu samochód?",
+    "pronunciation": {
+      "plSlow": "PO-su dăj-SZAR u KA-rru ă-KI?",
+      "notePl": "„deixar”: „ei” = „ăj” (norma lizbońska), wariant „ej” też zrozumiały.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quando-fica-pronto",
+    "kind": "sentence",
+    "pt": "Quando fica pronto?",
+    "pl": "Kiedy będzie gotowy?",
+    "pronunciation": {
+      "plSlow": "KUÃ-du FI-kă PRÕ-tu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quanto-vai-custar",
+    "kind": "sentence",
+    "pt": "Quanto vai custar?",
+    "pl": "Ile to będzie kosztować?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu WAJ kusz-TAR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-fazer-um-orcamento",
+    "kind": "sentence",
+    "pt": "Pode fazer um orçamento?",
+    "pl": "Czy może Pan zrobić wycenę?",
+    "pronunciation": {
+      "plSlow": "PO-dy fă-ZÊR ũ or-să-MẼ-tu?",
+      "notePl": "Pierwsza samogłoska w „orçamento” (o otwarte czy zredukowane do u) — do weryfikacji.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "warsztat"
+    ],
+    "usagePl": "„Orçamento” = kosztorys, wycena przed naprawą.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-uma-mesa-para-dois-sfv",
+    "kind": "sentence",
+    "pt": "Uma mesa para dois, se faz favor.",
+    "pl": "Stolik dla dwóch osób, proszę.",
+    "pronunciation": {
+      "plSlow": "U-mă MÊ-ză PĂ-ră DÔJSZ, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-trazer-a-ementa",
+    "kind": "sentence",
+    "pt": "Pode trazer a ementa, se faz favor?",
+    "pl": "Czy może Pan/Pani przynieść kartę dań?",
+    "pronunciation": {
+      "plSlow": "PO-dy tră-ZÊR ă i-MẼ-tă, sy FASZ fă-WÔR?",
+      "notePl": "Początkowe e w „ementa” zapisano jako „i” — do weryfikacji.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "usagePl": "„Ementa” = karta dań (pt-PT); słowo „menu” też jest rozumiane.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-o-que-recomenda",
+    "kind": "sentence",
+    "pt": "O que recomenda?",
+    "pl": "Co Pan/Pani poleca?",
+    "pronunciation": {
+      "plSlow": "u ky rry-ku-MẼ-dă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-o-prato-do-dia",
+    "kind": "sentence",
+    "pt": "Queria o prato do dia.",
+    "pl": "Poproszę danie dnia.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă u PRA-tu du DI-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-nao-posso-comer",
+    "kind": "sentence",
+    "pt": "Não posso comer …",
+    "pl": "Nie mogę jeść…",
+    "pronunciation": {
+      "plSlow": "NÃU PO-su ku-MÊR …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "usagePl": "Przy alergii lub diecie dopowiedz produkt, np. nazwę składnika.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-onde-e-a-casa-de-banho",
+    "kind": "sentence",
+    "pt": "Onde é a casa de banho?",
+    "pl": "Gdzie jest toaleta?",
+    "pronunciation": {
+      "plSlow": "Õ-dy E ă KA-ză dy BĂ-ńu?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "usagePl": "„Casa de banho” — toaleta / łazienka (pt-PT).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-a-conta-sfv",
+    "kind": "sentence",
+    "pt": "A conta, se faz favor.",
+    "pl": "Poproszę rachunek.",
+    "pronunciation": {
+      "plSlow": "ă KÕ-tă, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-posso-pagar-com-cartao",
+    "kind": "sentence",
+    "pt": "Posso pagar com cartão?",
+    "pl": "Czy mogę zapłacić kartą?",
+    "pronunciation": {
+      "plSlow": "PO-su pă-GAR kõ kăr-TÃU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-estava-muito-bom-obrigado",
+    "kind": "sentence",
+    "pt": "Estava muito bom, obrigado.",
+    "ptFem": "Estava muito bom, obrigada.",
+    "pl": "Było bardzo dobre, dziękuję.",
+    "pronunciation": {
+      "plSlow": "ysz-TA-wă MŨJ-tu BÕ, o-bri-GA-du.",
+      "plNatural": "SZTA-wă MŨJ-tu BÕ, o-bri-GA-du.",
+      "notePl": "„estava” — czas przeszły (było). Kobieta mówi „obrigada”.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "ysz-TA-wă MŨJ-tu BÕ, o-bri-GA-dă.",
+      "plNatural": "SZTA-wă MŨJ-tu BÕ, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "restauracja"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-onde-posso-encontrar",
+    "kind": "sentence",
+    "pt": "Onde posso encontrar …?",
+    "pl": "Gdzie znajdę…?",
+    "pronunciation": {
+      "plSlow": "Õ-dy PO-su ẽ-kõ-TRAR …?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-so-estou-a-ver-obrigado",
+    "kind": "sentence",
+    "pt": "Só estou a ver, obrigado.",
+    "ptFem": "Só estou a ver, obrigada.",
+    "pl": "Tylko się rozglądam, dziękuję.",
+    "pronunciation": {
+      "plSlow": "SO ysz-TÔ ă WÊR, o-bri-GA-du.",
+      "plNatural": "SO SZTÔ‿ă WÊR, o-bri-GA-du.",
+      "notePl": "„estou a ver” = „estar a + bezokolicznik” (pt-PT). Kobieta mówi „obrigada”.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SO ysz-TÔ ă WÊR, o-bri-GA-dă.",
+      "plNatural": "SO SZTÔ‿ă WÊR, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tem-isto-noutro-tamanho",
+    "kind": "sentence",
+    "pt": "Tem isto noutro tamanho?",
+    "pl": "Czy jest to w innym rozmiarze?",
+    "pronunciation": {
+      "plSlow": "TÃJ ISZ-tu NÔ-tru tă-MĂ-ńu?",
+      "notePl": "„noutro” = em + outro (w innym).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-um-saco-sfv",
+    "kind": "sentence",
+    "pt": "Queria um saco, se faz favor.",
+    "pl": "Poproszę torbę.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ũ SA-ku, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "usagePl": "„Saco” = torba, reklamówka (pt-PT).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-onde-e-a-caixa",
+    "kind": "sentence",
+    "pt": "Onde é a caixa?",
+    "pl": "Gdzie jest kasa?",
+    "pronunciation": {
+      "plSlow": "Õ-dy E ă KAJ-sză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-aceitam-cartao",
+    "kind": "sentence",
+    "pt": "Aceitam cartão?",
+    "pl": "Czy można płacić kartą?",
+    "pronunciation": {
+      "plSlow": "ă-SĂJ-tãu kăr-TÃU?",
+      "notePl": "„aceitam” — „ei” = „ăj” (norma lizbońska); końcowe „-am” = nosowe „ãu”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-com-numero-de-contribuinte-sfv",
+    "kind": "sentence",
+    "pt": "Com número de contribuinte, se faz favor.",
+    "pl": "Z numerem podatnika (na paragonie), proszę.",
+    "pronunciation": {
+      "plSlow": "kõ NU-my-ru dy kõ-tri-BUĨ-ty, sy FASZ fă-WÔR.",
+      "notePl": "„contribuinte”: „-buin-” = „bu” + nosowe „ĩ” w jednej sylabie.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "usagePl": "Kasjer często pyta „Contribuinte?” — czy dopisać do paragonu numer podatnika. Jeśli nie chcesz: „Não, obrigado/obrigada.”",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-e-tudo-obrigado",
+    "kind": "sentence",
+    "pt": "É tudo, obrigado.",
+    "ptFem": "É tudo, obrigada.",
+    "pl": "To wszystko, dziękuję.",
+    "pronunciation": {
+      "plSlow": "E TU-du, o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "E TU-du, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sklep"
+    ],
+    "usagePl": "Kobieta mówi „obrigada”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-enviar-uma-encomenda-para-a-polonia",
+    "kind": "sentence",
+    "pt": "Queria enviar uma encomenda para a Polónia.",
+    "pl": "Chciałbym/Chciałabym wysłać paczkę do Polski.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ẽ-wi-AR U-mă ẽ-ku-MẼ-dă PĂ-ră ă pu-LO-ni-ă.",
+      "plNatural": "ky-RI-ă ẽ-wi-AR U-mă ẽ-ku-MẼ-dă PĂ-ră ă pu-LO-niă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "usagePl": "„Encomenda” = paczka.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-enviar-esta-carta-registada",
+    "kind": "sentence",
+    "pt": "Queria enviar esta carta registada.",
+    "pl": "Chciałbym/Chciałabym wysłać ten list jako polecony.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă ẽ-wi-AR ESZ-tă KAR-tă rry-żisz-TA-dă.",
+      "notePl": "„registada” (pt-PT) = polecona.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quanto-custa-enviar-para-a-polonia",
+    "kind": "sentence",
+    "pt": "Quanto custa enviar para a Polónia?",
+    "pl": "Ile kosztuje wysyłka do Polski?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă ẽ-wi-AR PĂ-ră ă pu-LO-ni-ă?",
+      "plNatural": "KUÃ-tu KUSZ-tă ẽ-wi-AR PĂ-ră ă pu-LO-niă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quanto-tempo-demora",
+    "kind": "sentence",
+    "pt": "Quanto tempo demora?",
+    "pl": "Jak długo to idzie?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu TẼ-pu dy-MO-ră?",
+      "notePl": "„demora” — otwarte o.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-venho-levantar-uma-encomenda",
+    "kind": "sentence",
+    "pt": "Venho levantar uma encomenda.",
+    "pl": "Przyszedłem/Przyszłam odebrać paczkę.",
+    "pronunciation": {
+      "plSlow": "WĂ-ńu ly-wã-TAR U-mă ẽ-ku-MẼ-dă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "usagePl": "„Levantar” — tu: odebrać (przesyłkę, pieniądze).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-tenho-este-aviso",
+    "kind": "sentence",
+    "pt": "Tenho este aviso.",
+    "pl": "Mam to awizo.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu ÊSZ-ty ă-WI-zu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "usagePl": "Pokaż kartkę, którą znalazłeś/znalazłaś w skrzynce.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-selos-para-a-polonia",
+    "kind": "sentence",
+    "pt": "Queria selos para a Polónia.",
+    "pl": "Poproszę znaczki do Polski.",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă SÊ-lusz PĂ-ră ă pu-LO-ni-ă.",
+      "plNatural": "ky-RI-ă SÊ-lusz PĂ-ră ă pu-LO-niă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "poczta"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-sou-o-novo-vizinho",
+    "kind": "sentence",
+    "pt": "Olá! Sou o novo vizinho.",
+    "ptFem": "Olá! Sou a nova vizinha.",
+    "pl": "Dzień dobry! Jestem nowym sąsiadem.",
+    "plFem": "Dzień dobry! Jestem nową sąsiadką.",
+    "pronunciation": {
+      "plSlow": "o-LA! SÔ u NÔ-wu wi-ZI-ńu.",
+      "notePl": "„novo” — zamknięte ô, „nova” — otwarte o.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-LA! SÔ ă NO-wă wi-ZI-ńă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-moro-no-segundo-andar",
+    "kind": "sentence",
+    "pt": "Moro no segundo andar.",
+    "pl": "Mieszkam na drugim piętrze.",
+    "pronunciation": {
+      "plSlow": "MO-ru nu sy-GŨ-du ã-DAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-desculpe-o-barulho",
+    "kind": "sentence",
+    "pt": "Desculpe o barulho.",
+    "pl": "Przepraszam za hałas.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py u bă-RU-lju.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-precisa-de-alguma-coisa",
+    "kind": "sentence",
+    "pt": "Precisa de alguma coisa?",
+    "pl": "Czy czegoś Pan/Pani potrzebuje?",
+    "pronunciation": {
+      "plSlow": "pry-SI-ză dy aɫ-GU-mă KÔJ-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-se-precisar-de-alguma-coisa-diga",
+    "kind": "sentence",
+    "pt": "Se precisar de alguma coisa, diga.",
+    "pl": "Jeśli będzie Pan/Pani czegoś potrzebować, proszę powiedzieć.",
+    "pronunciation": {
+      "plSlow": "sy pry-si-ZAR dy aɫ-GU-mă KÔJ-ză, DI-gă.",
+      "notePl": "„precisar” to tu forma trybu przyszłego (futuro do conjuntivo) — naucz się całego zwrotu. „Se” na początku to spójnik „jeśli”, nie zaimek — stąd wyjątek lintera proclisis-start.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "register": "formal",
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-obrigado-pela-ajuda",
+    "kind": "sentence",
+    "pt": "Obrigado pela ajuda!",
+    "ptFem": "Obrigada pela ajuda!",
+    "pl": "Dziękuję za pomoc!",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du PE-lă ă-ŻU-dă!",
+      "notePl": "„pela” — otwarte e. Kobieta mówi „obrigada”.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă PE-lă ă-ŻU-dă!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "sasiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-este-autocarro-vai-para-o-funchal",
+    "kind": "sentence",
+    "pt": "Este autocarro vai para o Funchal?",
+    "pl": "Czy ten autobus jedzie do Funchal?",
+    "pronunciation": {
+      "plSlow": "ÊSZ-ty au-tu-KA-rru WAJ PĂ-ră u fũ-SZAɫ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "usagePl": "Nazwę miejsca zmień według potrzeby. „Autocarro” = autobus (pt-PT).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-onde-e-a-paragem",
+    "kind": "sentence",
+    "pt": "Onde é a paragem?",
+    "pl": "Gdzie jest przystanek?",
+    "pronunciation": {
+      "plSlow": "Õ-dy E ă pă-RA-żãj?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "usagePl": "„Paragem” = przystanek (pt-PT).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-um-bilhete-para-sfv",
+    "kind": "sentence",
+    "pt": "Um bilhete para …, se faz favor.",
+    "pl": "Jeden bilet do…, proszę.",
+    "pronunciation": {
+      "plSlow": "ũ bi-LJÊ-ty PĂ-ră …, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-ida-e-volta-sfv",
+    "kind": "sentence",
+    "pt": "Ida e volta, se faz favor.",
+    "pl": "W obie strony, proszę.",
+    "pronunciation": {
+      "plSlow": "I-dă i WOɫ-tă, sy FASZ fă-WÔR.",
+      "notePl": "„volta” — otwarte o, ciemne ɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-quanto-custa-o-bilhete",
+    "kind": "sentence",
+    "pt": "Quanto custa o bilhete?",
+    "pl": "Ile kosztuje bilet?",
+    "pronunciation": {
+      "plSlow": "KUÃ-tu KUSZ-tă u bi-LJÊ-ty?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-posso-pagar-ao-motorista",
+    "kind": "sentence",
+    "pt": "Posso pagar ao motorista?",
+    "pl": "Czy mogę zapłacić kierowcy?",
+    "pronunciation": {
+      "plSlow": "PO-su pă-GAR au mu-tu-RISZ-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-a-que-horas-passa-o-proximo-autocarro",
+    "kind": "sentence",
+    "pt": "A que horas passa o próximo autocarro?",
+    "pl": "O której jedzie następny autobus?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz PA-să u PRO-si-mu au-tu-KA-rru?",
+      "notePl": "„próximo” — x czytane jak „s”.",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-dizer-me-onde-devo-sair",
+    "kind": "sentence",
+    "pt": "Pode dizer-me onde devo sair?",
+    "pl": "Czy może mi Pan/Pani powiedzieć, gdzie mam wysiąść?",
+    "pronunciation": {
+      "plSlow": "PO-dy di-ZÊR-my Õ-dy DÊ-wu să-IR?",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-desculpe-este-lugar-esta-livre",
+    "kind": "sentence",
+    "pt": "Desculpe, este lugar está livre?",
+    "pl": "Przepraszam, czy to miejsce jest wolne?",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, ÊSZ-ty lu-GAR ysz-TA LI-wry?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "transport"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-esta-la",
+    "kind": "sentence",
+    "pt": "Está lá?",
+    "pl": "Halo? (Czy ktoś mnie słyszy?)",
+    "pronunciation": {
+      "plSlow": "ysz-TA LA?",
+      "plNatural": "SZTA LA?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "usagePl": "Gdy w słuchawce jest cisza. Odbierając telefon, Portugalczycy często mówią po prostu „Estou?” albo „Sim?”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-daqui-fala",
+    "kind": "sentence",
+    "pt": "Daqui fala …",
+    "pl": "Mówi… (przedstawiam się przez telefon)",
+    "pronunciation": {
+      "plSlow": "dă-KI FA-lă …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "usagePl": "Po „fala” podaj swoje imię.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-queria-falar-com",
+    "kind": "sentence",
+    "pt": "Queria falar com …",
+    "pl": "Chciałbym/Chciałabym rozmawiać z…",
+    "pronunciation": {
+      "plSlow": "ky-RI-ă fă-LAR kõ …",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-falar-mais-devagar",
+    "kind": "sentence",
+    "pt": "Pode falar mais devagar, se faz favor?",
+    "pl": "Czy może Pan/Pani mówić wolniej?",
+    "pronunciation": {
+      "plSlow": "PO-dy fă-LAR MAJŻ dy-wă-GAR, sy FASZ fă-WÔR?",
+      "notePl": "„mais” przed dźwięcznym d → „MAJŻ”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-nao-ouco-bem",
+    "kind": "sentence",
+    "pt": "Não ouço bem.",
+    "pl": "Nie słyszę dobrze.",
+    "pronunciation": {
+      "plSlow": "NÃU Ô-su BÃJ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-repetir-o-numero",
+    "kind": "sentence",
+    "pt": "Pode repetir o número?",
+    "pl": "Czy może Pan/Pani powtórzyć numer?",
+    "pronunciation": {
+      "plSlow": "PO-dy rry-py-TIR u NU-my-ru?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-soletrar-sfv",
+    "kind": "sentence",
+    "pt": "Pode soletrar, se faz favor?",
+    "pl": "Czy może Pan/Pani przeliterować?",
+    "pronunciation": {
+      "plSlow": "PO-dy su-ly-TRAR, sy FASZ fă-WÔR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "usagePl": "Przy nazwiskach, adresach, e-mailach.",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-ligo-mais-tarde",
+    "kind": "sentence",
+    "pt": "Ligo mais tarde.",
+    "pl": "Zadzwonię później.",
+    "pronunciation": {
+      "plSlow": "LI-gu MAJSZ TAR-dy.",
+      "notePl": "Czas teraźniejszy w znaczeniu bliskiej przyszłości — typowe w potocznym PT.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-pode-ligar-me-mais-tarde",
+    "kind": "sentence",
+    "pt": "Pode ligar-me mais tarde?",
+    "pl": "Czy może Pan/Pani zadzwonić do mnie później?",
+    "pronunciation": {
+      "plSlow": "PO-dy li-GAR-my MAJSZ TAR-dy?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cs-desculpe-enganei-me-no-numero",
+    "kind": "sentence",
+    "pt": "Desculpe, enganei-me no número.",
+    "pl": "Przepraszam, pomyliłem/pomyliłam numer.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, ẽ-gă-NĂJ-my nu NU-my-ru.",
+      "notePl": "„enganei-me” — czas przeszły od „enganar-se” (pomylić się).",
+      "needsReview": true
+    },
+    "level": "A2",
+    "tags": [
+      "sciagawka",
+      "telefon"
+    ],
+    "reviewStatus": "draft"
+  }
+]

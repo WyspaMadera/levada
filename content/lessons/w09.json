@@ -1,0 +1,658 @@
+[
+  {
+    "id": "w09-l49",
+    "week": 9,
+    "day": 1,
+    "phase": 3,
+    "titlePl": "Czym się zajmujesz?",
+    "subtitlePl": "fazer: faço, fazes, faz… · O que faz? · Sou… / Trabalho como…",
+    "goals": [
+      "Odmieniać czasownik „fazer” (robić) w czasie teraźniejszym",
+      "Pytać o zawód: O que faz? / O que fazes?",
+      "Mówić o swojej pracy: Sou… / Trabalho como… / Trabalho com…"
+    ],
+    "canDo": [
+      "Zapytam: O que faz? O que fazes hoje?",
+      "Powiem: Sou médico. Trabalho com computadores.",
+      "Powiem: Faço o pequeno-almoço às sete."
+    ],
+    "prerequisites": [
+      "w08-l48"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "s-z",
+      "textPl": "faço „FA-su” (ç = s), fazes „FA-zysz” (z między samogłoskami = z), faz „FASZ” (z na końcu = sz). Jedno słowo — trzy różne dźwięki!",
+      "itemIds": [
+        "fazer-faco",
+        "fazer-fazes",
+        "fazer-faz"
+      ]
+    },
+    "newItemIds": [
+      "fazer-faco",
+      "fazer-fazes",
+      "fazer-faz",
+      "fazer-fazemos",
+      "fazer-fazem",
+      "o-que-faz-q",
+      "trabalho-como",
+      "computador"
+    ],
+    "grammar": {
+      "titlePl": "Fazer — robić; zawód bez rodzajnika",
+      "explanationPl": "**Fazer** (robić) to jeden z najczęstszych czasowników. Jest **nieregularny w formie „eu”**: nie „fazo”, tylko **faço** (ç czytamy jak s). Pozostałe formy są prawie regularne:\n**faço** · **fazes** · **faz** · **fazemos** · **fazem**\n\n**Wymowa:** faço „FA-su”, fazes „FA-zysz”, faz „FASZ”. To „faz” znasz z *se faz favor* i *não faz mal*.\n\n**Fazer** = robić, ale też przygotować: *faço o pequeno-almoço* (robię śniadanie), *faz um bolo* (piecze ciasto), *fazemos sopa* (gotujemy zupę).\n\n**Pytanie o zawód:** **O que faz?** (o senhor / a senhora) · **O que fazes?** (tu) — dosłownie „co robisz?”, ale zwykle znaczy „czym się zajmujesz?”. O to, co ktoś robi w tej chwili, pytamy: *O que está a fazer?*\n\n**Odpowiedź:**\n• **Sou** + zawód **bez rodzajnika**: Sou médico. Sou educadora. (Po polsku: jestem lekarzem — narzędnik; po portugalsku forma podstawowa i bez „um”.)\n• **Trabalho como** + zawód: Trabalho como educadora.\n• **Trabalho com** + rzecz: Trabalho com computadores. (*com* = z, *como* = jako)",
+      "table": [
+        [
+          "fazer",
+          "robić"
+        ],
+        [
+          "eu faço",
+          "(ja) robię"
+        ],
+        [
+          "tu fazes",
+          "(ty) robisz"
+        ],
+        [
+          "ele / ela / o senhor faz",
+          "on / ona / Pan robi"
+        ],
+        [
+          "nós fazemos",
+          "(my) robimy"
+        ],
+        [
+          "eles / elas / os senhores fazem",
+          "oni / one / Państwo robią"
+        ]
+      ],
+      "tableItemIds": [
+        "fazer",
+        "fazer-faco",
+        "fazer-fazes",
+        "fazer-faz",
+        "fazer-fazemos",
+        "fazer-fazem"
+      ],
+      "exampleIds": [
+        "faco-o-pequeno-almoco-as-oito",
+        "o-que-fazes-hoje-q",
+        "a-ana-faz-um-bolo",
+        "nos-fazemos-sopa-em-casa",
+        "sou-medico",
+        "trabalho-com-computadores"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d49"
+    ],
+    "exerciseIds": [
+      "w09-l49-e01",
+      "w09-l49-e02",
+      "w09-l49-e03",
+      "w09-l49-e04",
+      "w09-l49-e05",
+      "w09-l49-e06",
+      "w09-l49-e07",
+      "w09-l49-e08",
+      "w09-l49-e09",
+      "w09-l49-e10",
+      "w09-l49-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l49-s01",
+      "w09-l49-s02",
+      "w09-l49-s03",
+      "w09-l49-s04"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w09-l50",
+    "week": 9,
+    "day": 2,
+    "phase": 3,
+    "titlePl": "Wychodzę z domu o ósmej",
+    "subtitlePl": "sair: saio, sais, sai… · sair de casa / do trabalho · cedo",
+    "goals": [
+      "Odmieniać czasownik „sair” (wychodzić)",
+      "Mówić, o której wychodzę z domu i z pracy",
+      "Używać „de casa” i „do trabalho”"
+    ],
+    "canDo": [
+      "Powiem: Saio de casa às oito. Saio do trabalho às cinco.",
+      "Zapytam: A que horas sais de casa?",
+      "Powiem: Nós saímos cedo."
+    ],
+    "prerequisites": [
+      "w09-l49"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "diphthongs",
+      "textPl": "saio „SAJ-u”, sai „SAJ”, sais „SAJSZ” — ai to dyftong „aj”, jak w „pai” i „pais”. Ale saímos „să-I-musz”: kreska rozdziela a oraz i.",
+      "itemIds": [
+        "sair-saio",
+        "sair-sai"
+      ]
+    },
+    "newItemIds": [
+      "sair",
+      "sair-saio",
+      "sair-sais",
+      "sair-sai",
+      "sair-saimos",
+      "sair-saem",
+      "escritorio",
+      "cedo"
+    ],
+    "grammar": {
+      "titlePl": "Sair — wychodzić; sair de… (skąd?)",
+      "explanationPl": "**Sair** (wychodzić, wyjeżdżać) jest nieregularny: w formie „eu” pojawia się **i**:\n**saio** · **sais** · **sai** · **saímos** · **saem**\n\n**Wymowa:** saio „SAJ-u”; sai „SAJ” i sais „SAJSZ” to jedna sylaba (jak *pai*, *pais*); **saímos** ma kreskę, bo a oraz í wymawiamy osobno: „să-I-musz”; saem „SA-ãj”.\n\n**Skąd? → de:** jak po polsku „wychodzić Z…”:\n• **de casa** — z domu (o swoim domu bez rodzajnika, jak *em casa*, *para casa*)\n• **do** trabalho, **do** escritório, **do** café (de + o)\n• **da** farmácia (de + a)\n\n**Wychodzę i jadę:** Saio de casa às oito e **vou para** o escritório. (*sair de* — skąd; *ir para* — dokąd).\n\n**Kiedy?** **cedo** (wcześnie) · **tarde** (późno) · às oito, às cinco.",
+      "table": [
+        [
+          "sair",
+          "wychodzić"
+        ],
+        [
+          "eu saio",
+          "(ja) wychodzę"
+        ],
+        [
+          "tu sais",
+          "(ty) wychodzisz"
+        ],
+        [
+          "ele / ela / o senhor sai",
+          "on / ona / Pan wychodzi"
+        ],
+        [
+          "nós saímos",
+          "(my) wychodzimy"
+        ],
+        [
+          "eles / elas / os senhores saem",
+          "oni / one / Państwo wychodzą"
+        ]
+      ],
+      "tableItemIds": [
+        "sair",
+        "sair-saio",
+        "sair-sais",
+        "sair-sai",
+        "sair-saimos",
+        "sair-saem"
+      ],
+      "exampleIds": [
+        "saio-de-casa-as-oito",
+        "saio-do-trabalho-as-cinco",
+        "a-que-horas-sais-de-casa-q",
+        "o-rui-sai-do-cafe-as-tres",
+        "nos-saimos-cedo",
+        "saio-de-casa-as-oito-e-vou-para-o-escritorio"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d50"
+    ],
+    "exerciseIds": [
+      "w09-l50-e01",
+      "w09-l50-e02",
+      "w09-l50-e03",
+      "w09-l50-e04",
+      "w09-l50-e05",
+      "w09-l50-e06",
+      "w09-l50-e07",
+      "w09-l50-e08",
+      "w09-l50-e09",
+      "w09-l50-e10",
+      "w09-l50-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l50-s01",
+      "w09-l50-s02",
+      "w09-l50-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w09-l51",
+    "week": 9,
+    "day": 3,
+    "phase": 3,
+    "titlePl": "Przychodzę czy idę? Vir i ir",
+    "subtitlePl": "vir: venho, vens, vem… · venho de… · Vens comigo?",
+    "goals": [
+      "Odmieniać czasownik „vir” (przychodzić)",
+      "Odróżniać „vir” (tu, do mówiącego) od „ir” (tam)",
+      "Mówić, skąd wracam: Venho do trabalho"
+    ],
+    "canDo": [
+      "Zapytam: De onde vens? Vens comigo?",
+      "Powiem: Venho do trabalho. Venho de autocarro.",
+      "Powiem: Os meus pais vêm à Madeira."
+    ],
+    "prerequisites": [
+      "w09-l50"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "vem „WÃJ”, vens „WÃJSZ”, vêm „WÃJ-ãj” — nosowe „ãj” bez domykania m, dokładnie jak w tem, tens, têm.",
+      "itemIds": [
+        "vir-vem",
+        "vir-vens"
+      ]
+    },
+    "newItemIds": [
+      "vir",
+      "vir-venho",
+      "vir-vens",
+      "vir-vem",
+      "vir-vimos",
+      "vir-vem-eles",
+      "comigo",
+      "de-onde-vens-q"
+    ],
+    "grammar": {
+      "titlePl": "Vir czy ir?",
+      "explanationPl": "**Vir** (przychodzić, przyjeżdżać) odmienia się jak **ter** — porównaj:\n**venho** (tenho) · **vens** (tens) · **vem** (tem) · **vimos** · **vêm** (têm)\nUwaga: *vem* (on) i *vêm* (oni) brzmią inaczej: „WÃJ” — „WÃJ-ãj”.\n\n**Vir czy ir?** Tak jak po polsku „przyjść” i „pójść”:\n• **vir** — ruch w stronę mówiącego, „tutaj”: *A Ana vem amanhã.* (przyjdzie do mnie) · *Os meus pais vêm à Madeira.* (przyjeżdżają tu, gdzie mieszkam)\n• **ir** — ruch gdzieś indziej, „tam”: *Vou ao supermercado.*\n\n**Zaproszenie:** *Vou ao café. **Vens comigo?*** — ja idę (vou), a Ty masz przyjść razem ze mną (vens). **comigo** = ze mną (com + mim).\n\n**Skąd? → vir de:** *Venho **do** trabalho.* (wracam z pracy) · *De onde vens?* (skąd idziesz?). **Czym?** *Venho **de** autocarro.*\n\n**Uwaga:** „De onde vens?” to zwykle pytanie, skąd ktoś teraz idzie. O pochodzenie pytamy częściej: *De onde és? / De onde é?*",
+      "table": [
+        [
+          "vir",
+          "przychodzić, przyjeżdżać"
+        ],
+        [
+          "eu venho",
+          "(ja) przychodzę"
+        ],
+        [
+          "tu vens",
+          "(ty) przychodzisz"
+        ],
+        [
+          "ele / ela / o senhor vem",
+          "on / ona / Pan przychodzi"
+        ],
+        [
+          "nós vimos",
+          "(my) przychodzimy"
+        ],
+        [
+          "eles / elas / os senhores vêm",
+          "oni / one / Państwo przychodzą"
+        ]
+      ],
+      "tableItemIds": [
+        "vir",
+        "vir-venho",
+        "vir-vens",
+        "vir-vem",
+        "vir-vimos",
+        "vir-vem-eles"
+      ],
+      "exampleIds": [
+        "venho-do-trabalho",
+        "venho-de-autocarro",
+        "vens-comigo-q",
+        "a-ana-vem-amanha",
+        "os-meus-pais-vem-a-madeira",
+        "vou-ao-supermercado-vens-q",
+        "nos-vimos-de-carro"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d51"
+    ],
+    "exerciseIds": [
+      "w09-l51-e01",
+      "w09-l51-e02",
+      "w09-l51-e03",
+      "w09-l51-e04",
+      "w09-l51-e05",
+      "w09-l51-e06",
+      "w09-l51-e07",
+      "w09-l51-e08",
+      "w09-l51-e09",
+      "w09-l51-e10",
+      "w09-l51-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l51-s01",
+      "w09-l51-s02",
+      "w09-l51-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w09-l52",
+    "week": 9,
+    "day": 4,
+    "phase": 3,
+    "titlePl": "Wieczorem oglądam telewizję",
+    "subtitlePl": "ver: vejo, vês, vê… · a televisão · depois",
+    "goals": [
+      "Odmieniać czasownik „ver” (widzieć, oglądać)",
+      "Mówić, co robię wieczorem i po pracy",
+      "Łączyć czynności słowem „depois”"
+    ],
+    "canDo": [
+      "Powiem: À noite vejo televisão. Depois do trabalho…",
+      "Zapytam: Vês televisão?",
+      "Powiem: Os meus filhos veem televisão à tarde."
+    ],
+    "prerequisites": [
+      "w09-l51"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "vê „WÊ”, vês „WÊSZ”, vemos „WÊ-musz” — zamknięte ê (daszek), inne niż otwarte é w „café”.",
+      "itemIds": [
+        "ver-ve",
+        "ver-ves"
+      ]
+    },
+    "newItemIds": [
+      "ver",
+      "ver-vejo",
+      "ver-ves",
+      "ver-ve",
+      "ver-vemos",
+      "ver-veem",
+      "televisao",
+      "depois"
+    ],
+    "grammar": {
+      "titlePl": "Ver — widzieć, oglądać; depois",
+      "explanationPl": "**Ver** (widzieć, oglądać) jest nieregularny w formie „eu”:\n**vejo** · **vês** · **vê** · **vemos** · **veem**\n\n**Wymowa:** vejo „WĂ-żu” (w normie lizbońskiej e przed „ż” brzmi jak ă; często słychać też „WÊ-żu”); vês, vê, vemos — zamknięte ê; veem „WÊ-ãj” (dwie sylaby, po reformie pisowni bez daszka).\n\n**Ver televisão** = oglądać telewizję (zwykle bez rodzajnika). Po polsku są dwa słowa: „widzieć” i „oglądać” — po portugalsku jedno: *ver*.\n\n**Depois** = potem. **Depois de** + rzeczownik = po…: *depois **do** trabalho* (po pracy). Na początku zdania często z przecinkiem: *Depois do trabalho, vejo televisão.*\n\n**Wymowa w zdaniu:** *depois do* → „dy-PÔJŻ du” (s przed d brzmi jak ż).",
+      "table": [
+        [
+          "ver",
+          "widzieć; oglądać"
+        ],
+        [
+          "eu vejo",
+          "(ja) widzę; oglądam"
+        ],
+        [
+          "tu vês",
+          "(ty) widzisz"
+        ],
+        [
+          "ele / ela / o senhor vê",
+          "on / ona / Pan widzi"
+        ],
+        [
+          "nós vemos",
+          "(my) widzimy"
+        ],
+        [
+          "eles / elas / os senhores veem",
+          "oni / one / Państwo widzą"
+        ]
+      ],
+      "tableItemIds": [
+        "ver",
+        "ver-vejo",
+        "ver-ves",
+        "ver-ve",
+        "ver-vemos",
+        "ver-veem"
+      ],
+      "exampleIds": [
+        "a-noite-vejo-televisao",
+        "ves-televisao-q",
+        "depois-do-trabalho-vejo-televisao",
+        "nos-nao-vemos-televisao",
+        "os-meus-filhos-veem-televisao-a-tarde"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d52"
+    ],
+    "exerciseIds": [
+      "w09-l52-e01",
+      "w09-l52-e02",
+      "w09-l52-e03",
+      "w09-l52-e04",
+      "w09-l52-e05",
+      "w09-l52-e06",
+      "w09-l52-e07",
+      "w09-l52-e08",
+      "w09-l52-e09",
+      "w09-l52-e10",
+      "w09-l52-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l52-s01",
+      "w09-l52-s02",
+      "w09-l52-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w09-l53",
+    "week": 9,
+    "day": 5,
+    "phase": 3,
+    "titlePl": "Co mówisz? Dizer",
+    "subtitlePl": "dizer: digo, dizes, diz… · dizer que… · Como?",
+    "goals": [
+      "Odmieniać czasownik „dizer” (mówić, powiedzieć)",
+      "Powtarzać, co ktoś mówi: Ele diz que…",
+      "Odróżniać „dizer” od „falar”; prosić o powtórzenie: Como?"
+    ],
+    "canDo": [
+      "Powiem: Digo sempre bom dia em português.",
+      "Powiem, co ktoś mówi: A Marta diz que o meu filho fala muito bem.",
+      "Zareaguję, gdy nie dosłyszę: Como? Pode repetir?"
+    ],
+    "prerequisites": [
+      "w09-l52"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "stress",
+      "textPl": "dizer „di-ZÊR” — akcent na końcu; digo „DI-gu”, dizes „DI-zysz” — akcent na początku. W odmianie akcent się przesuwa.",
+      "itemIds": [
+        "dizer",
+        "dizer-digo"
+      ]
+    },
+    "newItemIds": [
+      "dizer",
+      "dizer-digo",
+      "dizer-dizes",
+      "dizer-diz",
+      "dizer-dizemos",
+      "dizer-dizem",
+      "que-conj",
+      "como-q"
+    ],
+    "grammar": {
+      "titlePl": "Dizer — powiedzieć; dizer que… (że…)",
+      "explanationPl": "**Dizer** (mówić, powiedzieć) — nieregularna forma „eu”: **g** zamiast z:\n**digo** · **dizes** · **diz** · **dizemos** · **dizem**\n„diz” znasz z *Como se diz…?* (Jak się mówi…?).\n\n**Dizer czy falar?**\n• **dizer** — powiedzieć COŚ (słowa, treść): *digo bom dia*, *diz que está cansado*\n• **falar** — mówić w języku, rozmawiać: *fala português*, *falamos ao telemóvel*\n\n**Mówi, że… → diz que…** Spójnik **que** = że. Po polsku przed „że” piszemy przecinek — po portugalsku przed „que” zwykle nie:\n*Ele diz que está cansado.* — Mówi, że jest zmęczony.\n*Eles dizem que sim.* — Mówią, że tak.\n\n**Nie dosłyszałeś?** Krótko: **Como?** (Słucham?). Grzeczniej: *Desculpe? Pode repetir, se faz favor?*",
+      "table": [
+        [
+          "dizer",
+          "mówić, powiedzieć"
+        ],
+        [
+          "eu digo",
+          "(ja) mówię"
+        ],
+        [
+          "tu dizes",
+          "(ty) mówisz"
+        ],
+        [
+          "ele / ela / o senhor diz",
+          "on / ona / Pan mówi"
+        ],
+        [
+          "nós dizemos",
+          "(my) mówimy"
+        ],
+        [
+          "eles / elas / os senhores dizem",
+          "oni / one / Państwo mówią"
+        ]
+      ],
+      "tableItemIds": [
+        "dizer",
+        "dizer-digo",
+        "dizer-dizes",
+        "dizer-diz",
+        "dizer-dizemos",
+        "dizer-dizem"
+      ],
+      "exampleIds": [
+        "digo-sempre-bom-dia-em-portugues",
+        "o-que-diz-a-marta-q",
+        "a-marta-diz-que-o-meu-filho-fala-muito-bem",
+        "ele-diz-que-esta-cansado",
+        "eles-dizem-que-sim",
+        "como-pode-repetir-q"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d53"
+    ],
+    "exerciseIds": [
+      "w09-l53-e01",
+      "w09-l53-e02",
+      "w09-l53-e03",
+      "w09-l53-e04",
+      "w09-l53-e05",
+      "w09-l53-e06",
+      "w09-l53-e07",
+      "w09-l53-e08",
+      "w09-l53-e09",
+      "w09-l53-e10",
+      "w09-l53-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l53-s01",
+      "w09-l53-s02",
+      "w09-l53-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review"
+  },
+  {
+    "id": "w09-l54",
+    "week": 9,
+    "day": 6,
+    "phase": 3,
+    "titlePl": "Dar i powtórka + sprawdzian",
+    "subtitlePl": "dar: dou, dás, dá… · Não dá. · sprawdzian tygodnia 9",
+    "goals": [
+      "Odmieniać czasownik „dar” (dawać) i mówić, komu coś daję",
+      "Odmawiać potocznie: Hoje não dá.",
+      "Sprawdzić wiedzę z tygodnia 9"
+    ],
+    "canDo": [
+      "Powiem: Dou o telemóvel ao meu filho. Dás-me o telemóvel?",
+      "Odmówię: Hoje não dá. Amanhã?",
+      "Opowiem o swojej pracy i dniu roboczym"
+    ],
+    "prerequisites": [
+      "w09-l53"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "unstressed-a",
+      "textPl": "dás „DASZ” — otwarte a; damos „DĂ-musz” — a przed m brzmi jak przytłumione ă (jak w „vamos”, „estamos”).",
+      "itemIds": [
+        "dar-das",
+        "dar-damos"
+      ]
+    },
+    "newItemIds": [
+      "dar",
+      "dar-dou",
+      "dar-das",
+      "dar-da",
+      "dar-damos",
+      "dar-dao",
+      "nao-da"
+    ],
+    "grammar": {
+      "titlePl": "Dar — dawać; tydzień 9 w pigułce",
+      "explanationPl": "**Dar** (dawać) odmienia się jak **estar**:\n**dou** (estou) · **dás** (estás) · **dá** (está) · **damos** (estamos) · **dão** (estão)\n\n**Komu? → a + osoba** (po polsku celownik): *Dou o telemóvel **ao** meu filho.* (a + o) · *Dou um café **à** Ana.* (a + a)\n\n**Dasz mi…?** *Dás-**me** o telemóvel?* — zaimek *me* po czasowniku, z łącznikiem (jak *Pode ajudar-me?*). Wymowa: „DAŻ-my”.\n\n**Não dá.** — potocznie: nie da rady, nie pasuje mi. *Hoje não dá. Amanhã?* Neutralnie: *Hoje não posso.*\n\n**Tydzień 9 — formy „eu” są nieregularne:**\n*faço* (fazer) · *saio* (sair) · *venho* (vir) · *vejo* (ver) · *digo* (dizer) · *dou* (dar)\n\nNa koniec rozmowa z Aną, a potem sprawdzian tygodnia (ok. 10 minut + monolog). Wynik wskaże lekcje do powtórki; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "dar",
+          "dawać"
+        ],
+        [
+          "eu dou",
+          "(ja) daję"
+        ],
+        [
+          "tu dás",
+          "(ty) dajesz"
+        ],
+        [
+          "ele / ela / o senhor dá",
+          "on / ona / Pan daje"
+        ],
+        [
+          "nós damos",
+          "(my) dajemy"
+        ],
+        [
+          "eles / elas / os senhores dão",
+          "oni / one / Państwo dają"
+        ]
+      ],
+      "tableItemIds": [
+        "dar",
+        "dar-dou",
+        "dar-das",
+        "dar-da",
+        "dar-damos",
+        "dar-dao"
+      ],
+      "exampleIds": [
+        "dou-o-telemovel-ao-meu-filho",
+        "das-me-o-telemovel-q",
+        "a-ana-da-um-bolo-ao-meu-filho",
+        "eles-dao-um-bolo-a-marta",
+        "hoje-nao-da",
+        "hoje-nao-da-amanha-q"
+      ]
+    },
+    "dialogueIds": [
+      "w09-d54"
+    ],
+    "exerciseIds": [
+      "w09-l54-e01",
+      "w09-l54-e02",
+      "w09-l54-e03",
+      "w09-l54-e04",
+      "w09-l54-e05",
+      "w09-l54-e06",
+      "w09-l54-e07",
+      "w09-l54-e08",
+      "w09-l54-e09",
+      "w09-l54-e10",
+      "w09-l54-e11"
+    ],
+    "speakingTaskIds": [
+      "w09-l54-s01",
+      "w09-l54-s02",
+      "w09-l54-s03"
+    ],
+    "mapStopId": "calheta",
+    "status": "review",
+    "testId": "w09-test"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "w12-l67-s01",
+    "promptPl": "Umów prawdziwą wizytę (lekarz, dentysta albo fryzjer): powiedz, czego chcesz.",
+    "modelItemIds": [
+      "cs-queria-marcar-uma-consulta",
+      "queria-marcar-uma-hora-sfv",
+      "bom-dia-queria-marcar-uma-consulta"
+    ]
+  },
+  {
+    "id": "w12-l67-s02",
+    "promptPl": "Recepcja pyta: „Para que dia?”. Podaj dzień i zapytaj o godzinę.",
+    "modelItemIds": [
+      "para-sexta-feira-sfv",
+      "para-amanha-sfv",
+      "pode-ser-a-que-horas-q"
+    ],
+    "hintPl": "Para + dzień: para amanhã, para sexta-feira."
+  },
+  {
+    "id": "w12-l67-s03",
+    "promptPl": "Jakie masz w tym tygodniu wizyty albo spotkania? Powiedz 1–2 prawdziwe zdania.",
+    "modelItemIds": [
+      "tenho-uma-consulta-amanha-as-dez",
+      "amanha-tenho-uma-reuniao-as-nove",
+      "no-sabado-vou-ao-cabeleireiro"
+    ]
+  },
+  {
+    "id": "w12-l68-s01",
+    "promptPl": "Zarezerwuj stolik na swój prawdziwy plan: dzień, liczba osób, godzina.",
+    "modelItemIds": [
+      "queria-reservar-uma-mesa-para-sabado",
+      "para-quatro-pessoas-as-oito"
+    ],
+    "hintPl": "a pessoa jest żeńska: duas pessoas."
+  },
+  {
+    "id": "w12-l68-s02",
+    "promptPl": "Kelner proponuje inną godzinę. Zgódź się albo poproś o wcześniejszą.",
+    "modelItemIds": [
+      "as-nove-pode-ser",
+      "as-nove-nao-posso-pode-ser-mais-cedo-q"
+    ]
+  },
+  {
+    "id": "w12-l68-s03",
+    "promptPl": "Wchodzisz do restauracji. Powiedz, że masz rezerwację dla dwóch osób, i podaj nazwisko.",
+    "modelItemIds": [
+      "tenho-uma-reserva-para-duas-pessoas",
+      "em-nome-de-tomasz"
+    ]
+  },
+  {
+    "id": "w12-l69-s01",
+    "promptPl": "Dzwoni telefon. Odbierz i zapytaj, kto mówi.",
+    "modelItemIds": [
+      "estou-quem-fala-q",
+      "estou-tel"
+    ]
+  },
+  {
+    "id": "w12-l69-s02",
+    "promptPl": "Zadzwoń i poproś do telefonu konkretną osobę. Przedstaw się.",
+    "modelItemIds": [
+      "bom-dia-posso-falar-com-a-marta-sfv",
+      "daqui-fala-o-tomasz"
+    ],
+    "hintPl": "W miejsce „Tomasz” powiedz swoje imię."
+  },
+  {
+    "id": "w12-l69-s03",
+    "promptPl": "Ta osoba teraz nie może rozmawiać. Powiedz, że zadzwonisz później.",
+    "modelItemIds": [
+      "esta-bem-ligo-mais-tarde-obrigado",
+      "ligo-a-ana-mais-tarde"
+    ]
+  },
+  {
+    "id": "w12-l70-s01",
+    "promptPl": "Zadzwoń i zmień godzinę albo dzień wizyty.",
+    "modelItemIds": [
+      "queria-mudar-a-hora-da-consulta",
+      "pode-ser-outro-dia-q"
+    ]
+  },
+  {
+    "id": "w12-l70-s02",
+    "promptPl": "Odwołaj wizytę na jutro albo rezerwację w restauracji.",
+    "modelItemIds": [
+      "queria-desmarcar-a-consulta-de-amanha",
+      "cs-queria-cancelar-a-reserva"
+    ],
+    "hintPl": "desmarcar — wizyta, spotkanie; cancelar — rezerwacja (i ogólnie)."
+  },
+  {
+    "id": "w12-l70-s03",
+    "promptPl": "Osoby, do której dzwonisz, nie ma. Poproś, żeby przekazano, że dzwoniłeś.",
+    "modelItemIds": [
+      "a-marta-hoje-nao-esta",
+      "pode-dizer-lhe-que-liguei-q"
+    ]
+  },
+  {
+    "id": "w12-l71-s01",
+    "promptPl": "Przedstaw się (Chamo-me…), a potem przeliteruj swoje imię po portugalsku.",
+    "modelItemIds": [
+      "te-o-eme-a-esse-ze"
+    ],
+    "hintPl": "Nazwy liter: a = á, e = é, o = ó, s = esse, z = zê, k = capa, w = dâblio, y = ípsilon, j = jota, h = agá. Swoje imię wymawiasz po polsku.",
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w12-l71-s02",
+    "promptPl": "Podaj numer telefonu w grupach po trzy cyfry (może być zmyślony).",
+    "modelItemIds": [
+      "o-meu-numero-e-912345678",
+      "e-o-912345678"
+    ]
+  },
+  {
+    "id": "w12-l71-s03",
+    "promptPl": "Ktoś dzwoni pod zły numer. Odpowiedz uprzejmie.",
+    "modelItemIds": [
+      "desculpe-e-engano"
+    ]
+  },
+  {
+    "id": "w12-l72-s01",
+    "promptPl": "Ana dzwoni wieczorem. Odbierz i opowiedz, jak minął dzień.",
+    "modelItemIds": [
+      "estou-tel",
+      "correu-bem-fui-a-praia-com-o-meu-filho"
+    ]
+  },
+  {
+    "id": "w12-l72-s02",
+    "promptPl": "Umów się z Aną na kolację: zgódź się, powiedz, że zarezerwujesz stolik, ustal godzinę.",
+    "modelItemIds": [
+      "boa-ideia-vou-reservar-uma-mesa-no-restaurante",
+      "para-as-oito-entao-combinado"
+    ]
+  },
+  {
+    "id": "w12-l72-s03",
+    "promptPl": "Zadzwoniłeś pod zły numer. Przeproś.",
+    "modelItemIds": [
+      "cs-desculpe-enganei-me-no-numero"
+    ]
+  },
+  {
+    "id": "w12-t-s01",
+    "promptPl": "Umów wizytę u lekarza: powiedz, czego chcesz, ustal dzień i godzinę.",
+    "modelItemIds": [
+      "bom-dia-queria-marcar-uma-consulta",
+      "para-amanha-sfv",
+      "pode-ser-a-que-horas-q"
+    ]
+  },
+  {
+    "id": "w12-t-s02",
+    "promptPl": "Zarezerwuj stolik: dzień, liczba osób, godzina, nazwisko.",
+    "modelItemIds": [
+      "queria-reservar-uma-mesa-para-sabado",
+      "para-quatro-pessoas-as-oito",
+      "em-nome-de-tomasz"
+    ]
+  },
+  {
+    "id": "w12-t-s03",
+    "promptPl": "Dzwonisz do kogoś, kogo nie ma. Poproś o przekazanie, że dzwoniłeś, i powiedz, że zadzwonisz później.",
+    "modelItemIds": [
+      "posso-falar-com-a-marta-sfv",
+      "pode-dizer-lhe-que-liguei-q",
+      "cs-ligo-mais-tarde"
+    ]
+  },
+  {
+    "id": "w12-t-s04",
+    "promptPl": "Podaj swój numer telefonu i przeliteruj swoje imię.",
+    "modelItemIds": [
+      "o-meu-numero-e-912345678",
+      "te-o-eme-a-esse-ze"
+    ],
+    "hintPl": "Numer w grupach po trzy cyfry; litery jedna po drugiej.",
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  }
+]

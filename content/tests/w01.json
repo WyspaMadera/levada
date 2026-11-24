@@ -1,0 +1,61 @@
+[
+  {
+    "id": "w01-test",
+    "week": 1,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 1",
+    "introPl": "Około 7 minut. Sprawdzamy słuchanie, rozpoznawanie, budowanie zdań, pisanie z pamięci i mówienie. Wynik nie blokuje dalszej nauki — pokaże, co warto powtórzyć.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w01-t-e01",
+          "w01-t-e02",
+          "w01-t-e03",
+          "w01-t-e04",
+          "w01-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w01-t-e06",
+          "w01-t-e07",
+          "w01-t-e08"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w01-t-e09",
+          "w01-t-e10",
+          "w01-t-e11",
+          "w01-t-e12"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w01-t-e13",
+          "w01-t-e14"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w01-t-s01",
+      "w01-t-s02",
+      "w01-t-s03"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w01-l02",
+      "w01-l03",
+      "w01-l04",
+      "w01-l05"
+    ]
+  }
+]

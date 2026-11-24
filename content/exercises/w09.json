@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "w09-l49-e01",
+    "type": "listenChoose",
+    "targetItemId": "fazer-faz",
+    "optionItemIds": [
+      "fazer-faz",
+      "fazer-faco",
+      "fazer-fazem"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l49-e02",
+    "type": "readChoose",
+    "targetItemId": "o-que-faz-q",
+    "optionItemIds": [
+      "o-que-faz-q",
+      "o-que-esta-a-fazer-q",
+      "onde-trabalha-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l49-e03",
+    "type": "recallChoose",
+    "targetItemId": "o-que-fazes-hoje-q",
+    "optionItemIds": [
+      "o-que-fazes-hoje-q",
+      "o-que-estas-a-fazer-q",
+      "o-que-faz-q"
+    ],
+    "promptPl": "Zapytaj kolegę (tu), co DZIŚ robi."
+  },
+  {
+    "id": "w09-l49-e04",
+    "type": "fillGap",
+    "sentencePt": "O que ___ hoje?",
+    "sentencePl": "Co dziś robisz?",
+    "options": [
+      "fazes",
+      "faz",
+      "faço"
+    ],
+    "answer": "fazes",
+    "fullItemId": "o-que-fazes-hoje-q",
+    "wrongExplanations": {
+      "faz": "„faz” — on / ona / Pan / Pani.",
+      "faço": "„faço” — ja."
+    },
+    "explanationPl": "tu → fazes.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l49-e05",
+    "type": "fillGap",
+    "sentencePt": "___ o pequeno-almoço às oito.",
+    "sentencePl": "Robię śniadanie o ósmej.",
+    "options": [
+      "Faço",
+      "Faz",
+      "Fazem"
+    ],
+    "answer": "Faço",
+    "fullItemId": "faco-o-pequeno-almoco-as-oito",
+    "wrongExplanations": {
+      "Faz": "„faz” — on / ona / Pan / Pani.",
+      "Fazem": "„fazem” — oni / one / Państwo."
+    },
+    "explanationPl": "eu → faço (forma nieregularna, ç = s).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l49-e06",
+    "type": "fillGap",
+    "sentencePt": "Trabalho ___ computadores.",
+    "sentencePl": "Pracuję z komputerami.",
+    "options": [
+      "com",
+      "como"
+    ],
+    "answer": "com",
+    "fullItemId": "trabalho-com-computadores",
+    "wrongExplanations": {
+      "como": "„como” = jako (kim?): Trabalho como educadora."
+    },
+    "explanationPl": "z (czym? z kim?) = com.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w09-l49-e07",
+    "type": "buildSentence",
+    "targetItemId": "nos-fazemos-sopa-em-casa",
+    "tiles": [
+      "Nós",
+      "fazemos",
+      "sopa",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "fazem",
+      "no"
+    ],
+    "promptPl": "Powiedz: „Gotujemy zupę w domu.”"
+  },
+  {
+    "id": "w09-l49-e08",
+    "type": "transform",
+    "baseItemId": "a-ana-faz-um-bolo",
+    "instructionPl": "Powiedz to o sobie (eu).",
+    "targetItemId": "faco-um-bolo",
+    "tiles": [
+      "Faço",
+      "um",
+      "bolo"
+    ],
+    "distractors": [
+      "Faz",
+      "uma"
+    ]
+  },
+  {
+    "id": "w09-l49-e09",
+    "type": "recallSay",
+    "targetItemId": "o-que-faz-q",
+    "promptPl": "Poznajesz kogoś nowego. Zapytaj grzecznie (o senhor / a senhora), czym się zajmuje."
+  },
+  {
+    "id": "w09-l49-e10",
+    "type": "recallSay",
+    "targetItemId": "sou-medico",
+    "promptPl": "Przećwicz wzór „Sou + zawód”: powiedz, że jesteś lekarzem."
+  },
+  {
+    "id": "w09-l49-e11",
+    "type": "typeAnswer",
+    "targetItemId": "fazer-faco",
+    "promptPl": "Napisz: „robię” (pamiętaj o ç)."
+  },
+  {
+    "id": "w09-l50-e01",
+    "type": "listenChoose",
+    "targetItemId": "sair-sai",
+    "optionItemIds": [
+      "sair-sai",
+      "sair-saio",
+      "sair-saem"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l50-e02",
+    "type": "readChoose",
+    "targetItemId": "saio-de-casa-as-oito",
+    "optionItemIds": [
+      "saio-de-casa-as-oito",
+      "saio-do-trabalho-as-cinco",
+      "levanto-me-as-seis-e-meia"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l50-e03",
+    "type": "recallChoose",
+    "targetItemId": "cedo",
+    "optionItemIds": [
+      "cedo",
+      "longe",
+      "sempre"
+    ],
+    "promptPl": "Wybierz „wcześnie”."
+  },
+  {
+    "id": "w09-l50-e04",
+    "type": "fillGap",
+    "sentencePt": "Saio ___ casa às oito.",
+    "sentencePl": "Wychodzę z domu o ósmej.",
+    "options": [
+      "de",
+      "da",
+      "do"
+    ],
+    "answer": "de",
+    "fullItemId": "saio-de-casa-as-oito",
+    "wrongExplanations": {
+      "da": "„da casa” mówimy tylko z określeniem (da casa da Ana). Twój dom → de casa.",
+      "do": "„do” = de + o, przed męskimi (do trabalho)."
+    },
+    "explanationPl": "„casa” w znaczeniu „mój dom” — bez rodzajnika: de casa, em casa, para casa.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w09-l50-e05",
+    "type": "fillGap",
+    "sentencePt": "Saio ___ trabalho às cinco.",
+    "sentencePl": "Wychodzę z pracy o piątej.",
+    "options": [
+      "do",
+      "de",
+      "da"
+    ],
+    "answer": "do",
+    "fullItemId": "saio-do-trabalho-as-cinco",
+    "wrongExplanations": {
+      "de": "Przed „o trabalho” de łączy się z rodzajnikiem: do.",
+      "da": "„da” — przed żeńskimi."
+    },
+    "explanationPl": "o trabalho → de + o = do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w09-l50-e06",
+    "type": "fillGap",
+    "sentencePt": "A que horas ___ de casa?",
+    "sentencePl": "O której wychodzisz z domu?",
+    "options": [
+      "sais",
+      "sai",
+      "saio"
+    ],
+    "answer": "sais",
+    "fullItemId": "a-que-horas-sais-de-casa-q",
+    "wrongExplanations": {
+      "sai": "„sai” — on / ona / Pan / Pani.",
+      "saio": "„saio” — ja."
+    },
+    "explanationPl": "tu → sais.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l50-e07",
+    "type": "typeAnswer",
+    "targetItemId": "sair-saio",
+    "promptPl": "Napisz: „wychodzę”."
+  },
+  {
+    "id": "w09-l50-e08",
+    "type": "buildSentence",
+    "targetItemId": "a-que-horas-sais-de-casa-q",
+    "tiles": [
+      "A",
+      "que",
+      "horas",
+      "sais",
+      "de",
+      "casa"
+    ],
+    "distractors": [
+      "sai",
+      "do"
+    ],
+    "promptPl": "Zapytaj kolegę: „O której wychodzisz z domu?”"
+  },
+  {
+    "id": "w09-l50-e09",
+    "type": "transform",
+    "baseItemId": "saio-de-casa-as-oito",
+    "instructionPl": "Zmień osobę na „my” (nós).",
+    "targetItemId": "saimos-de-casa-as-oito",
+    "tiles": [
+      "Saímos",
+      "de",
+      "casa",
+      "às",
+      "oito"
+    ],
+    "distractors": [
+      "Saem",
+      "do"
+    ]
+  },
+  {
+    "id": "w09-l50-e10",
+    "type": "recallSay",
+    "targetItemId": "saio-de-casa-as-oito",
+    "promptPl": "Powiedz, że wychodzisz z domu o ósmej."
+  },
+  {
+    "id": "w09-l50-e11",
+    "type": "recallSay",
+    "targetItemId": "a-que-horas-sais-de-casa-q",
+    "promptPl": "Zapytaj kolegę (tu), o której wychodzi z domu."
+  },
+  {
+    "id": "w09-l51-e01",
+    "type": "listenChoose",
+    "targetItemId": "vir-venho",
+    "optionItemIds": [
+      "vir-venho",
+      "vir-vem",
+      "vir-vens"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l51-e02",
+    "type": "recallChoose",
+    "targetItemId": "venho-do-trabalho",
+    "optionItemIds": [
+      "venho-do-trabalho",
+      "vou-para-casa",
+      "saio-do-trabalho-as-cinco"
+    ],
+    "promptPl": "Powiedz: „Wracam z pracy.”"
+  },
+  {
+    "id": "w09-l51-e03",
+    "type": "readChoose",
+    "targetItemId": "de-onde-vens-q",
+    "optionItemIds": [
+      "de-onde-vens-q",
+      "de-onde-e-q",
+      "para-onde-vais-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l51-e04",
+    "type": "fillGap",
+    "sentencePt": "Venho ___ trabalho.",
+    "sentencePl": "Wracam z pracy.",
+    "options": [
+      "do",
+      "ao",
+      "para o"
+    ],
+    "answer": "do",
+    "fullItemId": "venho-do-trabalho",
+    "wrongExplanations": {
+      "ao": "„ao” = dokąd (a + o). Skąd przychodzę → do.",
+      "para o": "„para o” = dokąd. Skąd → do."
+    },
+    "explanationPl": "Skąd? → de + o = do.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w09-l51-e05",
+    "type": "fillGap",
+    "sentencePt": "Os meus pais ___ à Madeira.",
+    "sentencePl": "Moi rodzice przyjeżdżają na Maderę.",
+    "options": [
+      "vêm",
+      "vem",
+      "vens"
+    ],
+    "answer": "vêm",
+    "fullItemId": "os-meus-pais-vem-a-madeira",
+    "wrongExplanations": {
+      "vem": "„vem” (bez daszka) — on / ona / Pan / Pani.",
+      "vens": "„vens” — ty."
+    },
+    "explanationPl": "eles (os meus pais) → vêm (z daszkiem).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l51-e06",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ de carro.",
+    "sentencePl": "Przyjeżdżamy samochodem.",
+    "options": [
+      "vimos",
+      "vamos",
+      "vêm"
+    ],
+    "answer": "vimos",
+    "fullItemId": "nos-vimos-de-carro",
+    "wrongExplanations": {
+      "vamos": "„vamos” = jedziemy / idziemy (ir) — „tam”, od mówiącego. Przyjeżdżamy → vimos.",
+      "vêm": "„vêm” — oni / one / Państwo."
+    },
+    "explanationPl": "Przyjeżdżamy (tu, do mówiącego) → vir: nós vimos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l51-e07",
+    "type": "buildSentence",
+    "targetItemId": "vou-ao-supermercado-vens-q",
+    "tiles": [
+      "Vou",
+      "ao",
+      "supermercado",
+      "Vens"
+    ],
+    "distractors": [
+      "Vais",
+      "do"
+    ],
+    "promptPl": "Powiedz: „Idę do supermarketu. Pójdziesz (ze mną)?”"
+  },
+  {
+    "id": "w09-l51-e08",
+    "type": "transform",
+    "baseItemId": "venho-do-trabalho",
+    "instructionPl": "Zmień osobę: Ana (ela).",
+    "targetItemId": "a-ana-vem-do-trabalho",
+    "tiles": [
+      "A",
+      "Ana",
+      "vem",
+      "do",
+      "trabalho"
+    ],
+    "distractors": [
+      "vêm",
+      "venho"
+    ]
+  },
+  {
+    "id": "w09-l51-e09",
+    "type": "recallSay",
+    "targetItemId": "de-onde-vens-q",
+    "promptPl": "Spotykasz kolegę na ulicy. Zapytaj, skąd idzie."
+  },
+  {
+    "id": "w09-l51-e10",
+    "type": "recallSay",
+    "targetItemId": "vens-comigo-q",
+    "promptPl": "Idziesz na kawę. Zapytaj kolegę: „Pójdziesz ze mną?”"
+  },
+  {
+    "id": "w09-l51-e11",
+    "type": "typeAnswer",
+    "targetItemId": "comigo",
+    "promptPl": "Napisz: „ze mną”."
+  },
+  {
+    "id": "w09-l52-e01",
+    "type": "listenChoose",
+    "targetItemId": "ver-vejo",
+    "optionItemIds": [
+      "ver-vejo",
+      "ver-ve",
+      "ver-veem"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l52-e02",
+    "type": "readChoose",
+    "targetItemId": "a-noite-vejo-televisao",
+    "optionItemIds": [
+      "a-noite-vejo-televisao",
+      "depois-do-trabalho-vejo-televisao",
+      "ves-televisao-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l52-e03",
+    "type": "recallChoose",
+    "targetItemId": "depois",
+    "optionItemIds": [
+      "depois",
+      "sempre",
+      "agora"
+    ],
+    "promptPl": "Wybierz „potem”."
+  },
+  {
+    "id": "w09-l52-e04",
+    "type": "fillGap",
+    "sentencePt": "___ televisão?",
+    "sentencePl": "Oglądasz telewizję?",
+    "options": [
+      "Vês",
+      "Vê",
+      "Vejo"
+    ],
+    "answer": "Vês",
+    "fullItemId": "ves-televisao-q",
+    "wrongExplanations": {
+      "Vê": "„vê” — on / ona / Pan / Pani.",
+      "Vejo": "„vejo” — ja."
+    },
+    "explanationPl": "tu → vês.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l52-e05",
+    "type": "fillGap",
+    "sentencePt": "À noite ___ televisão.",
+    "sentencePl": "Wieczorem oglądam telewizję.",
+    "options": [
+      "vejo",
+      "vê",
+      "vês"
+    ],
+    "answer": "vejo",
+    "fullItemId": "a-noite-vejo-televisao",
+    "wrongExplanations": {
+      "vê": "„vê” — on / ona / Pan / Pani.",
+      "vês": "„vês” — ty."
+    },
+    "explanationPl": "eu → vejo (nieregularne: j).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l52-e06",
+    "type": "fillGap",
+    "sentencePt": "Os meus filhos ___ televisão à tarde.",
+    "sentencePl": "Moje dzieci oglądają telewizję po południu.",
+    "options": [
+      "veem",
+      "vê",
+      "vemos"
+    ],
+    "answer": "veem",
+    "fullItemId": "os-meus-filhos-veem-televisao-a-tarde",
+    "wrongExplanations": {
+      "vê": "„vê” — jedna osoba (on / ona).",
+      "vemos": "„vemos” — my."
+    },
+    "explanationPl": "eles (os meus filhos) → veem.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l52-e07",
+    "type": "buildSentence",
+    "targetItemId": "depois-do-trabalho-vejo-televisao",
+    "tiles": [
+      "Depois",
+      "do",
+      "trabalho",
+      "vejo",
+      "televisão"
+    ],
+    "distractors": [
+      "de",
+      "vê"
+    ],
+    "promptPl": "Powiedz: „Po pracy oglądam telewizję.”"
+  },
+  {
+    "id": "w09-l52-e08",
+    "type": "transform",
+    "baseItemId": "a-noite-vejo-televisao",
+    "instructionPl": "Zaprzecz: wieczorem NIE oglądasz telewizji.",
+    "targetItemId": "a-noite-nao-vejo-televisao",
+    "tiles": [
+      "À",
+      "noite",
+      "não",
+      "vejo",
+      "televisão"
+    ],
+    "distractors": [
+      "vês",
+      "vê"
+    ]
+  },
+  {
+    "id": "w09-l52-e09",
+    "type": "recallSay",
+    "targetItemId": "ves-televisao-q",
+    "promptPl": "Zapytaj kolegę (tu), czy ogląda telewizję."
+  },
+  {
+    "id": "w09-l52-e10",
+    "type": "recallSay",
+    "targetItemId": "depois-do-trabalho-vejo-televisao",
+    "promptPl": "Powiedz, że po pracy oglądasz telewizję."
+  },
+  {
+    "id": "w09-l52-e11",
+    "type": "typeAnswer",
+    "targetItemId": "televisao",
+    "promptPl": "Napisz: „telewizja”."
+  },
+  {
+    "id": "w09-l53-e01",
+    "type": "listenChoose",
+    "targetItemId": "dizer-digo",
+    "optionItemIds": [
+      "dizer-digo",
+      "dizer-diz",
+      "dizer-dizem"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l53-e02",
+    "type": "readChoose",
+    "targetItemId": "ele-diz-que-esta-cansado",
+    "optionItemIds": [
+      "ele-diz-que-esta-cansado",
+      "ele-nao-esta-cansado",
+      "estou-cansado"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l53-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-q",
+    "optionItemIds": [
+      "como-q",
+      "quanto-e-q",
+      "o-que-significa"
+    ],
+    "promptPl": "Nie dosłyszałeś. Zareaguj krótko: „Słucham?”"
+  },
+  {
+    "id": "w09-l53-e04",
+    "type": "fillGap",
+    "sentencePt": "___ sempre bom dia em português.",
+    "sentencePl": "Zawsze mówię „dzień dobry” po portugalsku.",
+    "options": [
+      "Digo",
+      "Diz",
+      "Dizem"
+    ],
+    "answer": "Digo",
+    "fullItemId": "digo-sempre-bom-dia-em-portugues",
+    "wrongExplanations": {
+      "Diz": "„diz” — on / ona / Pan / Pani.",
+      "Dizem": "„dizem” — oni / one / Państwo."
+    },
+    "explanationPl": "eu → digo (nieregularne: g).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l53-e05",
+    "type": "fillGap",
+    "sentencePt": "A Marta ___ que o meu filho fala muito bem.",
+    "sentencePl": "Marta mówi, że mój syn mówi bardzo dobrze.",
+    "options": [
+      "diz",
+      "fala",
+      "dizes"
+    ],
+    "answer": "diz",
+    "fullItemId": "a-marta-diz-que-o-meu-filho-fala-muito-bem",
+    "wrongExplanations": {
+      "fala": "„falar” = mówić w języku, rozmawiać (fala português). „mówi, że…” → diz que…",
+      "dizes": "„dizes” — ty."
+    },
+    "explanationPl": "Przekazujemy, CO ktoś powiedział (…, że…) → dizer: diz que…",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w09-l53-e06",
+    "type": "fillGap",
+    "sentencePt": "Ele diz ___ está cansado.",
+    "sentencePl": "Mówi, że jest zmęczony.",
+    "options": [
+      "que",
+      "o que"
+    ],
+    "answer": "que",
+    "fullItemId": "ele-diz-que-esta-cansado",
+    "wrongExplanations": {
+      "o que": "„o que” = co (O que diz? — Co mówi?)."
+    },
+    "explanationPl": "że = que (bez przecinka przed nim).",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w09-l53-e07",
+    "type": "buildSentence",
+    "targetItemId": "a-marta-diz-que-o-meu-filho-fala-muito-bem",
+    "tiles": [
+      "A",
+      "Marta",
+      "diz",
+      "que",
+      "o",
+      "meu",
+      "filho",
+      "fala",
+      "muito",
+      "bem"
+    ],
+    "distractors": [
+      "dizes",
+      "de"
+    ],
+    "promptPl": "Powiedz: „Marta mówi, że mój syn mówi bardzo dobrze.”"
+  },
+  {
+    "id": "w09-l53-e08",
+    "type": "transform",
+    "baseItemId": "estou-cansado",
+    "instructionPl": "Powtórz słowa kolegi w 3. osobie: „On mówi, że jest zmęczony.”",
+    "targetItemId": "ele-diz-que-esta-cansado",
+    "tiles": [
+      "Ele",
+      "diz",
+      "que",
+      "está",
+      "cansado"
+    ],
+    "distractors": [
+      "estou",
+      "fala"
+    ]
+  },
+  {
+    "id": "w09-l53-e09",
+    "type": "recallSay",
+    "targetItemId": "como-pode-repetir-q",
+    "promptPl": "Nie dosłyszałeś. Zareaguj („Słucham?”) i poproś grzecznie o powtórzenie."
+  },
+  {
+    "id": "w09-l53-e10",
+    "type": "recallSay",
+    "targetItemId": "digo-sempre-bom-dia-em-portugues",
+    "promptPl": "Powiedz, że zawsze mówisz „bom dia” po portugalsku."
+  },
+  {
+    "id": "w09-l53-e11",
+    "type": "typeAnswer",
+    "targetItemId": "dizer-digo",
+    "promptPl": "Napisz: „mówię” (od „dizer”)."
+  },
+  {
+    "id": "w09-l54-e01",
+    "type": "listenChoose",
+    "targetItemId": "dar-dou",
+    "optionItemIds": [
+      "dar-dou",
+      "dar-da",
+      "dar-dao"
+    ],
+    "promptPl": "Posłuchaj. Którą formę słyszysz?"
+  },
+  {
+    "id": "w09-l54-e02",
+    "type": "readChoose",
+    "targetItemId": "hoje-nao-da",
+    "optionItemIds": [
+      "hoje-nao-da",
+      "nao-faz-mal",
+      "hoje-nao-posso-amanha-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w09-l54-e03",
+    "type": "recallChoose",
+    "targetItemId": "das-me-o-telemovel-q",
+    "optionItemIds": [
+      "das-me-o-telemovel-q",
+      "dou-o-telemovel-ao-meu-filho",
+      "onde-esta-o-telemovel-q"
+    ],
+    "promptPl": "Poproś kolegę (tu): „Dasz mi telefon?”"
+  },
+  {
+    "id": "w09-l54-e04",
+    "type": "fillGap",
+    "sentencePt": "Dou o telemóvel ___ meu filho.",
+    "sentencePl": "Daję telefon synowi.",
+    "options": [
+      "ao",
+      "o",
+      "à"
+    ],
+    "answer": "ao",
+    "fullItemId": "dou-o-telemovel-ao-meu-filho",
+    "wrongExplanations": {
+      "o": "Samo „o” to nie „komu”. Komu → a + o = ao.",
+      "à": "„à” = a + a, przed żeńskimi (à Ana)."
+    },
+    "explanationPl": "Komu? → a + o = ao (po polsku celownik: synowi).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w09-l54-e05",
+    "type": "fillGap",
+    "sentencePt": "A Ana ___ um bolo ao meu filho.",
+    "sentencePl": "Ana daje mojemu synowi ciastko.",
+    "options": [
+      "dá",
+      "dás",
+      "dou"
+    ],
+    "answer": "dá",
+    "fullItemId": "a-ana-da-um-bolo-ao-meu-filho",
+    "wrongExplanations": {
+      "dás": "„dás” — ty.",
+      "dou": "„dou” — ja."
+    },
+    "explanationPl": "ela → dá.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-l54-e06",
+    "type": "fillGap",
+    "sentencePt": "Hoje não ___. Amanhã?",
+    "sentencePl": "Dziś nie dam rady. Jutro?",
+    "options": [
+      "dá",
+      "dou",
+      "faz"
+    ],
+    "answer": "dá",
+    "fullItemId": "hoje-nao-da-amanha-q",
+    "wrongExplanations": {
+      "dou": "„não dou” = nie daję (czegoś komuś).",
+      "faz": "„não faz mal” = nic nie szkodzi — inne znaczenie."
+    },
+    "explanationPl": "Gotowy zwrot: não dá = nie da rady / nie pasuje.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w09-l54-e07",
+    "type": "buildSentence",
+    "targetItemId": "das-me-o-telemovel-q",
+    "tiles": [
+      "Dás-me",
+      "o",
+      "telemóvel"
+    ],
+    "distractors": [
+      "Me",
+      "dás"
+    ],
+    "promptPl": "Zapytaj kolegę: „Dasz mi telefon?” (zaimek po czasowniku!)"
+  },
+  {
+    "id": "w09-l54-e08",
+    "type": "transform",
+    "baseItemId": "hoje-nao-posso-amanha-q",
+    "instructionPl": "Powiedz to samo potocznie, z „não dá”.",
+    "targetItemId": "hoje-nao-da-amanha-q",
+    "tiles": [
+      "Hoje",
+      "não",
+      "dá",
+      "Amanhã"
+    ],
+    "distractors": [
+      "posso",
+      "dou"
+    ]
+  },
+  {
+    "id": "w09-l54-e09",
+    "type": "recallSay",
+    "targetItemId": "hoje-nao-da",
+    "promptPl": "Kolega proponuje coś na dziś. Odpowiedz potocznie, że dziś nie dasz rady."
+  },
+  {
+    "id": "w09-l54-e10",
+    "type": "recallSay",
+    "targetItemId": "das-me-o-telemovel-q",
+    "promptPl": "Poproś kolegę (tu), żeby dał Ci telefon."
+  },
+  {
+    "id": "w09-l54-e11",
+    "type": "typeAnswer",
+    "targetItemId": "dar-dou",
+    "promptPl": "Napisz: „daję”."
+  },
+  {
+    "id": "w09-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "saio-de-casa-as-oito",
+    "optionItemIds": [
+      "saio-de-casa-as-oito",
+      "saio-do-trabalho-as-cinco",
+      "a-que-horas-sais-de-casa-q"
+    ]
+  },
+  {
+    "id": "w09-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "vens-comigo-q",
+    "optionItemIds": [
+      "vens-comigo-q",
+      "de-onde-vens-q",
+      "vou-ao-supermercado-vens-q"
+    ]
+  },
+  {
+    "id": "w09-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "a-noite-vejo-televisao",
+    "optionItemIds": [
+      "a-noite-vejo-televisao",
+      "a-noite-nao-vejo-televisao",
+      "ves-televisao-q"
+    ]
+  },
+  {
+    "id": "w09-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "ele-diz-que-esta-cansado",
+    "optionItemIds": [
+      "ele-diz-que-esta-cansado",
+      "estou-cansado",
+      "eles-dizem-que-sim"
+    ]
+  },
+  {
+    "id": "w09-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "o-que-faz-q",
+    "optionItemIds": [
+      "o-que-faz-q",
+      "o-que-esta-a-fazer-q",
+      "o-que-fazes-hoje-q"
+    ]
+  },
+  {
+    "id": "w09-t-e06",
+    "type": "readChoose",
+    "targetItemId": "cedo",
+    "optionItemIds": [
+      "cedo",
+      "depois",
+      "sempre"
+    ]
+  },
+  {
+    "id": "w09-t-e07",
+    "type": "readChoose",
+    "targetItemId": "venho-do-trabalho",
+    "optionItemIds": [
+      "venho-do-trabalho",
+      "vou-para-casa",
+      "saio-do-trabalho-as-cinco"
+    ]
+  },
+  {
+    "id": "w09-t-e08",
+    "type": "readChoose",
+    "targetItemId": "hoje-nao-da",
+    "optionItemIds": [
+      "hoje-nao-da",
+      "nao-faz-mal",
+      "nao-posso"
+    ]
+  },
+  {
+    "id": "w09-t-e09",
+    "type": "readChoose",
+    "targetItemId": "trabalho-como",
+    "optionItemIds": [
+      "trabalho-como",
+      "trabalho-com-computadores",
+      "trabalho-em-casa"
+    ]
+  },
+  {
+    "id": "w09-t-e10",
+    "type": "fillGap",
+    "sentencePt": "___ o pequeno-almoço às oito.",
+    "sentencePl": "Robię śniadanie o ósmej.",
+    "options": [
+      "Faço",
+      "Faz",
+      "Fazes"
+    ],
+    "answer": "Faço",
+    "fullItemId": "faco-o-pequeno-almoco-as-oito",
+    "wrongExplanations": {
+      "Faz": "„faz” — on / ona / Pan / Pani.",
+      "Fazes": "„fazes” — ty."
+    },
+    "explanationPl": "eu → faço.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-t-e11",
+    "type": "fillGap",
+    "sentencePt": "A que horas ___ de casa?",
+    "sentencePl": "O której wychodzisz z domu?",
+    "options": [
+      "sais",
+      "sai",
+      "saio"
+    ],
+    "answer": "sais",
+    "fullItemId": "a-que-horas-sais-de-casa-q",
+    "wrongExplanations": {
+      "sai": "„sai” — on / ona / Pan / Pani.",
+      "saio": "„saio” — ja."
+    },
+    "explanationPl": "tu → sais.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-t-e12",
+    "type": "fillGap",
+    "sentencePt": "Os meus pais ___ à Madeira.",
+    "sentencePl": "Moi rodzice przyjeżdżają na Maderę.",
+    "options": [
+      "vêm",
+      "vão",
+      "vem"
+    ],
+    "answer": "vêm",
+    "fullItemId": "os-meus-pais-vem-a-madeira",
+    "wrongExplanations": {
+      "vão": "„vão” = jadą (ir) — „tam”. Przyjeżdżają do mnie → vêm.",
+      "vem": "„vem” (bez daszka) — jedna osoba."
+    },
+    "explanationPl": "Przyjeżdżają (tu, gdzie jestem) → vir: eles vêm.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-t-e13",
+    "type": "fillGap",
+    "sentencePt": "À noite ___ televisão.",
+    "sentencePl": "Wieczorem oglądam telewizję.",
+    "options": [
+      "vejo",
+      "vê",
+      "veem"
+    ],
+    "answer": "vejo",
+    "fullItemId": "a-noite-vejo-televisao",
+    "wrongExplanations": {
+      "vê": "„vê” — on / ona.",
+      "veem": "„veem” — oni / one."
+    },
+    "explanationPl": "eu → vejo.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w09-t-e14",
+    "type": "fillGap",
+    "sentencePt": "A Marta ___ que o meu filho fala muito bem.",
+    "sentencePl": "Marta mówi, że mój syn mówi bardzo dobrze.",
+    "options": [
+      "diz",
+      "fala"
+    ],
+    "answer": "diz",
+    "fullItemId": "a-marta-diz-que-o-meu-filho-fala-muito-bem",
+    "wrongExplanations": {
+      "fala": "„fala” = mówi w języku / rozmawia. Przekazanie treści → diz que…"
+    },
+    "explanationPl": "mówi, że… → diz que…",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w09-t-e15",
+    "type": "fillGap",
+    "sentencePt": "Dou o telemóvel ___ meu filho.",
+    "sentencePl": "Daję telefon synowi.",
+    "options": [
+      "ao",
+      "à"
+    ],
+    "answer": "ao",
+    "fullItemId": "dou-o-telemovel-ao-meu-filho",
+    "wrongExplanations": {
+      "à": "„à” — przed żeńskimi (à minha filha)."
+    },
+    "explanationPl": "o meu filho → a + o = ao.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w09-t-e16",
+    "type": "fillGap",
+    "sentencePt": "Saio ___ trabalho às cinco.",
+    "sentencePl": "Wychodzę z pracy o piątej.",
+    "options": [
+      "do",
+      "de"
+    ],
+    "answer": "do",
+    "fullItemId": "saio-do-trabalho-as-cinco",
+    "wrongExplanations": {
+      "de": "Przed „o trabalho”: de + o = do. (Bez rodzajnika tylko „de casa”.)"
+    },
+    "explanationPl": "o trabalho → do.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w09-t-e17",
+    "type": "buildSentence",
+    "targetItemId": "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+    "tiles": [
+      "Saio",
+      "de",
+      "casa",
+      "às",
+      "oito",
+      "e",
+      "vou",
+      "para",
+      "o",
+      "escritório"
+    ],
+    "distractors": [
+      "venho",
+      "do"
+    ],
+    "promptPl": "Powiedz: „Wychodzę z domu o ósmej i jadę do biura.”"
+  },
+  {
+    "id": "w09-t-e18",
+    "type": "transform",
+    "baseItemId": "a-noite-vejo-televisao",
+    "instructionPl": "Zapytaj kolegę (tu), czy wieczorem ogląda telewizję.",
+    "targetItemId": "a-noite-ves-televisao-q",
+    "tiles": [
+      "À",
+      "noite",
+      "vês",
+      "televisão"
+    ],
+    "distractors": [
+      "vejo",
+      "vê"
+    ]
+  },
+  {
+    "id": "w09-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "vir-venho",
+    "promptPl": "Napisz: „przychodzę”."
+  },
+  {
+    "id": "w09-t-e20",
+    "type": "typeAnswer",
+    "targetItemId": "dizer-digo",
+    "promptPl": "Napisz: „mówię” (od „dizer”)."
+  },
+  {
+    "id": "w09-t-e21",
+    "type": "recallChoose",
+    "targetItemId": "de-onde-vens-q",
+    "optionItemIds": [
+      "de-onde-vens-q",
+      "para-onde-vais-q",
+      "de-onde-e-q"
+    ],
+    "promptPl": "Zapytaj kolegę, skąd teraz wraca."
+  },
+  {
+    "id": "w09-t-e22",
+    "type": "recallChoose",
+    "targetItemId": "das-me-o-telemovel-q",
+    "optionItemIds": [
+      "das-me-o-telemovel-q",
+      "dou-o-telemovel-ao-meu-filho",
+      "preciso-do-telemovel"
+    ],
+    "promptPl": "Poproś kolegę (tu): „Dasz mi telefon?”"
+  }
+]

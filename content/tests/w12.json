@@ -1,0 +1,112 @@
+[
+  {
+    "id": "w12-test",
+    "week": 12,
+    "kind": "stage",
+    "titlePl": "Sprawdzian trzeciego miesiąca",
+    "introPl": "Około 10 minut. Sprawdzian etapowy z tygodni 9–12: praca i codzienność (fazer, dizer, sair, vir, ver, dar), plany (vou + bezokolicznik, określenia czasu), czas przeszły (falei, comi, fui, estive, tive, fiz), umawianie wizyt, rezerwacje i rozmowy telefoniczne. Wynik wskaże lekcje do powtórki — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w12-t-e01",
+          "w12-t-e02",
+          "w12-t-e03",
+          "w12-t-e04",
+          "w12-t-e05",
+          "w12-t-e06"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w12-t-e07",
+          "w12-t-e08",
+          "w12-t-e09",
+          "w12-t-e10",
+          "w12-t-e11"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w12-t-e12",
+          "w12-t-e13",
+          "w12-t-e14",
+          "w12-t-e15",
+          "w12-t-e16",
+          "w12-t-e17",
+          "w12-t-e18",
+          "w12-t-e19",
+          "w12-t-e20"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w12-t-e21",
+          "w12-t-e22",
+          "w12-t-e23",
+          "w12-t-e24"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w12-t-s01",
+      "w12-t-s02",
+      "w12-t-s03",
+      "w12-t-s04"
+    ],
+    "monologues": [
+      {
+        "id": "w12-t-m01",
+        "promptPl": "Opowiedz, co robiłeś/aś w ostatni weekend i co planujesz na najbliższe dni — około półtorej minuty, bez przygotowania.",
+        "hintPl": "No sábado (passado) fui… Fiz… Fiquei… Estive… Foi muito bom / Nada de especial. — Amanhã vou… Este fim de semana vamos… Para a semana… Gostava de…",
+        "targetSeconds": 90,
+        "checklistPl": [
+          "Powiedziałem/powiedziałam, dokąd poszedłem/poszłam (fui / fomos + ao / à)",
+          "Użyłem/użyłam czasu przeszłego czasownika regularnego (trabalhei, jantei, comi, saí…)",
+          "Użyłem/użyłam estive, tive, fiz albo fiquei",
+          "Powiedziałem/powiedziałam, KIEDY to było (no sábado passado, ontem, anteontem, há dois dias…)",
+          "Oceniłem/oceniłam: Foi muito bom! / Correu bem. / Nada de especial.",
+          "Opowiedziałem/opowiedziałam o planach: vou / vamos + bezokolicznik (bez „vou ir”)",
+          "Powiedziałem/powiedziałam, kiedy to zrobię (amanhã, este fim de semana, para a semana, no próximo mês…)",
+          "Połączyłem/połączyłam zdania (e, mas, porque, depois, a seguir)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w12-restaurante"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w09-l49",
+      "w09-l50",
+      "w09-l51",
+      "w09-l52",
+      "w09-l53",
+      "w09-l54",
+      "w10-l55",
+      "w10-l56",
+      "w10-l57",
+      "w10-l58",
+      "w10-l59",
+      "w10-l60",
+      "w11-l61",
+      "w11-l62",
+      "w11-l63",
+      "w11-l64",
+      "w11-l65",
+      "w11-l66",
+      "w12-l67",
+      "w12-l68",
+      "w12-l69",
+      "w12-l70",
+      "w12-l71"
+    ]
+  }
+]

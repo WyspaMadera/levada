@@ -1,0 +1,62 @@
+[
+  {
+    "id": "w02-test",
+    "week": 2,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 2",
+    "introPl": "Około 8 minut. Ser, estar, ter, rodzajniki, liczby i łączenie zdań. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w02-t-e01",
+          "w02-t-e02",
+          "w02-t-e03",
+          "w02-t-e04",
+          "w02-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w02-t-e06",
+          "w02-t-e07"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w02-t-e08",
+          "w02-t-e09",
+          "w02-t-e10",
+          "w02-t-e11",
+          "w02-t-e12",
+          "w02-t-e13"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w02-t-e14",
+          "w02-t-e15"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w02-t-s01",
+      "w02-t-s02",
+      "w02-t-s03"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w02-l08",
+      "w02-l09",
+      "w02-l10",
+      "w02-l11"
+    ]
+  }
+]

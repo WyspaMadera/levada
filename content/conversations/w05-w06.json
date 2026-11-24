@@ -1,0 +1,115 @@
+[
+  {
+    "id": "sc-w05-vizinha-dia",
+    "titlePl": "Sąsiadka pyta o Twój dzień",
+    "topicPl": "Rytm dnia",
+    "level": "A1",
+    "unlockAfterLessonId": "w05-l30",
+    "contextPl": "Wieczorem dzwoni Ana, sąsiadka. Jesteście po imieniu (tu). Odpowiadaj krótko i prawdziwie — godziny i szczegóły mogą być inne niż we wzorach.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "ola-o-que-estas-a-fazer-q",
+        "taskPl": "Powiedz, co teraz robisz (i zapytaj ją o to samo).",
+        "answerItemIds": [
+          "agora-estou-a-comer-e-tu",
+          "estou-a-trabalhar",
+          "estou-a-comer"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "a-que-horas-te-levantas-q",
+        "taskPl": "Powiedz, o której wstajesz albo się budzisz.",
+        "answerItemIds": [
+          "levanto-me-as-seis-e-meia",
+          "acordo-as-seis"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "e-a-noite-comes-em-casa-q",
+        "taskPl": "Powiedz, czy wieczorem jesz w domu (zawsze, czasem…).",
+        "answerItemIds": [
+          "sim-comemos-sempre-em-casa-as-oito",
+          "eu-como-sempre-em-casa",
+          "as-vezes-e-tu"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "em-casa-falas-polaco-ou-portugues-q",
+        "taskPl": "Powiedz, jakim językiem mówicie w domu.",
+        "answerItemIds": [
+          "falamos-polaco-as-vezes-portugues",
+          "em-casa-falamos-polaco"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "muito-bem-boa-noite",
+        "taskPl": "Pożegnaj się.",
+        "answerItemIds": [
+          "boa-noite",
+          "ate-amanha"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w06-familia-marta",
+    "titlePl": "Opowiadam Marcie o rodzinie",
+    "topicPl": "Rodzina i dom",
+    "level": "A1",
+    "unlockAfterLessonId": "w06-l36",
+    "contextPl": "Na festynie w przedszkolu Marta grzecznie pyta Cię o rodzinę i dom (o senhor / a senhora). Pytania są osobiste — możesz odpowiedzieć ogólnie albo opisać wymyśloną rodzinę.",
+    "turns": [
+      {
+        "speaker": "Marta",
+        "promptItemId": "boa-tarde-como-esta-a-sua-familia-q",
+        "taskPl": "Odpowiedz, że wszystko dobrze (możesz dodać, gdzie są Twoi bliscy).",
+        "answerItemIds": [
+          "tudo-bem-obrigado",
+          "bem-obrigado-os-meus-pais-estao-aqui-na-madeira"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "tem-irmaos-q",
+        "taskPl": "Powiedz, czy masz rodzeństwo.",
+        "answerItemIds": [
+          "tenho-um-irmao-e-uma-irma",
+          "nao-sou-filho-unico",
+          "o-meu-irmao-e-mais-velho"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "os-seus-pais-moram-na-madeira-q",
+        "taskPl": "Powiedz, gdzie mieszkają Twoi rodzice.",
+        "answerItemIds": [
+          "nao-os-meus-pais-moram-na-polonia",
+          "os-meus-pais-moram-na-polonia"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "como-e-a-sua-casa-q",
+        "taskPl": "Opisz krótko swój dom lub mieszkanie.",
+        "answerItemIds": [
+          "o-meu-apartamento-e-pequeno",
+          "a-minha-casa-tem-dois-quartos",
+          "a-sala-e-grande-e-tem-uma-varanda"
+        ]
+      },
+      {
+        "speaker": "Marta",
+        "promptItemId": "o-senhor-gosta-da-madeira-q",
+        "taskPl": "Powiedz, czy lubisz Maderę.",
+        "answerItemIds": [
+          "gosto-muito-da-madeira"
+        ]
+      }
+    ]
+  }
+]

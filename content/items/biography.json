@@ -1,0 +1,55 @@
+[
+  {
+    "id": "bio-tenho-anos",
+    "kind": "sentence",
+    "pt": "Tenho … anos.",
+    "pl": "Mam … lat.",
+    "tts": "Tenho anos.",
+    "pronunciation": {
+      "plSlow": "TĂ-ńu … Ă-nusz.",
+      "notePl": "Wzór: w miejsce „…” wstaw swój wiek (liczby 11–100 znasz z tygodnia 3), np. Tenho trinta e cinco anos.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "zyciorys",
+      "wzory"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bio-falo-polaco-e-um-pouco-de-ingles",
+    "kind": "sentence",
+    "pt": "Falo polaco e um pouco de inglês.",
+    "pl": "Mówię po polsku i trochę po angielsku.",
+    "pronunciation": {
+      "plSlow": "FA-lu pu-LA-ku i ũ PÔ-ku dy ĩ-GLÊSZ.",
+      "plNatural": "FA-lu pu-LA-ku i‿ũ PÔ-ku dy ĩ-GLÊSZ.",
+      "notePl": "„polaco” = też język polski.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "zyciorys",
+      "jezyki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bio-hoje-estou-bem",
+    "kind": "sentence",
+    "pt": "Hoje estou bem.",
+    "pl": "Dziś czuję się dobrze.",
+    "pronunciation": {
+      "plSlow": "Ô-ży ysz-TÔ BÃJ.",
+      "plNatural": "Ô-ży SZTÔ BÃJ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "zyciorys",
+      "estar"
+    ],
+    "reviewStatus": "draft"
+  }
+]

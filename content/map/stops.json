@@ -1,0 +1,132 @@
+[
+  {
+    "id": "funchal",
+    "order": 1,
+    "namePt": "Funchal",
+    "weeks": [
+      1,
+      2
+    ],
+    "stagePl": "Pierwsze dźwięki, zwroty i zdania (A0)",
+    "x": 230,
+    "y": 190,
+    "factPl": "Nazwa Funchal pochodzi od kopru włoskiego — po portugalsku „funcho” — który według przekazów rósł tu obficie, gdy w XV wieku przybyli pierwsi osadnicy."
+  },
+  {
+    "id": "camara-de-lobos",
+    "order": 2,
+    "namePt": "Câmara de Lobos",
+    "weeks": [
+      3,
+      4
+    ],
+    "stagePl": "Budowa zdania i podstawowe czasowniki (A0→A1)",
+    "x": 208,
+    "y": 191,
+    "factPl": "Nazwa nawiązuje do „wilków morskich” (lobos-marinhos) — fok mniszek, które odkrywcy widzieli w zatoce. W 1950 roku malował tu Winston Churchill."
+  },
+  {
+    "id": "ribeira-brava",
+    "order": 3,
+    "namePt": "Ribeira Brava",
+    "weeks": [
+      5,
+      7
+    ],
+    "stagePl": "Codzienność, rodzina, kawiarnia (A1)",
+    "x": 156,
+    "y": 186,
+    "factPl": "Ribeira Brava znaczy dosłownie „dzika rzeka” — od potoku, który po ulewach potrafi gwałtownie przybierać."
+  },
+  {
+    "id": "calheta",
+    "order": 4,
+    "namePt": "Calheta",
+    "weeks": [
+      8,
+      10
+    ],
+    "stagePl": "Miasto, transport, plany (A1)",
+    "x": 98,
+    "y": 180,
+    "factPl": "Calheta ma długą tradycję uprawy trzciny cukrowej; działa tu historyczna wytwórnia (engenho), w której przetwarza się trzcinę."
+  },
+  {
+    "id": "porto-moniz",
+    "order": 5,
+    "namePt": "Porto Moniz",
+    "weeks": [
+      11,
+      13
+    ],
+    "stagePl": "Pierwsza przeszłość, umawianie się (A1/A2)",
+    "x": 64,
+    "y": 151,
+    "factPl": "Porto Moniz słynie z naturalnych basenów w zastygłej lawie wulkanicznej, do których wlewa się woda z Atlantyku."
+  },
+  {
+    "id": "santana",
+    "order": 6,
+    "namePt": "Santana",
+    "weeks": [
+      14,
+      16
+    ],
+    "stagePl": "Zdrowie, opowiadanie, imperfeito (A2)",
+    "x": 250,
+    "y": 141,
+    "factPl": "Trójkątne domki kryte strzechą — „casas de Santana” — to jeden z symboli północnej części wyspy."
+  },
+  {
+    "id": "pico-do-arieiro",
+    "order": 7,
+    "namePt": "Pico do Arieiro",
+    "weeks": [
+      17,
+      19
+    ],
+    "stagePl": "Urzędy, uprzejme prośby, problemy (A2)",
+    "x": 214,
+    "y": 162,
+    "factPl": "Trzeci co do wysokości szczyt Madery (1818 m n.p.m.). Często stoi się tu ponad chmurami."
+  },
+  {
+    "id": "machico",
+    "order": 8,
+    "namePt": "Machico",
+    "weeks": [
+      20,
+      22
+    ],
+    "stagePl": "Praca, telefon, opinie (A2/A2+)",
+    "x": 294,
+    "y": 172,
+    "factPl": "Według tradycji to w zatoce Machico w 1419 roku wylądowali odkrywcy wyspy: João Gonçalves Zarco i Tristão Vaz Teixeira."
+  },
+  {
+    "id": "ponta-sao-lourenco",
+    "order": 9,
+    "namePt": "Ponta de São Lourenço",
+    "weeks": [
+      23,
+      25
+    ],
+    "stagePl": "Naturalne rozmowy, spontaniczność (A2/B1)",
+    "x": 356,
+    "y": 156,
+    "factPl": "Najdalej wysunięty na wschód półwysep Madery — suchy i wietrzny, zupełnie inny niż zielone wnętrze wyspy. To obszar chroniony."
+  },
+  {
+    "id": "porto-santo",
+    "order": 10,
+    "namePt": "Porto Santo",
+    "weeks": [
+      26,
+      26
+    ],
+    "stagePl": "Symulacje i egzamin końcowy",
+    "x": 345,
+    "y": 60,
+    "factPl": "Sąsiednia wyspa z około 9-kilometrową złotą plażą. Według tradycji mieszkał tu Krzysztof Kolumb."
+  }
+]

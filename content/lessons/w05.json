@@ -1,0 +1,587 @@
+[
+  {
+    "id": "w05-l25",
+    "week": 5,
+    "day": 1,
+    "phase": 2,
+    "titlePl": "Pracuję, mówię, mieszkam",
+    "subtitlePl": "Czasowniki na -ar: ja i on / ona / Pan / Pani",
+    "goals": [
+      "Rozpoznać czasowniki regularne na -ar",
+      "Tworzyć formę „ja” (-o) i „on/ona/Pan/Pani” (-a)",
+      "Pytać grzecznie: Onde trabalha?"
+    ],
+    "canDo": [
+      "Powiem: Trabalho no Funchal. Falo polaco.",
+      "Powiem o kimś: O Rui trabalha no café. A Ana fala inglês.",
+      "Zapytam: Onde trabalha? O senhor trabalha aqui?"
+    ],
+    "prerequisites": [
+      "w04-l24"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "lh",
+      "textPl": "trabalho, trabalha — lh to jeden dźwięk (środek języka przy podniebieniu), nie „l” + „j”.",
+      "itemIds": [
+        "trabalhar-trabalho",
+        "trabalhar-trabalha"
+      ]
+    },
+    "newItemIds": [
+      "falar",
+      "falar-falo",
+      "falar-fala",
+      "trabalhar",
+      "trabalhar-trabalho",
+      "trabalhar-trabalha",
+      "morar-mora",
+      "onde-trabalha-q"
+    ],
+    "grammar": {
+      "titlePl": "Czasowniki regularne na -ar (1): eu, ele / ela / o senhor",
+      "explanationPl": "Bezokolicznik (forma słownikowa) kończy się na **-ar**, **-er** albo **-ir**: falar (mówić), trabalhar (pracować), morar (mieszkać). Dziś — czasowniki na **-ar**, najliczniejsza grupa.\n\n**Jak odmieniać?** Odcinamy -ar i dodajemy końcówkę:\n• **eu** (ja) → **-o**: fal**o**, trabalh**o**, mor**o**\n• **ele / ela / o senhor / a senhora** → **-a**: fal**a**, trabalh**a**, mor**a**\n\nTo działa tak jak po polsku: końcówka mówi, kto działa, więc zaimek „eu” zwykle pomijamy — **Trabalho no Funchal.** = Pracuję w Funchal.\n\n**Pan / Pani = 3. osoba** — jak po polsku: O senhor trabalha aqui? (Czy Pan tu pracuje?). Często pomijamy też „o senhor”: **Onde trabalha?** = Gdzie Pan/Pani pracuje?\n\n**Akcent:** w bezokoliczniku na końcu (tră-bă-**LJAR**), w formach eu / ele — na rdzeniu (tră-**BA**-lju, **FA**-lă). Dlatego nieakcentowane samogłoski zmieniają brzmienie: m**o**rar „mu-RAR”, ale m**o**ro, m**o**ra — otwarte o.\n\n„trabalho” to także rzeczownik (praca): Estou no trabalho. — Jestem w pracy.",
+      "table": [
+        [
+          "falar → falo / fala",
+          "mówić → mówię / mówi"
+        ],
+        [
+          "trabalhar → trabalho / trabalha",
+          "pracować → pracuję / pracuje"
+        ],
+        [
+          "morar → moro / mora",
+          "mieszkać → mieszkam / mieszka"
+        ]
+      ],
+      "tableItemIds": [
+        "falar",
+        "falar-falo",
+        "falar-fala",
+        "trabalhar",
+        "trabalhar-trabalho",
+        "trabalhar-trabalha",
+        "moro",
+        "morar-mora"
+      ],
+      "exampleIds": [
+        "trabalho-no-funchal",
+        "trabalho-em-casa",
+        "o-rui-trabalha-no-cafe",
+        "a-ana-fala-ingles",
+        "o-senhor-trabalha-aqui-q",
+        "a-minha-irma-mora-na-polonia"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d25"
+    ],
+    "exerciseIds": [
+      "w05-l25-e01",
+      "w05-l25-e02",
+      "w05-l25-e03",
+      "w05-l25-e04",
+      "w05-l25-e05",
+      "w05-l25-e06",
+      "w05-l25-e07",
+      "w05-l25-e08",
+      "w05-l25-e09",
+      "w05-l25-e10",
+      "w05-l25-e11"
+    ],
+    "speakingTaskIds": [
+      "w05-l25-s01",
+      "w05-l25-s02",
+      "w05-l25-s03",
+      "w05-l25-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w05-l26",
+    "week": 5,
+    "day": 2,
+    "phase": 2,
+    "titlePl": "Jem, piję, otwieram",
+    "subtitlePl": "Czasowniki na -er i -ir: ja i on / ona / Pan / Pani",
+    "goals": [
+      "Odmieniać czasowniki na -er i -ir w formach „ja” i „on/ona”",
+      "Słyszeć różnicę: como (ô) / come (o)",
+      "Mówić, co jem i piję"
+    ],
+    "canDo": [
+      "Powiem: Como sopa. Não bebo café.",
+      "Powiem o kimś: A Ana come pão. O café abre às oito.",
+      "Zapytam: O senhor bebe chá?"
+    ],
+    "prerequisites": [
+      "w05-l25"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "como (ja jem) — zamknięte ô; come (on je) — otwarte o. Ta sama litera, inny dźwięk!",
+      "itemIds": [
+        "comer-como",
+        "comer-come"
+      ]
+    },
+    "newItemIds": [
+      "comer",
+      "comer-como",
+      "comer-come",
+      "beber-bebo",
+      "beber-bebe",
+      "abrir-abre",
+      "pao",
+      "sopa"
+    ],
+    "grammar": {
+      "titlePl": "Czasowniki regularne na -er i -ir (1)",
+      "explanationPl": "Czasowniki na **-er** (comer — jeść, beber — pić) i na **-ir** (abrir — otwierać) odmieniamy prawie tak samo jak na -ar. Różnica: w 3. osobie końcówka **-e** zamiast -a.\n\n• **eu** → **-o**: com**o**, beb**o**, abr**o**\n• **ele / ela / o senhor** → **-e**: com**e**, beb**e**, abr**e**\n\n**Wymowa — ważne!** W wielu czasownikach na -er samogłoska rdzenia zmienia się w odmianie (metafonia):\n**como** „KÔ-mu” (zamknięte) → **come** „KO-my” (otwarte)\n**bebo** „BÊ-bu” (zamknięte) → **bebe** „BE-by” (otwarte)\nPosłuchaj nagrania kilka razy — to cecha portugalskiego europejskiego.\n\n**como** = (ja) jem **i** „jak” (Como está?). Znaczenie wynika z kontekstu.\n\n**Po polsku „nie piję kawy”, „jem chleb”** — rzeczownik się odmienia. Po portugalsku nie: Não bebo **café**. Como **pão**.\n\n**O café abre às oito.** — Kawiarnia otwiera się o ósmej (po portugalsku bez „się”).",
+      "table": [
+        [
+          "comer → como / come",
+          "jeść → jem / je"
+        ],
+        [
+          "beber → bebo / bebe",
+          "pić → piję / pije"
+        ],
+        [
+          "abrir → abro / abre",
+          "otwierać → otwieram / otwiera"
+        ]
+      ],
+      "tableItemIds": [
+        "comer",
+        "comer-como",
+        "comer-come",
+        "beber-bebo",
+        "beber-bebe",
+        "abrir-abre"
+      ],
+      "exampleIds": [
+        "hoje-como-em-casa",
+        "nao-bebo-cafe",
+        "a-ana-come-pao",
+        "o-cafe-abre-as-oito",
+        "o-senhor-bebe-cha-q"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d26"
+    ],
+    "exerciseIds": [
+      "w05-l26-e01",
+      "w05-l26-e02",
+      "w05-l26-e03",
+      "w05-l26-e04",
+      "w05-l26-e05",
+      "w05-l26-e06",
+      "w05-l26-e07",
+      "w05-l26-e08",
+      "w05-l26-e09",
+      "w05-l26-e10",
+      "w05-l26-e11"
+    ],
+    "speakingTaskIds": [
+      "w05-l26-s01",
+      "w05-l26-s02",
+      "w05-l26-s03",
+      "w05-l26-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w05-l27",
+    "week": 5,
+    "day": 3,
+    "phase": 2,
+    "titlePl": "Mój dzień",
+    "subtitlePl": "Levanto-me, deito-me · de manhã, à tarde, à noite",
+    "goals": [
+      "Mówić o porach dnia",
+      "Używać zwrotów levanto-me, deito-me (zaimek po czasowniku)",
+      "Pytać grzecznie: A que horas se levanta?"
+    ],
+    "canDo": [
+      "Powiem: Acordo às seis. Levanto-me às seis e meia.",
+      "Powiem: De manhã trabalho. À noite deito-me às onze.",
+      "Zapytam: A que horas se levanta?"
+    ],
+    "prerequisites": [
+      "w05-l26"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "nasal-vowels",
+      "textPl": "levanto-me, manhã — nosowe ã, bez domykania „n” na końcu.",
+      "itemIds": [
+        "levanto-me",
+        "de-manha"
+      ]
+    },
+    "newItemIds": [
+      "acordar-acordo",
+      "levanto-me",
+      "deito-me",
+      "tomo-o-pequeno-almoco",
+      "de-manha",
+      "a-tarde",
+      "a-noite",
+      "a-que-horas-se-levanta-q"
+    ],
+    "grammar": {
+      "titlePl": "Rytm dnia: levanto-me, deito-me; pory dnia",
+      "explanationPl": "**Zwroty z „-me”.** Znasz już *chamo-me*. Tak samo działają: **levanto-me** (wstaję), **deito-me** (kładę się). Po polsku też często jest „się” (kładę **się**). Zaimek stoi **po** czasowniku, z łącznikiem — to norma w Portugalii.\n\n**O kimś / do Pana, Pani:** levanta-**se**, deita-**se**. Ale w pytaniu z pytajnikiem (*a que horas, como, onde*) zaimek przechodzi **przed** czasownik: **A que horas se levanta?** — tak jak *Como se chama?*\n\n**acordar** = budzić się — **bez** „-me”: **Acordo** às seis.\n\n**Pory dnia:**\n• **de manhã** — rano, przed południem\n• **à tarde** — po południu\n• **à noite** — wieczorem, w nocy\nPorównaj powitania: bom dia, boa tarde, boa noite. Uwaga: **de** manhã, ale **à** tarde, **à** noite.\n\n**tomo o pequeno-almoço** — jem śniadanie (dosł. „biorę”). W Portugalii śniadanie to zawsze *pequeno-almoço*.\n\nOkreślenie czasu na początku nie zmienia szyku: **À noite deito-me às onze.**",
+      "table": [
+        [
+          "acordo",
+          "budzę się (bez „-me”!)"
+        ],
+        [
+          "levanto-me → levanta-se",
+          "wstaję → wstaje / Pan(i) wstaje"
+        ],
+        [
+          "deito-me → deita-se",
+          "kładę się → kładzie się"
+        ],
+        [
+          "de manhã · à tarde · à noite",
+          "rano · po południu · wieczorem"
+        ]
+      ],
+      "tableItemIds": [
+        "acordar-acordo",
+        "levanto-me",
+        "deito-me",
+        "tomo-o-pequeno-almoco",
+        "de-manha",
+        "a-tarde",
+        "a-noite"
+      ],
+      "exampleIds": [
+        "acordo-as-seis",
+        "levanto-me-as-seis-e-meia",
+        "tomo-o-pequeno-almoco-em-casa",
+        "de-manha-trabalho-no-funchal",
+        "a-tarde-estou-em-casa",
+        "a-noite-deito-me-as-onze"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d27"
+    ],
+    "exerciseIds": [
+      "w05-l27-e01",
+      "w05-l27-e02",
+      "w05-l27-e03",
+      "w05-l27-e04",
+      "w05-l27-e05",
+      "w05-l27-e06",
+      "w05-l27-e07",
+      "w05-l27-e08",
+      "w05-l27-e09",
+      "w05-l27-e10",
+      "w05-l27-e11"
+    ],
+    "speakingTaskIds": [
+      "w05-l27-s01",
+      "w05-l27-s02",
+      "w05-l27-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w05-l28",
+    "week": 5,
+    "day": 4,
+    "phase": 2,
+    "titlePl": "Ty i my",
+    "subtitlePl": "tu -as / -es · nós -amos / -emos · sempre, às vezes, nunca",
+    "goals": [
+      "Odmieniać czasowniki w formach „ty” i „my”",
+      "Mówić, jak często coś robię: sempre, às vezes, nunca",
+      "Pytać kolegę: A que horas te levantas?"
+    ],
+    "canDo": [
+      "Zapytam kolegę: Comes sempre aqui? A que horas te levantas?",
+      "Powiem: Nós comemos sempre em casa. Às vezes falamos português.",
+      "Powiem: Nunca bebo café à noite."
+    ],
+    "prerequisites": [
+      "w05-l27"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "s-z",
+      "textPl": "às vezes — s przed dźwięcznym v brzmi jak ż; falas — końcowe s = sz.",
+      "itemIds": [
+        "as-vezes",
+        "falar-falas"
+      ]
+    },
+    "newItemIds": [
+      "falar-falas",
+      "comer-comes",
+      "falar-falamos",
+      "comer-comemos",
+      "sempre",
+      "as-vezes",
+      "nunca"
+    ],
+    "grammar": {
+      "titlePl": "Czasowniki regularne (2): tu i nós; jak często?",
+      "explanationPl": "**tu** (ty — do bliskich, dzieci, przyjaciół) → końcówka **-s**: fala**s**, come**s**. (Znasz to z *tens, queres, podes, vais*.)\n\n**nós** (my) → **-amos** (falar), **-emos** (comer), **-imos** (abrir): fal**amos**, com**emos**, abr**imos**. (Znasz: *somos, temos, vamos*.)\n\n**Wymowa:** w *falamos* akcentowane a brzmi jak **ă** („fă-LĂ-musz”). W *comes* — otwarte o, jak w *come*; tylko *como* (ja) ma zamknięte ô.\n\n**Jak często?**\n• **sempre** — zawsze\n• **às vezes** — czasem\n• **nunca** — nigdy\nZwykle stoją przed czasownikiem albo zaraz po nim: *Comemos sempre em casa. Às vezes falamos português.*\n\n**nunca — inaczej niż po polsku!** Po polsku: „nigdy **nie** piję”. Po portugalsku, gdy *nunca* stoi przed czasownikiem — **bez** *não*: **Nunca bebo café.**\n\n**Pytanie do kolegi:** A que horas **te** levantas? (te = ciebie; po pytajniku przed czasownikiem).",
+      "table": [
+        [
+          "eu falo · tu falas · ele fala · nós falamos",
+          "mówię · mówisz · mówi · mówimy"
+        ],
+        [
+          "eu como · tu comes · ele come · nós comemos",
+          "jem · jesz · je · jemy"
+        ],
+        [
+          "eu abro · tu abres · ele abre · nós abrimos",
+          "otwieram · otwierasz · otwiera · otwieramy"
+        ]
+      ],
+      "tableItemIds": [
+        "falar-falo",
+        "falar-falas",
+        "falar-fala",
+        "falar-falamos",
+        "comer-como",
+        "comer-comes",
+        "comer-come",
+        "comer-comemos"
+      ],
+      "exampleIds": [
+        "comes-sempre-aqui-q",
+        "nos-comemos-sempre-em-casa",
+        "as-vezes-falamos-portugues",
+        "nunca-bebo-cafe-a-noite",
+        "a-que-horas-te-levantas-q"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d28"
+    ],
+    "exerciseIds": [
+      "w05-l28-e01",
+      "w05-l28-e02",
+      "w05-l28-e03",
+      "w05-l28-e04",
+      "w05-l28-e05",
+      "w05-l28-e06",
+      "w05-l28-e07",
+      "w05-l28-e08",
+      "w05-l28-e09",
+      "w05-l28-e10",
+      "w05-l28-e11"
+    ],
+    "speakingTaskIds": [
+      "w05-l28-s01",
+      "w05-l28-s02",
+      "w05-l28-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w05-l29",
+    "week": 5,
+    "day": 5,
+    "phase": 2,
+    "titlePl": "Co teraz robisz?",
+    "subtitlePl": "Estar a + bezokolicznik: estou a trabalhar",
+    "goals": [
+      "Mówić, co robię w tej chwili: estar a + bezokolicznik",
+      "Odróżniać „trabalho” (zwykle) od „estou a trabalhar” (teraz)",
+      "Pytać: O que estás a fazer? / O que está a fazer?"
+    ],
+    "canDo": [
+      "Powiem: Estou a trabalhar. Agora estamos a comer.",
+      "Zapytam: O que estás a fazer? O que está a fazer?",
+      "Powiem: A Ana está a falar ao telemóvel."
+    ],
+    "prerequisites": [
+      "w05-l28"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "connected-speech",
+      "textPl": "„Estou a trabalhar” — w mowie początkowe e znika: „SZTÔ ă tră-bă-LJAR”.",
+      "itemIds": [
+        "estou-a-trabalhar"
+      ]
+    },
+    "newItemIds": [
+      "fazer",
+      "agora",
+      "estou-a-trabalhar",
+      "o-que-esta-a-fazer-q",
+      "o-que-estas-a-fazer-q",
+      "ao-telemovel"
+    ],
+    "grammar": {
+      "titlePl": "Estar a + bezokolicznik — co robię teraz?",
+      "explanationPl": "Po polsku „pracuję” znaczy i „pracuję (zawodowo, zwykle)”, i „pracuję (w tej chwili)”. Po portugalsku to dwie różne formy:\n\n• **Trabalho no Funchal.** — zwykle, na co dzień (czas teraźniejszy)\n• **Estou a trabalhar.** — właśnie teraz, w tej chwili\n\n**Budowa:** odmienione **estar** + **a** + **bezokolicznik**:\nestou **a** comer · estás **a** fazer · está **a** falar · estamos **a** comer · estão **a** trabalhar\nCzasownik po „a” się nie odmienia.\n\n**Pytanie:** O que **estás a fazer**? (ty) · O que **está a fazer**? (Pan/Pani). *fazer* = robić — na razie tylko ten bezokolicznik.\n\n**Uwaga — Brazylia:** w brazylijskim portugalskim mówi się „estou trabalhando” (forma na -ndo). W standardowym portugalskim europejskim tak **nie** mówimy o tym, co dzieje się teraz — usłyszysz to w brazylijskich serialach (i regionalnie na południu Portugalii), ale w tym kursie używamy wyłącznie **estou a trabalhar**.\n\n**ao telemóvel** — przez telefon: *Está a falar ao telemóvel.*",
+      "table": [
+        [
+          "Trabalho no Funchal.",
+          "Pracuję w Funchal (zwykle)."
+        ],
+        [
+          "Estou a trabalhar.",
+          "(Właśnie) pracuję."
+        ],
+        [
+          "estou / estás / está / estamos / estão + a + bezokolicznik",
+          "teraz robię / robisz / robi…"
+        ]
+      ],
+      "exampleIds": [
+        "estou-a-comer",
+        "a-ana-esta-a-falar-ao-telemovel",
+        "agora-estamos-a-comer",
+        "o-rui-esta-a-trabalhar",
+        "trabalho-no-funchal"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d29"
+    ],
+    "exerciseIds": [
+      "w05-l29-e01",
+      "w05-l29-e02",
+      "w05-l29-e03",
+      "w05-l29-e04",
+      "w05-l29-e05",
+      "w05-l29-e06",
+      "w05-l29-e07",
+      "w05-l29-e08",
+      "w05-l29-e09",
+      "w05-l29-e10",
+      "w05-l29-e11"
+    ],
+    "speakingTaskIds": [
+      "w05-l29-s01",
+      "w05-l29-s02",
+      "w05-l29-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w05-l30",
+    "week": 5,
+    "day": 6,
+    "phase": 2,
+    "titlePl": "Oni + sprawdzian tygodnia",
+    "subtitlePl": "eles -am / -em · cała odmiana",
+    "goals": [
+      "Odmieniać czasowniki w formie „oni” (-am / -em)",
+      "Znać całą odmianę czasowników regularnych",
+      "Sprawdzić wiedzę z tygodnia 5"
+    ],
+    "canDo": [
+      "Powiem: Eles falam português. O Rui e a Ana trabalham no Funchal.",
+      "Opowiem krótko o swoim dniu",
+      "Zapytam rodzinę znajomych: Em casa falam português?"
+    ],
+    "prerequisites": [
+      "w05-l29"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "falam — nosowe „ãu” (jak não); comem — nosowe „ãj” (jak mãe). Końcówki nieakcentowane, ale wyraźnie nosowe.",
+      "itemIds": [
+        "falar-falam",
+        "comer-comem"
+      ]
+    },
+    "newItemIds": [
+      "falar-falam",
+      "trabalhar-trabalham",
+      "morar-moram",
+      "comer-comem"
+    ],
+    "grammar": {
+      "titlePl": "Czasowniki regularne (3): eles + cała odmiana",
+      "explanationPl": "**eles / elas / os senhores / vocês** → **-am** (czasowniki na -ar) albo **-em** (na -er i -ir): fal**am**, trabalh**am**, mor**am**; com**em**, abr**em**.\n\n**Wymowa:** -am = nosowe „**ãu**” (falam „FA-lãu”), -em = nosowe „**ãj**” (comem „KO-mãj”). Akcent zostaje na rdzeniu.\n\n**„Wy” w Portugalii:** do kilku osób mówimy zwykle 3. osobą liczby mnogiej (z „vocês” albo bez): *Em casa falam português?* = Czy w domu mówicie po portugalsku?\n\n**Cała odmiana:**\nfalar: falo, falas, fala, falamos, falam\ncomer: como, comes, come, comemos, comem\nabrir: abro, abres, abre, abrimos, abrem\n\n**Tydzień 5 w pigułce:**\n• trabalho / trabalha · como / come (ô → o!)\n• levanto-me, deito-me · A que horas **se** levanta?\n• de manhã, à tarde, à noite · sempre, às vezes, nunca (bez „não”)\n• **estou a** trabalhar = teraz",
+      "table": [
+        [
+          "eu falo · como · abro",
+          "ja"
+        ],
+        [
+          "tu falas · comes · abres",
+          "ty"
+        ],
+        [
+          "ele / ela / o senhor fala · come · abre",
+          "on / ona / Pan / Pani"
+        ],
+        [
+          "nós falamos · comemos · abrimos",
+          "my"
+        ],
+        [
+          "eles / os senhores falam · comem · abrem",
+          "oni / Państwo / wy"
+        ]
+      ],
+      "tableItemIds": [
+        "falar-falo",
+        "falar-falas",
+        "falar-fala",
+        "falar-falamos",
+        "falar-falam",
+        "comer-como",
+        "comer-comes",
+        "comer-come",
+        "comer-comemos",
+        "comer-comem"
+      ],
+      "exampleIds": [
+        "eles-falam-portugues",
+        "o-rui-e-a-ana-trabalham-no-funchal",
+        "rd-08-03",
+        "eles-comem-as-oito",
+        "em-casa-falam-portugues-q"
+      ]
+    },
+    "dialogueIds": [
+      "w05-d30"
+    ],
+    "exerciseIds": [
+      "w05-l30-e01",
+      "w05-l30-e02",
+      "w05-l30-e03",
+      "w05-l30-e04",
+      "w05-l30-e05",
+      "w05-l30-e06",
+      "w05-l30-e07",
+      "w05-l30-e08",
+      "w05-l30-e09",
+      "w05-l30-e10"
+    ],
+    "speakingTaskIds": [
+      "w05-l30-s01",
+      "w05-l30-s02",
+      "w05-l30-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review",
+    "testId": "w05-test"
+  }
+]

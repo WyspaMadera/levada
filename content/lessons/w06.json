@@ -1,0 +1,569 @@
+[
+  {
+    "id": "w06-l31",
+    "week": 6,
+    "day": 1,
+    "phase": 2,
+    "titlePl": "Jaki jest? Opisuję ludzi",
+    "subtitlePl": "Ser + przymiotniki: alto, baixo, simpático…",
+    "goals": [
+      "Opisywać wygląd i charakter: ser + przymiotnik",
+      "Uzgadniać przymiotnik z osobą (alto / alta)",
+      "Odróżniać Como é…? od Como está…?"
+    ],
+    "canDo": [
+      "Powiem: O Rui é alto e simpático. A Marta é jovem.",
+      "Zapytam: Como é o Rui? Como está o Rui?",
+      "Opiszę siebie: Sou alto / alta."
+    ],
+    "prerequisites": [
+      "w05-l30"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "dark-l",
+      "textPl": "alto, alta — ciemne ɫ przed t: czubek języka przy zębach, tył języka uniesiony. To nie jest polskie „ł”.",
+      "itemIds": [
+        "alto"
+      ]
+    },
+    "newItemIds": [
+      "alto",
+      "baixo",
+      "simpatico",
+      "velho",
+      "jovem",
+      "como-e-q"
+    ],
+    "grammar": {
+      "titlePl": "Opisywanie osób: ser + przymiotnik",
+      "explanationPl": "**Cechy stałe → ser.** Wygląd i charakter opisujemy czasownikiem **ser**: O Rui **é** alto. A Ana **é** simpática. Stan chwilowy → **estar**: O Rui **está** cansado.\n\n**Dwa pytania:**\n• **Como é** o Rui? — Jaki jest Rui? (wygląd, charakter) → É alto e simpático.\n• **Como está** o Rui? — Jak się czuje Rui? → Está bem / Está cansado.\n\n**Zgoda — jak po polsku:** przymiotnik zgadza się z osobą: o Rui é alt**o**, a Marta é alt**a**; os irmãos são alt**os**, as irmãs são alt**as**. Kobieta mówi o sobie: Sou alt**a**.\n\nPrzymiotniki na **-e** i **-em** mają jedną formę dla obu rodzajów: grande, **jovem** (l.mn. jovens).\n\n**novo / velho:** *novo* to „nowy”, ale o ludziach także „młody” (É muito novo = Jest bardzo młody). *velho* = stary — o ludziach lepiej ostrożnie.\n\n**Wymowa:** alto „Aɫ-tu” — ciemne ɫ; simpático — akcent na PA; jovem „ŻO-wãj” — nosowe na końcu.",
+      "table": [
+        [
+          "o Rui é alto / baixo",
+          "Rui jest wysoki / niski"
+        ],
+        [
+          "a Ana é alta / baixa",
+          "Ana jest wysoka / niska"
+        ],
+        [
+          "simpático / simpática",
+          "miły / miła"
+        ],
+        [
+          "velho / velha",
+          "stary / stara"
+        ],
+        [
+          "jovem (o / a)",
+          "młody / młoda"
+        ]
+      ],
+      "tableItemIds": [
+        "alto",
+        "baixo",
+        "simpatico",
+        "velho",
+        "jovem"
+      ],
+      "exampleIds": [
+        "o-rui-e-alto-e-simpatico",
+        "a-ana-e-baixa-e-muito-simpatica",
+        "a-marta-e-jovem",
+        "o-meu-carro-e-velho",
+        "sou-alto-e-simpatico",
+        "como-e-o-rui-q",
+        "como-esta-o-rui-q"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d31"
+    ],
+    "exerciseIds": [
+      "w06-l31-e01",
+      "w06-l31-e02",
+      "w06-l31-e03",
+      "w06-l31-e04",
+      "w06-l31-e05",
+      "w06-l31-e06",
+      "w06-l31-e07",
+      "w06-l31-e08",
+      "w06-l31-e09",
+      "w06-l31-e10",
+      "w06-l31-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l31-s01",
+      "w06-l31-s02",
+      "w06-l31-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w06-l32",
+    "week": 6,
+    "day": 2,
+    "phase": 2,
+    "titlePl": "Moi, moje, Pana, Pani",
+    "subtitlePl": "o meu, a minha, os meus, as minhas · o seu, a sua",
+    "goals": [
+      "Używać zaimków dzierżawczych w liczbie pojedynczej i mnogiej",
+      "Mówić grzecznie „Pana / Pani”: o seu, a sua",
+      "Mówić o rodzicach i dzieciach: os pais, os filhos"
+    ],
+    "canDo": [
+      "Powiem: Os meus pais moram na Polónia. As minhas irmãs são altas.",
+      "Zapytam grzecznie: Como se chama o seu filho?",
+      "Pochwalę: A sua casa é muito bonita!"
+    ],
+    "prerequisites": [
+      "w06-l31"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "diphthongs",
+      "textPl": "meus „MÊUSZ”, pais „PAJSZ” — dyftongi êu i aj, a na końcu sz.",
+      "itemIds": [
+        "meus",
+        "pais"
+      ]
+    },
+    "newItemIds": [
+      "meus",
+      "minhas",
+      "seu",
+      "sua",
+      "pais",
+      "filhos"
+    ],
+    "grammar": {
+      "titlePl": "Zaimki dzierżawcze: meu, minha, seu, sua",
+      "explanationPl": "Zaimek zgadza się z **rzeczą lub osobą, którą ktoś ma** — w rodzaju i liczbie — i zwykle ma przed sobą **rodzajnik**:\n**o** meu pai · **a** minha mãe · **os** meus pais · **as** minhas irmãs\n\n**Pana / Pani = o seu / a sua** (do osoby, do której mówisz „o senhor / a senhora”):\n**o seu** filho — Pana/Pani syn · **a sua** casa — Pana/Pani dom · **os seus** pais · **as suas** filhas\n\n**Uwaga dla Polaka:** po polsku „Pana” się nie zmienia (Pana syn, Pana córka). Po portugalsku zmienia się według rzeczy: **o seu** filho, **a sua** filha.\n\n**Do kolegi (tu):** o teu / a tua — poznasz w kolejnych tygodniach. O kimś trzecim Portugalczycy mówią zwykle „o filho **dele** / **dela**” (jego / jej) — też później.\n\n**Słówka:** **os pais** = rodzice (pai + s!) · **os filhos** = dzieci (synowie i córki razem).\n\n**Wymowa:** os meus pais „uż MÊUSZ PAJSZ” — przed m końcowe s brzmi jak ż.",
+      "table": [
+        [
+          "o meu · a minha",
+          "mój · moja"
+        ],
+        [
+          "os meus · as minhas",
+          "moi · moje"
+        ],
+        [
+          "o seu · a sua",
+          "Pana / Pani (l.poj.)"
+        ],
+        [
+          "os seus · as suas",
+          "Pana / Pani (l.mn.)"
+        ]
+      ],
+      "tableItemIds": [
+        "meu",
+        "minha",
+        "meus",
+        "minhas",
+        "seu",
+        "sua"
+      ],
+      "exampleIds": [
+        "os-meus-pais-moram-na-polonia",
+        "as-minhas-irmas-sao-altas",
+        "como-se-chama-o-seu-filho-q",
+        "a-sua-casa-e-muito-bonita",
+        "os-meus-filhos-falam-portugues"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d32"
+    ],
+    "exerciseIds": [
+      "w06-l32-e01",
+      "w06-l32-e02",
+      "w06-l32-e03",
+      "w06-l32-e04",
+      "w06-l32-e05",
+      "w06-l32-e06",
+      "w06-l32-e07",
+      "w06-l32-e08",
+      "w06-l32-e09",
+      "w06-l32-e10",
+      "w06-l32-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l32-s01",
+      "w06-l32-s02",
+      "w06-l32-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w06-l33",
+    "week": 6,
+    "day": 3,
+    "phase": 2,
+    "titlePl": "Mój dom",
+    "subtitlePl": "o quarto, a sala, a casa de banho, a varanda",
+    "goals": [
+      "Nazywać pomieszczenia w domu",
+      "Mówić, jaki jest dom i co ma (é… / tem…)",
+      "Pytać: Como é a sua casa? Onde é a casa de banho?"
+    ],
+    "canDo": [
+      "Powiem: A minha casa tem dois quartos. O meu apartamento é pequeno.",
+      "Zapytam: Como é a sua casa? Onde é a casa de banho?",
+      "Powiem, gdzie ktoś jest: O meu filho está no quarto."
+    ],
+    "prerequisites": [
+      "w06-l32"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "nh",
+      "textPl": "banho — nh = ń, a akcentowane a przed nh brzmi jak ă: „BĂ-ńu”.",
+      "itemIds": [
+        "casa-de-banho"
+      ]
+    },
+    "newItemIds": [
+      "quarto",
+      "sala",
+      "casa-de-banho",
+      "varanda",
+      "apartamento",
+      "como-e-a-sua-casa-q"
+    ],
+    "grammar": {
+      "titlePl": "Dom: é…, tem…, Onde é…?",
+      "explanationPl": "**Rodzaj pomieszczeń** (zapamiętaj z rodzajnikiem): **o** quarto, **o** apartamento · **a** sala, **a** cozinha, **a** casa de banho, **a** varanda. Uwaga: po polsku „balkon” jest męski, a „a varanda” — żeńska: A varanda é pequen**a**.\n\n**Jaki jest dom?** → **ser**: A casa **é** grande. O apartamento **é** pequeno.\n**Co ma dom?** → **ter**: A casa **tem** dois quartos. **Tem** varanda? (w takich pytaniach rodzajnik często się pomija)\n\n**Gdzie?** em + o = **no** quarto, em + a = **na** sala / **na** cozinha / **na** casa de banho / **na** varanda.\n\n**Onde é…? / Onde está…?** W tygodniu 4 pytaliśmy *Onde está a chave?* — o rzeczy i osoby, które się przemieszczają. O miejsca stałe (pokój w budynku, ulica, sklep) Portugalczycy często pytają **Onde é…?**: *Onde é a casa de banho?* (*Onde está…?* też jest zrozumiałe.)\n\n**casa** = dom, ale też ogólnie „mieszkanie, miejsce, gdzie mieszkam” (em casa = w domu). **apartamento** = mieszkanie w bloku.",
+      "table": [
+        [
+          "o quarto",
+          "pokój, sypialnia"
+        ],
+        [
+          "a sala",
+          "salon"
+        ],
+        [
+          "a cozinha",
+          "kuchnia"
+        ],
+        [
+          "a casa de banho",
+          "łazienka"
+        ],
+        [
+          "a varanda",
+          "balkon, taras"
+        ],
+        [
+          "o apartamento",
+          "mieszkanie (w bloku)"
+        ]
+      ],
+      "tableItemIds": [
+        "quarto",
+        "sala",
+        "cozinha",
+        "casa-de-banho",
+        "varanda",
+        "apartamento"
+      ],
+      "exampleIds": [
+        "a-minha-casa-tem-dois-quartos",
+        "o-meu-apartamento-e-pequeno",
+        "a-sala-e-grande-e-tem-uma-varanda",
+        "o-meu-filho-esta-no-quarto",
+        "cs-onde-e-a-casa-de-banho"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d33"
+    ],
+    "exerciseIds": [
+      "w06-l33-e01",
+      "w06-l33-e02",
+      "w06-l33-e03",
+      "w06-l33-e04",
+      "w06-l33-e05",
+      "w06-l33-e06",
+      "w06-l33-e07",
+      "w06-l33-e08",
+      "w06-l33-e09",
+      "w06-l33-e10",
+      "w06-l33-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l33-s01",
+      "w06-l33-s02",
+      "w06-l33-s03",
+      "w06-l33-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w06-l34",
+    "week": 6,
+    "day": 4,
+    "phase": 2,
+    "titlePl": "W przedszkolu: co lubi?",
+    "subtitlePl": "gostar de · brincar, desenhar",
+    "goals": [
+      "Mówić, co ktoś lubi: gosto de… / gosta de…",
+      "Łączyć de z rodzajnikiem: gosta da sopa",
+      "Krótko rozmawiać z wychowawczynią"
+    ],
+    "canDo": [
+      "Powiem: Gosto muito de café. Não gosto de chá.",
+      "Powiem wychowawczyni: O meu filho gosta de desenhar.",
+      "Zapytam: O senhor gosta da Madeira? Ele come bem aqui?"
+    ],
+    "prerequisites": [
+      "w06-l33"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "gosto, gosta — s przed t brzmi jak „sz”: „GOSZ-tu”. I otwarte o!",
+      "itemIds": [
+        "gosto-de",
+        "gosta-de"
+      ]
+    },
+    "newItemIds": [
+      "gosto-de",
+      "gosta-de",
+      "brincar",
+      "desenhar",
+      "educadora",
+      "amigos"
+    ],
+    "grammar": {
+      "titlePl": "Gostar de — lubić",
+      "explanationPl": "**gostar de** = lubić. Na razie traktujemy go jako gotowy zwrot: **gosto de…** (lubię), **gosta de…** (lubi; Pan/Pani lubi). To zwykły czasownik na -ar, więc reszta form jest przewidywalna (gostas, gostamos, gostam).\n\n**Zawsze z „de”** — i przed rzeczownikiem, i przed bezokolicznikiem:\nGosto **de** café. · O meu filho gosta **de** desenhar.\nde + o = **do**, de + a = **da**: Gosto **da** Madeira. Ele gosta **da** sopa.\n\n**Porównanie z polskim:** „lubię kawę” — bez przyimka, a po portugalsku musi być **de**: gosto de café. Najczęstszy błąd: „gosto café”.\n\n**Bardzo / nie:** Gosto **muito** de café (muito między gosto a de). **Não** gosto de chá.\n\n**Wymowa:** w czasowniku **gosto** jest **otwarte** o „GOSZ-tu” (rzeczownik „o gosto” — smak — ma zamknięte ô).\n\n**Przedszkole:** a **educadora** — wychowawczyni, **brincar** — bawić się, **desenhar** — rysować, os **amigos** — koledzy.",
+      "table": [
+        [
+          "gosto de café",
+          "lubię kawę"
+        ],
+        [
+          "gosta de brincar",
+          "lubi się bawić"
+        ],
+        [
+          "gosto da Madeira (de + a)",
+          "lubię Maderę"
+        ],
+        [
+          "não gosto de chá",
+          "nie lubię herbaty"
+        ]
+      ],
+      "exampleIds": [
+        "o-meu-filho-gosta-de-desenhar",
+        "gosto-muito-de-cafe",
+        "ela-nao-gosta-de-cha",
+        "ele-gosta-muito-da-sopa",
+        "o-senhor-gosta-da-madeira-q",
+        "gosto-muito-da-madeira"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d34"
+    ],
+    "exerciseIds": [
+      "w06-l34-e01",
+      "w06-l34-e02",
+      "w06-l34-e03",
+      "w06-l34-e04",
+      "w06-l34-e05",
+      "w06-l34-e06",
+      "w06-l34-e07",
+      "w06-l34-e08",
+      "w06-l34-e09",
+      "w06-l34-e10",
+      "w06-l34-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l34-s01",
+      "w06-l34-s02",
+      "w06-l34-s03",
+      "w06-l34-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w06-l35",
+    "week": 6,
+    "day": 5,
+    "phase": 2,
+    "titlePl": "Masz rodzeństwo?",
+    "subtitlePl": "Tem irmãos? · mais velho, mais novo · avó, avô",
+    "goals": [
+      "Pytać o rodzeństwo (formalnie i nieformalnie)",
+      "Mówić „starszy / młodszy”: mais velho / mais novo",
+      "Odróżniać avó i avô"
+    ],
+    "canDo": [
+      "Zapytam: Tem irmãos? Tens irmãos?",
+      "Powiem: Tenho um irmão e uma irmã. O meu irmão é mais velho.",
+      "Odpowiem: Não, sou filho único / filha única."
+    ],
+    "prerequisites": [
+      "w06-l34"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "avó (babcia) — otwarte o; avô (dziadek) — zamknięte ô. Jedna litera dzieli dwie osoby!",
+      "itemIds": [
+        "avo-f",
+        "avo-m"
+      ]
+    },
+    "newItemIds": [
+      "tem-irmaos-q",
+      "mais-velho",
+      "mais-novo",
+      "filho-unico",
+      "avo-f",
+      "avo-m"
+    ],
+    "grammar": {
+      "titlePl": "Pytania o rodzinę; mais velho, mais novo",
+      "explanationPl": "**Tem irmãos?** (Pan/Pani) · **Tens irmãos?** (ty) — Masz rodzeństwo? **irmãos** = bracia **albo** rodzeństwo (brat + siostra). Po polsku mamy osobne słowo „rodzeństwo”, po portugalsku — liczba mnoga od „irmão”. Tak samo **os filhos** = dzieci, **os pais** = rodzice.\n\n**Starszy / młodszy:** **mais velho** / **mais novo** (dosł. „bardziej stary / bardziej młody”). Zgadzają się z osobą: o meu irmão é mais velh**o**, a minha irmã é mais nov**a**.\n\n**Jedynak:** Sou **filho único** / **filha única**.\n\n**Dziadkowie:** **a avó** (babcia, otwarte o) · **o avô** (dziadek, zamknięte ô). To ta sama różnica dźwięków co w *nova / novo*.\n\n**Grzeczność:** pytania o rodzinę są w Portugalii częste i życzliwe, ale zawsze możesz odpowiedzieć ogólnie.",
+      "table": [
+        [
+          "Tem irmãos? / Tens irmãos?",
+          "Ma Pan(i) / Masz rodzeństwo?"
+        ],
+        [
+          "Tenho um irmão e uma irmã.",
+          "Mam brata i siostrę."
+        ],
+        [
+          "mais velho / mais velha",
+          "starszy / starsza"
+        ],
+        [
+          "mais novo / mais nova",
+          "młodszy / młodsza"
+        ],
+        [
+          "filho único / filha única",
+          "jedynak / jedynaczka"
+        ]
+      ],
+      "tableItemIds": [
+        "tem-irmaos-q",
+        "mais-velho",
+        "mais-novo",
+        "filho-unico",
+        "avo-f",
+        "avo-m"
+      ],
+      "exampleIds": [
+        "tenho-um-irmao-e-uma-irma",
+        "o-meu-irmao-e-mais-velho",
+        "a-minha-irma-e-mais-nova",
+        "nao-sou-filho-unico",
+        "a-minha-avo-mora-na-polonia"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d35"
+    ],
+    "exerciseIds": [
+      "w06-l35-e01",
+      "w06-l35-e02",
+      "w06-l35-e03",
+      "w06-l35-e04",
+      "w06-l35-e05",
+      "w06-l35-e06",
+      "w06-l35-e07",
+      "w06-l35-e08",
+      "w06-l35-e09",
+      "w06-l35-e10",
+      "w06-l35-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l35-s01",
+      "w06-l35-s02",
+      "w06-l35-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w06-l36",
+    "week": 6,
+    "day": 6,
+    "phase": 2,
+    "titlePl": "Rodzina i dom + sprawdzian",
+    "subtitlePl": "Rozmowa z Martą i sprawdzian tygodnia 6",
+    "goals": [
+      "Przeprowadzić rozmowę o rodzinie i domu",
+      "Sprawdzić wiedzę z tygodnia 6"
+    ],
+    "canDo": [
+      "Opowiem krótko o swojej rodzinie i domu",
+      "Zapytam grzecznie: Como está a sua família?",
+      "Powiem, co lubią moi bliscy: Gostam muito da praia."
+    ],
+    "prerequisites": [
+      "w06-l35"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "intonation",
+      "textPl": "„Tem irmãos?” — pytanie tak/nie: szyk jak w zdaniu oznajmującym, głos idzie w górę na końcu.",
+      "itemIds": [
+        "tem-irmaos-q"
+      ]
+    },
+    "newItemIds": [
+      "familia",
+      "gostam-de"
+    ],
+    "grammar": {
+      "titlePl": "Tydzień 6 — co już umiesz",
+      "explanationPl": "**a família** — rodzina (jedna) → czasownik w l.poj.: Como **está** a sua família?\n\n**gostam de** = (oni) lubią — końcówka -am jak w *falam*: Os meus pais **gostam** da Madeira.\n\n**Tydzień 6 w pigułce:**\n• opis osób: **ser** + przymiotnik, zgoda: alto / alta · Como **é**…? vs Como **está**…?\n• **o meu / a minha / os meus / as minhas** · grzecznie: **o seu / a sua**\n• dom: o quarto, a sala, a cozinha, a casa de banho, a varanda · A casa **é** grande / **tem** dois quartos\n• **gostar de**: gosto **de** café, gosta **da** sopa\n• rodzina: Tem irmãos? · mais velho / mais novo · filho único\n\nNa koniec — rozmowa z Martą, a potem sprawdzian (ok. 10 minut). Wynik pokaże, co powtórzyć; nie blokuje dalszej nauki.",
+      "exampleIds": [
+        "os-meus-pais-moram-na-polonia",
+        "a-minha-casa-tem-dois-quartos",
+        "o-meu-filho-gosta-de-desenhar",
+        "tenho-um-irmao-e-uma-irma",
+        "a-marta-e-alta-e-simpatica"
+      ]
+    },
+    "dialogueIds": [
+      "w06-d36"
+    ],
+    "exerciseIds": [
+      "w06-l36-e01",
+      "w06-l36-e02",
+      "w06-l36-e03",
+      "w06-l36-e04",
+      "w06-l36-e05",
+      "w06-l36-e06",
+      "w06-l36-e07",
+      "w06-l36-e08",
+      "w06-l36-e09",
+      "w06-l36-e10",
+      "w06-l36-e11"
+    ],
+    "speakingTaskIds": [
+      "w06-l36-s01",
+      "w06-l36-s02",
+      "w06-l36-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review",
+    "testId": "w06-test"
+  }
+]

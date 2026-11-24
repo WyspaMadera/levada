@@ -1,0 +1,212 @@
+[
+  {
+    "id": "w03-d13",
+    "titlePl": "Nowy dom",
+    "contextPl": "Przeprowadziłeś się. Sąsiadka Ana pyta o nowe mieszkanie. Jesteście po imieniu (tu).",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "tens-uma-casa-nova-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-mas-e-pequena"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-bonita-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-muito-bonita"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-o-carro-e-novo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-o-carro-nao-e-novo"
+      }
+    ]
+  },
+  {
+    "id": "w03-d14",
+    "titlePl": "Herbata zamiast kawy",
+    "contextPl": "Rano w kawiarni Ruiego. Jesteście po imieniu, ale zamawiając, i tak używasz grzecznego „queria”.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "bom-dia-queres-um-cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-obrigado-queria-um-cha-sfv"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "um-cha-e-queres-uma-agua-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-sfv-tenho-sede"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "muito-bem-um-cha-e-uma-agua"
+      }
+    ]
+  },
+  {
+    "id": "w03-d15",
+    "titlePl": "Czy mogę wejść?",
+    "contextPl": "Pierwszy raz przychodzisz do przedszkola i pukasz do sali Marty. Rozmowa formalna.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bom-dia-posso-entrar-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "bom-dia-sim-pode"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "desculpe-tenho-uma-pergunta-pode-ajudar-me-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "posso-sim"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "muito-obrigado"
+      }
+    ]
+  },
+  {
+    "id": "w03-d16",
+    "titlePl": "Zostawiony telefon",
+    "contextPl": "Po południu wracasz do przedszkola — zostawiłeś tam telefon. Rozmowa formalna z Martą.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "boa-tarde-desculpe-preciso-de-ajuda"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "sim-de-que-precisa-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "preciso-do-telemovel-esta-aqui-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "o-telemovel-sim-esta-aqui-na-mesa"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "muito-obrigado"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "de-nada"
+      }
+    ]
+  },
+  {
+    "id": "w03-d17",
+    "titlePl": "Ile kosztuje stół?",
+    "contextPl": "Ana się przeprowadza i sprzedaje stare meble przed domem. Jesteście po imieniu.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "quanto-custa-a-mesa-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "a-mesa-pequena-custa-dezoito-euros"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "dezoito-e-a-mesa-grande-q"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "a-grande-custa-trinta-e-cinco"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "queria-a-mesa-pequena-sfv"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "muito-bem-sao-dezoito-euros"
+      }
+    ]
+  },
+  {
+    "id": "w03-d18",
+    "titlePl": "Pogawędka u Ruiego",
+    "contextPl": "Popołudnie w kawiarni. Rui ma chwilę i pyta, jak Ci się mieszka. Jesteście po imieniu.",
+    "level": "A0",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-queres-um-cafe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-obrigado-queria-uma-agua-sfv"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "onde-moras-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "moro-no-funchal-mas-a-casa-e-muito-pequena"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "precisas-de-uma-casa-grande-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-quanto-custa-uma-casa-grande-aqui-q"
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "aqui-custa-muito"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ah-preciso-de-ajuda"
+      }
+    ]
+  }
+]

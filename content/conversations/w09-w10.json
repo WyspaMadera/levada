@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sc-w09-trabalho",
+    "titlePl": "Praca i dzień",
+    "topicPl": "Praca i codzienność",
+    "level": "A1",
+    "unlockAfterLessonId": "w09-l54",
+    "contextPl": "Wieczorem spotykasz Anę przed domem. Jesteście po imieniu (tu). Mów o swojej prawdziwej pracy i dniu — wzory to tylko przykłady.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "o-que-fazes-q",
+        "taskPl": "Powiedz, czym się zajmujesz.",
+        "answerItemIds": [
+          "sou-medico",
+          "trabalho-com-computadores",
+          "trabalho-em-casa"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "a-que-horas-sais-de-casa-q",
+        "taskPl": "Powiedz, o której wychodzisz z domu (i dokąd jedziesz).",
+        "answerItemIds": [
+          "saio-de-casa-as-oito",
+          "saio-de-casa-as-oito-e-vou-para-o-escritorio",
+          "sim-saio-sempre-as-oito-e-tu"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "como-vais-para-o-trabalho-q",
+        "taskPl": "Powiedz, jak dojeżdżasz do pracy.",
+        "answerItemIds": [
+          "vou-de-autocarro",
+          "vou-de-carro",
+          "vou-a-pe",
+          "o-escritorio-e-longe-vou-de-autocarro"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "ola-o-que-fazes-a-noite-q",
+        "taskPl": "Powiedz, co robisz wieczorem.",
+        "answerItemIds": [
+          "depois-do-trabalho-vejo-televisao",
+          "depois-do-trabalho-como-em-casa-e-vejo-televisao",
+          "a-noite-nao-vejo-televisao"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "vou-ao-cafe-do-rui-vens-comigo-q",
+        "taskPl": "Zgódź się albo odmów (potocznie lub neutralnie).",
+        "answerItemIds": [
+          "esta-bem-vamos",
+          "hoje-nao-da-amanha-q",
+          "hoje-nao-posso-amanha-q"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w10-planos",
+    "titlePl": "Umawiamy się na weekend",
+    "topicPl": "Plany i propozycje",
+    "level": "A1",
+    "unlockAfterLessonId": "w10-l60",
+    "contextPl": "Dzwoni Ana. Jesteście po imieniu (tu). Mów o swoich prawdziwych planach; jeśli w sobotę jesteś wolny, możesz też zgodzić się od razu.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "o-que-vais-fazer-no-fim-de-semana-q",
+        "taskPl": "Powiedz, jakie masz plany na weekend.",
+        "answerItemIds": [
+          "no-sabado-vou-trabalhar-mas-no-domingo-vou-descansar",
+          "este-fim-de-semana-vou-ficar-em-casa",
+          "se-calhar-vou-a-praia",
+          "gostava-de-ir-a-praia"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "queres-ir-ao-cinema-no-sabado-q",
+        "taskPl": "Odmów i podaj powód (albo zgódź się).",
+        "answerItemIds": [
+          "no-sabado-nao-posso-porque-vou-trabalhar",
+          "nao-posso-porque-vou-trabalhar",
+          "sim-boa-ideia"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "e-no-domingo-q",
+        "taskPl": "Zgódź się i zapytaj o godzinę.",
+        "answerItemIds": [
+          "no-domingo-sim-boa-ideia-a-que-horas-q",
+          "claro-a-que-horas-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "as-seis-q",
+        "taskPl": "Potwierdź godzinę.",
+        "answerItemIds": [
+          "as-seis-combinado",
+          "combinado"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "depois-vamos-jantar-fora-q",
+        "taskPl": "Zgódź się albo odmów uprzejmie.",
+        "answerItemIds": [
+          "sim-boa-ideia",
+          "esta-bem-vamos",
+          "nao-da-fica-para-a-proxima"
+        ]
+      }
+    ]
+  }
+]

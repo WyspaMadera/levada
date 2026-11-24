@@ -1,0 +1,634 @@
+[
+  {
+    "id": "w12-l67",
+    "week": 12,
+    "day": 1,
+    "phase": 3,
+    "titlePl": "Umawiam wizytę: marcar",
+    "subtitlePl": "marcar uma consulta / uma hora / uma reunião · Para que dia? · Pode ser.",
+    "goals": [
+      "Umawiać wizytę i termin: Queria marcar uma consulta / uma hora",
+      "Ustalać dzień i godzinę: Para que dia? A que horas?",
+      "Zgadzać się na termin: Pode ser."
+    ],
+    "canDo": [
+      "Powiem: Queria marcar uma consulta. Para sexta-feira, se faz favor.",
+      "Zapytam: Pode ser às dez?",
+      "Powiem: Tenho uma consulta amanhã às dez. Amanhã tenho uma reunião."
+    ],
+    "prerequisites": [
+      "w11-l66"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "dark-l",
+      "textPl": "consulta „kõ-SUɫ-tă” — l przed spółgłoską to ciemne ɫ: tył języka uniesiony. Nie zamieniaj na polskie ł!",
+      "itemIds": [
+        "consulta"
+      ]
+    },
+    "newItemIds": [
+      "marcar",
+      "consulta",
+      "cs-queria-marcar-uma-consulta",
+      "reuniao",
+      "cabeleireiro",
+      "marcar-uma-hora",
+      "para-que-dia-q",
+      "pode-ser"
+    ],
+    "grammar": {
+      "titlePl": "Marcar — umawiam termin; para + dzień",
+      "explanationPl": "**marcar** = umówić, zarezerwować termin (czasownik regularny na -ar):\n• *Queria **marcar uma consulta**.* — Chciałbym umówić wizytę (u lekarza, dentysty).\n• *Queria **marcar uma hora**.* — Chciałbym umówić termin (np. u fryzjera). Bardzo często słychać też: *Queria fazer uma marcação.*\n• *marcar **uma reunião*** — umówić spotkanie (w pracy, w przedszkolu).\n\n**Na kiedy? → para:** *Para que dia?* — Na który dzień? — ***Para** amanhã. **Para** sexta-feira.*\n**O której?** *A que horas?* — *Às dez e meia.*\n\n**Pode ser.** — Może być. / Pasuje. Jako pytanie: *Pode ser às dez?* *Pode ser na sexta-feira?*\n\n**Mam wizytę:** *Tenho uma consulta amanhã às dez.* (ter + rzeczownik + kiedy).\n\n**Grzecznie:** w recepcji mówimy *queria…* i *se faz favor* — jak w kawiarni.",
+      "table": [
+        [
+          "Queria marcar uma consulta.",
+          "Chciałbym umówić wizytę."
+        ],
+        [
+          "Queria marcar uma hora.",
+          "Chciałbym umówić termin."
+        ],
+        [
+          "Para que dia?",
+          "Na który dzień?"
+        ],
+        [
+          "Para sexta-feira.",
+          "Na piątek."
+        ],
+        [
+          "Pode ser às dez?",
+          "Może być o dziesiątej?"
+        ],
+        [
+          "Pode ser.",
+          "Może być."
+        ]
+      ],
+      "tableItemIds": [
+        "cs-queria-marcar-uma-consulta",
+        "marcar-uma-hora",
+        "para-que-dia-q",
+        "para-sexta-feira-sfv",
+        "pode-ser-as-dez-q",
+        "pode-ser"
+      ],
+      "exampleIds": [
+        "tenho-uma-consulta-amanha-as-dez",
+        "queria-marcar-uma-hora-sfv",
+        "amanha-tenho-uma-reuniao-as-nove",
+        "para-sexta-feira-sfv",
+        "pode-ser-as-dez-q",
+        "no-sabado-vou-ao-cabeleireiro"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d67"
+    ],
+    "exerciseIds": [
+      "w12-l67-e01",
+      "w12-l67-e02",
+      "w12-l67-e03",
+      "w12-l67-e04",
+      "w12-l67-e05",
+      "w12-l67-e06",
+      "w12-l67-e07",
+      "w12-l67-e08",
+      "w12-l67-e09",
+      "w12-l67-e10",
+      "w12-l67-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l67-s01",
+      "w12-l67-s02",
+      "w12-l67-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w12-l68",
+    "week": 12,
+    "day": 2,
+    "phase": 3,
+    "titlePl": "Rezerwuję stolik",
+    "subtitlePl": "reservar uma mesa · Para quantas pessoas? · Em nome de quem? · restaurante",
+    "goals": [
+      "Rezerwować stolik: Queria reservar uma mesa para…",
+      "Odpowiadać: dla ilu osób, na którą, na jakie nazwisko",
+      "Mówić „osoba / osoby” poprawnie: duas pessoas"
+    ],
+    "canDo": [
+      "Powiem: Queria reservar uma mesa para sábado. Para quatro pessoas, às oito.",
+      "Zrozumiem: Para quantas pessoas? Em nome de quem?",
+      "Powiem: Tenho uma reserva para duas pessoas."
+    ],
+    "prerequisites": [
+      "w12-l67"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "r-strong",
+      "textPl": "reservar „rry-zyr-WAR”, restaurante „rrysz-tau-RÃ-ty” — r na początku słowa jest zawsze mocne.",
+      "itemIds": [
+        "reservar",
+        "restaurante"
+      ]
+    },
+    "newItemIds": [
+      "reservar",
+      "reserva",
+      "restaurante",
+      "pessoa",
+      "cs-para-quantas-pessoas",
+      "cs-em-nome-de-quem",
+      "cs-uma-mesa-para-dois-sfv"
+    ],
+    "grammar": {
+      "titlePl": "Rezerwacja: para + dzień / osoby / godzina",
+      "explanationPl": "**Rezerwacja stolika** — jedno zdanie z kilkoma „para”:\n*Queria **reservar** uma mesa **para** sábado.* — …na sobotę.\n***Para** quatro pessoas, às oito.* — Dla czterech osób, na ósmą.\nKrócej, na miejscu: *Uma mesa para dois, se faz favor.*\n\n**Pytania kelnera:**\n• *Para quantas pessoas?* — Dla ilu osób?\n• *Em nome de quem?* — Na jakie nazwisko? → *Em nome de* + imię i nazwisko (wymawiasz je po polsku).\n• *Tem reserva?* — Ma Pan rezerwację? → *Tenho uma reserva para duas pessoas.*\n\n**a pessoa** jest zawsze rodzaju **żeńskiego** — także o mężczyznach: *duas pessoas*, nie „dois pessoas”.\n\n**reservar** (czasownik) ↔ **a reserva** (rzeczownik), jak po polsku: rezerwować ↔ rezerwacja.",
+      "table": [
+        [
+          "Queria reservar uma mesa para…",
+          "Chciałbym zarezerwować stolik na…"
+        ],
+        [
+          "Para quantas pessoas?",
+          "Dla ilu osób?"
+        ],
+        [
+          "Para quatro pessoas.",
+          "Dla czterech osób."
+        ],
+        [
+          "Em nome de quem?",
+          "Na jakie nazwisko?"
+        ],
+        [
+          "Tenho uma reserva.",
+          "Mam rezerwację."
+        ]
+      ],
+      "tableItemIds": [
+        "queria-reservar-uma-mesa-para-sabado",
+        "cs-para-quantas-pessoas",
+        "para-quatro-pessoas-as-oito",
+        "cs-em-nome-de-quem",
+        "tenho-uma-reserva-para-duas-pessoas"
+      ],
+      "exampleIds": [
+        "queria-reservar-uma-mesa-para-sabado",
+        "para-quatro-pessoas-as-oito",
+        "em-nome-de-tomasz",
+        "cs-tem-reserva",
+        "tenho-uma-reserva-para-duas-pessoas",
+        "o-restaurante-fica-perto-do-mercado"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d68"
+    ],
+    "exerciseIds": [
+      "w12-l68-e01",
+      "w12-l68-e02",
+      "w12-l68-e03",
+      "w12-l68-e04",
+      "w12-l68-e05",
+      "w12-l68-e06",
+      "w12-l68-e07",
+      "w12-l68-e08",
+      "w12-l68-e09",
+      "w12-l68-e10",
+      "w12-l68-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l68-s01",
+      "w12-l68-s02",
+      "w12-l68-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w12-l69",
+    "week": 12,
+    "day": 3,
+    "phase": 3,
+    "titlePl": "Telefon: Estou? Quem fala?",
+    "subtitlePl": "Estou? · Está lá? · Quem fala? · Posso falar com…? · Daqui fala… · Ligo mais tarde.",
+    "goals": [
+      "Odbierać telefon: Estou?",
+      "Prosić do telefonu: Posso falar com…? i przedstawiać się: Daqui fala…",
+      "Mówić, że zadzwonię później: Ligo mais tarde."
+    ],
+    "canDo": [
+      "Odbiorę: Estou? Quem fala?",
+      "Zapytam: Posso falar com a Marta, se faz favor?",
+      "Powiem: Daqui fala o Tomasz. Ligo mais tarde."
+    ],
+    "prerequisites": [
+      "w12-l68"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "quem „KÃJ” — końcowe -em to nosowe „ãj”, jak w „tem” i „também”. Bez wyraźnego m!",
+      "itemIds": [
+        "quem-fala-q"
+      ]
+    },
+    "newItemIds": [
+      "ligar",
+      "estou-tel",
+      "cs-esta-la",
+      "quem-fala-q",
+      "posso-falar-com-q",
+      "cs-daqui-fala",
+      "cs-ligo-mais-tarde",
+      "cs-um-momento-sfv"
+    ],
+    "grammar": {
+      "titlePl": "Rozmowa telefoniczna — zwroty",
+      "explanationPl": "**Odbieranie:** w Portugalii często mówi się ***Estou?*** (dosł. „jestem”) albo ***Está?*** / *Sim?* / *Estou, sim?*\n**Gdy nic nie słychać:** ***Está lá?*** — Halo, jest Pan / Pani tam?\n\n**Dzwonię:**\n• *Bom dia. **Posso falar com** a Marta, se faz favor?* — Czy mogę rozmawiać z Martą?\n• ***Daqui fala** o Tomasz.* — Mówi Tomasz. (daqui = de + aqui, „stąd”). Prościej: *É o Tomasz.*\n\n**Słyszę:** *Quem fala?* — Kto mówi? · *Um momento, se faz favor.* — Chwileczkę. · *A Marta agora não pode.* — Marta teraz nie może.\n\n**ligar** = dzwonić: *ligar **a** alguém* (do kogoś): *Ligo **à** Ana.* · *ligar **para** o restaurante*.\n***Ligo mais tarde.*** — Zadzwonię później (czas teraźniejszy mówi o przyszłości, jak *Amanhã trabalho*).",
+      "table": [
+        [
+          "Estou? / Está?",
+          "Halo? (odbierając)"
+        ],
+        [
+          "Está lá?",
+          "Halo, jest tam ktoś?"
+        ],
+        [
+          "Quem fala?",
+          "Kto mówi?"
+        ],
+        [
+          "Posso falar com…?",
+          "Czy mogę rozmawiać z…?"
+        ],
+        [
+          "Daqui fala…",
+          "Mówi… (przedstawiam się)"
+        ],
+        [
+          "Ligo mais tarde.",
+          "Zadzwonię później."
+        ]
+      ],
+      "tableItemIds": [
+        "estou-tel",
+        "cs-esta-la",
+        "quem-fala-q",
+        "posso-falar-com-q",
+        "cs-daqui-fala",
+        "cs-ligo-mais-tarde"
+      ],
+      "exampleIds": [
+        "posso-falar-com-a-marta-sfv",
+        "daqui-fala-o-tomasz",
+        "a-marta-agora-nao-pode",
+        "logo-a-noite-ligo-a-ana",
+        "estou-quem-fala-q",
+        "ligo-a-ana-mais-tarde"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d69"
+    ],
+    "exerciseIds": [
+      "w12-l69-e01",
+      "w12-l69-e02",
+      "w12-l69-e03",
+      "w12-l69-e04",
+      "w12-l69-e05",
+      "w12-l69-e06",
+      "w12-l69-e07",
+      "w12-l69-e08",
+      "w12-l69-e09",
+      "w12-l69-e10",
+      "w12-l69-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l69-s01",
+      "w12-l69-s02",
+      "w12-l69-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w12-l70",
+    "week": 12,
+    "day": 4,
+    "phase": 3,
+    "titlePl": "Zmieniam i odwołuję; proszę przekazać",
+    "subtitlePl": "mudar a hora · desmarcar · cancelar · outro dia · Pode dizer-lhe que liguei?",
+    "goals": [
+      "Zmieniać termin: Queria mudar a hora. Pode ser outro dia?",
+      "Odwoływać: desmarcar a consulta, cancelar a reserva",
+      "Prosić o przekazanie wiadomości: Pode dizer-lhe que liguei?"
+    ],
+    "canDo": [
+      "Powiem: Queria mudar a hora da consulta. Pode ser outro dia?",
+      "Powiem: Queria desmarcar a consulta de amanhã. Queria cancelar a reserva.",
+      "Poproszę: Pode dizer-lhe que liguei?"
+    ],
+    "prerequisites": [
+      "w12-l69"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "lh",
+      "textPl": "dizer-lhe „di-ZÊR-ljy” — lh to jeden dźwięk (lj), tu bardzo krótko, doczepiony do czasownika.",
+      "itemIds": [
+        "pode-dizer-lhe-que-liguei-q"
+      ]
+    },
+    "newItemIds": [
+      "mudar",
+      "desmarcar",
+      "cancelar",
+      "outro",
+      "ligar-liguei",
+      "pode-dizer-lhe-que-liguei-q"
+    ],
+    "grammar": {
+      "titlePl": "Zmiany i wiadomości; zaimek lhe",
+      "explanationPl": "**Zmiana terminu:** *Queria **mudar** a hora da consulta.* — Chciałbym zmienić godzinę wizyty. · *Pode ser **outro** dia?* — Może być inny dzień? (*outro dia, outra hora* — zwykle bez „um”).\n\n**Odwołanie:**\n• **desmarcar** — odwołać umówioną wizytę / spotkanie (przeciwieństwo *marcar*): *Queria desmarcar a consulta de amanhã.*\n• **cancelar** — anulować (ogólniej; rezerwacja, zamówienie): *Queria cancelar a reserva.*\n\n**Wiadomość dla kogoś:** *A Marta hoje **não está**.* (Marty dziś nie ma.) → ***Pode dizer-lhe que liguei?*** — Może jej Pani przekazać, że dzwoniłem?\n• **lhe** = jemu / jej (też: Panu / Pani). Jak *chamo-**me***, stoi **po** czasowniku, z myślnikiem: *dizer-lhe*, *Eu digo-lhe.* (Przekażę mu / jej.)\n• **liguei** = dzwoniłem (ligar → lig**u**ei: u zachowuje twarde g, jak fi**qu**ei).",
+      "table": [
+        [
+          "Queria mudar a hora.",
+          "Chciałbym zmienić godzinę."
+        ],
+        [
+          "Pode ser outro dia?",
+          "Może być inny dzień?"
+        ],
+        [
+          "desmarcar a consulta",
+          "odwołać wizytę"
+        ],
+        [
+          "cancelar a reserva",
+          "anulować rezerwację"
+        ],
+        [
+          "Pode dizer-lhe que liguei?",
+          "Może mu / jej Pan(i) przekazać, że dzwoniłem?"
+        ],
+        [
+          "Eu digo-lhe.",
+          "Przekażę mu / jej."
+        ]
+      ],
+      "tableItemIds": [
+        "mudar",
+        "outro",
+        "desmarcar",
+        "cancelar",
+        "pode-dizer-lhe-que-liguei-q",
+        "eu-digo-lhe"
+      ],
+      "exampleIds": [
+        "queria-mudar-a-hora-da-consulta",
+        "queria-desmarcar-a-consulta-de-amanha",
+        "cs-queria-cancelar-a-reserva",
+        "pode-ser-outro-dia-q",
+        "a-marta-hoje-nao-esta",
+        "eu-digo-lhe"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d70"
+    ],
+    "exerciseIds": [
+      "w12-l70-e01",
+      "w12-l70-e02",
+      "w12-l70-e03",
+      "w12-l70-e04",
+      "w12-l70-e05",
+      "w12-l70-e06",
+      "w12-l70-e07",
+      "w12-l70-e08",
+      "w12-l70-e09",
+      "w12-l70-e10",
+      "w12-l70-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l70-s01",
+      "w12-l70-s02",
+      "w12-l70-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w12-l71",
+    "week": 12,
+    "day": 5,
+    "phase": 3,
+    "titlePl": "Numer telefonu i literowanie",
+    "subtitlePl": "O meu número é… · Como se escreve? · Pode soletrar? · É engano. · O número está errado.",
+    "goals": [
+      "Podawać i rozumieć numer telefonu (grupy po trzy cyfry)",
+      "Pytać o pisownię i literować imię: Como se escreve?",
+      "Reagować na pomyłki: É engano. O número está errado."
+    ],
+    "canDo": [
+      "Powiem: O meu número é nove um dois, três quatro cinco, seis sete oito.",
+      "Zapytam: Como se escreve? Pode soletrar?",
+      "Przeliteruję swoje imię i powiem: Desculpe, é engano."
+    ],
+    "prerequisites": [
+      "w12-l70"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "Nazwy liter: eme „E-my”, esse „E-sy” — otwarte e, jak w sete „SE-ty” (7); ale tê „TÊ”, zê „ZÊ” — zamknięte ê. Przy okazji: sete to cyfra potrzebna w numerach telefonów.",
+      "itemIds": [
+        "te-o-eme-a-esse-ze",
+        "sete"
+      ]
+    },
+    "newItemIds": [
+      "numero",
+      "cs-qual-e-o-seu-numero-de-telemovel",
+      "o-meu-numero-e",
+      "como-se-escreve-q",
+      "cs-pode-soletrar-sfv",
+      "te-o-eme-a-esse-ze",
+      "o-numero-esta-errado",
+      "e-engano"
+    ],
+    "grammar": {
+      "titlePl": "Numery, litery, pomyłki",
+      "explanationPl": "**Numer telefonu:** *Qual é o seu número de telemóvel?* → *O meu número é…* albo krótko *É o…*\nNumer komórki w Portugalii ma 9 cyfr (zwykle zaczyna się od 9). Dyktuje się go najczęściej **w grupach po trzy cyfry**, z pauzą: *nove um dois — três quatro cinco — seis sete oito*. Uwaga: *dois* (2), ale *duas* przed rzeczownikami żeńskimi — w numerach mówimy *dois*.\nNie dosłyszałeś? *Pode repetir o número?*\n\n**Pisownia:** *Como se escreve?* — Jak to się pisze? · *Pode soletrar, se faz favor?* — Może Pan przeliterować?\n**Nazwy liter** (wybrane): a **á**, e **é**, o **ó**, m **eme**, s **esse**, t **tê**, z **zê**, l **ele**, r **erre**; w polskich imionach przydadzą się też: k **capa**, w **dâblio**, y **ípsilon**, j **jota**, h **agá**. Tomasz: *tê, ó, eme, á, esse, zê*.\n\n**Pomyłki:**\n• ktoś dzwoni pod zły numer → ***É engano.*** (To pomyłka.)\n• Ty się pomyliłeś → *Desculpe, enganei-me no número.*\n• numer jest zły (np. zapisany) → ***O número está errado.***",
+      "table": [
+        [
+          "Qual é o seu número de telemóvel?",
+          "Jaki jest Pana numer komórki?"
+        ],
+        [
+          "O meu número é…",
+          "Mój numer to…"
+        ],
+        [
+          "Como se escreve?",
+          "Jak to się pisze?"
+        ],
+        [
+          "Pode soletrar?",
+          "Może Pan przeliterować?"
+        ],
+        [
+          "É engano.",
+          "To pomyłka (zły numer)."
+        ],
+        [
+          "O número está errado.",
+          "Numer jest błędny."
+        ]
+      ],
+      "tableItemIds": [
+        "cs-qual-e-o-seu-numero-de-telemovel",
+        "o-meu-numero-e",
+        "como-se-escreve-q",
+        "cs-pode-soletrar-sfv",
+        "e-engano",
+        "o-numero-esta-errado"
+      ],
+      "exampleIds": [
+        "o-meu-numero-e-912345678",
+        "cs-pode-repetir-o-numero",
+        "como-se-escreve-o-seu-nome-q",
+        "desculpe-e-engano",
+        "o-meu-numero-e-962875431"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d71"
+    ],
+    "exerciseIds": [
+      "w12-l71-e01",
+      "w12-l71-e02",
+      "w12-l71-e03",
+      "w12-l71-e04",
+      "w12-l71-e05",
+      "w12-l71-e06",
+      "w12-l71-e07",
+      "w12-l71-e08",
+      "w12-l71-e09",
+      "w12-l71-e10",
+      "w12-l71-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l71-s01",
+      "w12-l71-s02",
+      "w12-l71-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w12-l72",
+    "week": 12,
+    "day": 6,
+    "phase": 3,
+    "titlePl": "Umawiamy się + sprawdzian etapowy",
+    "subtitlePl": "Então, combinado! · Até já! · Para que horas? · sprawdzian trzeciego miesiąca",
+    "goals": [
+      "Łączyć przeszłość i plany w jednej rozmowie",
+      "Kończyć ustalenia: Então, combinado! Até já!",
+      "Sprawdzić wiedzę z miesiąca 3 (tygodnie 9–12)"
+    ],
+    "canDo": [
+      "Powiem: Correu bem! Fui à praia. — Vou reservar uma mesa. Para as oito. Então, combinado!",
+      "Przeproszę: Desculpe, enganei-me no número.",
+      "Opowiem o ostatnim weekendzie i o planach; umówię wizytę i zarezerwuję stolik przez telefon"
+    ],
+    "prerequisites": [
+      "w12-l71"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "então „ẽ-TÃU” — dwie nosówki: ẽ na początku i ãu na końcu (jak w „não”).",
+      "itemIds": [
+        "entao"
+      ]
+    },
+    "newItemIds": [
+      "entao",
+      "ate-ja",
+      "para-que-horas-q",
+      "reservar-reservei",
+      "cs-desculpe-enganei-me-no-numero"
+    ],
+    "grammar": {
+      "titlePl": "Miesiąc 3 — co już umiesz; então, até já",
+      "explanationPl": "**então** — więc, no to: *Então, combinado!* — No to umowa stoi! Samo *Então?* = No i jak?\n**Até já!** — Do zaraz! (za kilka minut) · *Até logo!* (później dziś) · *Até amanhã!* · *Até sábado!*\n**Para que horas?** — Na którą? → *Para as oito.* (para + as — bez ściągnięcia „às”).\n\n**Miesiąc 3 w pigułce:**\n• tydz. 9: **fazer, dizer, sair, vir, ver, dar** w czasie teraźniejszym; praca i rytm dnia\n• tydz. 10: plany: **vou / vamos + bezokolicznik**; *logo à noite, depois de amanhã, para a semana*; *Queres…? Combinado! Não posso porque…*; *gostava de…, se calhar*\n• tydz. 11: czas przeszły: **falei, comi, saí; fui / foi; estive, tive, fiz, fiquei**; *ontem, anteontem, no sábado passado, há dois dias*\n• tydz. 12: **marcar / reservar / mudar / desmarcar / cancelar**; telefon: *Estou? Quem fala? Posso falar com…? Pode dizer-lhe que liguei?*; numery i literowanie\n\nNa koniec rozmowa z Aną, a potem sprawdzian etapowy (ok. 10 minut + monolog i rozmowa z kelnerem). Wynik wskaże lekcje do powtórki; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "Então, combinado!",
+          "No to umowa stoi!"
+        ],
+        [
+          "Até já!",
+          "Do zaraz!"
+        ],
+        [
+          "Para que horas? — Para as oito.",
+          "Na którą? — Na ósmą."
+        ],
+        [
+          "Reservei uma mesa.",
+          "Zarezerwowałem stolik."
+        ],
+        [
+          "Desculpe, enganei-me no número.",
+          "Przepraszam, pomyliłem numer."
+        ]
+      ],
+      "tableItemIds": [
+        "entao-combinado",
+        "ate-ja",
+        "para-que-horas-q",
+        "reservei-uma-mesa-no-restaurante",
+        "cs-desculpe-enganei-me-no-numero"
+      ],
+      "exampleIds": [
+        "entao-combinado",
+        "vou-reservar-uma-mesa-no-restaurante",
+        "reservei-uma-mesa-no-restaurante",
+        "ontem-liguei-a-marta"
+      ]
+    },
+    "dialogueIds": [
+      "w12-d72"
+    ],
+    "exerciseIds": [
+      "w12-l72-e01",
+      "w12-l72-e02",
+      "w12-l72-e03",
+      "w12-l72-e04",
+      "w12-l72-e05",
+      "w12-l72-e06",
+      "w12-l72-e07",
+      "w12-l72-e08",
+      "w12-l72-e09",
+      "w12-l72-e10",
+      "w12-l72-e11"
+    ],
+    "speakingTaskIds": [
+      "w12-l72-s01",
+      "w12-l72-s02",
+      "w12-l72-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review",
+    "testId": "w12-test"
+  }
+]

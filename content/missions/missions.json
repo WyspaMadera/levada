@@ -1,0 +1,124 @@
+[
+  {
+    "id": "misja-powitanie",
+    "unlockAfterLessonId": "w01-l02",
+    "titlePl": "Przywitaj się o właściwej porze dnia",
+    "taskPl": "Przywitaj się dziś po portugalsku z sąsiadem, kasjerem albo kierowcą autobusu: rano „bom dia”, po południu „boa tarde”, wieczorem „boa noite”.",
+    "tipPl": "Granica między „bom dia” a „boa tarde” to mniej więcej pora obiadu (ok. 12–13). Pomyłka nikogo nie urazi, a gdy nie masz pewności, „olá” pasuje zawsze.",
+    "phraseItemIds": [
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite",
+      "ola"
+    ]
+  },
+  {
+    "id": "misja-kawa",
+    "unlockAfterLessonId": "w01-l03",
+    "titlePl": "Zamów kawę po portugalsku",
+    "taskPl": "W kawiarni zamów kawę jednym zdaniem po portugalsku i podziękuj.",
+    "tipPl": "„Um café” to w Portugalii małe espresso. Jeśli chcesz coś innego, zacznij po portugalsku — resztę możesz pokazać. Mężczyzna mówi „obrigado”, kobieta „obrigada”.",
+    "phraseItemIds": [
+      "bom-dia-um-cafe-sfv",
+      "um-cafe-sfv",
+      "obrigado"
+    ]
+  },
+  {
+    "id": "misja-przedstaw-sie",
+    "unlockAfterLessonId": "w01-l04",
+    "titlePl": "Przedstaw się komuś nowemu",
+    "taskPl": "Przedstaw się po portugalsku osobie, której jeszcze nie znasz — np. sąsiadowi albo innemu rodzicowi w przedszkolu.",
+    "tipPl": "Wystarczą dwa zdania. Jeśli usłyszysz „Muito prazer”, odpowiedz „Igualmente”. Do starszej lub nieznajomej osoby: „E o senhor?” / „E a senhora?”.",
+    "phraseItemIds": [
+      "chamo-me",
+      "muito-prazer",
+      "igualmente",
+      "e-o-senhor",
+      "e-a-senhora"
+    ]
+  },
+  {
+    "id": "misja-wolniej",
+    "unlockAfterLessonId": "w01-l05",
+    "titlePl": "Poproś o powtórzenie albo wolniej",
+    "taskPl": "Gdy ktoś mówi do Ciebie po portugalsku za szybko, nie przechodź od razu na angielski — poproś o powtórzenie albo wolniejsze tempo.",
+    "tipPl": "To jedne z najważniejszych zdań na start. Ludzie zwykle chętnie zwalniają, gdy widzą, że się uczysz. Nawet jeśli za drugim razem zrozumiesz tylko część — to już sukces.",
+    "phraseItemIds": [
+      "desculpe-nao-percebo",
+      "pode-repetir",
+      "mais-devagar"
+    ]
+  },
+  {
+    "id": "misja-skad-jestem",
+    "unlockAfterLessonId": "w02-l08",
+    "titlePl": "Powiedz, skąd jesteś",
+    "taskPl": "Gdy ktoś zapyta, skąd jesteś (albo usłyszy Twój akcent), odpowiedz po portugalsku.",
+    "tipPl": "Uważaj na akcent: Polónia — akcent na „LO”. Kobieta mówi „Eu sou polaca”.",
+    "phraseItemIds": [
+      "sou-da-polonia",
+      "eu-sou-polaco"
+    ]
+  },
+  {
+    "id": "misja-queria",
+    "unlockAfterLessonId": "w03-l14",
+    "titlePl": "Zamów grzecznie z „queria”",
+    "taskPl": "Zamów napój w kawiarni, zaczynając od „queria” (chciałbym/chciałabym) i kończąc „se faz favor”.",
+    "tipPl": "„Queria” brzmi uprzejmiej niż „quero”. Jeśli usłyszysz pytanie, którego nie rozumiesz — spokojnie: „Desculpe, não percebo.”",
+    "phraseItemIds": [
+      "queria-um-cafe-sfv",
+      "queria-um-cha-sfv",
+      "desculpe-nao-percebo"
+    ]
+  },
+  {
+    "id": "misja-cena",
+    "unlockAfterLessonId": "w03-l17",
+    "titlePl": "Zapytaj w sklepie o cenę",
+    "taskPl": "W sklepie albo na targu wskaż jedną rzecz i zapytaj po portugalsku, ile kosztuje. Spróbuj zrozumieć odpowiedź, zanim spojrzysz na wyświetlacz.",
+    "tipPl": "Ceny często mają też centy (cêntimos) — jeśli złapiesz tylko liczbę euro, to i tak dobry wynik. Liczy się to, że zapytałeś po portugalsku.",
+    "phraseItemIds": [
+      "quanto-custa-q",
+      "custa-doze-euros",
+      "sao-vinte-euros"
+    ]
+  },
+  {
+    "id": "misja-dokad-ide",
+    "unlockAfterLessonId": "w04-l19",
+    "titlePl": "Powiedz, dokąd idziesz",
+    "taskPl": "Gdy spotkasz sąsiada, powiedz mu po portugalsku, dokąd idziesz — do sklepu, do domu albo na plażę.",
+    "tipPl": "„ao” stoi przed rodzajem męskim (ao supermercado), „à” przed żeńskim (à praia), a „para casa” to po prostu „do domu”.",
+    "phraseItemIds": [
+      "vou-ao-supermercado",
+      "vou-para-casa",
+      "a-praia"
+    ]
+  },
+  {
+    "id": "misja-odbior-syna",
+    "unlockAfterLessonId": "w04-l22",
+    "titlePl": "Powiedz wychowawczyni, o której odbierzesz syna",
+    "taskPl": "Odprowadzając syna do przedszkola, powiedz wychowawczyni po portugalsku, o której dziś po niego przyjdziesz.",
+    "tipPl": "Na tym etapie wystarczy krótka forma z godziną, np. „Posso às cinco?” — z kontekstu będzie jasne, o co chodzi. Pełne zdanie z „odebrać” poznasz później. Gdy nie masz pewności, czy Cię zrozumiano, pokaż godzinę na zegarku.",
+    "phraseItemIds": [
+      "rd-07-07",
+      "as-cinco",
+      "sao-tres-e-meia"
+    ]
+  },
+  {
+    "id": "misja-rodzina",
+    "unlockAfterLessonId": "w04-l23",
+    "titlePl": "Przedstaw kogoś z rodziny",
+    "taskPl": "Gdy spotkasz sąsiadkę albo znajomego razem z kimś bliskim, przedstaw tę osobę po portugalsku.",
+    "tipPl": "„Este” dla mężczyzny lub chłopca, „esta” dla kobiety lub dziewczynki. Mów tylko o tym, czym chcesz się dzielić.",
+    "phraseItemIds": [
+      "este-e-o-meu-filho",
+      "esta-e-a-minha-mulher",
+      "o-meu-filho-tem-cinco-anos"
+    ]
+  }
+]

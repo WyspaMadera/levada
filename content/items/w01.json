@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "sim",
+    "kind": "word",
+    "pt": "sim",
+    "pl": "tak",
+    "pronunciation": {
+      "plSlow": "SĨ",
+      "ipa": "sĩ",
+      "notePl": "Nosowe i: nie wymawiaj „m” na końcu — „sin” to błąd.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "odpowiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao",
+    "kind": "word",
+    "pt": "não",
+    "pl": "nie",
+    "pronunciation": {
+      "plSlow": "NÃU",
+      "ipa": "nɐ̃w̃",
+      "notePl": "Dyftong nosowy ão: przytłumione a + u, całe przez nos. Słowo, które usłyszysz najczęściej!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "odpowiedzi"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "portugal",
+    "kind": "word",
+    "pt": "Portugal",
+    "pl": "Portugalia",
+    "pronunciation": {
+      "plSlow": "pur-tu-GAɫ",
+      "ipa": "puɾtuˈɣaɫ",
+      "notePl": "Akcent na OSTATNIEJ sylabie. Pierwsze o → u. Końcowe l jest ciemne (ɫ) — nie mów „ł”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "madeira",
+    "kind": "word",
+    "pt": "Madeira",
+    "pl": "Madera",
+    "pronunciation": {
+      "plSlow": "mă-DĂJ-ră",
+      "ipa": "mɐˈðɐjɾɐ",
+      "notePl": "Norma lizbońska: ei = ăj. Wariant „mă-DEJ-ră” też jest powszechnie słyszany i zrozumiały. d między samogłoskami jest miękkie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "funchal",
+    "kind": "word",
+    "pt": "Funchal",
+    "pl": "Funchal (stolica Madery)",
+    "pronunciation": {
+      "plSlow": "fũ-SZAɫ",
+      "ipa": "fũˈʃaɫ",
+      "notePl": "un = nosowe u; ch = sz; końcowe ciemne l. W zdaniu mówi się „o Funchal” (z rodzajnikiem).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "miejsca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cafe",
+    "kind": "word",
+    "pt": "café",
+    "pl": "kawa (espresso); kawiarnia",
+    "pronunciation": {
+      "plSlow": "kă-FE",
+      "ipa": "kɐˈfɛ",
+      "notePl": "Akcent na ostatniej sylabie, é otwarte. W Portugalii „um café” to małe espresso.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "portugues",
+    "kind": "word",
+    "pt": "português",
+    "pl": "język portugalski; po portugalsku",
+    "pronunciation": {
+      "plSlow": "pur-tu-GÊSZ",
+      "ipa": "puɾtuˈɣeʃ",
+      "notePl": "Zamknięte ê; końcowe s = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "jezyki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "cafe-q",
+    "kind": "sentence",
+    "pt": "Café?",
+    "pl": "Kawa? (Podać kawę?)",
+    "pronunciation": {
+      "plSlow": "kă-FE?",
+      "ipa": "kɐˈfɛ",
+      "notePl": "Pytanie bez zmiany szyku — tylko intonacja w górę.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-cafe",
+    "kind": "sentence",
+    "pt": "Sim, café.",
+    "pl": "Tak, kawę.",
+    "pronunciation": {
+      "plSlow": "SĨ, kă-FE.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola",
+    "kind": "word",
+    "pt": "olá",
+    "pl": "cześć; dzień dobry (neutralne)",
+    "pronunciation": {
+      "plSlow": "o-LA",
+      "ipa": "ɔˈla",
+      "notePl": "Akcent na ostatniej sylabie; o otwarte.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Uniwersalne powitanie — można powiedzieć prawie każdemu, często razem z „bom dia” itp.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia",
+    "kind": "phrase",
+    "pt": "bom dia",
+    "pl": "dzień dobry (rano, do ok. 12–13)",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă",
+      "ipa": "bõ ˈdiɐ",
+      "notePl": "bom: nosowe o — nie „bą” i nie „bom” z wyraźnym m.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Do mniej więcej pory obiadu. Mówi się też na pożegnanie („miłego dnia”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde",
+    "kind": "phrase",
+    "pt": "boa tarde",
+    "pl": "dzień dobry (po południu)",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy",
+      "plNatural": "BÔ-ă TARD(y)",
+      "ipa": "ˈboɐ ˈtaɾðɨ",
+      "notePl": "Końcowe e w „tarde” w szybkiej mowie prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Od pory obiadu do zmroku. Również na pożegnanie.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-noite",
+    "kind": "phrase",
+    "pt": "boa noite",
+    "pl": "dobry wieczór; dobranoc",
+    "pronunciation": {
+      "plSlow": "BÔ-ă NÔJ-ty",
+      "plNatural": "BÔ-ă NÔJT(y)",
+      "ipa": "ˈboɐ ˈnojtɨ",
+      "notePl": "oi w „noite” z zamkniętym ô.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Wieczorem — i na powitanie, i na pożegnanie.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tudo-bem-q",
+    "kind": "sentence",
+    "pt": "Tudo bem?",
+    "pl": "Wszystko w porządku? Co słychać?",
+    "pronunciation": {
+      "plSlow": "TU-du BÃJ?",
+      "ipa": "ˈtuðu ˈbɐ̃j̃",
+      "notePl": "bem = nosowe ăj: „BÃJ”, nie „bem”. d w „tudo” miękkie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Bardzo częste, nieformalne pytanie — nie oczekuje długiej odpowiedzi.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tudo-bem",
+    "kind": "sentence",
+    "pt": "Tudo bem.",
+    "pl": "Wszystko w porządku.",
+    "pronunciation": {
+      "plSlow": "TU-du BÃJ.",
+      "ipa": "ˈtuðu ˈbɐ̃j̃",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adeus",
+    "kind": "word",
+    "pt": "adeus",
+    "pl": "do widzenia",
+    "pronunciation": {
+      "plSlow": "ă-DÊUSZ",
+      "ipa": "ɐˈðewʃ",
+      "notePl": "eu = ê + krótkie u; końcowe s = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Zwykłe pożegnanie w Portugalii (nie jest „dramatyczne”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ate-logo",
+    "kind": "phrase",
+    "pt": "até logo",
+    "pl": "do zobaczenia (później)",
+    "pronunciation": {
+      "plSlow": "ă-TE LO-gu",
+      "ipa": "ɐˈtɛ ˈlɔɣu",
+      "notePl": "até — akcent na końcu, é otwarte; g w „logo” miękkie.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "usagePl": "Gdy zobaczycie się jeszcze tego samego dnia lub wkrótce.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-bom-dia",
+    "kind": "sentence",
+    "pt": "Olá, bom dia!",
+    "pl": "Cześć, dzień dobry!",
+    "pronunciation": {
+      "plSlow": "o-LA, BÕ DI-ă!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-tudo-bem",
+    "kind": "sentence",
+    "pt": "Boa tarde, tudo bem?",
+    "pl": "Dzień dobry, co słychać?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy, TU-du BÃJ?",
+      "plNatural": "BÔ-ă TARD(y), TU-du BÃJ?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "adeus-ate-logo",
+    "kind": "sentence",
+    "pt": "Adeus, até logo!",
+    "pl": "Do widzenia, do zobaczenia!",
+    "pronunciation": {
+      "plSlow": "ă-DÊUSZ, ă-TE LO-gu!",
+      "plNatural": "ă-DÊU‿ză-TE LO-gu!",
+      "notePl": "W mowie naturalnej s przed samogłoską brzmi jak z: „adeu‿zaté”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado",
+    "kind": "word",
+    "pt": "obrigado",
+    "ptFem": "obrigada",
+    "pl": "dziękuję",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du",
+      "ipa": "ɔbɾiˈɣaðu",
+      "notePl": "Pierwsze o bywa wymawiane krótko, czasem bliżej u. Końcówka: -du (mężczyzna) / -dă (kobieta). g i d miękkie.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă",
+      "ipa": "ɔbɾiˈɣaðɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "usagePl": "Mężczyzna mówi „obrigado”, kobieta — „obrigada” (niezależnie od tego, komu dziękuje).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-obrigado",
+    "kind": "phrase",
+    "pt": "muito obrigado",
+    "ptFem": "muito obrigada",
+    "pl": "bardzo dziękuję",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu o-bri-GA-du",
+      "ipa": "ˈmũjtu ɔbɾiˈɣaðu",
+      "notePl": "„muito” jest NOSOWE, choć nie ma tyldy: MŨJ-tu. To wyjątek, który trzeba zapamiętać.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "MŨJ-tu o-bri-GA-dă",
+      "ipa": "ˈmũjtu ɔbɾiˈɣaðɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "por-favor",
+    "kind": "phrase",
+    "pt": "por favor",
+    "pl": "proszę (prosząc o coś)",
+    "pronunciation": {
+      "plSlow": "pur fă-WÔR",
+      "ipa": "puɾ fɐˈvoɾ",
+      "notePl": "por → pur; favor — akcent na końcu, zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "se-faz-favor",
+    "kind": "phrase",
+    "pt": "se faz favor",
+    "pl": "proszę; przepraszam (zwracając uwagę)",
+    "pronunciation": {
+      "plSlow": "sy FASZ fă-WÔR",
+      "ipa": "sɨ faʃ fɐˈvoɾ",
+      "notePl": "z w „faz” przed f brzmi jak sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "usagePl": "Bardzo częste w Portugalii: przy zamawianiu („Um café, se faz favor”) i żeby zwrócić czyjąś uwagę (np. kelnera). Bardzo grzeczne i naturalne.",
+    "lintAllow": [
+      "proclisis-start"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-nada",
+    "kind": "phrase",
+    "pt": "de nada",
+    "pl": "nie ma za co",
+    "pronunciation": {
+      "plSlow": "dy NA-dă",
+      "ipa": "dɨ ˈnaðɐ",
+      "notePl": "de = dy (zredukowane e).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe",
+    "kind": "word",
+    "pt": "desculpe",
+    "pl": "przepraszam",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py",
+      "plNatural": "dysz-KUɫP(y)",
+      "ipa": "dɨʃˈkuɫpɨ",
+      "notePl": "s przed k = sz; l przed p = ciemne ɫ; końcowe e prawie znika.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "usagePl": "Gdy przepraszasz za coś albo zaczepiasz nieznajomego (forma grzecznościowa). Do bliskich: „desculpa”.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "com-licenca",
+    "kind": "phrase",
+    "pt": "com licença",
+    "pl": "przepraszam (czy mogę przejść / wejść?)",
+    "pronunciation": {
+      "plSlow": "kõ li-SẼ-să",
+      "ipa": "kõ liˈsẽsɐ",
+      "notePl": "com = nosowe o, bez m; en = nosowe ẽ; ç = s.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "usagePl": "Prośba o pozwolenie: gdy chcesz przejść, wejść, wyjść.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Um café, se faz favor.",
+    "pl": "Poproszę kawę. (Jedną kawę, proszę.)",
+    "pronunciation": {
+      "plSlow": "ũ kă-FE, sy FASZ fă-WÔR.",
+      "ipa": "ũ kɐˈfɛ sɨ faʃ fɐˈvoɾ",
+      "notePl": "um = nosowe u, bez m.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "kawiarnia"
+    ],
+    "usagePl": "„Um” = jeden / jakiś — więcej o tym w tygodniu 2.",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-um-cafe-sfv",
+    "kind": "sentence",
+    "pt": "Bom dia! Um café, se faz favor.",
+    "pl": "Dzień dobry! Poproszę kawę.",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! ũ kă-FE, sy FASZ fă-WÔR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "kawiarnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-chama",
+    "kind": "sentence",
+    "pt": "Como se chama?",
+    "pl": "Jak się Pan/Pani nazywa?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy SZĂ-mă?",
+      "plNatural": "KÔ-mus SZĂ-mă?",
+      "ipa": "ˈkomu sɨ ˈʃɐmɐ",
+      "notePl": "como — zamknięte ô, końcowe o → u. chama: akcentowane a przed m brzmi jak ă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "usagePl": "Forma grzecznościowa (3. osoba — dokładnie jak polskie „Jak się Pan nazywa?”).",
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-te-chamas",
+    "kind": "sentence",
+    "pt": "Como te chamas?",
+    "pl": "Jak się nazywasz? Jak masz na imię?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu ty SZĂ-măsz?",
+      "ipa": "ˈkomu tɨ ˈʃɐmɐʃ",
+      "notePl": "Końcowe s = sz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "usagePl": "Forma „ty” — do dzieci, młodych ludzi, znajomych.",
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chamo-me",
+    "kind": "sentence",
+    "pt": "Chamo-me …",
+    "pl": "Nazywam się …",
+    "tts": "Chamo-me",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my …",
+      "ipa": "ˈʃɐmu mɨ",
+      "notePl": "„-me” (się) stoi PO czasowniku, połączone myślnikiem. Swoje imię wymawiasz normalnie, po polsku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chamo-me-ana",
+    "kind": "sentence",
+    "pt": "Chamo-me Ana.",
+    "pl": "Nazywam się Ana.",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my Ă-nă.",
+      "ipa": "ˈʃɐmu mɨ ˈɐnɐ",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-prazer",
+    "kind": "phrase",
+    "pt": "muito prazer",
+    "pl": "bardzo mi miło",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu pră-ZÊR",
+      "ipa": "ˈmũjtu pɾɐˈzeɾ",
+      "notePl": "muito — nosowe; prazer — akcent na końcu, zamknięte ê, s/z = z.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "igualmente",
+    "kind": "word",
+    "pt": "igualmente",
+    "pl": "wzajemnie; mnie również",
+    "pronunciation": {
+      "plSlow": "i-guaɫ-MẼ-ty",
+      "plNatural": "i-guaɫ-MẼT(y)",
+      "ipa": "iɣwaɫˈmẽtɨ",
+      "notePl": "gua = gła (u krótkie); l przed m = ciemne ɫ; men = nosowe ẽ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-o-senhor",
+    "kind": "sentence",
+    "pt": "E o senhor?",
+    "pl": "A Pan?",
+    "pronunciation": {
+      "plSlow": "i u sy-ŃÔR?",
+      "ipa": "i u sɨˈɲoɾ",
+      "notePl": "e (i) = „i”; o (rodzajnik) = „u”; nh = ń.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-senhora",
+    "kind": "sentence",
+    "pt": "E a senhora?",
+    "pl": "A Pani?",
+    "pronunciation": {
+      "plSlow": "i ă sy-ŃO-ră?",
+      "plNatural": "jă sy-ŃO-ră?",
+      "ipa": "i ɐ sɨˈɲɔɾɐ",
+      "notePl": "senhora — o OTWARTE (inaczej niż w senhor).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chamo-me-tomasz-e-a-senhora",
+    "kind": "sentence",
+    "pt": "Chamo-me Tomasz. E a senhora?",
+    "pl": "Nazywam się Tomasz. A Pani?",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my TO-masz. i ă sy-ŃO-ră?",
+      "notePl": "Polskie imię wymawiasz po polsku.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "chamo-me-ana-muito-prazer",
+    "kind": "sentence",
+    "pt": "Chamo-me Ana. Muito prazer.",
+    "pl": "Nazywam się Ana. Bardzo mi miło.",
+    "pronunciation": {
+      "plSlow": "SZĂ-mu-my Ă-nă. MŨJ-tu pră-ZÊR.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-percebo",
+    "kind": "sentence",
+    "pt": "Não percebo.",
+    "pl": "Nie rozumiem.",
+    "pronunciation": {
+      "plSlow": "NÃU pyr-SÊ-bu.",
+      "ipa": "nɐ̃w̃ pɨɾˈsebu",
+      "notePl": "percebo — zamknięte ê (w formie „ja”). Bardzo typowe dla Portugalii.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "usagePl": "Można też: „Não compreendo” (bardziej oficjalne).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-nao-percebo",
+    "kind": "sentence",
+    "pt": "Desculpe, não percebo.",
+    "pl": "Przepraszam, nie rozumiem.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, NÃU pyr-SÊ-bu.",
+      "plNatural": "dysz-KUɫP(y), NÃU pyr-SÊ-bu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "pode-repetir",
+    "kind": "sentence",
+    "pt": "Pode repetir, se faz favor?",
+    "pl": "Czy może Pan/Pani powtórzyć?",
+    "pronunciation": {
+      "plSlow": "PO-dy rry-py-TIR, sy FASZ fă-WÔR?",
+      "plNatural": "POD(y) rryp-TIR, sy FASZ fă-WÔR?",
+      "notePl": "pode — otwarte o; repetir — mocne r na początku (rr), dwa zredukowane e.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "mais-devagar",
+    "kind": "sentence",
+    "pt": "Mais devagar, por favor.",
+    "pl": "Wolniej, proszę.",
+    "pronunciation": {
+      "plSlow": "MAJŻ dy-wă-GAR, pur fă-WÔR.",
+      "ipa": "majʒ dɨvɐˈɣaɾ puɾ fɐˈvoɾ",
+      "notePl": "s w „mais” przed dźwięcznym d brzmi jak ż.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-significa",
+    "kind": "sentence",
+    "pt": "O que significa …?",
+    "pl": "Co znaczy …?",
+    "tts": "O que significa?",
+    "pronunciation": {
+      "plSlow": "u ky sig-ni-FI-kă …?",
+      "ipa": "u kɨ siɣniˈfikɐ",
+      "notePl": "que = ky (zredukowane e).",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-se-diz",
+    "kind": "sentence",
+    "pt": "Como se diz … em português?",
+    "pl": "Jak się mówi … po portugalsku?",
+    "tts": "Como se diz... em português?",
+    "pronunciation": {
+      "plSlow": "KÔ-mu sy DISZ … ãj pur-tu-GÊSZ?",
+      "ipa": "ˈkomu sɨ ˈdiʃ ɐ̃j̃ puɾtuˈɣeʃ",
+      "notePl": "em = nosowe „ãj”.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fala-ingles-q",
+    "kind": "sentence",
+    "pt": "Fala inglês?",
+    "pl": "Czy mówi Pan/Pani po angielsku?",
+    "pronunciation": {
+      "plSlow": "FA-lă ĩ-GLÊSZ?",
+      "ipa": "ˈfalɐ ĩˈɡleʃ",
+      "notePl": "Pytanie tak/nie: szyk jak w zdaniu, intonacja rośnie na końcu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie",
+      "jezyki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-falo-bem",
+    "kind": "sentence",
+    "pt": "Não falo bem português.",
+    "pl": "Nie mówię dobrze po portugalsku.",
+    "pronunciation": {
+      "plSlow": "NÃU FA-lu BÃJ pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie",
+      "jezyki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "percebo",
+    "kind": "sentence",
+    "pt": "Percebo.",
+    "pl": "Rozumiem.",
+    "pronunciation": {
+      "plSlow": "pyr-SÊ-bu.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-falo-ingles",
+    "kind": "sentence",
+    "pt": "Não falo inglês.",
+    "pl": "Nie mówię po angielsku.",
+    "pronunciation": {
+      "plSlow": "NÃU FA-lu ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "jezyki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-esta-muito-calor",
+    "kind": "sentence",
+    "pt": "Hoje está muito calor!",
+    "pl": "Dziś jest bardzo gorąco!",
+    "pronunciation": {
+      "plSlow": "Ô-ży ysz-TA MŨJ-tu kă-LÔR!",
+      "plNatural": "Ô-ży SZTA MŨJ-tu kă-LÔR!",
+      "notePl": "Na razie tylko do rozpoznania ze słuchu — te słowa poznasz później.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w01",
+      "pogoda"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-significa-calor",
+    "kind": "sentence",
+    "pt": "O que significa „calor”?",
+    "pl": "Co znaczy „calor”?",
+    "pronunciation": {
+      "plSlow": "u ky sig-ni-FI-kă kă-LÔR?",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-ah-percebo",
+    "kind": "sentence",
+    "pt": "Sim… Ah, percebo! Obrigado.",
+    "ptFem": "Sim… Ah, percebo! Obrigada.",
+    "pl": "Tak… Aha, rozumiem! Dziękuję.",
+    "plFem": "Tak… Aha, rozumiem! Dziękuję.",
+    "pronunciation": {
+      "plSlow": "SĨ… A, pyr-SÊ-bu! o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "SĨ… A, pyr-SÊ-bu! o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ate-amanha",
+    "kind": "phrase",
+    "pt": "até amanhã",
+    "pl": "do jutra",
+    "pronunciation": {
+      "plSlow": "ă-TE ă-mă-ŃÃ",
+      "ipa": "ɐˈtɛ ɐmɐˈɲɐ̃",
+      "notePl": "amanhã — akcent na końcu, nosowe ã; nh = ń.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-faz-mal",
+    "kind": "sentence",
+    "pt": "Não faz mal.",
+    "pl": "Nic nie szkodzi.",
+    "pronunciation": {
+      "plSlow": "NÃU FAŻ MAɫ.",
+      "plNatural": "NÃU FAŻ MAɫ.",
+      "ipa": "nɐ̃w̃ faʒ maɫ",
+      "notePl": "z w „faz” przed m brzmi jak ż: „FAŻ MAɫ” w mowie. Końcowe l ciemne.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "uprzejmosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-boa-tarde",
+    "kind": "sentence",
+    "pt": "Olá, boa tarde!",
+    "pl": "Dzień dobry! (po południu)",
+    "pronunciation": {
+      "plSlow": "o-LA, BÔ-ă TAR-dy!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-chamo-me-tomasz",
+    "kind": "sentence",
+    "pt": "Boa tarde! Chamo-me Tomasz.",
+    "pl": "Dzień dobry! Nazywam się Tomasz.",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! SZĂ-mu-my TO-masz.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "lintAllow": [
+      "stress-position"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-prazer-chamo-me-marta",
+    "kind": "sentence",
+    "pt": "Muito prazer. Chamo-me Marta.",
+    "pl": "Bardzo mi miło. Nazywam się Marta.",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu pră-ZÊR. SZĂ-mu-my MAR-tă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "przedstawianie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tudo-bem-obrigado",
+    "kind": "sentence",
+    "pt": "Tudo bem, obrigado.",
+    "ptFem": "Tudo bem, obrigada.",
+    "pl": "Wszystko w porządku, dziękuję.",
+    "pronunciation": {
+      "plSlow": "TU-du BÃJ, o-bri-GA-du.",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "TU-du BÃJ, o-bri-GA-dă.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "desculpe-nao-falo-bem",
+    "kind": "sentence",
+    "pt": "Desculpe, não falo bem português.",
+    "pl": "Przepraszam, nie mówię dobrze po portugalsku.",
+    "pronunciation": {
+      "plSlow": "dysz-KUɫ-py, NÃU FA-lu BÃJ pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "rozumienie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "obrigado-ate-amanha",
+    "kind": "sentence",
+    "pt": "Obrigado! Até amanhã!",
+    "ptFem": "Obrigada! Até amanhã!",
+    "pl": "Dziękuję! Do jutra!",
+    "pronunciation": {
+      "plSlow": "o-bri-GA-du! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "o-bri-GA-dă! ă-TE ă-mă-ŃÃ!",
+      "needsReview": true
+    },
+    "level": "A0",
+    "tags": [
+      "w01",
+      "powitania"
+    ],
+    "reviewStatus": "draft"
+  }
+]

@@ -1,0 +1,235 @@
+[
+  {
+    "id": "w06-d31",
+    "titlePl": "Jaka jest Marta?",
+    "contextPl": "Ana nie zna jeszcze Marty, wychowawczyni z przedszkola. Pyta Cię o nią. Jesteście po imieniu, ale pytania dotyczą Marty (3. osoba).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "como-e-a-marta-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-alta-e-muito-simpatica"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-jovem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-sim-e-e-da-madeira"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-fala-ingles-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "fala-sim-fala-muito-bem"
+      }
+    ]
+  },
+  {
+    "id": "w06-d32",
+    "titlePl": "Pana rodzina",
+    "contextPl": "Przed przedszkolem Marta grzecznie pyta Cię o rodzinę (o senhor). Rodzina Tomka jest przykładowa — w Twoich odpowiedziach informacje o rodzinie są zawsze opcjonalne.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "os-seus-pais-moram-na-madeira-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "nao-os-meus-pais-moram-na-polonia"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-a-sua-mulher-e-polaca-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "e-sim-tambem-e-polaca"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "o-seu-filho-e-muito-simpatico"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "muito-obrigado"
+      }
+    ]
+  },
+  {
+    "id": "w06-d33",
+    "titlePl": "Nowe mieszkanie",
+    "contextPl": "Ana pierwszy raz odwiedza Twoje mieszkanie. Jesteście po imieniu. „Quantos quartos tem?” — pytanie o mieszkanie (ono „ma”).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-posso-entrar-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-este-e-o-meu-apartamento"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-muito-bonito-quantos-quartos-tem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "tem-dois-quartos-e-uma-sala"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-tem-varanda-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "tem-sim-e-pequena-mas-e-bonita"
+      }
+    ]
+  },
+  {
+    "id": "w06-d34",
+    "titlePl": "Odbiór z przedszkola",
+    "contextPl": "Odbierasz syna z przedszkola. Rozmawiasz z Martą, wychowawczynią (o senhor / a senhora). (Dziecko w dialogu jest przykładowe; informacje o Twoich dzieciach są zawsze opcjonalne.)",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-o-seu-filho-gosta-muito-de-desenhar"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-em-casa-tambem"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-gosta-de-brincar-com-os-amigos"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ele-come-bem-aqui-q"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "come-sim-gosta-muito-da-sopa"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "cs-hoje-ele-esta-um-pouco-cansado"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "nao-faz-mal-ate-amanha"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "obrigado-ate-amanha"
+      }
+    ]
+  },
+  {
+    "id": "w06-d35",
+    "titlePl": "Masz rodzeństwo?",
+    "contextPl": "Pijesz kawę z Aną. Jesteście po imieniu (tu). Ana jest kobietą, więc mówi „filha única”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "tens-irmaos-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "tenho-um-irmao-e-uma-irma"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-sao-mais-velhos-ou-mais-novos-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "o-meu-irmao-e-mais-velho-e-a-minha-irma-e-mais-nova"
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-moram-na-polonia-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "sim-moram-na-polonia-e-tu-tens-irmaos-q"
+      },
+      {
+        "speaker": "Ana",
+        "fem": true,
+        "itemId": "nao-sou-filho-unico"
+      }
+    ]
+  },
+  {
+    "id": "w06-d36",
+    "titlePl": "Rodzice w odwiedzinach",
+    "contextPl": "Spotykasz Martę na ulicy. Rozmowa grzeczna. „Gostam” = (oni) lubią — końcówka -am jak w „falam”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-como-esta-a-sua-familia-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "bem-obrigado-os-meus-pais-estao-aqui-na-madeira"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-gostam-da-madeira-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "gostam-muito-a-minha-mae-gosta-muito-da-praia"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-o-seu-pai-q"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "o-meu-pai-gosta-de-tudo"
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "muito-bem-ate-amanha"
+      },
+      {
+        "speaker": "Tomek",
+        "isLearner": true,
+        "itemId": "ate-amanha"
+      }
+    ]
+  }
+]

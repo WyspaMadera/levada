@@ -1,0 +1,118 @@
+[
+  {
+    "id": "q-w07-pequeno-almoco",
+    "questionItemId": "o-que-come-ao-pequeno-almoco-q",
+    "unlockAfterLessonId": "w07-l37",
+    "topicPl": "Śniadanie",
+    "hintPl": "Powiedz, co zwykle jesz i pijesz rano: Como… e bebo…",
+    "exampleAnswerItemIds": [
+      "como-uma-torrada-e-bebo-um-galao",
+      "como-pao-e-bebo-cafe"
+    ],
+    "usefulItemIds": [
+      "torrada",
+      "pao",
+      "galao",
+      "leite",
+      "cha",
+      "sumo-de-laranja"
+    ]
+  },
+  {
+    "id": "q-w07-comer",
+    "questionItemId": "o-que-gosta-de-comer-q",
+    "unlockAfterLessonId": "w07-l42",
+    "topicPl": "Jedzenie",
+    "hintPl": "Powiedz, co lubisz jeść (możesz dodać coś z kuchni maderskiej): Gosto muito de…",
+    "exampleAnswerItemIds": [
+      "gosto-muito-de-peixe",
+      "gosto-muito-de-carne-e-de-peixe"
+    ],
+    "usefulItemIds": [
+      "gosto-de",
+      "peixe",
+      "carne",
+      "bolo-do-caco",
+      "espetada",
+      "queijo"
+    ]
+  },
+  {
+    "id": "q-w08-perto",
+    "questionItemId": "ha-um-supermercado-perto-da-sua-casa-q",
+    "unlockAfterLessonId": "w08-l43",
+    "topicPl": "Moja okolica",
+    "hintPl": "Odpowiedz, czy blisko Twojego domu jest supermarket. Możesz dodać, co jeszcze jest blisko albo daleko.",
+    "exampleAnswerItemIds": [
+      "ha-sim-e-muito-perto",
+      "nao-o-supermercado-e-longe-mas-o-mercado-e-perto",
+      "o-mercado-e-perto-da-minha-casa"
+    ],
+    "usefulItemIds": [
+      "ha",
+      "perto",
+      "longe",
+      "ao-lado-de",
+      "farmacia",
+      "mercado"
+    ]
+  },
+  {
+    "id": "q-w08-tempo",
+    "questionItemId": "como-esta-o-tempo-hoje-q",
+    "unlockAfterLessonId": "w08-l46",
+    "topicPl": "Pogoda",
+    "hintPl": "Wyjrzyj przez okno i powiedz, jaka jest dziś pogoda (1–2 zdania z „está”).",
+    "exampleAnswerItemIds": [
+      "hoje-esta-sol-e-esta-calor",
+      "hoje-esta-muito-frio",
+      "esta-a-chover",
+      "hoje-esta-muito-vento"
+    ],
+    "usefulItemIds": [
+      "esta-sol",
+      "esta-calor",
+      "esta-frio",
+      "esta-vento",
+      "esta-a-chover"
+    ]
+  },
+  {
+    "id": "q-w08-estacao",
+    "questionItemId": "gosta-mais-do-verao-ou-do-inverno-q",
+    "unlockAfterLessonId": "w08-l47",
+    "topicPl": "Pory roku",
+    "hintPl": "Powiedz, którą porę roku wolisz, i dodaj, jaka jest wtedy pogoda.",
+    "exampleAnswerItemIds": [
+      "gosto-muito-do-verao",
+      "gosto-mais-do-inverno",
+      "gosto-da-primavera"
+    ],
+    "usefulItemIds": [
+      "verao",
+      "inverno",
+      "primavera",
+      "outono",
+      "no-verao-esta-calor"
+    ]
+  },
+  {
+    "id": "q-w08-transporte",
+    "questionItemId": "como-vai-para-o-centro-q",
+    "unlockAfterLessonId": "w08-l48",
+    "topicPl": "Transport",
+    "hintPl": "Powiedz, jak zwykle jeździsz do centrum: pieszo, autobusem czy samochodem.",
+    "exampleAnswerItemIds": [
+      "vou-de-autocarro",
+      "vou-a-pe",
+      "vou-de-carro"
+    ],
+    "usefulItemIds": [
+      "a-pe",
+      "de-autocarro",
+      "autocarro",
+      "sempre",
+      "as-vezes"
+    ]
+  }
+]

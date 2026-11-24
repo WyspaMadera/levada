@@ -1,0 +1,621 @@
+[
+  {
+    "id": "w07-l37",
+    "week": 7,
+    "day": 1,
+    "phase": 2,
+    "titlePl": "W kawiarni: zamawiam",
+    "subtitlePl": "Queria…, se faz favor · para mim · galão, torrada, pastel de nata",
+    "goals": [
+      "Zamawiać grzecznie napoje i jedzenie w kawiarni",
+      "Mówić „dla mnie”: para mim…",
+      "Dobierać um / uma do rodzaju rzeczownika"
+    ],
+    "canDo": [
+      "Zamówię: Queria um galão, se faz favor. Uma torrada, se faz favor.",
+      "Powiem w grupie: Para mim, um café.",
+      "Zrozumiem pytanie: E para comer?"
+    ],
+    "prerequisites": [
+      "w06-l36"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "galão „gă-LÃU” — nosowe „ãu” na końcu, bez wyraźnego „n”. mim „MĨ” — nosowe i, bez domykania „m”.",
+      "itemIds": [
+        "galao",
+        "para-mim"
+      ]
+    },
+    "newItemIds": [
+      "galao",
+      "sumo-de-laranja",
+      "leite",
+      "torrada",
+      "bolo",
+      "pastel-de-nata",
+      "para-mim"
+    ],
+    "grammar": {
+      "titlePl": "Jak zamawiać: queria…, um / uma…, para mim…",
+      "explanationPl": "**Trzy sposoby zamawiania** (wszystkie grzeczne):\n• **Queria** um galão, se faz favor. — „Chciałbym / chciałabym…” (znasz z tygodnia 3; ta sama forma dla kobiety i mężczyzny).\n• **Um** galão, se faz favor. — w kawiarni wystarczy nazwa + „se faz favor”.\n• **Para mim**, um café. — „Dla mnie…”, zwłaszcza gdy zamawia kilka osób. Kelner pyta: E para a Ana? / E para a senhora?\n\n**um / uma — według rodzaju rzeczy:** **um** café, **um** galão, **um** sumo, **um** bolo, **um** pastel de nata · **uma** torrada, **uma** água. Rodzaj trzeba zapamiętać razem ze słowem.\n\n**Kelner pyta:** E para comer? — A do jedzenia? / E para beber? — A do picia?\n\n**Uwaga:** „um café” w Portugalii to małe, mocne espresso. Kawa z dużą ilością mleka w szklance to **um galão**. Sok to **o sumo** (słowo brazylijskie jest inne).\n\n**Wymowa:** pastel „păsz-TEɫ” — ciemne ɫ na końcu, nie polskie ł; torrada — mocne rr.",
+      "table": [
+        [
+          "um café",
+          "kawa (espresso)"
+        ],
+        [
+          "um galão",
+          "kawa z mlekiem w szklance"
+        ],
+        [
+          "um sumo de laranja",
+          "sok pomarańczowy"
+        ],
+        [
+          "uma torrada",
+          "grzanka"
+        ],
+        [
+          "um bolo · um pastel de nata",
+          "ciasto · pastel de nata"
+        ]
+      ],
+      "tableItemIds": [
+        "cafe",
+        "galao",
+        "sumo-de-laranja",
+        "torrada",
+        "bolo",
+        "pastel-de-nata"
+      ],
+      "exampleIds": [
+        "queria-um-galao-sfv",
+        "para-mim-um-cafe",
+        "um-sumo-de-laranja-sfv",
+        "um-galao-e-cafe-com-leite",
+        "queria-uma-torrada-e-um-cha",
+        "o-bolo-aqui-e-muito-bom"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d37"
+    ],
+    "exerciseIds": [
+      "w07-l37-e01",
+      "w07-l37-e02",
+      "w07-l37-e03",
+      "w07-l37-e04",
+      "w07-l37-e05",
+      "w07-l37-e06",
+      "w07-l37-e07",
+      "w07-l37-e08",
+      "w07-l37-e09",
+      "w07-l37-e10",
+      "w07-l37-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l37-s01",
+      "w07-l37-s02",
+      "w07-l37-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w07-l38",
+    "week": 7,
+    "day": 2,
+    "phase": 2,
+    "titlePl": "Coś jeszcze? Rachunek",
+    "subtitlePl": "mais um / mais uma · um copo de água · a conta · Quanto é?",
+    "goals": [
+      "Prosić o „jeszcze jedno”: mais um / mais uma",
+      "Odpowiadać na „Mais alguma coisa?”",
+      "Prosić o rachunek i pytać, ile płacę"
+    ],
+    "canDo": [
+      "Poproszę: Mais um café, se faz favor. Um copo de água, se faz favor.",
+      "Odpowiem: Não, é tudo, obrigado.",
+      "Powiem: A conta, se faz favor. Quanto é?"
+    ],
+    "prerequisites": [
+      "w07-l37"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "copo „KO-pu” — otwarte o (jak polskie „o”); bolo „BÔ-lu” — zamknięte ô, usta bardziej zaokrąglone.",
+      "itemIds": [
+        "copo",
+        "bolo"
+      ]
+    },
+    "newItemIds": [
+      "mais-um",
+      "mais-uma",
+      "mais-alguma-coisa-q",
+      "copo",
+      "quanto-e-q",
+      "cs-a-conta-sfv",
+      "cs-e-tudo-obrigado"
+    ],
+    "grammar": {
+      "titlePl": "Mais um / mais uma; a conta",
+      "explanationPl": "**Jeszcze jeden / jedna:** **mais um** + rzeczownik męski, **mais uma** + żeński:\nMais **um** café · Mais **uma** água. (Dosł. „więcej jeden”.)\n\n**Kelner pyta:** **Mais alguma coisa?** — Coś jeszcze?\nOdpowiedzi: **Não, é tudo, obrigado.** (Nie, to wszystko.) / **Sim, mais um café, se faz favor.**\n\n**Szklanka wody:** um **copo de** água — po „copo” jest **de** i rzeczownik bez rodzajnika (jak po polsku: szklanka wody).\n\n**Płacenie:** **A conta, se faz favor.** — Rachunek, proszę. **Quanto é?** — Ile płacę (razem)? Odpowiedź: **São** seis euros. (São — bo euros to liczba mnoga.)\n\n**Wymowa:** mais um „MAJZ Ũ” — s przed samogłoską brzmi jak z. Kobieta mówi „obrigad**a**”.",
+      "table": [
+        [
+          "mais um café",
+          "jeszcze jedna kawa"
+        ],
+        [
+          "mais uma água",
+          "jeszcze jedna woda"
+        ],
+        [
+          "Mais alguma coisa?",
+          "Coś jeszcze?"
+        ],
+        [
+          "Não, é tudo, obrigado.",
+          "Nie, to wszystko, dziękuję."
+        ],
+        [
+          "A conta, se faz favor.",
+          "Rachunek, proszę."
+        ],
+        [
+          "Quanto é?",
+          "Ile płacę?"
+        ]
+      ],
+      "tableItemIds": [
+        "mais-um",
+        "mais-uma",
+        "mais-alguma-coisa-q",
+        "nao-e-tudo-obrigado",
+        "cs-a-conta-sfv",
+        "quanto-e-q"
+      ],
+      "exampleIds": [
+        "mais-um-cafe-sfv",
+        "mais-uma-agua-sfv",
+        "um-copo-de-agua-sfv",
+        "nao-e-tudo-obrigado",
+        "sao-seis-euros"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d38"
+    ],
+    "exerciseIds": [
+      "w07-l38-e01",
+      "w07-l38-e02",
+      "w07-l38-e03",
+      "w07-l38-e04",
+      "w07-l38-e05",
+      "w07-l38-e06",
+      "w07-l38-e07",
+      "w07-l38-e08",
+      "w07-l38-e09",
+      "w07-l38-e10",
+      "w07-l38-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l38-s01",
+      "w07-l38-s02",
+      "w07-l38-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w07-l39",
+    "week": 7,
+    "day": 3,
+    "phase": 2,
+    "titlePl": "Ile to kosztuje? Ceny",
+    "subtitlePl": "euros e cêntimos · custa / custam · barato, caro, cada",
+    "goals": [
+      "Rozumieć i mówić ceny w euro i centach",
+      "Pytać o cenę jednej i kilku rzeczy: custa / custam",
+      "Mówić, czy coś jest tanie, czy drogie"
+    ],
+    "canDo": [
+      "Powiem cenę: Custa um euro e vinte. São dois euros e cinquenta.",
+      "Zapytam: Quanto custam os bolos?",
+      "Powiem: É barato! É muito caro!"
+    ],
+    "prerequisites": [
+      "w07-l38"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "nasal-vowels",
+      "textPl": "cêntimos „SẼ-ti-musz”, cinquenta „sĩ-KUẼ-tă” — nosowe ẽ i ĩ, bez wyraźnego „n”.",
+      "itemIds": [
+        "centimos",
+        "cinquenta"
+      ]
+    },
+    "newItemIds": [
+      "centimos",
+      "preco",
+      "quanto-custam-q",
+      "caro",
+      "barato",
+      "cada"
+    ],
+    "grammar": {
+      "titlePl": "Ceny: euros e cêntimos; custa / custam",
+      "explanationPl": "**Jak czytać ceny:** euro + **e** + centy:\n1,20 € = **um euro e vinte** · 2,50 € = **dois euros e cinquenta** · 0,50 € = **cinquenta cêntimos**.\nSłowo „cêntimos” po euro zwykle się pomija. W Portugalii, jak w Polsce, pisze się przecinek: 2,50 €.\n\n**um euro** (jedno) · **dois euros**, **três euros**… (od dwóch w górę — liczba mnoga).\n\n**Jedna czy kilka rzeczy?**\n• Quanto **custa** o bolo? — Custa dois euros. (jedna rzecz)\n• Quanto **custam** os bolos? — Custam dois euros **cada**. (kilka rzeczy; cada = za sztukę)\nKońcówka -am to ta sama co w *falam, moram*.\n\n**Razem:** São três euros e vinte. (przy płaceniu — „são”, bo euros w l.mn.)\n\n**Tanio / drogo:** É **barato**! · É muito **caro**! (o rzeczy żeńskiej: barata, cara).",
+      "table": [
+        [
+          "um euro e vinte",
+          "1,20 €"
+        ],
+        [
+          "dois euros e cinquenta",
+          "2,50 €"
+        ],
+        [
+          "cinquenta cêntimos",
+          "0,50 €"
+        ],
+        [
+          "Quanto custa…? / Quanto custam…?",
+          "Ile kosztuje…? / Ile kosztują…?"
+        ],
+        [
+          "custam dois euros cada",
+          "po dwa euro za sztukę"
+        ]
+      ],
+      "tableItemIds": [
+        "custa-um-euro-e-vinte",
+        "sao-dois-euros-e-cinquenta",
+        "custa-cinquenta-centimos",
+        "quanto-custam-q",
+        "custam-dois-euros-cada"
+      ],
+      "exampleIds": [
+        "custa-um-euro-e-vinte",
+        "sao-dois-euros-e-cinquenta",
+        "custa-cinquenta-centimos",
+        "quanto-custam-os-bolos-q",
+        "custam-dois-euros-cada",
+        "e-muito-caro",
+        "e-barato",
+        "o-preco-e-bom"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d39"
+    ],
+    "exerciseIds": [
+      "w07-l39-e01",
+      "w07-l39-e02",
+      "w07-l39-e03",
+      "w07-l39-e04",
+      "w07-l39-e05",
+      "w07-l39-e06",
+      "w07-l39-e07",
+      "w07-l39-e08",
+      "w07-l39-e09",
+      "w07-l39-e10",
+      "w07-l39-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l39-s01",
+      "w07-l39-s02",
+      "w07-l39-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w07-l40",
+    "week": 7,
+    "day": 4,
+    "phase": 2,
+    "titlePl": "Na zakupach: ile?",
+    "subtitlePl": "um quilo de · meio quilo de · uma garrafa de",
+    "goals": [
+      "Mówić ilości: kilo, pół kilo, butelka",
+      "Używać „de” po ilości bez rodzajnika",
+      "Robić krótką listę zakupów"
+    ],
+    "canDo": [
+      "Poproszę: Um quilo de bananas, se faz favor.",
+      "Powiem: Meio quilo de tomates e uma garrafa de água.",
+      "Zapytam: Quanto custa o queijo?"
+    ],
+    "prerequisites": [
+      "w07-l39"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "r-strong",
+      "textPl": "garrafa „gă-RRA-fă” — podwójne rr to mocne r (gardłowe albo mocno zwibrowane). Pojedyncze r w „quero” — jedno krótkie uderzenie.",
+      "itemIds": [
+        "uma-garrafa-de"
+      ]
+    },
+    "newItemIds": [
+      "um-quilo-de",
+      "meio-quilo-de",
+      "uma-garrafa-de",
+      "bananas",
+      "tomates",
+      "queijo"
+    ],
+    "grammar": {
+      "titlePl": "Ilość + de + rzeczownik",
+      "explanationPl": "**Po słowie oznaczającym ilość stoi „de” i rzeczownik BEZ rodzajnika:**\num quilo **de** bananas · meio quilo **de** tomates · uma garrafa **de** água · um copo **de** água.\n\n**Porównanie z polskim:** po polsku zmieniamy końcówkę (kilo bananów, butelka wody). Po portugalsku końcówka się nie zmienia — wystarczy **de**: bananas → um quilo de bananas.\n\n**Uwaga:** nie mówimy „um quilo das bananas” (das = de + as) — chyba że chodzi o konkretne, wcześniej wskazane banany.\n\n**meio / meia = pół:** **meio** przed rzeczownikiem męskim (o quilo → **meio** quilo), **meia** przed żeńskim (a hora → **meia** hora; w godzinach: três e **meia**).\n\n**Cena za kilogram:** O quilo de bananas custa dois euros.",
+      "table": [
+        [
+          "um quilo de bananas",
+          "kilo bananów"
+        ],
+        [
+          "meio quilo de tomates",
+          "pół kilo pomidorów"
+        ],
+        [
+          "uma garrafa de água",
+          "butelka wody"
+        ],
+        [
+          "um copo de água",
+          "szklanka wody"
+        ]
+      ],
+      "tableItemIds": [
+        "um-quilo-de",
+        "meio-quilo-de",
+        "uma-garrafa-de",
+        "copo"
+      ],
+      "exampleIds": [
+        "um-quilo-de-bananas-sfv",
+        "meio-quilo-de-tomates",
+        "uma-garrafa-de-agua",
+        "quanto-custa-o-queijo-q",
+        "o-quilo-de-bananas-custa-dois-euros",
+        "meio-quilo-de-bananas-sfv",
+        "tenho-queijo-e-pao-em-casa"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d40"
+    ],
+    "exerciseIds": [
+      "w07-l40-e01",
+      "w07-l40-e02",
+      "w07-l40-e03",
+      "w07-l40-e04",
+      "w07-l40-e05",
+      "w07-l40-e06",
+      "w07-l40-e07",
+      "w07-l40-e08",
+      "w07-l40-e09",
+      "w07-l40-e10",
+      "w07-l40-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l40-s01",
+      "w07-l40-s02",
+      "w07-l40-s03",
+      "w07-l40-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w07-l41",
+    "week": 7,
+    "day": 5,
+    "phase": 2,
+    "titlePl": "W sklepie",
+    "subtitlePl": "Posso ajudar? · Só estou a ver · Tem…? · isto · Aqui está",
+    "goals": [
+      "Odpowiadać sprzedawcy: Só estou a ver, obrigado",
+      "Pytać, czy coś jest: Tem…? / Tens…?",
+      "Płacić: Aqui está. Posso pagar com cartão?"
+    ],
+    "canDo": [
+      "Powiem: Só estou a ver, obrigado.",
+      "Zapytam: Tem pão? Quanto custa isto?",
+      "Powiem przy kasie: Aqui está. Posso pagar com cartão? Queria um saco, se faz favor."
+    ],
+    "prerequisites": [
+      "w07-l40"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "isto „ISZ-tu”, estou „ysz-TÔ” — s przed t brzmi jak miękkie „sz”.",
+      "itemIds": [
+        "isto"
+      ]
+    },
+    "newItemIds": [
+      "posso-ajudar-q",
+      "cs-so-estou-a-ver-obrigado",
+      "tem-q",
+      "isto",
+      "aqui-esta",
+      "cs-posso-pagar-com-cartao",
+      "cs-queria-um-saco-sfv"
+    ],
+    "grammar": {
+      "titlePl": "Zwroty w sklepie: Tem…? isto, Aqui está",
+      "explanationPl": "**Sprzedawca:** **Posso ajudar?** — W czym mogę pomóc?\n**Ty:** **Só estou a ver, obrigado.** — Tylko się rozglądam. (*só* = tylko; *ver* = widzieć, oglądać; *estou a ver* — to znane „estar a + bezokolicznik”.)\n\n**Czy jest…? → Tem…?** (dosł. „Czy Pan/Pani ma…?”), zwykle bez rodzajnika: **Tem** pão? **Tem** sumo de laranja? Do znajomego (tu): **Tens**…? Odpowiedź: Tenho, sim. / Não, não tenho.\n\n**isto = to (ta rzecz tutaj):** Quanto custa **isto**? — pokazując palcem. *isto* się nie odmienia (w odróżnieniu od *este / esta*).\n\n**Płacenie:** **Aqui está.** — Proszę (podając pieniądze, kartę). **Posso pagar com cartão?** — Mogę zapłacić kartą? **Queria um saco, se faz favor.** — Poproszę torbę.\n\n**Wymowa:** aqui está „ă-KI ysz-TA” — w szybkiej mowie „ă-KI SZTA”.",
+      "table": [
+        [
+          "Posso ajudar?",
+          "W czym mogę pomóc?"
+        ],
+        [
+          "Só estou a ver, obrigado.",
+          "Tylko się rozglądam, dziękuję."
+        ],
+        [
+          "Tem…? / Tens…?",
+          "Czy ma Pan(i)…? / Masz…?"
+        ],
+        [
+          "Quanto custa isto?",
+          "Ile to kosztuje?"
+        ],
+        [
+          "Aqui está.",
+          "Proszę (podając)."
+        ]
+      ],
+      "tableItemIds": [
+        "posso-ajudar-q",
+        "cs-so-estou-a-ver-obrigado",
+        "tem-q",
+        "quanto-custa-isto-q",
+        "aqui-esta"
+      ],
+      "exampleIds": [
+        "quanto-custa-isto-q",
+        "tem-pao-q",
+        "tem-sumo-de-laranja-q",
+        "tenho-sim-aqui-esta",
+        "pode-sim"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d41"
+    ],
+    "exerciseIds": [
+      "w07-l41-e01",
+      "w07-l41-e02",
+      "w07-l41-e03",
+      "w07-l41-e04",
+      "w07-l41-e05",
+      "w07-l41-e06",
+      "w07-l41-e07",
+      "w07-l41-e08",
+      "w07-l41-e09",
+      "w07-l41-e10",
+      "w07-l41-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l41-s01",
+      "w07-l41-s02",
+      "w07-l41-s03",
+      "w07-l41-s04"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review"
+  },
+  {
+    "id": "w07-l42",
+    "week": 7,
+    "day": 6,
+    "phase": 2,
+    "titlePl": "Kuchnia Madery + sprawdzian",
+    "subtitlePl": "bolo do caco, espetada, peixe-espada-preto, poncha · sprawdzian tygodnia 7",
+    "goals": [
+      "Rozpoznawać nazwy typowych dań Madery",
+      "Pytać, co to jest: O que é…? i zamawiać danie",
+      "Sprawdzić wiedzę z tygodnia 7"
+    ],
+    "canDo": [
+      "Rozpoznam w karcie: bolo do caco, espetada, peixe-espada-preto, poncha",
+      "Zapytam: O que é a espetada? O que recomenda?",
+      "Powiem: Gosto muito de peixe. Não bebo poncha."
+    ],
+    "prerequisites": [
+      "w07-l41"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "diphthongs",
+      "textPl": "peixe „PĂJ-szy” — „ei” w normie lizbońskiej brzmi jak „ăj”; x = sz.",
+      "itemIds": [
+        "peixe"
+      ]
+    },
+    "newItemIds": [
+      "bolo-do-caco",
+      "espetada",
+      "peixe-espada-preto",
+      "poncha",
+      "peixe",
+      "carne",
+      "cs-o-que-recomenda"
+    ],
+    "grammar": {
+      "titlePl": "Tydzień 7 — co już umiesz; dania Madery",
+      "explanationPl": "**Dania z karty — jak każde inne rzeczowniki** (z rodzajem):\n• **o bolo do caco** — płaski, okrągły chlebek (mimo słowa „bolo” to pieczywo, nie słodkie ciasto)\n• **a espetada** — szaszłyk mięsny\n• **o peixe-espada-preto** — pałasz czarny (ryba)\n• **a poncha** — napój **alkoholowy**\n\n**Pytania w restauracji:** **O que é** a espetada? — Co to jest espetada? (*o que* = co). Do kelnera: **O que recomenda?** — Co Pan/Pani poleca?\n\n**Z czego?** A espetada é **de** carne. — Espetada jest z mięsa.\n\n**Lubię — ogólnie, bez rodzajnika:** Gosto **de** peixe (ryby w ogóle). Gosto **do** peixe = lubię (tę konkretną) rybę.\n\n**Tydzień 7 w pigułce:** queria… / para mim… / se faz favor · mais um / mais uma · A conta, se faz favor. Quanto é? · ceny: um euro e vinte, custa / custam · um quilo de, meio quilo de, uma garrafa de · Tem…? Só estou a ver. Aqui está.\n\nNa koniec — dialog w restauracji, a potem sprawdzian (ok. 10 minut). Wynik pokaże, co powtórzyć; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "o bolo do caco",
+          "płaski chlebek z Madery"
+        ],
+        [
+          "a espetada",
+          "szaszłyk mięsny"
+        ],
+        [
+          "o peixe-espada-preto",
+          "pałasz czarny (ryba)"
+        ],
+        [
+          "a poncha",
+          "napój alkoholowy"
+        ],
+        [
+          "o peixe · a carne",
+          "ryba · mięso"
+        ]
+      ],
+      "tableItemIds": [
+        "bolo-do-caco",
+        "espetada",
+        "peixe-espada-preto",
+        "poncha",
+        "peixe",
+        "carne"
+      ],
+      "exampleIds": [
+        "a-espetada-e-de-carne",
+        "o-bolo-do-caco-e-pao",
+        "gosto-muito-de-peixe",
+        "gosto-muito-de-carne-e-de-peixe",
+        "nao-bebo-poncha",
+        "para-mim-uma-espetada-sfv"
+      ]
+    },
+    "dialogueIds": [
+      "w07-d42"
+    ],
+    "exerciseIds": [
+      "w07-l42-e01",
+      "w07-l42-e02",
+      "w07-l42-e03",
+      "w07-l42-e04",
+      "w07-l42-e05",
+      "w07-l42-e06",
+      "w07-l42-e07",
+      "w07-l42-e08",
+      "w07-l42-e09",
+      "w07-l42-e10",
+      "w07-l42-e11"
+    ],
+    "speakingTaskIds": [
+      "w07-l42-s01",
+      "w07-l42-s02",
+      "w07-l42-s03"
+    ],
+    "mapStopId": "ribeira-brava",
+    "status": "review",
+    "testId": "w07-test"
+  }
+]

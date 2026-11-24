@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "w12-l67-e01",
+    "type": "listenChoose",
+    "targetItemId": "tenho-uma-consulta-amanha-as-dez",
+    "optionItemIds": [
+      "tenho-uma-consulta-amanha-as-dez",
+      "amanha-tenho-uma-reuniao-as-nove",
+      "cs-queria-marcar-uma-consulta"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w12-l67-e02",
+    "type": "readChoose",
+    "targetItemId": "pode-ser",
+    "optionItemIds": [
+      "pode-ser",
+      "pode-repetir",
+      "nao-da"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l67-e03",
+    "type": "recallChoose",
+    "targetItemId": "cs-queria-marcar-uma-consulta",
+    "optionItemIds": [
+      "cs-queria-marcar-uma-consulta",
+      "queria-marcar-uma-hora-sfv",
+      "tenho-uma-consulta-amanha-as-dez"
+    ],
+    "promptPl": "W przychodni: „Chciałbym umówić wizytę.”"
+  },
+  {
+    "id": "w12-l67-e04",
+    "type": "fillGap",
+    "sentencePt": "Queria ___ uma consulta.",
+    "sentencePl": "Chciałbym umówić wizytę.",
+    "options": [
+      "marcar",
+      "ter"
+    ],
+    "answer": "marcar",
+    "fullItemId": "cs-queria-marcar-uma-consulta",
+    "wrongExplanations": {
+      "ter": "„ter” = mieć. Umówić wizytę = marcar uma consulta."
+    },
+    "explanationPl": "umówić (termin) = marcar; po „queria” bezokolicznik.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l67-e05",
+    "type": "fillGap",
+    "sentencePt": "___ que dia?",
+    "sentencePl": "Na który dzień?",
+    "options": [
+      "Para",
+      "A",
+      "Em"
+    ],
+    "answer": "Para",
+    "fullItemId": "para-que-dia-q",
+    "wrongExplanations": {
+      "A": "„A que horas?” — tak pytamy o godzinę, nie o dzień.",
+      "Em": "„em” = w (miejscu). Termin na dzień → para."
+    },
+    "explanationPl": "Termin NA jakiś dzień → para: Para que dia? — Para sexta-feira.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l67-e06",
+    "type": "fillGap",
+    "sentencePt": "Amanhã tenho uma ___ às nove.",
+    "sentencePl": "Jutro mam spotkanie o dziewiątej.",
+    "options": [
+      "reunião",
+      "consulta",
+      "cabeleireiro"
+    ],
+    "answer": "reunião",
+    "fullItemId": "amanha-tenho-uma-reuniao-as-nove",
+    "wrongExplanations": {
+      "consulta": "„consulta” = wizyta u lekarza.",
+      "cabeleireiro": "„cabeleireiro” = fryzjer (i to rodzaj męski — nie pasuje do „uma”)."
+    },
+    "explanationPl": "spotkanie (np. w pracy) = a reunião.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l67-e07",
+    "type": "buildSentence",
+    "targetItemId": "tenho-uma-consulta-amanha-as-dez",
+    "tiles": [
+      "Tenho",
+      "uma",
+      "consulta",
+      "amanhã",
+      "às",
+      "dez"
+    ],
+    "distractors": [
+      "um",
+      "marcar"
+    ],
+    "promptPl": "Powiedz: „Mam wizytę jutro o dziesiątej.”"
+  },
+  {
+    "id": "w12-l67-e08",
+    "type": "transform",
+    "baseItemId": "as-dez-q",
+    "instructionPl": "Zapytaj grzecznie, czy MOŻE BYĆ o dziesiątej (Pode ser…?).",
+    "targetItemId": "pode-ser-as-dez-q",
+    "tiles": [
+      "Pode",
+      "ser",
+      "às",
+      "dez"
+    ],
+    "distractors": [
+      "posso",
+      "é"
+    ]
+  },
+  {
+    "id": "w12-l67-e09",
+    "type": "recallSay",
+    "targetItemId": "cs-queria-marcar-uma-consulta",
+    "promptPl": "Powiedz w recepcji, że chcesz umówić wizytę."
+  },
+  {
+    "id": "w12-l67-e10",
+    "type": "recallSay",
+    "targetItemId": "pode-ser",
+    "promptPl": "Recepcjonistka proponuje termin. Zgódź się krótko."
+  },
+  {
+    "id": "w12-l67-e11",
+    "type": "typeAnswer",
+    "targetItemId": "consulta",
+    "promptPl": "Napisz: „wizyta (u lekarza)”."
+  },
+  {
+    "id": "w12-l68-e01",
+    "type": "listenChoose",
+    "targetItemId": "cs-para-quantas-pessoas",
+    "optionItemIds": [
+      "cs-para-quantas-pessoas",
+      "para-que-dia-q",
+      "cs-em-nome-de-quem"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w12-l68-e02",
+    "type": "readChoose",
+    "targetItemId": "cs-em-nome-de-quem",
+    "optionItemIds": [
+      "cs-em-nome-de-quem",
+      "cs-para-quantas-pessoas",
+      "cs-tem-reserva"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l68-e03",
+    "type": "recallChoose",
+    "targetItemId": "queria-reservar-uma-mesa-para-sabado",
+    "optionItemIds": [
+      "queria-reservar-uma-mesa-para-sabado",
+      "cs-uma-mesa-para-dois-sfv",
+      "tenho-uma-reserva-para-duas-pessoas"
+    ],
+    "promptPl": "Zarezerwuj stolik na sobotę."
+  },
+  {
+    "id": "w12-l68-e04",
+    "type": "fillGap",
+    "sentencePt": "Queria ___ uma mesa para sábado.",
+    "sentencePl": "Chciałbym zarezerwować stolik na sobotę.",
+    "options": [
+      "reservar",
+      "reserva"
+    ],
+    "answer": "reservar",
+    "fullItemId": "queria-reservar-uma-mesa-para-sabado",
+    "wrongExplanations": {
+      "reserva": "„a reserva” = rezerwacja (rzeczownik). Tu potrzebny czasownik: reservar."
+    },
+    "explanationPl": "Po „queria” bezokolicznik: reservar.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l68-e05",
+    "type": "fillGap",
+    "sentencePt": "Para quatro ___, às oito.",
+    "sentencePl": "Dla czterech osób, na ósmą.",
+    "options": [
+      "pessoas",
+      "pessoa"
+    ],
+    "answer": "pessoas",
+    "fullItemId": "para-quatro-pessoas-as-oito",
+    "wrongExplanations": {
+      "pessoa": "„pessoa” = jedna osoba. Quatro → pessoas."
+    },
+    "explanationPl": "Cztery → liczba mnoga: pessoas.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w12-l68-e06",
+    "type": "fillGap",
+    "sentencePt": "Tenho uma reserva para ___ pessoas.",
+    "sentencePl": "Mam rezerwację dla dwóch osób.",
+    "options": [
+      "duas",
+      "dois"
+    ],
+    "answer": "duas",
+    "fullItemId": "tenho-uma-reserva-para-duas-pessoas",
+    "wrongExplanations": {
+      "dois": "„dois” — z rzeczownikami męskimi. Pessoa jest żeńska → duas."
+    },
+    "explanationPl": "a pessoa jest żeńska → duas pessoas (nawet gdy to dwóch mężczyzn).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w12-l68-e07",
+    "type": "buildSentence",
+    "targetItemId": "tenho-uma-reserva-para-duas-pessoas",
+    "tiles": [
+      "Tenho",
+      "uma",
+      "reserva",
+      "para",
+      "duas",
+      "pessoas"
+    ],
+    "distractors": [
+      "dois",
+      "um"
+    ],
+    "promptPl": "Powiedz w restauracji: „Mam rezerwację dla dwóch osób.”"
+  },
+  {
+    "id": "w12-l68-e08",
+    "type": "transform",
+    "baseItemId": "cs-uma-mesa-para-dois-sfv",
+    "instructionPl": "Jest Was czworo — zmień liczbę osób.",
+    "targetItemId": "uma-mesa-para-quatro-sfv",
+    "tiles": [
+      "Uma",
+      "mesa",
+      "para",
+      "quatro",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "dois",
+      "pessoa"
+    ]
+  },
+  {
+    "id": "w12-l68-e09",
+    "type": "recallSay",
+    "targetItemId": "queria-reservar-uma-mesa-para-sabado",
+    "promptPl": "Zarezerwuj stolik na sobotę."
+  },
+  {
+    "id": "w12-l68-e10",
+    "type": "recallSay",
+    "targetItemId": "em-nome-de-tomasz",
+    "promptPl": "Kelner pyta „Em nome de quem?”. Odpowiedz — we wzorze jest imię Tomasz, Ty podaj swoje."
+  },
+  {
+    "id": "w12-l68-e11",
+    "type": "typeAnswer",
+    "targetItemId": "restaurante",
+    "promptPl": "Napisz: „restauracja”."
+  },
+  {
+    "id": "w12-l69-e01",
+    "type": "listenChoose",
+    "targetItemId": "quem-fala-q",
+    "optionItemIds": [
+      "quem-fala-q",
+      "cs-em-nome-de-quem",
+      "como-q"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w12-l69-e02",
+    "type": "readChoose",
+    "targetItemId": "cs-ligo-mais-tarde",
+    "optionItemIds": [
+      "cs-ligo-mais-tarde",
+      "logo-a-noite-ligo-a-ana",
+      "cs-um-momento-sfv"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l69-e03",
+    "type": "recallChoose",
+    "targetItemId": "posso-falar-com-a-marta-sfv",
+    "optionItemIds": [
+      "posso-falar-com-a-marta-sfv",
+      "a-marta-agora-nao-pode",
+      "daqui-fala-o-tomasz"
+    ],
+    "promptPl": "Zapytaj przez telefon, czy możesz rozmawiać z Martą."
+  },
+  {
+    "id": "w12-l69-e04",
+    "type": "fillGap",
+    "sentencePt": "___ fala o Tomasz.",
+    "sentencePl": "Mówi Tomasz. (przez telefon)",
+    "options": [
+      "Daqui",
+      "Quem",
+      "Estou"
+    ],
+    "answer": "Daqui",
+    "fullItemId": "daqui-fala-o-tomasz",
+    "wrongExplanations": {
+      "Quem": "„Quem fala?” = Kto mówi? — to pytanie, nie przedstawienie się.",
+      "Estou": "„Estou?” = Halo? (odbierając telefon)."
+    },
+    "explanationPl": "Przedstawiając się przez telefon: Daqui fala… (dosł. „stąd mówi”).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l69-e05",
+    "type": "fillGap",
+    "sentencePt": "Posso ___ com a Marta?",
+    "sentencePl": "Czy mogę rozmawiać z Martą?",
+    "options": [
+      "falar",
+      "fala",
+      "falo"
+    ],
+    "answer": "falar",
+    "wrongExplanations": {
+      "fala": "„fala” = mówi (on / ona). Po „posso” → falar.",
+      "falo": "„falo” = mówię. Po „posso” → falar."
+    },
+    "explanationPl": "Po „posso” bezokolicznik: posso falar.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l69-e06",
+    "type": "fillGap",
+    "sentencePt": "Logo à noite ___ à Ana.",
+    "sentencePl": "Dziś wieczorem zadzwonię do Any.",
+    "options": [
+      "ligo",
+      "ligar"
+    ],
+    "answer": "ligo",
+    "fullItemId": "logo-a-noite-ligo-a-ana",
+    "wrongExplanations": {
+      "ligar": "„ligar” to bezokolicznik. Z „eu” → ligo (albo: vou ligar)."
+    },
+    "explanationPl": "Czas teraźniejszy może mówić o przyszłości: ligo = zadzwonię.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l69-e07",
+    "type": "buildSentence",
+    "targetItemId": "posso-falar-com-a-marta-sfv",
+    "tiles": [
+      "Posso",
+      "falar",
+      "com",
+      "a",
+      "Marta",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "pode",
+      "fala"
+    ],
+    "promptPl": "Zapytaj: „Czy mogę rozmawiać z Martą?”"
+  },
+  {
+    "id": "w12-l69-e08",
+    "type": "transform",
+    "baseItemId": "cs-ligo-mais-tarde",
+    "instructionPl": "Dodaj, DO KOGO zadzwonisz później: do Any.",
+    "targetItemId": "ligo-a-ana-mais-tarde",
+    "tiles": [
+      "Ligo",
+      "à",
+      "Ana",
+      "mais",
+      "tarde"
+    ],
+    "distractors": [
+      "ao",
+      "ligar"
+    ]
+  },
+  {
+    "id": "w12-l69-e09",
+    "type": "recallSay",
+    "targetItemId": "estou-tel",
+    "promptPl": "Dzwoni telefon. Odbierz po portugalsku."
+  },
+  {
+    "id": "w12-l69-e10",
+    "type": "recallSay",
+    "targetItemId": "posso-falar-com-a-marta-sfv",
+    "promptPl": "Zadzwoń i poproś do telefonu Martę."
+  },
+  {
+    "id": "w12-l69-e11",
+    "type": "typeAnswer",
+    "targetItemId": "ligar",
+    "promptPl": "Napisz: „dzwonić”."
+  },
+  {
+    "id": "w12-l70-e01",
+    "type": "listenChoose",
+    "targetItemId": "queria-desmarcar-a-consulta-de-amanha",
+    "optionItemIds": [
+      "queria-desmarcar-a-consulta-de-amanha",
+      "queria-mudar-a-hora-da-consulta",
+      "cs-queria-marcar-uma-consulta"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w12-l70-e02",
+    "type": "readChoose",
+    "targetItemId": "pode-dizer-lhe-que-liguei-q",
+    "optionItemIds": [
+      "pode-dizer-lhe-que-liguei-q",
+      "cs-ligo-mais-tarde",
+      "posso-falar-com-a-marta-sfv"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l70-e03",
+    "type": "recallChoose",
+    "targetItemId": "pode-ser-outro-dia-q",
+    "optionItemIds": [
+      "pode-ser-outro-dia-q",
+      "pode-ser-as-dez-q",
+      "para-que-dia-q"
+    ],
+    "promptPl": "Zapytaj, czy może być INNY dzień."
+  },
+  {
+    "id": "w12-l70-e04",
+    "type": "fillGap",
+    "sentencePt": "Queria ___ a hora da consulta.",
+    "sentencePl": "Chciałbym zmienić godzinę wizyty.",
+    "options": [
+      "mudar",
+      "marcar",
+      "cancelar"
+    ],
+    "answer": "mudar",
+    "fullItemId": "queria-mudar-a-hora-da-consulta",
+    "wrongExplanations": {
+      "marcar": "„marcar” = umówić (nowy termin).",
+      "cancelar": "„cancelar” = anulować, odwołać."
+    },
+    "explanationPl": "zmienić = mudar.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l70-e05",
+    "type": "fillGap",
+    "sentencePt": "Pode dizer-lhe que ___?",
+    "sentencePl": "Może jej Pani przekazać, że dzwoniłem?",
+    "options": [
+      "liguei",
+      "ligo",
+      "ligar"
+    ],
+    "answer": "liguei",
+    "fullItemId": "pode-dizer-lhe-que-liguei-q",
+    "wrongExplanations": {
+      "ligo": "„ligo” = dzwonię / zadzwonię.",
+      "ligar": "„ligar” to bezokolicznik (dzwonić). Ja dzwoniłem → liguei."
+    },
+    "explanationPl": "Ja, czas przeszły: ligar → liguei (gu, żeby zostało twarde g).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l70-e06",
+    "type": "fillGap",
+    "sentencePt": "Pode ser ___ dia?",
+    "sentencePl": "Może być inny dzień?",
+    "options": [
+      "outro",
+      "outra"
+    ],
+    "answer": "outro",
+    "fullItemId": "pode-ser-outro-dia-q",
+    "wrongExplanations": {
+      "outra": "„outra” — z rzeczownikami żeńskimi (outra hora). Dia jest męski."
+    },
+    "explanationPl": "o dia (męski) → outro dia; a hora (żeńska) → outra hora.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w12-l70-e07",
+    "type": "buildSentence",
+    "targetItemId": "queria-desmarcar-a-consulta-de-amanha",
+    "tiles": [
+      "Queria",
+      "desmarcar",
+      "a",
+      "consulta",
+      "de",
+      "amanhã"
+    ],
+    "distractors": [
+      "marcar",
+      "o"
+    ],
+    "promptPl": "Odwołaj wizytę: „Chciałbym odwołać jutrzejszą wizytę.”"
+  },
+  {
+    "id": "w12-l70-e08",
+    "type": "transform",
+    "baseItemId": "tenho-uma-consulta-amanha-as-dez",
+    "instructionPl": "Masz tę wizytę, ale chcesz zmienić godzinę. Powiedz to (Queria mudar…).",
+    "targetItemId": "queria-mudar-a-hora-da-consulta",
+    "tiles": [
+      "Queria",
+      "mudar",
+      "a",
+      "hora",
+      "da",
+      "consulta"
+    ],
+    "distractors": [
+      "do",
+      "marcar"
+    ]
+  },
+  {
+    "id": "w12-l70-e09",
+    "type": "recallSay",
+    "targetItemId": "pode-dizer-lhe-que-liguei-q",
+    "promptPl": "Osoby nie ma. Poproś, żeby przekazano jej, że dzwoniłeś."
+  },
+  {
+    "id": "w12-l70-e10",
+    "type": "recallSay",
+    "targetItemId": "queria-mudar-a-hora-da-consulta",
+    "promptPl": "Powiedz, że chcesz zmienić godzinę wizyty."
+  },
+  {
+    "id": "w12-l70-e11",
+    "type": "typeAnswer",
+    "targetItemId": "cancelar",
+    "promptPl": "Napisz: „anulować, odwołać”."
+  },
+  {
+    "id": "w12-l71-e01",
+    "type": "listenChoose",
+    "targetItemId": "o-meu-numero-e-962875431",
+    "optionItemIds": [
+      "o-meu-numero-e-962875431",
+      "o-meu-numero-e-912345678",
+      "cs-pode-repetir-o-numero"
+    ],
+    "promptPl": "Posłuchaj. Jaki to numer?"
+  },
+  {
+    "id": "w12-l71-e02",
+    "type": "readChoose",
+    "targetItemId": "e-engano",
+    "optionItemIds": [
+      "e-engano",
+      "o-numero-esta-errado",
+      "nao-faz-mal"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l71-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-se-escreve-q",
+    "optionItemIds": [
+      "como-se-escreve-q",
+      "cs-pode-soletrar-sfv",
+      "como-q"
+    ],
+    "promptPl": "Zapytaj: „Jak to się pisze?”"
+  },
+  {
+    "id": "w12-l71-e04",
+    "type": "fillGap",
+    "sentencePt": "Qual é o seu ___ de telemóvel?",
+    "sentencePl": "Jaki jest Pana numer komórki?",
+    "options": [
+      "número",
+      "nome"
+    ],
+    "answer": "número",
+    "fullItemId": "cs-qual-e-o-seu-numero-de-telemovel",
+    "wrongExplanations": {
+      "nome": "„nome” = imię / nazwisko."
+    },
+    "explanationPl": "numer = o número.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l71-e05",
+    "type": "fillGap",
+    "sentencePt": "Como se ___ o seu nome?",
+    "sentencePl": "Jak się pisze Pana imię?",
+    "options": [
+      "escreve",
+      "chama"
+    ],
+    "answer": "escreve",
+    "fullItemId": "como-se-escreve-o-seu-nome-q",
+    "wrongExplanations": {
+      "chama": "„Como se chama?” = Jak się Pan nazywa? Tu pytamy o pisownię → escreve."
+    },
+    "explanationPl": "pisać → escrever; „jak się pisze” = como se escreve.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l71-e06",
+    "type": "fillGap",
+    "sentencePt": "Desculpe, é ___.",
+    "sentencePl": "Przepraszam, to pomyłka (zły numer).",
+    "options": [
+      "engano",
+      "errado"
+    ],
+    "answer": "engano",
+    "fullItemId": "desculpe-e-engano",
+    "wrongExplanations": {
+      "errado": "„errado” = błędny (przymiotnik): O número está errado."
+    },
+    "explanationPl": "Gdy ktoś dzwoni pod zły numer: É engano.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l71-e07",
+    "type": "buildSentence",
+    "targetItemId": "o-numero-esta-errado",
+    "tiles": [
+      "O",
+      "número",
+      "está",
+      "errado"
+    ],
+    "distractors": [
+      "é",
+      "engano"
+    ],
+    "promptPl": "Powiedz: „Numer jest błędny.”"
+  },
+  {
+    "id": "w12-l71-e08",
+    "type": "transform",
+    "baseItemId": "como-se-escreve-q",
+    "instructionPl": "Dopytaj konkretnie: „Jak się pisze Pana imię?”",
+    "targetItemId": "como-se-escreve-o-seu-nome-q",
+    "tiles": [
+      "Como",
+      "se",
+      "escreve",
+      "o",
+      "seu",
+      "nome"
+    ],
+    "distractors": [
+      "chama",
+      "sua"
+    ]
+  },
+  {
+    "id": "w12-l71-e09",
+    "type": "recallSay",
+    "targetItemId": "o-meu-numero-e-912345678",
+    "promptPl": "Podyktuj numer 912 345 678 — w grupach po trzy cyfry."
+  },
+  {
+    "id": "w12-l71-e10",
+    "type": "recallSay",
+    "targetItemId": "como-se-escreve-q",
+    "promptPl": "Nie wiesz, jak zapisać czyjeś imię. Zapytaj."
+  },
+  {
+    "id": "w12-l71-e11",
+    "type": "typeAnswer",
+    "targetItemId": "numero",
+    "promptPl": "Napisz: „numer”."
+  },
+  {
+    "id": "w12-l72-e01",
+    "type": "listenChoose",
+    "targetItemId": "para-as-oito-entao-combinado",
+    "optionItemIds": [
+      "para-as-oito-entao-combinado",
+      "as-seis-combinado",
+      "combinado-domingo-as-dez"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w12-l72-e02",
+    "type": "readChoose",
+    "targetItemId": "ate-ja",
+    "optionItemIds": [
+      "ate-ja",
+      "ate-logo",
+      "ate-amanha"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w12-l72-e03",
+    "type": "recallChoose",
+    "targetItemId": "cs-desculpe-enganei-me-no-numero",
+    "optionItemIds": [
+      "cs-desculpe-enganei-me-no-numero",
+      "desculpe-e-engano",
+      "o-numero-esta-errado"
+    ],
+    "promptPl": "Zadzwoniłeś pod zły numer. Przeproś: „Przepraszam, pomyliłem numer.”"
+  },
+  {
+    "id": "w12-l72-e04",
+    "type": "fillGap",
+    "sentencePt": "___ que horas?",
+    "sentencePl": "Na którą godzinę? (rezerwacja)",
+    "options": [
+      "Para",
+      "Em"
+    ],
+    "answer": "Para",
+    "fullItemId": "para-que-horas-q",
+    "wrongExplanations": {
+      "Em": "„em” = w. Przy rezerwacji: Para que horas? (albo: A que horas?)."
+    },
+    "explanationPl": "Rezerwacja NA godzinę → para: Para que horas? — Para as oito.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w12-l72-e05",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ à Marta.",
+    "sentencePl": "Wczoraj dzwoniłem do Marty.",
+    "options": [
+      "liguei",
+      "ligo",
+      "ligar"
+    ],
+    "answer": "liguei",
+    "fullItemId": "ontem-liguei-a-marta",
+    "wrongExplanations": {
+      "ligo": "„ligo” = dzwonię / zadzwonię.",
+      "ligar": "„ligar” to bezokolicznik."
+    },
+    "explanationPl": "Ja, czas przeszły: liguei.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l72-e06",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ uma mesa no restaurante.",
+    "sentencePl": "Wczoraj zarezerwowałem stolik w restauracji.",
+    "options": [
+      "reservei",
+      "reservar",
+      "vou reservar"
+    ],
+    "answer": "reservei",
+    "wrongExplanations": {
+      "reservar": "„reservar” to bezokolicznik.",
+      "vou reservar": "„vou reservar” = zarezerwuję (plan). Wczoraj → reservei."
+    },
+    "explanationPl": "Ja, czas przeszły (-ar): reserv- + -ei → reservei.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-l72-e07",
+    "type": "buildSentence",
+    "targetItemId": "vou-reservar-uma-mesa-no-restaurante",
+    "tiles": [
+      "Vou",
+      "reservar",
+      "uma",
+      "mesa",
+      "no",
+      "restaurante"
+    ],
+    "distractors": [
+      "reserva",
+      "na"
+    ],
+    "promptPl": "Powiedz: „Zarezerwuję stolik w restauracji.”"
+  },
+  {
+    "id": "w12-l72-e08",
+    "type": "transform",
+    "baseItemId": "vou-reservar-uma-mesa-no-restaurante",
+    "instructionPl": "Plan → przeszłość: już to zrobiłeś (reservei).",
+    "targetItemId": "reservei-uma-mesa-no-restaurante",
+    "tiles": [
+      "Reservei",
+      "uma",
+      "mesa",
+      "no",
+      "restaurante"
+    ],
+    "distractors": [
+      "vou",
+      "reservar"
+    ]
+  },
+  {
+    "id": "w12-l72-e09",
+    "type": "recallSay",
+    "targetItemId": "cs-desculpe-enganei-me-no-numero",
+    "promptPl": "Zadzwoniłeś pod zły numer. Przeproś."
+  },
+  {
+    "id": "w12-l72-e10",
+    "type": "recallSay",
+    "targetItemId": "para-as-oito-entao-combinado",
+    "promptPl": "Ustal godzinę (ósma) i potwierdź: „No to umowa stoi!”"
+  },
+  {
+    "id": "w12-l72-e11",
+    "type": "typeAnswer",
+    "targetItemId": "entao",
+    "promptPl": "Napisz: „więc; no to”."
+  },
+  {
+    "id": "w12-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "saio-de-casa-as-oito",
+    "optionItemIds": [
+      "saio-de-casa-as-oito",
+      "nos-saimos-cedo",
+      "saio-do-trabalho-as-cinco"
+    ]
+  },
+  {
+    "id": "w12-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "no-proximo-mes-vou-a-polonia",
+    "optionItemIds": [
+      "no-proximo-mes-vou-a-polonia",
+      "estive-na-polonia-ha-duas-semanas",
+      "quando-vais-a-polonia-q"
+    ]
+  },
+  {
+    "id": "w12-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "no-sabado-passado-fomos-a-praia",
+    "optionItemIds": [
+      "no-sabado-passado-fomos-a-praia",
+      "no-fim-de-semana-vamos-a-praia",
+      "no-sabado-vou-a-praia"
+    ]
+  },
+  {
+    "id": "w12-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "amanha-nao-ha-pode-ser-na-sexta-feira-q",
+    "optionItemIds": [
+      "amanha-nao-ha-pode-ser-na-sexta-feira-q",
+      "pode-ser-as-dez-q",
+      "para-que-dia-q"
+    ]
+  },
+  {
+    "id": "w12-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "o-meu-numero-e-912345678",
+    "optionItemIds": [
+      "o-meu-numero-e-912345678",
+      "o-meu-numero-e-962875431",
+      "cs-pode-repetir-o-numero"
+    ]
+  },
+  {
+    "id": "w12-t-e06",
+    "type": "listenChoose",
+    "targetItemId": "a-marta-hoje-nao-esta",
+    "optionItemIds": [
+      "a-marta-hoje-nao-esta",
+      "a-marta-agora-nao-pode",
+      "pode-dizer-lhe-que-liguei-q"
+    ]
+  },
+  {
+    "id": "w12-t-e07",
+    "type": "readChoose",
+    "targetItemId": "nao-da",
+    "optionItemIds": [
+      "nao-da",
+      "nao-faz-mal",
+      "nada-de-especial"
+    ]
+  },
+  {
+    "id": "w12-t-e08",
+    "type": "readChoose",
+    "targetItemId": "se-calhar",
+    "optionItemIds": [
+      "se-calhar",
+      "depois-de-amanha",
+      "a-seguir"
+    ]
+  },
+  {
+    "id": "w12-t-e09",
+    "type": "readChoose",
+    "targetItemId": "ha-dois-dias",
+    "optionItemIds": [
+      "ha-dois-dias",
+      "depois-de-amanha",
+      "na-semana-passada"
+    ]
+  },
+  {
+    "id": "w12-t-e10",
+    "type": "readChoose",
+    "targetItemId": "desmarcar",
+    "optionItemIds": [
+      "desmarcar",
+      "marcar",
+      "mudar"
+    ]
+  },
+  {
+    "id": "w12-t-e11",
+    "type": "readChoose",
+    "targetItemId": "e-engano",
+    "optionItemIds": [
+      "e-engano",
+      "o-numero-esta-errado",
+      "como-se-escreve-q"
+    ]
+  },
+  {
+    "id": "w12-t-e12",
+    "type": "fillGap",
+    "sentencePt": "O que ___ a Marta?",
+    "sentencePl": "Co mówi Marta?",
+    "options": [
+      "diz",
+      "dá",
+      "dizes"
+    ],
+    "answer": "diz",
+    "fullItemId": "o-que-diz-a-marta-q",
+    "wrongExplanations": {
+      "dá": "„dá” = daje.",
+      "dizes": "„dizes” = (ty) mówisz."
+    },
+    "explanationPl": "dizer → ela diz.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e13",
+    "type": "fillGap",
+    "sentencePt": "Amanhã vou ___ em casa.",
+    "sentencePl": "Jutro będę pracować w domu.",
+    "options": [
+      "trabalhar",
+      "trabalho",
+      "trabalhei"
+    ],
+    "answer": "trabalhar",
+    "fullItemId": "amanha-vou-trabalhar-em-casa",
+    "wrongExplanations": {
+      "trabalho": "„trabalho” = pracuję.",
+      "trabalhei": "„trabalhei” = pracowałem (wczoraj)."
+    },
+    "explanationPl": "Plan: vou + bezokolicznik.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e14",
+    "type": "fillGap",
+    "sentencePt": "Ontem ___ muito trabalho.",
+    "sentencePl": "Wczoraj miałem dużo pracy.",
+    "options": [
+      "tive",
+      "teve",
+      "tenho"
+    ],
+    "answer": "tive",
+    "fullItemId": "ontem-tive-muito-trabalho",
+    "wrongExplanations": {
+      "teve": "„teve” = on / ona miał(a).",
+      "tenho": "„tenho” = mam (teraz)."
+    },
+    "explanationPl": "Ja, czas przeszły od „ter”: tive.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e15",
+    "type": "fillGap",
+    "sentencePt": "No sábado ___ à praia.",
+    "sentencePl": "W sobotę byłem na plaży.",
+    "options": [
+      "fui",
+      "estive",
+      "vou"
+    ],
+    "answer": "fui",
+    "fullItemId": "no-sabado-fui-a-praia",
+    "wrongExplanations": {
+      "estive": "„estive” łączy się z „na” (estive na praia), nie z „à”.",
+      "vou": "„vou” = idę / pójdę (plan). Byłem → fui."
+    },
+    "explanationPl": "Dokąd (à praia) w przeszłości → fui.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e16",
+    "type": "fillGap",
+    "sentencePt": "Queria ___ uma mesa para sábado.",
+    "sentencePl": "Chciałbym zarezerwować stolik na sobotę.",
+    "options": [
+      "reservar",
+      "reserva"
+    ],
+    "answer": "reservar",
+    "fullItemId": "queria-reservar-uma-mesa-para-sabado",
+    "wrongExplanations": {
+      "reserva": "„reserva” = rezerwacja (rzeczownik)."
+    },
+    "explanationPl": "Po „queria” bezokolicznik: reservar.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e17",
+    "type": "fillGap",
+    "sentencePt": "Pode dizer-lhe que ___?",
+    "sentencePl": "Może jej Pani przekazać, że dzwoniłem?",
+    "options": [
+      "liguei",
+      "ligo"
+    ],
+    "answer": "liguei",
+    "fullItemId": "pode-dizer-lhe-que-liguei-q",
+    "wrongExplanations": {
+      "ligo": "„ligo” = dzwonię / zadzwonię."
+    },
+    "explanationPl": "Ja, czas przeszły: liguei.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w12-t-e18",
+    "type": "buildSentence",
+    "targetItemId": "o-que-fizeste-no-fim-de-semana-q",
+    "tiles": [
+      "O",
+      "que",
+      "fizeste",
+      "no",
+      "fim",
+      "de",
+      "semana"
+    ],
+    "distractors": [
+      "fez",
+      "vais"
+    ],
+    "promptPl": "Zapytaj kolegę: „Co robiłeś w weekend?”"
+  },
+  {
+    "id": "w12-t-e19",
+    "type": "transform",
+    "baseItemId": "este-fim-de-semana-vou-ficar-em-casa",
+    "instructionPl": "Plan → przeszłość: w ZESZŁY weekend zostałeś w domu (No fim de semana passado…).",
+    "targetItemId": "no-fim-de-semana-passado-fiquei-em-casa",
+    "tiles": [
+      "No",
+      "fim",
+      "de",
+      "semana",
+      "passado",
+      "fiquei",
+      "em",
+      "casa"
+    ],
+    "distractors": [
+      "vou",
+      "ficar",
+      "passada"
+    ]
+  },
+  {
+    "id": "w12-t-e20",
+    "type": "buildSentence",
+    "targetItemId": "queria-reservar-uma-mesa-para-sabado",
+    "tiles": [
+      "Queria",
+      "reservar",
+      "uma",
+      "mesa",
+      "para",
+      "sábado"
+    ],
+    "distractors": [
+      "reserva",
+      "um"
+    ],
+    "promptPl": "Zarezerwuj stolik na sobotę."
+  },
+  {
+    "id": "w12-t-e21",
+    "type": "typeAnswer",
+    "targetItemId": "consulta",
+    "promptPl": "Napisz: „wizyta (u lekarza)”."
+  },
+  {
+    "id": "w12-t-e22",
+    "type": "typeAnswer",
+    "targetItemId": "ontem",
+    "promptPl": "Napisz: „wczoraj”."
+  },
+  {
+    "id": "w12-t-e23",
+    "type": "recallChoose",
+    "targetItemId": "quem-fala-q",
+    "optionItemIds": [
+      "quem-fala-q",
+      "cs-em-nome-de-quem",
+      "posso-falar-com-a-marta-sfv"
+    ],
+    "promptPl": "Odebrałeś telefon. Zapytaj, kto mówi."
+  },
+  {
+    "id": "w12-t-e24",
+    "type": "recallChoose",
+    "targetItemId": "cs-queria-marcar-uma-consulta",
+    "optionItemIds": [
+      "cs-queria-marcar-uma-consulta",
+      "queria-reservar-uma-mesa-para-sabado",
+      "queria-marcar-uma-hora-sfv"
+    ],
+    "promptPl": "Umów wizytę u lekarza."
+  }
+]

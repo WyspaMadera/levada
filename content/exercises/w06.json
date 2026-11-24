@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "w06-l31-e01",
+    "type": "listenChoose",
+    "targetItemId": "baixo",
+    "optionItemIds": [
+      "alto",
+      "baixo",
+      "velho"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w06-l31-e02",
+    "type": "readChoose",
+    "targetItemId": "simpatico",
+    "optionItemIds": [
+      "simpatico",
+      "jovem",
+      "bonito"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w06-l31-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-e-o-rui-q",
+    "optionItemIds": [
+      "como-e-o-rui-q",
+      "como-esta-o-rui-q",
+      "e-onde-esta-o-rui-q"
+    ],
+    "promptPl": "Zapytaj, jaki jest Rui (wygląd, charakter)."
+  },
+  {
+    "id": "w06-l31-e04",
+    "type": "fillGap",
+    "sentencePt": "A Ana é baixa e muito ___.",
+    "sentencePl": "Ana jest niska i bardzo miła.",
+    "options": [
+      "simpática",
+      "simpático"
+    ],
+    "answer": "simpática",
+    "fullItemId": "a-ana-e-baixa-e-muito-simpatica",
+    "wrongExplanations": {
+      "simpático": "„simpático” — o mężczyźnie. Ana → simpática."
+    },
+    "explanationPl": "Przymiotnik zgadza się z osobą: a Ana → simpátic**a**.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l31-e05",
+    "type": "fillGap",
+    "sentencePt": "O Rui ___ alto e simpático.",
+    "sentencePl": "Rui jest wysoki i miły.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "fullItemId": "o-rui-e-alto-e-simpatico",
+    "wrongExplanations": {
+      "está": "„está” — stan chwilowy (está cansado). Wzrost i charakter → é."
+    },
+    "explanationPl": "Cechy stałe (wzrost, charakter) → ser: é.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w06-l31-e06",
+    "type": "fillGap",
+    "sentencePt": "___ é a Marta?",
+    "sentencePl": "Jaka jest Marta?",
+    "options": [
+      "Como",
+      "Onde"
+    ],
+    "answer": "Como",
+    "fullItemId": "como-e-a-marta-q",
+    "wrongExplanations": {
+      "Onde": "„Onde” = gdzie."
+    },
+    "explanationPl": "Pytanie o opis: Como é…?",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w06-l31-e07",
+    "type": "buildSentence",
+    "targetItemId": "o-rui-e-alto-e-simpatico",
+    "tiles": [
+      "O",
+      "Rui",
+      "é",
+      "alto",
+      "e",
+      "simpático"
+    ],
+    "distractors": [
+      "está",
+      "alta"
+    ],
+    "promptPl": "Powiedz: „Rui jest wysoki i miły.”"
+  },
+  {
+    "id": "w06-l31-e08",
+    "type": "transform",
+    "baseItemId": "o-rui-e-alto-e-simpatico",
+    "instructionPl": "Powiedz to samo o Marcie (a Marta).",
+    "targetItemId": "a-marta-e-alta-e-simpatica",
+    "tiles": [
+      "A",
+      "Marta",
+      "é",
+      "alta",
+      "e",
+      "simpática"
+    ],
+    "distractors": [
+      "alto",
+      "simpático"
+    ]
+  },
+  {
+    "id": "w06-l31-e09",
+    "type": "recallSay",
+    "targetItemId": "e-alta-e-muito-simpatica",
+    "promptPl": "Ktoś pyta o Twoją znajomą. Powiedz, że jest wysoka i bardzo miła."
+  },
+  {
+    "id": "w06-l31-e10",
+    "type": "recallSay",
+    "targetItemId": "o-meu-carro-e-velho",
+    "promptPl": "Powiedz, że Twój samochód jest stary."
+  },
+  {
+    "id": "w06-l31-e11",
+    "type": "typeAnswer",
+    "targetItemId": "alto",
+    "promptPl": "Napisz: „wysoki”."
+  },
+  {
+    "id": "w06-l32-e01",
+    "type": "listenChoose",
+    "targetItemId": "pais",
+    "optionItemIds": [
+      "pais",
+      "pai",
+      "filhos"
+    ],
+    "promptPl": "Posłuchaj uważnie końcówki. Co to znaczy?"
+  },
+  {
+    "id": "w06-l32-e02",
+    "type": "readChoose",
+    "targetItemId": "a-sua-casa-e-muito-bonita",
+    "optionItemIds": [
+      "a-sua-casa-e-muito-bonita",
+      "a-casa-e-nova",
+      "e-muito-bonita"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w06-l32-e03",
+    "type": "recallChoose",
+    "targetItemId": "como-se-chama-o-seu-filho-q",
+    "optionItemIds": [
+      "como-se-chama-o-seu-filho-q",
+      "como-se-chama",
+      "como-se-chama-ele"
+    ],
+    "promptPl": "Zapytaj grzecznie, jak ma na imię syn rozmówcy."
+  },
+  {
+    "id": "w06-l32-e04",
+    "type": "fillGap",
+    "sentencePt": "Os ___ pais moram na Polónia.",
+    "sentencePl": "Moi rodzice mieszkają w Polsce.",
+    "options": [
+      "meus",
+      "minhas",
+      "meu"
+    ],
+    "answer": "meus",
+    "fullItemId": "os-meus-pais-moram-na-polonia",
+    "wrongExplanations": {
+      "minhas": "„minhas” — żeński l.mn. (as minhas irmãs).",
+      "meu": "„meu” — l.poj. (o meu pai). Rodzice to l.mn. → meus."
+    },
+    "explanationPl": "os pais — męski, l.mn. → os meus.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l32-e05",
+    "type": "fillGap",
+    "sentencePt": "A ___ casa é muito bonita!",
+    "sentencePl": "Pana / Pani dom jest bardzo ładny!",
+    "options": [
+      "sua",
+      "seu"
+    ],
+    "answer": "sua",
+    "fullItemId": "a-sua-casa-e-muito-bonita",
+    "wrongExplanations": {
+      "seu": "„seu” — przed rzeczownikami męskimi (o seu filho). Casa jest żeńska → a sua."
+    },
+    "explanationPl": "Liczy się rodzaj RZECZY, nie właściciela: a casa (ż.) → a sua.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l32-e06",
+    "type": "fillGap",
+    "sentencePt": "As ___ irmãs são altas.",
+    "sentencePl": "Moje siostry są wysokie.",
+    "options": [
+      "minhas",
+      "meus"
+    ],
+    "answer": "minhas",
+    "fullItemId": "as-minhas-irmas-sao-altas",
+    "wrongExplanations": {
+      "meus": "„meus” — męski l.mn. (os meus pais)."
+    },
+    "explanationPl": "as irmãs — żeński l.mn. → as minhas.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l32-e07",
+    "type": "buildSentence",
+    "targetItemId": "os-meus-filhos-falam-portugues",
+    "tiles": [
+      "Os",
+      "meus",
+      "filhos",
+      "falam",
+      "português"
+    ],
+    "distractors": [
+      "minhas",
+      "fala"
+    ],
+    "promptPl": "Powiedz: „Moje dzieci mówią po portugalsku.”"
+  },
+  {
+    "id": "w06-l32-e08",
+    "type": "transform",
+    "baseItemId": "como-se-chama",
+    "instructionPl": "Zapytaj grzecznie o imię syna rozmówcy.",
+    "targetItemId": "como-se-chama-o-seu-filho-q",
+    "tiles": [
+      "Como",
+      "se",
+      "chama",
+      "o",
+      "seu",
+      "filho"
+    ],
+    "distractors": [
+      "meu",
+      "a"
+    ]
+  },
+  {
+    "id": "w06-l32-e09",
+    "type": "recallSay",
+    "targetItemId": "os-meus-pais-moram-na-polonia",
+    "promptPl": "Powiedz: „Moi rodzice mieszkają w Polsce.”"
+  },
+  {
+    "id": "w06-l32-e10",
+    "type": "recallSay",
+    "targetItemId": "como-se-chama-o-seu-filho-q",
+    "promptPl": "W przedszkolu: zapytaj grzecznie innego rodzica, jak ma na imię jego syn."
+  },
+  {
+    "id": "w06-l32-e11",
+    "type": "typeAnswer",
+    "targetItemId": "pais",
+    "promptPl": "Napisz: „rodzice”."
+  },
+  {
+    "id": "w06-l33-e01",
+    "type": "listenChoose",
+    "targetItemId": "casa-de-banho",
+    "optionItemIds": [
+      "casa-de-banho",
+      "cozinha",
+      "sala"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w06-l33-e02",
+    "type": "readChoose",
+    "targetItemId": "quarto",
+    "optionItemIds": [
+      "quarto",
+      "sala",
+      "varanda"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w06-l33-e03",
+    "type": "recallChoose",
+    "targetItemId": "apartamento",
+    "optionItemIds": [
+      "apartamento",
+      "casa",
+      "quarto"
+    ],
+    "promptPl": "Wybierz „mieszkanie (w bloku)”."
+  },
+  {
+    "id": "w06-l33-e04",
+    "type": "fillGap",
+    "sentencePt": "A minha casa ___ dois quartos.",
+    "sentencePl": "Mój dom ma dwa pokoje.",
+    "options": [
+      "tem",
+      "é",
+      "está"
+    ],
+    "answer": "tem",
+    "fullItemId": "a-minha-casa-tem-dois-quartos",
+    "wrongExplanations": {
+      "é": "„é” — opis (A casa é grande). Ile pokoi → tem.",
+      "está": "„está” — gdzie coś jest albo w jakim stanie. Ile pokoi → tem."
+    },
+    "explanationPl": "Co jest w domu, ile pokoi → ter: tem (ma).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w06-l33-e05",
+    "type": "fillGap",
+    "sentencePt": "O meu filho está ___ quarto.",
+    "sentencePl": "Mój syn jest w pokoju.",
+    "options": [
+      "no",
+      "na"
+    ],
+    "answer": "no",
+    "fullItemId": "o-meu-filho-esta-no-quarto",
+    "wrongExplanations": {
+      "na": "„na” — przed żeńskimi (na sala, na cozinha). Quarto jest męski → no."
+    },
+    "explanationPl": "o quarto (męski) → em + o = no.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l33-e06",
+    "type": "fillGap",
+    "sentencePt": "O meu apartamento é ___.",
+    "sentencePl": "Moje mieszkanie jest małe.",
+    "options": [
+      "pequeno",
+      "pequena"
+    ],
+    "answer": "pequeno",
+    "fullItemId": "o-meu-apartamento-e-pequeno",
+    "wrongExplanations": {
+      "pequena": "„pequena” — przed żeńskimi (a casa é pequena)."
+    },
+    "explanationPl": "o apartamento (męski) → pequeno. Po polsku „mieszkanie” jest nijakie — po portugalsku męskie.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l33-e07",
+    "type": "buildSentence",
+    "targetItemId": "a-minha-casa-tem-dois-quartos",
+    "tiles": [
+      "A",
+      "minha",
+      "casa",
+      "tem",
+      "dois",
+      "quartos"
+    ],
+    "distractors": [
+      "é",
+      "duas"
+    ],
+    "promptPl": "Powiedz: „Mój dom ma dwa pokoje.”"
+  },
+  {
+    "id": "w06-l33-e08",
+    "type": "transform",
+    "baseItemId": "a-minha-casa-tem-dois-quartos",
+    "instructionPl": "Zapytaj grzecznie rozmówcę, jaki jest jego dom.",
+    "targetItemId": "como-e-a-sua-casa-q",
+    "tiles": [
+      "Como",
+      "é",
+      "a",
+      "sua",
+      "casa"
+    ],
+    "distractors": [
+      "minha",
+      "está"
+    ]
+  },
+  {
+    "id": "w06-l33-e09",
+    "type": "recallSay",
+    "targetItemId": "como-e-a-sua-casa-q",
+    "promptPl": "Zapytaj grzecznie sąsiada, jaki jest jego dom."
+  },
+  {
+    "id": "w06-l33-e10",
+    "type": "recallSay",
+    "targetItemId": "a-sala-e-grande-e-tem-uma-varanda",
+    "promptPl": "Powiedz, że salon jest duży i ma balkon."
+  },
+  {
+    "id": "w06-l33-e11",
+    "type": "typeAnswer",
+    "targetItemId": "casa-de-banho",
+    "promptPl": "Napisz: „łazienka”."
+  },
+  {
+    "id": "w06-l34-e01",
+    "type": "listenChoose",
+    "targetItemId": "desenhar",
+    "optionItemIds": [
+      "desenhar",
+      "brincar",
+      "trabalhar"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w06-l34-e02",
+    "type": "readChoose",
+    "targetItemId": "e-gosta-de-brincar-com-os-amigos",
+    "optionItemIds": [
+      "e-gosta-de-brincar-com-os-amigos",
+      "o-meu-filho-gosta-de-desenhar",
+      "ele-come-bem-aqui-q"
+    ],
+    "promptPl": "Co mówi Marta?"
+  },
+  {
+    "id": "w06-l34-e03",
+    "type": "recallChoose",
+    "targetItemId": "gosto-de",
+    "optionItemIds": [
+      "gosto-de",
+      "gosta-de",
+      "queria"
+    ],
+    "promptPl": "Wybierz „lubię…”."
+  },
+  {
+    "id": "w06-l34-e04",
+    "type": "fillGap",
+    "sentencePt": "O meu filho gosta ___ desenhar.",
+    "sentencePl": "Mój syn lubi rysować.",
+    "options": [
+      "de",
+      "a",
+      "com"
+    ],
+    "answer": "de",
+    "fullItemId": "o-meu-filho-gosta-de-desenhar",
+    "wrongExplanations": {
+      "a": "Po „gostar” nie ma „a”. Gosta de desenhar.",
+      "com": "„com” = z (kimś). Lubić → gostar de."
+    },
+    "explanationPl": "Po „gostar” zawsze „de” — także przed bezokolicznikiem.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w06-l34-e05",
+    "type": "fillGap",
+    "sentencePt": "Ele gosta muito ___ sopa.",
+    "sentencePl": "On bardzo lubi (tę) zupę.",
+    "options": [
+      "da",
+      "do",
+      "de"
+    ],
+    "answer": "da",
+    "fullItemId": "ele-gosta-muito-da-sopa",
+    "wrongExplanations": {
+      "do": "„do” = de + o (męski). Sopa jest żeńska → da.",
+      "de": "Przed „a sopa” de łączy się z rodzajnikiem: da."
+    },
+    "explanationPl": "de + a (a sopa) = da.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l34-e06",
+    "type": "fillGap",
+    "sentencePt": "Ela não ___ de chá.",
+    "sentencePl": "Ona nie lubi herbaty.",
+    "options": [
+      "gosta",
+      "gosto"
+    ],
+    "answer": "gosta",
+    "fullItemId": "ela-nao-gosta-de-cha",
+    "wrongExplanations": {
+      "gosto": "„gosto” = ja lubię."
+    },
+    "explanationPl": "ela → gosta.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w06-l34-e07",
+    "type": "buildSentence",
+    "targetItemId": "gosto-muito-da-madeira",
+    "tiles": [
+      "Gosto",
+      "muito",
+      "da",
+      "Madeira"
+    ],
+    "distractors": [
+      "de",
+      "gosta"
+    ],
+    "promptPl": "Powiedz: „Bardzo lubię Maderę!”"
+  },
+  {
+    "id": "w06-l34-e08",
+    "type": "transform",
+    "baseItemId": "gosto-muito-de-cafe",
+    "instructionPl": "Zaprzecz: nie lubisz kawy.",
+    "targetItemId": "nao-gosto-de-cafe",
+    "tiles": [
+      "Não",
+      "gosto",
+      "de",
+      "café"
+    ],
+    "distractors": [
+      "muito",
+      "gosta"
+    ]
+  },
+  {
+    "id": "w06-l34-e09",
+    "type": "recallSay",
+    "targetItemId": "o-senhor-gosta-da-madeira-q",
+    "promptPl": "Zapytaj grzecznie sąsiada, czy lubi Maderę."
+  },
+  {
+    "id": "w06-l34-e10",
+    "type": "recallSay",
+    "targetItemId": "o-meu-filho-gosta-de-desenhar",
+    "promptPl": "Powiedz wychowawczyni, że syn lubi rysować (dziecko może być wymyślone)."
+  },
+  {
+    "id": "w06-l34-e11",
+    "type": "typeAnswer",
+    "targetItemId": "brincar",
+    "promptPl": "Napisz: „bawić się”."
+  },
+  {
+    "id": "w06-l35-e01",
+    "type": "minimalPair",
+    "itemIds": [
+      "avo-f",
+      "avo-m"
+    ],
+    "promptPl": "avó (babcia — otwarte o) czy avô (dziadek — zamknięte ô)?"
+  },
+  {
+    "id": "w06-l35-e02",
+    "type": "listenChoose",
+    "targetItemId": "tem-irmaos-q",
+    "optionItemIds": [
+      "tem-irmaos-q",
+      "tem-filhos-q",
+      "quantos-anos-tem-q"
+    ],
+    "promptPl": "Posłuchaj. O co pyta?"
+  },
+  {
+    "id": "w06-l35-e03",
+    "type": "readChoose",
+    "targetItemId": "mais-novo",
+    "optionItemIds": [
+      "mais-novo",
+      "mais-velho",
+      "novo"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w06-l35-e04",
+    "type": "recallChoose",
+    "targetItemId": "filho-unico",
+    "optionItemIds": [
+      "filho-unico",
+      "filho",
+      "filhos"
+    ],
+    "promptPl": "Wybierz „jedynak”."
+  },
+  {
+    "id": "w06-l35-e05",
+    "type": "fillGap",
+    "sentencePt": "O meu irmão é mais ___.",
+    "sentencePl": "Mój brat jest starszy.",
+    "options": [
+      "velho",
+      "velha"
+    ],
+    "answer": "velho",
+    "fullItemId": "o-meu-irmao-e-mais-velho",
+    "wrongExplanations": {
+      "velha": "„velha” — o kobiecie (a minha irmã é mais velha)."
+    },
+    "explanationPl": "o irmão (mężczyzna) → velho.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l35-e06",
+    "type": "fillGap",
+    "sentencePt": "A minha irmã é mais ___.",
+    "sentencePl": "Moja siostra jest młodsza.",
+    "options": [
+      "nova",
+      "novo"
+    ],
+    "answer": "nova",
+    "fullItemId": "a-minha-irma-e-mais-nova",
+    "wrongExplanations": {
+      "novo": "„novo” — o mężczyźnie."
+    },
+    "explanationPl": "a irmã → nova (otwarte o: „NO-wă”).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l35-e07",
+    "type": "buildSentence",
+    "targetItemId": "tenho-um-irmao-e-uma-irma",
+    "tiles": [
+      "Tenho",
+      "um",
+      "irmão",
+      "e",
+      "uma",
+      "irmã"
+    ],
+    "distractors": [
+      "irmãos",
+      "sou"
+    ],
+    "promptPl": "Powiedz: „Mam brata i siostrę.”"
+  },
+  {
+    "id": "w06-l35-e08",
+    "type": "transform",
+    "baseItemId": "tem-irmaos-q",
+    "instructionPl": "Zapytaj o to samo kolegę (tu).",
+    "targetItemId": "tens-irmaos-q",
+    "tiles": [
+      "Tens",
+      "irmãos"
+    ],
+    "distractors": [
+      "Tem",
+      "Tenho"
+    ]
+  },
+  {
+    "id": "w06-l35-e09",
+    "type": "recallSay",
+    "targetItemId": "tem-irmaos-q",
+    "promptPl": "Zapytaj grzecznie (Pan/Pani), czy ktoś ma rodzeństwo."
+  },
+  {
+    "id": "w06-l35-e10",
+    "type": "recallSay",
+    "targetItemId": "tenho-um-irmao-e-uma-irma",
+    "promptPl": "Powiedz: „Mam brata i siostrę.”"
+  },
+  {
+    "id": "w06-l35-e11",
+    "type": "typeAnswer",
+    "targetItemId": "avo-f",
+    "promptPl": "Napisz: „babcia” (pamiętaj o akcencie)."
+  },
+  {
+    "id": "w06-l36-e01",
+    "type": "listenChoose",
+    "targetItemId": "familia",
+    "optionItemIds": [
+      "familia",
+      "filhos",
+      "pais"
+    ],
+    "promptPl": "Posłuchaj. Co to znaczy?"
+  },
+  {
+    "id": "w06-l36-e02",
+    "type": "readChoose",
+    "targetItemId": "o-meu-pai-gosta-de-tudo",
+    "optionItemIds": [
+      "o-meu-pai-gosta-de-tudo",
+      "gosto-muito-de-cafe",
+      "e-o-seu-pai-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w06-l36-e03",
+    "type": "recallChoose",
+    "targetItemId": "boa-tarde-como-esta-a-sua-familia-q",
+    "optionItemIds": [
+      "boa-tarde-como-esta-a-sua-familia-q",
+      "como-e-a-sua-casa-q",
+      "como-se-chama-o-seu-filho-q"
+    ],
+    "promptPl": "Zapytaj grzecznie: „Jak się ma Pana / Pani rodzina?”"
+  },
+  {
+    "id": "w06-l36-e04",
+    "type": "fillGap",
+    "sentencePt": "Boa tarde! Como está a ___ família?",
+    "sentencePl": "Dzień dobry! Jak się ma Pana rodzina?",
+    "options": [
+      "sua",
+      "seu"
+    ],
+    "answer": "sua",
+    "fullItemId": "boa-tarde-como-esta-a-sua-familia-q",
+    "wrongExplanations": {
+      "seu": "„seu” — przed męskimi (o seu pai)."
+    },
+    "explanationPl": "a família (ż.) → a sua.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-l36-e05",
+    "type": "fillGap",
+    "sentencePt": "Como ___ a Marta? — É alta e simpática.",
+    "sentencePl": "Jaka jest Marta? — Wysoka i miła.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "wrongExplanations": {
+      "está": "„Como está a Marta?” = Jak się czuje Marta? Odpowiedź byłaby np. „Está bem”."
+    },
+    "explanationPl": "Pytanie o cechy → Como é…?",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w06-l36-e06",
+    "type": "fillGap",
+    "sentencePt": "Os meus pais ___ muito da Madeira.",
+    "sentencePl": "Moim rodzicom bardzo podoba się Madera.",
+    "options": [
+      "gostam",
+      "gosta",
+      "gosto"
+    ],
+    "answer": "gostam",
+    "wrongExplanations": {
+      "gosta": "„gosta” — jedna osoba.",
+      "gosto": "„gosto” = ja lubię."
+    },
+    "explanationPl": "os meus pais = oni → gostam.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w06-l36-e07",
+    "type": "buildSentence",
+    "targetItemId": "os-meus-pais-moram-na-polonia",
+    "tiles": [
+      "Os",
+      "meus",
+      "pais",
+      "moram",
+      "na",
+      "Polónia"
+    ],
+    "distractors": [
+      "minhas",
+      "mora"
+    ]
+  },
+  {
+    "id": "w06-l36-e08",
+    "type": "transform",
+    "baseItemId": "os-seus-pais-moram-na-madeira-q",
+    "instructionPl": "Odpowiedz: nie, Twoi rodzice mieszkają w Polsce.",
+    "targetItemId": "nao-os-meus-pais-moram-na-polonia",
+    "tiles": [
+      "Não",
+      "os",
+      "meus",
+      "pais",
+      "moram",
+      "na",
+      "Polónia"
+    ],
+    "distractors": [
+      "seus",
+      "mora"
+    ]
+  },
+  {
+    "id": "w06-l36-e09",
+    "type": "recallSay",
+    "targetItemId": "boa-tarde-como-esta-a-sua-familia-q",
+    "promptPl": "Spotykasz znajomą. Zapytaj grzecznie, jak się ma jej rodzina."
+  },
+  {
+    "id": "w06-l36-e10",
+    "type": "recallSay",
+    "targetItemId": "o-meu-pai-gosta-de-tudo",
+    "promptPl": "Powiedz: „Mój tata lubi wszystko!”"
+  },
+  {
+    "id": "w06-l36-e11",
+    "type": "typeAnswer",
+    "targetItemId": "familia",
+    "promptPl": "Napisz: „rodzina” (pamiętaj o akcencie)."
+  },
+  {
+    "id": "w06-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "pais",
+    "optionItemIds": [
+      "pais",
+      "pai",
+      "mae"
+    ]
+  },
+  {
+    "id": "w06-t-e02",
+    "type": "minimalPair",
+    "itemIds": [
+      "avo-f",
+      "avo-m"
+    ],
+    "promptPl": "avó (babcia) czy avô (dziadek)?"
+  },
+  {
+    "id": "w06-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "baixo",
+    "optionItemIds": [
+      "alto",
+      "baixo",
+      "velho"
+    ]
+  },
+  {
+    "id": "w06-t-e04",
+    "type": "listenChoose",
+    "targetItemId": "casa-de-banho",
+    "optionItemIds": [
+      "casa-de-banho",
+      "cozinha",
+      "quarto"
+    ]
+  },
+  {
+    "id": "w06-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "tem-irmaos-q",
+    "optionItemIds": [
+      "tem-irmaos-q",
+      "tem-filhos-q",
+      "como-e-q"
+    ]
+  },
+  {
+    "id": "w06-t-e06",
+    "type": "readChoose",
+    "targetItemId": "mais-velho",
+    "optionItemIds": [
+      "mais-velho",
+      "mais-novo",
+      "velho"
+    ]
+  },
+  {
+    "id": "w06-t-e07",
+    "type": "readChoose",
+    "targetItemId": "o-meu-filho-gosta-de-desenhar",
+    "optionItemIds": [
+      "o-meu-filho-gosta-de-desenhar",
+      "e-gosta-de-brincar-com-os-amigos",
+      "o-meu-filho-esta-no-quarto"
+    ]
+  },
+  {
+    "id": "w06-t-e08",
+    "type": "readChoose",
+    "targetItemId": "varanda",
+    "optionItemIds": [
+      "varanda",
+      "sala",
+      "quarto"
+    ]
+  },
+  {
+    "id": "w06-t-e09",
+    "type": "fillGap",
+    "sentencePt": "A Ana é muito ___.",
+    "sentencePl": "Ana jest bardzo miła.",
+    "options": [
+      "simpática",
+      "simpático"
+    ],
+    "answer": "simpática",
+    "wrongExplanations": {
+      "simpático": "„simpático” — o mężczyźnie."
+    },
+    "explanationPl": "a Ana → simpática.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-t-e10",
+    "type": "fillGap",
+    "sentencePt": "A ___ casa é muito bonita!",
+    "sentencePl": "Pana / Pani dom jest bardzo ładny!",
+    "options": [
+      "sua",
+      "seu"
+    ],
+    "answer": "sua",
+    "fullItemId": "a-sua-casa-e-muito-bonita",
+    "wrongExplanations": {
+      "seu": "„seu” — przed męskimi."
+    },
+    "explanationPl": "a casa (ż.) → a sua.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-t-e11",
+    "type": "fillGap",
+    "sentencePt": "Os ___ pais moram na Polónia.",
+    "sentencePl": "Moi rodzice mieszkają w Polsce.",
+    "options": [
+      "meus",
+      "minhas"
+    ],
+    "answer": "meus",
+    "fullItemId": "os-meus-pais-moram-na-polonia",
+    "wrongExplanations": {
+      "minhas": "„minhas” — żeński l.mn."
+    },
+    "explanationPl": "os pais → os meus.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-t-e12",
+    "type": "fillGap",
+    "sentencePt": "O meu filho gosta ___ desenhar.",
+    "sentencePl": "Mój syn lubi rysować.",
+    "options": [
+      "de",
+      "a"
+    ],
+    "answer": "de",
+    "fullItemId": "o-meu-filho-gosta-de-desenhar",
+    "wrongExplanations": {
+      "a": "Po „gostar” zawsze „de”."
+    },
+    "explanationPl": "gostar + de.",
+    "mistakeCategory": "building"
+  },
+  {
+    "id": "w06-t-e13",
+    "type": "fillGap",
+    "sentencePt": "A minha casa ___ dois quartos.",
+    "sentencePl": "Mój dom ma dwa pokoje.",
+    "options": [
+      "tem",
+      "é"
+    ],
+    "answer": "tem",
+    "fullItemId": "a-minha-casa-tem-dois-quartos",
+    "wrongExplanations": {
+      "é": "„é” — opis (é grande)."
+    },
+    "explanationPl": "ile pokoi → tem.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w06-t-e14",
+    "type": "fillGap",
+    "sentencePt": "O Rui ___ alto.",
+    "sentencePl": "Rui jest wysoki.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "wrongExplanations": {
+      "está": "„está” — stan chwilowy."
+    },
+    "explanationPl": "Wzrost — cecha stała → é.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w06-t-e15",
+    "type": "fillGap",
+    "sentencePt": "Ele gosta muito ___ sopa.",
+    "sentencePl": "On bardzo lubi (tę) zupę.",
+    "options": [
+      "da",
+      "do"
+    ],
+    "answer": "da",
+    "fullItemId": "ele-gosta-muito-da-sopa",
+    "wrongExplanations": {
+      "do": "„do” = de + o."
+    },
+    "explanationPl": "de + a = da.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w06-t-e16",
+    "type": "buildSentence",
+    "targetItemId": "a-sala-e-grande-e-tem-uma-varanda",
+    "tiles": [
+      "A",
+      "sala",
+      "é",
+      "grande",
+      "e",
+      "tem",
+      "uma",
+      "varanda"
+    ],
+    "distractors": [
+      "está",
+      "um"
+    ]
+  },
+  {
+    "id": "w06-t-e17",
+    "type": "transform",
+    "baseItemId": "o-rui-e-alto-e-simpatico",
+    "instructionPl": "Powiedz to samo o Marcie.",
+    "targetItemId": "a-marta-e-alta-e-simpatica",
+    "tiles": [
+      "A",
+      "Marta",
+      "é",
+      "alta",
+      "e",
+      "simpática"
+    ],
+    "distractors": [
+      "alto",
+      "simpático"
+    ]
+  },
+  {
+    "id": "w06-t-e18",
+    "type": "transform",
+    "baseItemId": "tem-irmaos-q",
+    "instructionPl": "Zapytaj o to samo kolegę (tu).",
+    "targetItemId": "tens-irmaos-q",
+    "tiles": [
+      "Tens",
+      "irmãos"
+    ],
+    "distractors": [
+      "Tem",
+      "Tenho"
+    ]
+  },
+  {
+    "id": "w06-t-e19",
+    "type": "typeAnswer",
+    "targetItemId": "apartamento",
+    "promptPl": "Napisz: „mieszkanie (w bloku)”."
+  },
+  {
+    "id": "w06-t-e20",
+    "type": "recallChoose",
+    "targetItemId": "como-se-chama-o-seu-filho-q",
+    "optionItemIds": [
+      "como-se-chama-o-seu-filho-q",
+      "como-se-chama",
+      "como-se-chama-ele"
+    ],
+    "promptPl": "Zapytaj grzecznie, jak ma na imię syn rozmówcy."
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "q-w05-trabalha",
+    "questionItemId": "onde-trabalha-q",
+    "unlockAfterLessonId": "w05-l25",
+    "topicPl": "Praca",
+    "hintPl": "Powiedz, gdzie pracujesz (albo że pracujesz w domu). Jeśli nie chcesz mówić o pracy — powiedz, gdzie mieszkasz.",
+    "exampleAnswerItemIds": [
+      "trabalho-no-funchal",
+      "trabalho-em-casa"
+    ],
+    "usefulItemIds": [
+      "trabalhar-trabalho",
+      "aqui",
+      "em-casa"
+    ]
+  },
+  {
+    "id": "q-w05-levanta",
+    "questionItemId": "a-que-horas-se-levanta-q",
+    "unlockAfterLessonId": "w05-l27",
+    "topicPl": "Rytm dnia",
+    "hintPl": "Podaj godzinę: Levanto-me às… Możesz dodać, o której się budzisz.",
+    "exampleAnswerItemIds": [
+      "levanto-me-as-seis-e-meia",
+      "acordo-as-seis"
+    ],
+    "usefulItemIds": [
+      "levanto-me",
+      "acordar-acordo",
+      "meia",
+      "de-manha"
+    ]
+  },
+  {
+    "id": "q-w05-agora",
+    "questionItemId": "o-que-esta-a-fazer-q",
+    "unlockAfterLessonId": "w05-l29",
+    "topicPl": "Teraz",
+    "hintPl": "Powiedz, co robisz w tej chwili: Estou a… + bezokolicznik.",
+    "exampleAnswerItemIds": [
+      "estou-a-trabalhar",
+      "estou-a-comer"
+    ],
+    "usefulItemIds": [
+      "agora",
+      "estar-estou",
+      "trabalhar",
+      "comer"
+    ]
+  },
+  {
+    "id": "q-w06-casa",
+    "questionItemId": "como-e-a-sua-casa-q",
+    "unlockAfterLessonId": "w06-l33",
+    "topicPl": "Dom",
+    "hintPl": "Powiedz, czy dom jest duży czy mały i co ma (ile pokoi, balkon…).",
+    "exampleAnswerItemIds": [
+      "o-meu-apartamento-e-pequeno",
+      "a-minha-casa-tem-dois-quartos",
+      "a-sala-e-grande-e-tem-uma-varanda"
+    ],
+    "usefulItemIds": [
+      "quarto",
+      "sala",
+      "varanda",
+      "grande",
+      "pequeno"
+    ]
+  },
+  {
+    "id": "q-w06-gosta",
+    "questionItemId": "o-senhor-gosta-da-madeira-q",
+    "unlockAfterLessonId": "w06-l34",
+    "topicPl": "Co lubię",
+    "hintPl": "Odpowiedz i dodaj, co lubisz na Maderze: Gosto muito da…",
+    "exampleAnswerItemIds": [
+      "gosto-muito-da-madeira"
+    ],
+    "usefulItemIds": [
+      "gosto-de",
+      "a-praia"
+    ]
+  },
+  {
+    "id": "q-w06-irmaos",
+    "questionItemId": "tem-irmaos-q",
+    "unlockAfterLessonId": "w06-l35",
+    "topicPl": "Rodzina",
+    "hintPl": "Odpowiedz, jeśli chcesz — to pytanie osobiste. Możesz odpowiedzieć ogólnie albo wymyślić rodzeństwo.",
+    "exampleAnswerItemIds": [
+      "tenho-um-irmao-e-uma-irma",
+      "nao-sou-filho-unico",
+      "o-meu-irmao-e-mais-velho"
+    ],
+    "usefulItemIds": [
+      "irmao",
+      "irma",
+      "mais-velho",
+      "mais-novo"
+    ]
+  }
+]

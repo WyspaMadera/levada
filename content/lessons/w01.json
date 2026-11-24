@@ -1,0 +1,424 @@
+[
+  {
+    "id": "w01-l01",
+    "week": 1,
+    "day": 1,
+    "phase": 1,
+    "titlePl": "Jak brzmi portugalski europejski?",
+    "subtitlePl": "Pisownia to nie wymowa",
+    "goals": [
+      "Usłyszeć, czym PT-PT różni się od tego, jak się pisze",
+      "Poznać akcent, redukcję samogłosek i nosówki",
+      "Powiedzieć „tak”, „nie” i kilka nazw"
+    ],
+    "canDo": [
+      "Powiem „sim” i „não” z nosówką",
+      "Powiem „Portugal” i „Madeira” z dobrym akcentem"
+    ],
+    "prerequisites": [],
+    "estimatedMinutes": 10,
+    "warmup": {
+      "soundId": "stress",
+      "textPl": "Posłuchaj dwóch słów. Usłyszysz, że akcent pada na różne sylaby — i że nie wszystkie litery są wymawiane „pełnym głosem”.",
+      "itemIds": [
+        "portugal",
+        "madeira"
+      ]
+    },
+    "newItemIds": [
+      "sim",
+      "nao",
+      "portugal",
+      "madeira",
+      "funchal",
+      "cafe",
+      "portugues"
+    ],
+    "grammar": {
+      "titlePl": "Pisownia to nie wymowa — cztery klucze",
+      "explanationPl": "Portugalski europejski brzmi inaczej, niż wygląda. Na początek zapamiętaj cztery klucze:\n\n**1. Akcent.** Jedna sylaba w słowie jest wyraźnie mocniejsza (w zapisie wymowy — WIELKIE litery). Nie zawsze jest to przedostatnia sylaba, jak w polskim: Portugal → pur-tu-GAɫ, café → kă-FE.\n\n**2. Redukcja.** Sylaby bez akcentu są krótkie i „ściszone”: nieakcentowane o brzmi jak u, a jak przytłumione ă, a e — jak krótkie y albo znika.\n\n**3. Nosówki.** sim, não — powietrze idzie przez nos, a „m” i „n” na końcu nie są wymawiane osobno.\n\n**4. Szelest.** s na końcu sylaby to zwykle sz (português → pur-tu-GÊSZ).\n\nNie musisz tego od razu umieć. Na razie po prostu słuchaj i porównuj zapis z nagraniem.",
+      "exampleIds": [
+        "portugal",
+        "madeira",
+        "funchal",
+        "portugues"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d01"
+    ],
+    "exerciseIds": [
+      "w01-l01-e01",
+      "w01-l01-e02",
+      "w01-l01-e03",
+      "w01-l01-e04",
+      "w01-l01-e05",
+      "w01-l01-e06",
+      "w01-l01-e07",
+      "w01-l01-e08",
+      "w01-l01-e09"
+    ],
+    "speakingTaskIds": [
+      "w01-l01-s01",
+      "w01-l01-s02",
+      "w01-l01-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w01-l02",
+    "week": 1,
+    "day": 2,
+    "phase": 1,
+    "titlePl": "Olá — pierwsze powitania",
+    "subtitlePl": "Dzień dobry o każdej porze",
+    "goals": [
+      "Przywitać się rano, po południu i wieczorem",
+      "Zapytać „co słychać?” i odpowiedzieć",
+      "Pożegnać się"
+    ],
+    "canDo": [
+      "Przywitam się o każdej porze dnia",
+      "Zapytam „Tudo bem?” i odpowiem",
+      "Pożegnam się: adeus, até logo"
+    ],
+    "prerequisites": [
+      "w01-l01"
+    ],
+    "estimatedMinutes": 12,
+    "warmup": {
+      "soundId": "nasal-vowels",
+      "textPl": "„bom” i „bem” są nosowe. Posłuchaj: nie ma w nich wyraźnego „m” na końcu.",
+      "itemIds": [
+        "bom-dia",
+        "tudo-bem"
+      ]
+    },
+    "newItemIds": [
+      "ola",
+      "bom-dia",
+      "boa-tarde",
+      "boa-noite",
+      "tudo-bem-q",
+      "tudo-bem",
+      "adeus",
+      "ate-logo"
+    ],
+    "grammar": {
+      "titlePl": "Bom dia, ale boa tarde — rodzaj w pigułce",
+      "explanationPl": "Po portugalsku każdy rzeczownik ma rodzaj: męski albo żeński (jak w polskim, ale bez nijakiego).\n\n**dia** (dzień) jest męski → **bom** dia.\n**tarde** (popołudnie) i **noite** (noc) są żeńskie → **boa** tarde, **boa** noite.\n\nUwaga: „dia” kończy się na -a, a jest męski — to wyjątek, który warto zapamiętać.\n\n**Kiedy co mówić?** Bom dia — mniej więcej do obiadu. Boa tarde — do zmroku. Boa noite — wieczorem, i na powitanie, i na pożegnanie. Olá możesz dodać zawsze: „Olá, bom dia!”.",
+      "exampleIds": [
+        "ola-bom-dia",
+        "boa-tarde-tudo-bem",
+        "adeus-ate-logo"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d02"
+    ],
+    "exerciseIds": [
+      "w01-l02-e01",
+      "w01-l02-e02",
+      "w01-l02-e03",
+      "w01-l02-e04",
+      "w01-l02-e05",
+      "w01-l02-e06",
+      "w01-l02-e07",
+      "w01-l02-e08",
+      "w01-l02-e09",
+      "w01-l02-e10"
+    ],
+    "speakingTaskIds": [
+      "w01-l02-s01",
+      "w01-l02-s02",
+      "w01-l02-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w01-l03",
+    "week": 1,
+    "day": 3,
+    "phase": 1,
+    "titlePl": "Obrigado, por favor i inne uprzejmości",
+    "subtitlePl": "Dziękuję, proszę, przepraszam",
+    "goals": [
+      "Dziękować w formie właściwej dla siebie",
+      "Prosić i zamawiać grzecznie",
+      "Odróżnić „desculpe” od „com licença”"
+    ],
+    "canDo": [
+      "Zamówię kawę: Um café, se faz favor",
+      "Podziękuję (obrigado/obrigada) i odpowiem „de nada”",
+      "Przeproszę i poproszę o przejście"
+    ],
+    "prerequisites": [
+      "w01-l02"
+    ],
+    "estimatedMinutes": 12,
+    "warmup": {
+      "soundId": "unstressed-o",
+      "textPl": "W „obrigado” końcowe o brzmi jak u. Posłuchaj.",
+      "itemIds": [
+        "obrigado"
+      ]
+    },
+    "newItemIds": [
+      "obrigado",
+      "muito-obrigado",
+      "por-favor",
+      "se-faz-favor",
+      "de-nada",
+      "desculpe",
+      "com-licenca",
+      "um-cafe-sfv"
+    ],
+    "grammar": {
+      "titlePl": "Obrigado czy obrigada? I trzy rodzaje „przepraszam”",
+      "explanationPl": "**Obrigado / obrigada** dosłownie znaczy „zobowiązany / zobowiązana”. Dlatego forma zależy od osoby, **która dziękuje**: mężczyzna mówi obrigado, kobieta — obrigada.\n\n**Por favor** i **se faz favor** — oba znaczą „proszę”. „Se faz favor” jest w Portugalii bardzo częste, np. przy zamawianiu albo gdy chcesz zwrócić czyjąś uwagę.\n\n**Desculpe** — przepraszam (za coś albo zaczepiając obcą osobę).\n**Com licença** — „czy mogę?”: gdy chcesz przejść, wejść, wyjść.\n**De nada** — nie ma za co.",
+      "exampleIds": [
+        "muito-obrigado",
+        "um-cafe-sfv"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d03"
+    ],
+    "exerciseIds": [
+      "w01-l03-e01",
+      "w01-l03-e02",
+      "w01-l03-e03",
+      "w01-l03-e04",
+      "w01-l03-e05",
+      "w01-l03-e06",
+      "w01-l03-e07",
+      "w01-l03-e08",
+      "w01-l03-e09"
+    ],
+    "speakingTaskIds": [
+      "w01-l03-s01",
+      "w01-l03-s02",
+      "w01-l03-s03",
+      "w01-l03-s04"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w01-l04",
+    "week": 1,
+    "day": 4,
+    "phase": 1,
+    "titlePl": "Jak się przedstawić?",
+    "subtitlePl": "Chamo-me…",
+    "goals": [
+      "Przedstawić się",
+      "Zapytać o imię grzecznie i nieformalnie",
+      "Zareagować na przedstawienie"
+    ],
+    "canDo": [
+      "Przedstawię się: Chamo-me…",
+      "Zapytam o imię: Como se chama? / Como te chamas?",
+      "Odpowiem: Muito prazer. — Igualmente."
+    ],
+    "prerequisites": [
+      "w01-l03"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "W „chamo” ch brzmi jak miękkie sz. Posłuchaj.",
+      "itemIds": [
+        "chamo-me"
+      ]
+    },
+    "newItemIds": [
+      "chamo-me",
+      "como-se-chama",
+      "como-te-chamas",
+      "muito-prazer",
+      "igualmente",
+      "e-o-senhor",
+      "e-a-senhora"
+    ],
+    "grammar": {
+      "titlePl": "Chamo-me — „nazywam się”, i forma Pan/Pani",
+      "explanationPl": "**Chamo-me** = nazywam się. „-me” (się) stoi **po** czasowniku i jest połączone myślnikiem. To typowe dla Portugalii.\n\n**Como se chama?** — dosłownie „Jak się nazywa?”. To forma grzecznościowa: mówimy o rozmówcy w 3. osobie — **tak samo jak po polsku**: „Jak się Pan nazywa?”. Po słowie pytającym (como) zaimek „se” stoi przed czasownikiem.\n\n**Como te chamas?** — forma „ty” (do dzieci, młodych, znajomych). Zwróć uwagę na końcówkę **-s**: chamas.\n\nW Portugalii z obcymi dorosłymi zaczynaj od formy grzecznościowej: o senhor (Pan), a senhora (Pani).",
+      "exampleIds": [
+        "chamo-me-ana",
+        "como-se-chama",
+        "como-te-chamas"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d04"
+    ],
+    "exerciseIds": [
+      "w01-l04-e01",
+      "w01-l04-e02",
+      "w01-l04-e03",
+      "w01-l04-e04",
+      "w01-l04-e05",
+      "w01-l04-e06",
+      "w01-l04-e07",
+      "w01-l04-e08",
+      "w01-l04-e09"
+    ],
+    "speakingTaskIds": [
+      "w01-l04-s01",
+      "w01-l04-s02",
+      "w01-l04-s03",
+      "w01-l04-s04"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w01-l05",
+    "week": 1,
+    "day": 5,
+    "phase": 1,
+    "titlePl": "Jak powiedzieć, że czegoś nie rozumiem?",
+    "subtitlePl": "Ratunkowe zdania",
+    "goals": [
+      "Powiedzieć, że nie rozumiem",
+      "Poprosić o powtórzenie i wolniejsze tempo",
+      "Zapytać o znaczenie słowa",
+      "Tworzyć przeczenia z „não”"
+    ],
+    "canDo": [
+      "Powiem: Desculpe, não percebo",
+      "Poproszę: Pode repetir? Mais devagar",
+      "Zapytam: O que significa…? Como se diz…?"
+    ],
+    "prerequisites": [
+      "w01-l04"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "nasal-diphthongs",
+      "textPl": "„não” to dyftong nosowy — usłyszysz go w tej lekcji wiele razy.",
+      "itemIds": [
+        "nao"
+      ]
+    },
+    "newItemIds": [
+      "nao-percebo",
+      "desculpe-nao-percebo",
+      "pode-repetir",
+      "mais-devagar",
+      "o-que-significa",
+      "como-se-diz",
+      "fala-ingles-q",
+      "nao-falo-bem"
+    ],
+    "grammar": {
+      "titlePl": "Przeczenie: „não” przed czasownikiem",
+      "explanationPl": "Przeczenie tworzymy bardzo prosto — **não** stawiamy przed czasownikiem, jak polskie „nie”:\n\nPercebo. (Rozumiem.) → **Não** percebo. (Nie rozumiem.)\nFalo inglês. → **Não** falo inglês.\n\n**Pytanie tak/nie** ma ten sam szyk co zdanie oznajmujące. Różnica jest tylko w melodii — głos idzie w górę na końcu: Fala inglês? (Czy Pan mówi po angielsku?)\n\n**Pode repetir?** — „Czy może Pan powtórzyć?”. To znów forma grzecznościowa (3. osoba).",
+      "exampleIds": [
+        "percebo",
+        "nao-falo-ingles",
+        "fala-ingles-q"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d05"
+    ],
+    "exerciseIds": [
+      "w01-l05-e01",
+      "w01-l05-e02",
+      "w01-l05-e03",
+      "w01-l05-e04",
+      "w01-l05-e05",
+      "w01-l05-e06",
+      "w01-l05-e07",
+      "w01-l05-e08",
+      "w01-l05-e09"
+    ],
+    "speakingTaskIds": [
+      "w01-l05-s01",
+      "w01-l05-s02",
+      "w01-l05-s03",
+      "w01-l05-s04"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w01-l06",
+    "week": 1,
+    "day": 6,
+    "phase": 1,
+    "titlePl": "Pierwsza minirozmowa i sprawdzian",
+    "subtitlePl": "Wszystko razem",
+    "goals": [
+      "Przeprowadzić krótką rozmowę z nową osobą",
+      "Sprawdzić, co już umiem"
+    ],
+    "canDo": [
+      "Przywitam się, przedstawię i pożegnam",
+      "Powiem, że nie mówię dobrze po portugalsku, i poradzę sobie"
+    ],
+    "prerequisites": [
+      "w01-l05"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "connected-speech",
+      "textPl": "Posłuchaj, jak „adeus” łączy się z „até”: s przed samogłoską brzmi jak z.",
+      "itemIds": [
+        "adeus-ate-logo"
+      ]
+    },
+    "newItemIds": [
+      "ate-amanha",
+      "nao-faz-mal"
+    ],
+    "grammar": {
+      "titlePl": "Powtórka: formalnie czy nieformalnie?",
+      "explanationPl": "Do obcych dorosłych, urzędników, wychowawczyni przedszkola — na początek **formalnie**: Como se chama? Pode repetir? E a senhora?\n\nDo dzieci, przyjaciół, rodziny — **nieformalnie** (tu): Como te chamas?\n\nJeśli ktoś zacznie mówić do Ciebie „tu”, zwykle możesz odpowiedzieć tak samo. Na razie bezpieczniej jest być bardziej grzecznym niż za mało.",
+      "table": [
+        [
+          "Como se chama?",
+          "Jak się Pan/Pani nazywa? (formalnie)"
+        ],
+        [
+          "Como te chamas?",
+          "Jak masz na imię? (ty)"
+        ],
+        [
+          "Desculpe",
+          "Przepraszam (formalnie)"
+        ],
+        [
+          "Desculpa",
+          "Przepraszam (ty)"
+        ]
+      ],
+      "exampleIds": [
+        "tudo-bem-obrigado",
+        "desculpe-nao-falo-bem"
+      ]
+    },
+    "dialogueIds": [
+      "w01-d06"
+    ],
+    "exerciseIds": [
+      "w01-l06-e01",
+      "w01-l06-e02",
+      "w01-l06-e03",
+      "w01-l06-e04",
+      "w01-l06-e05"
+    ],
+    "speakingTaskIds": [
+      "w01-l06-s01",
+      "w01-l06-s02",
+      "w01-l06-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review",
+    "testId": "w01-test"
+  }
+]

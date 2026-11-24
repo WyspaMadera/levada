@@ -1,0 +1,212 @@
+[
+  {
+    "id": "w10-d55",
+    "titlePl": "Kolacja na mieście?",
+    "contextPl": "Po południu dzwoni Ana. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-o-que-vais-fazer-logo-a-noite-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "vou-trabalhar-ate-as-oito-e-tu",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "vamos-jantar-fora-o-rui-tambem-vai"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-oito-nao-posso-mais-tarde-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "mais-tarde-as-nove-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-nove-esta-bem-ate-logo",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w10-d56",
+    "titlePl": "Plany na weekend",
+    "contextPl": "W środę pijesz kawę u Ruiego. Jesteście po imieniu (tu). „Depois de amanhã” to więc piątek.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-o-que-vais-fazer-no-fim-de-semana-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-sabado-vou-trabalhar-mas-no-domingo-vou-descansar",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "eu-tambem-vou-ficar-em-casa"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-depois-de-amanha-trabalhas-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "trabalho-sim-esta-semana-trabalho-muito"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "ate-amanha",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w10-d57",
+    "titlePl": "Urlop w Polsce",
+    "contextPl": "Rano w przedszkolu uprzedzasz Martę, że wyjeżdżacie. Rozmowa grzeczna: Marta mówi do Was „vão”, „vêm” (os senhores — Państwo).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "bom-dia-marta-na-proxima-semana-o-meu-filho-nao-vem",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "ah-sim-vao-de-ferias-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "vamos-a-polonia-vamos-visitar-os-meus-pais",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "muito-bem-e-quando-vem-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-proximo-mes-no-dia-tres",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "boas-ferias"
+      }
+    ]
+  },
+  {
+    "id": "w10-d58",
+    "titlePl": "Do kina?",
+    "contextPl": "Ana zaprasza Cię do kina. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "queres-ir-ao-cinema-no-sabado-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-sabado-nao-posso-porque-vou-trabalhar",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-no-domingo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "no-domingo-sim-boa-ideia-a-que-horas-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "as-seis-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-seis-combinado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w10-d59",
+    "titlePl": "Plaża czy spacer?",
+    "contextPl": "Ana pyta o Twoje plany na weekend. Jesteście po imieniu (tu). „Gostava de…” to grzeczne „chciałbym…”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "o-que-vais-fazer-no-fim-de-semana-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "gostava-de-ir-a-praia-gostavas-de-vir-tambem-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "gosto-da-praia-mas-nao-gosto-de-nadar"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "vamos-dar-um-passeio-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "boa-ideia-no-domingo-de-manha-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "combinado-ate-domingo",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w10-d60",
+    "titlePl": "Może w niedzielę?",
+    "contextPl": "Rui proponuje kolację, ale masz dziś dużo pracy. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "vamos-jantar-fora-logo-a-noite-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "hoje-nao-da-vou-sair-do-trabalho-muito-tarde",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "nao-faz-mal-fica-para-a-proxima"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-no-sabado-queres-ir-a-praia-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "se-calhar-vou-trabalhar-mas-no-domingo-sim"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "combinado-domingo-as-dez",
+        "isLearner": true
+      }
+    ]
+  }
+]

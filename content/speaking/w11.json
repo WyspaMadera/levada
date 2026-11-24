@@ -1,0 +1,180 @@
+[
+  {
+    "id": "w11-l61-s01",
+    "promptPl": "Co robiłeś wczoraj? Powiedz 2 prawdziwe zdania z czasownikami na -ar (trabalhei, falei, jantei).",
+    "modelItemIds": [
+      "ontem-trabalhei-em-casa",
+      "ontem-falei-com-a-ana",
+      "ontem-jantei-fora"
+    ],
+    "hintPl": "Ontem trabalhei… / Ontem falei com… / Ontem jantei… Ja = -ei."
+  },
+  {
+    "id": "w11-l61-s02",
+    "promptPl": "Zapytaj kolegę (tu), czy wczoraj rozmawiał z Ruim, i odpowiedz na takie pytanie: „Falei, sim.”",
+    "modelItemIds": [
+      "falaste-com-o-rui-q",
+      "falei-sim-ontem-jantei-fora-com-a-ana"
+    ]
+  },
+  {
+    "id": "w11-l61-s03",
+    "promptPl": "Powiedz, w jakim języku wczoraj rozmawialiście (my) w domu albo w pracy.",
+    "modelItemIds": [
+      "ontem-falamos-portugues",
+      "falamos-portugues-e-um-pouco-de-ingles"
+    ],
+    "hintPl": "falámos (przeszły) — otwarte „LA”; falamos (teraźniejszy) — przytłumione „LĂ”."
+  },
+  {
+    "id": "w11-l62-s01",
+    "promptPl": "Co wczoraj jadłeś i piłeś? Powiedz prawdę (comi…, bebi…).",
+    "modelItemIds": [
+      "comi-sopa-e-bebi-uma-agua",
+      "ontem-comi-peixe",
+      "ontem-a-noite-comemos-em-casa"
+    ]
+  },
+  {
+    "id": "w11-l62-s02",
+    "promptPl": "O której wczoraj wyszedłeś z pracy albo z domu?",
+    "modelItemIds": [
+      "ontem-sai-do-trabalho-as-seis",
+      "ontem-sai-do-escritorio-muito-tarde"
+    ],
+    "hintPl": "saí (ja) — akcent na i: sa-Í."
+  },
+  {
+    "id": "w11-l62-s03",
+    "promptPl": "Zapytaj kolegę, co jadł na obiad.",
+    "modelItemIds": [
+      "o-que-comeste-ao-almoco-q"
+    ]
+  },
+  {
+    "id": "w11-l63-s01",
+    "promptPl": "Dokąd poszedłeś wczoraj, przedwczoraj albo w zeszłą sobotę? Powiedz 2 prawdziwe zdania.",
+    "modelItemIds": [
+      "ontem-fui-ao-supermercado",
+      "anteontem-fui-ao-medico",
+      "no-sabado-passado-fomos-a-praia"
+    ],
+    "hintPl": "fui + ao / à (dokąd). My: fomos."
+  },
+  {
+    "id": "w11-l63-s02",
+    "promptPl": "Zapytaj sąsiadkę, jak minął weekend, i odpowiedz, że było bardzo fajnie.",
+    "modelItemIds": [
+      "como-foi-o-fim-de-semana-q",
+      "foi-muito-bom"
+    ]
+  },
+  {
+    "id": "w11-l63-s03",
+    "promptPl": "Zapytaj kolegę, czy był na plaży.",
+    "modelItemIds": [
+      "foste-a-praia-q"
+    ]
+  },
+  {
+    "id": "w11-l64-s01",
+    "promptPl": "Gdzie byłeś wczoraj i co miałeś? (estive…, tive…)",
+    "modelItemIds": [
+      "ontem-estive-em-casa",
+      "ontem-tive-muito-trabalho",
+      "ontem-nao-tive-tempo"
+    ]
+  },
+  {
+    "id": "w11-l64-s02",
+    "promptPl": "Kiedy ostatnio byłeś w Polsce albo u lekarza? Użyj „há…”.",
+    "modelItemIds": [
+      "estive-na-polonia-ha-duas-semanas",
+      "fui-ao-medico-ha-dois-dias"
+    ],
+    "hintPl": "há + czas = … temu: há dois dias, há duas semanas."
+  },
+  {
+    "id": "w11-l64-s03",
+    "promptPl": "Powiedz Marcie, że Twój syn był chory w zeszłym tygodniu.",
+    "modelItemIds": [
+      "o-meu-filho-esteve-doente-na-semana-passada",
+      "esteve-sim-esteve-dois-dias-em-casa"
+    ]
+  },
+  {
+    "id": "w11-l65-s01",
+    "promptPl": "Co robiłeś w ostatni weekend? Powiedz 2–3 prawdziwe zdania (fiz…, fiquei…, fui…).",
+    "modelItemIds": [
+      "nada-de-especial-no-sabado-fiquei-em-casa",
+      "no-domingo-fiz-um-bolo-com-o-meu-filho",
+      "nao-fiz-nada"
+    ]
+  },
+  {
+    "id": "w11-l65-s02",
+    "promptPl": "Zapytaj kolegę (tu), co robił wczoraj, a potem zapytaj grzecznie (Pan / Pani) o weekend.",
+    "modelItemIds": [
+      "o-que-fizeste-ontem-q",
+      "o-que-fez-no-fim-de-semana-q"
+    ]
+  },
+  {
+    "id": "w11-l65-s03",
+    "promptPl": "Ktoś pyta, co robiłeś. Nic ciekawego — odpowiedz krótko.",
+    "modelItemIds": [
+      "nada-de-especial",
+      "nao-fiz-nada"
+    ]
+  },
+  {
+    "id": "w11-l66-s01",
+    "promptPl": "Opowiedz po kolei o wczorajszym dniu: rano, potem, wieczorem (primeiro…, depois…, a seguir…).",
+    "modelItemIds": [
+      "de-manha-trabalhei-e-a-seguir-fui-ao-cafe",
+      "primeiro-fui-ao-mercado-depois-fui-a-praia",
+      "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema"
+    ]
+  },
+  {
+    "id": "w11-l66-s02",
+    "promptPl": "Sąsiadka pyta: „Como correu o dia?”. Odpowiedz i powiedz, co robiłeś.",
+    "modelItemIds": [
+      "correu-bem",
+      "correu-bem-de-manha-trabalhei-em-casa-e-a-seguir-fui-ao-mercado"
+    ]
+  },
+  {
+    "id": "w11-l66-s03",
+    "promptPl": "Opowiedz o wczoraj, a na koniec zaproponuj plan na jutro.",
+    "modelItemIds": [
+      "ontem-fiquei-em-casa-nao-fiz-nada",
+      "amanha-vamos-jantar-fora-q"
+    ]
+  },
+  {
+    "id": "w11-t-s01",
+    "promptPl": "Opowiedz, co robiłeś wczoraj: gdzie byłeś, co jadłeś, o której wyszedłeś.",
+    "modelItemIds": [
+      "ontem-trabalhei-em-casa",
+      "comi-sopa-e-bebi-uma-agua",
+      "ontem-sai-do-trabalho-as-seis"
+    ]
+  },
+  {
+    "id": "w11-t-s02",
+    "promptPl": "Zapytaj kolegę o weekend (Como foi…? O que fizeste…?).",
+    "modelItemIds": [
+      "como-foi-o-fim-de-semana-q",
+      "o-que-fizeste-no-fim-de-semana-q"
+    ]
+  },
+  {
+    "id": "w11-t-s03",
+    "promptPl": "Powiedz, co robiłeś przedwczoraj albo dwa dni temu.",
+    "modelItemIds": [
+      "anteontem-fui-ao-medico",
+      "fui-ao-medico-ha-dois-dias"
+    ]
+  }
+]

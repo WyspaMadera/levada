@@ -1,0 +1,152 @@
+[
+  {
+    "id": "bio-przedstawiam-sie",
+    "order": 1,
+    "titlePl": "Przedstawiam się",
+    "unlockAfterLessonId": "w01-l04",
+    "hintPl": "Zacznij od powitania pasującego do pory dnia i powiedz, jak się nazywasz. Swoje imię wymawiaj normalnie, po polsku — nie musisz go „portugalizować”.",
+    "templates": [
+      {
+        "itemId": "ola-bom-dia"
+      },
+      {
+        "itemId": "chamo-me",
+        "personal": {
+          "field": "name",
+          "templatePt": "Chamo-me {name}.",
+          "templateItemId": "chamo-me"
+        }
+      }
+    ]
+  },
+  {
+    "id": "bio-skad-jestem",
+    "order": 2,
+    "titlePl": "Skąd jestem",
+    "unlockAfterLessonId": "w02-l08",
+    "hintPl": "Pochodzenie i narodowość wyrażasz czasownikiem ser (sou). Kobieta mówi „polaca”.",
+    "templates": [
+      {
+        "itemId": "sou-da-polonia"
+      },
+      {
+        "itemId": "eu-sou-polaco"
+      }
+    ]
+  },
+  {
+    "id": "bio-gdzie-mieszkam",
+    "order": 3,
+    "titlePl": "Gdzie mieszkam",
+    "unlockAfterLessonId": "w03-l18",
+    "hintPl": "Powiedz, gdzie mieszkasz. Uwaga na rodzajnik: o Funchal → „Moro no Funchal”, a Madeira → „Moro na Madeira”. Przy nazwach bez rodzajnika zostaje „em”.",
+    "templates": [
+      {
+        "itemId": "moro-em",
+        "personal": {
+          "field": "city",
+          "templatePt": "Moro em {city}.",
+          "templateItemId": "moro-em"
+        }
+      },
+      {
+        "itemId": "moro-no-funchal",
+        "optional": true
+      },
+      {
+        "itemId": "moro-na-madeira"
+      }
+    ]
+  },
+  {
+    "id": "bio-ile-mam-lat",
+    "order": 4,
+    "titlePl": "Ile mam lat",
+    "unlockAfterLessonId": "w03-l18",
+    "hintPl": "Wiek podajesz z czasownikiem ter (mieć): „Tenho … anos”. Jeśli wolisz nie mówić o wieku — pomiń tę część.",
+    "templates": [
+      {
+        "itemId": "bio-tenho-anos",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "id": "bio-jezyki",
+    "order": 5,
+    "titlePl": "Jakie znam języki",
+    "unlockAfterLessonId": "w02-l12",
+    "hintPl": "Powiedz uczciwie, ile mówisz po portugalsku — „um pouco” to dobry start i zachęta dla rozmówcy, żeby mówił wolniej.",
+    "templates": [
+      {
+        "itemId": "falo-um-pouco-de-portugues"
+      },
+      {
+        "itemId": "bio-falo-polaco-e-um-pouco-de-ingles",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "id": "bio-rodzina",
+    "order": 6,
+    "titlePl": "Moja rodzina",
+    "unlockAfterLessonId": "w04-l23",
+    "hintPl": "Ta część jest całkowicie opcjonalna — mów tylko o tym, czym chcesz się dzielić. Zmień liczby i osoby tak, by pasowały do Ciebie.",
+    "templates": [
+      {
+        "itemId": "tenho-um-filho",
+        "optional": true
+      },
+      {
+        "itemId": "o-meu-filho-tem-cinco-anos",
+        "optional": true
+      },
+      {
+        "itemId": "a-minha-mae-esta-na-polonia",
+        "optional": true
+      },
+      {
+        "itemId": "a-minha-irma-mora-na-polonia",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "id": "bio-samopoczucie",
+    "order": 7,
+    "titlePl": "Jak się dziś czuję",
+    "unlockAfterLessonId": "w02-l09",
+    "hintPl": "Samopoczucie „teraz” wyrażasz czasownikiem estar (estou). Kobieta mówi „cansada”.",
+    "templates": [
+      {
+        "itemId": "bio-hoje-estou-bem"
+      },
+      {
+        "itemId": "estou-cansado",
+        "optional": true
+      }
+    ]
+  },
+  {
+    "id": "bio-co-robie",
+    "order": 8,
+    "titlePl": "Co dziś robię i jakie mam plany",
+    "unlockAfterLessonId": "w04-l21",
+    "hintPl": "Powiedz, dokąd idziesz dziś albo w weekend (ir + a/ao/à). Wybierz to, co naprawdę robisz — albo podmień miejsce.",
+    "templates": [
+      {
+        "itemId": "vou-ao-supermercado",
+        "optional": true
+      },
+      {
+        "itemId": "no-sabado-vou-a-praia",
+        "optional": true
+      },
+      {
+        "itemId": "amanha-vou-ao-funchal-as-dez",
+        "optional": true
+      }
+    ]
+  }
+]

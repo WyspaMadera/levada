@@ -1,0 +1,521 @@
+[
+  {
+    "id": "stress",
+    "order": 1,
+    "titlePl": "Akcent wyrazowy",
+    "symbol": "WIELKIE LITERY",
+    "ipa": "ˈ",
+    "group": "prosody",
+    "polish": "trap",
+    "summaryPl": "Akcent może padać na ostatnią, przedostatnią lub wcześniejszą sylabę.",
+    "explanationPl": "W polskim akcent prawie zawsze pada na przedostatnią sylabę. W portugalskim może być na ostatniej (Portugal, café, falar), przedostatniej (obrigado, casa) lub trzeciej od końca (Polónia).\n\nOrientacyjna reguła: słowa zakończone na -a, -e, -o (także z -s, -m) mają akcent na przedostatniej sylabie; inne (-l, -r, -z, -i, -u) — na ostatniej. Znak akcentu (á, é, ê, ó, ô…) zawsze pokazuje sylabę akcentowaną.\n\nW zapisie „Fonetyka PL” sylaba akcentowana jest napisana WIELKIMI literami.",
+    "mouth": {
+      "lips": "bez zmian — ważna jest głośność i długość sylaby",
+      "tongue": "bez zmian"
+    },
+    "polishComparisonPl": "Sylaba akcentowana jest dłuższa i wyraźniejsza, a pozostałe — krótkie i ściszone. To większy kontrast niż w polskim.",
+    "exampleItemIds": [
+      "falar",
+      "telefone",
+      "esta",
+      "esta-verb",
+      "casa"
+    ],
+    "minimalPairs": [
+      [
+        "esta",
+        "esta-verb"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "reduced-e",
+    "order": 2,
+    "titlePl": "Nieakcentowane e",
+    "symbol": "y / (y)",
+    "ipa": "ɨ",
+    "group": "vowels",
+    "polish": "advantage",
+    "summaryPl": "Nieakcentowane e brzmi krótko, podobnie do polskiego y, albo znika.",
+    "explanationPl": "To najbardziej charakterystyczna cecha portugalskiego europejskiego. Nieakcentowane e (np. w de, me, -te, -de) wymawia się jako bardzo krótki dźwięk zbliżony do polskiego y. Na końcu wyrazu w szybkiej mowie często całkiem znika: sete → „SET”, verde → „WÊRD”.\n\nUwaga: to nie jest „pełne” polskie y — jest krótsze, słabsze, bez napięcia. Spójnik e („i”) wymawiamy jako i.",
+    "mouth": {
+      "lips": "neutralne, rozluźnione",
+      "tongue": "w środku jamy ustnej, wysoko, bez napięcia"
+    },
+    "polishComparisonPl": "Masz przewagę: polskie y jest dużo bliższe temu dźwiękowi niż cokolwiek w hiszpańskim czy włoskim. Pamiętaj tylko, by mówić je krócej i ciszej.",
+    "exampleItemIds": [
+      "sete",
+      "verde",
+      "telefone",
+      "pode"
+    ],
+    "minimalPairs": [],
+    "needsReview": true,
+    "vowelChart": [
+      "ɨ"
+    ]
+  },
+  {
+    "id": "unstressed-o",
+    "order": 3,
+    "titlePl": "Nieakcentowane o → u",
+    "symbol": "u",
+    "ipa": "u",
+    "group": "vowels",
+    "polish": "trap",
+    "summaryPl": "Nieakcentowane o (szczególnie końcowe -o, -os) brzmi jak u.",
+    "explanationPl": "Gdy o nie jest akcentowane, zwykle wymawiamy je jak u: obrigado → o-bri-GA-du, como → KÔ-mu, carro → KA-rru. To samo dotyczy rodzajnika o („u”).\n\nPolak czyta literę o jako o — to jedna z najczęstszych przyczyn „obcego” akcentu.",
+    "mouth": {
+      "lips": "zaokrąglone, wysunięte",
+      "tongue": "tył języka wysoko"
+    },
+    "polishComparisonPl": "Polskie u jest tu dobrym odpowiednikiem. Pułapka polega tylko na tym, że pisownia pokazuje „o”.",
+    "exampleItemIds": [
+      "caro",
+      "sono",
+      "mundo",
+      "vinho"
+    ],
+    "minimalPairs": [],
+    "needsReview": true,
+    "vowelChart": [
+      "u",
+      "o"
+    ]
+  },
+  {
+    "id": "unstressed-a",
+    "order": 4,
+    "titlePl": "Przytłumione a (ă)",
+    "symbol": "ă",
+    "ipa": "ɐ",
+    "group": "vowels",
+    "polish": "trap",
+    "summaryPl": "Nieakcentowane a — i akcentowane a przed m, n, nh — brzmi krócej i ciemniej.",
+    "explanationPl": "Nieakcentowane a (np. końcowe -a w casa, fila) to dźwięk [ɐ]: usta mniej otwarte niż przy polskim a, dźwięk krótszy, „przytłumiony”. Ten sam dźwięk pojawia się w akcentowanej sylabie przed m, n, nh: Ana → Ă-nă, chama → SZĂ-mă.\n\nW zapisie oznaczamy go jako ă.",
+    "mouth": {
+      "lips": "mniej otwarte niż przy polskim a",
+      "tongue": "w środku, niżej niż przy y"
+    },
+    "polishComparisonPl": "W polskim nie ma tego dźwięku. Na początek wystarczy mówić bardzo krótkie, nieakcentowane a i nie otwierać szeroko ust.",
+    "exampleItemIds": [
+      "casa",
+      "fila",
+      "ana",
+      "falar"
+    ],
+    "minimalPairs": [],
+    "needsReview": true,
+    "vowelChart": [
+      "ɐ",
+      "a"
+    ]
+  },
+  {
+    "id": "open-closed-e",
+    "order": 5,
+    "titlePl": "Otwarte é i zamknięte ê",
+    "symbol": "e / ê",
+    "ipa": "ɛ / e",
+    "group": "vowels",
+    "polish": "trap",
+    "summaryPl": "Portugalski rozróżnia otwarte e (jak polskie) i zamknięte ê (którego w polskim nie ma).",
+    "explanationPl": "Otwarte é [ɛ] to praktycznie polskie e: café, pé, sete. Zamknięte ê [e] jest wyższe — język unosi się w stronę i, wargi lekko się rozciągają: pê, você, verde, mesa.\n\nPisownia nie zawsze to pokazuje (ela — otwarte, ele — zamknięte). W zapisie „Fonetyka PL” daszek (ê) zawsze oznacza samogłoskę zamkniętą.",
+    "mouth": {
+      "lips": "é: swobodnie otwarte; ê: lekko rozciągnięte, mniej otwarte",
+      "tongue": "é: jak polskie e; ê: wyżej, bliżej i"
+    },
+    "polishComparisonPl": "Polskie e = otwarte é. Zamknięte ê ćwicz, wymawiając coś pomiędzy polskim e i i.",
+    "exampleItemIds": [
+      "pe",
+      "pe-letra",
+      "sete",
+      "verde",
+      "mesa"
+    ],
+    "minimalPairs": [
+      [
+        "pe",
+        "pe-letra"
+      ]
+    ],
+    "needsReview": true,
+    "vowelChart": [
+      "e",
+      "ɛ"
+    ]
+  },
+  {
+    "id": "open-closed-o",
+    "order": 6,
+    "titlePl": "Otwarte ó i zamknięte ô",
+    "symbol": "o / ô",
+    "ipa": "ɔ / o",
+    "group": "vowels",
+    "polish": "trap",
+    "summaryPl": "Otwarte ó (jak polskie o) i zamknięte ô (usta bardziej zaokrąglone).",
+    "explanationPl": "Otwarte ó [ɔ] to polskie o: avó, pode, hora. Zamknięte ô [o] wymawia się z mocniej zaokrąglonymi ustami, jakbyś zaczynał mówić u: avô, pôde, sono, como.\n\nRóżnica zmienia znaczenie: avó (babcia) / avô (dziadek), pode (może) / pôde (mógł).",
+    "mouth": {
+      "lips": "ó: otwarte; ô: mocno zaokrąglone, prawie jak do u",
+      "tongue": "ó: nisko; ô: wyżej, tył języka uniesiony"
+    },
+    "polishComparisonPl": "Polskie o = otwarte ó. Zamknięte ô to dźwięk między polskim o i u.",
+    "exampleItemIds": [
+      "avo-f",
+      "avo-m",
+      "pode",
+      "pode-past",
+      "sono"
+    ],
+    "minimalPairs": [
+      [
+        "avo-f",
+        "avo-m"
+      ],
+      [
+        "pode",
+        "pode-past"
+      ]
+    ],
+    "needsReview": true,
+    "vowelChart": [
+      "o",
+      "ɔ"
+    ]
+  },
+  {
+    "id": "nasal-vowels",
+    "order": 7,
+    "titlePl": "Samogłoski nosowe",
+    "symbol": "ã ẽ ĩ õ ũ",
+    "ipa": "ɐ̃ ẽ ĩ õ ũ",
+    "group": "nasals",
+    "polish": "trap",
+    "summaryPl": "Powietrze przez nos i usta jednocześnie — bez wymawiania n lub m na końcu.",
+    "explanationPl": "Gdy po samogłosce w tej samej sylabie stoi m lub n (sim, bom, um, tempo, mundo) albo samogłoska ma tyldę (ã), wymawiamy ją nosowo. Spółgłoska m/n w takiej sylabie zwykle nie jest wymawiana jako osobny dźwięk.\n\nĆwiczenie: powiedz „a”, a potem nie zmieniając ust opuść podniebienie miękkie, by część powietrza poszła nosem. Nie domykaj ust na końcu!",
+    "mouth": {
+      "lips": "jak przy zwykłej samogłosce",
+      "tongue": "jak przy zwykłej samogłosce; podniebienie miękkie opuszczone",
+      "extraPl": "Podniebienie miękkie opuszczone — część powietrza przez nos."
+    },
+    "polishComparisonPl": "Polskie ą i ę to co innego: zwykle samogłoska + nosowe „ł” ([ɔw̃]) albo samogłoska + n/m przed spółgłoską (kąt = „kont”). Nie czytaj sim jak „sin” ani bom jak „bą”.",
+    "exampleItemIds": [
+      "la",
+      "la-la",
+      "tempo",
+      "mundo"
+    ],
+    "minimalPairs": [
+      [
+        "la",
+        "la-la"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "nasal-diphthongs",
+    "order": 8,
+    "titlePl": "Dyftongi nosowe: ão, ãe, õe, -em",
+    "symbol": "ãu ãj õj",
+    "ipa": "ɐ̃w̃ ɐ̃j̃ õj̃",
+    "group": "nasals",
+    "polish": "trap",
+    "summaryPl": "Nosowe są całe dyftongi: não, mãe, põe, bem.",
+    "explanationPl": "ão (não, pão, mão) = nosowe ă + nosowe u. ãe i końcowe -em (mãe, bem, também) = nosowe ă + nosowe j. õe (põe) = nosowe o + nosowe j.\n\nTo bardzo częste dźwięki — samo „não” usłyszysz co chwilę.",
+    "mouth": {
+      "lips": "ão: zaokrąglają się pod koniec; ãe: rozciągają się pod koniec",
+      "tongue": "przesuwa się od środka w stronę u albo i"
+    },
+    "polishComparisonPl": "Najbliżej jest polskie „ą” na końcu wyrazu (idą), ale portugalskie zaczyna się od przytłumionego ă, nie od o.",
+    "exampleItemIds": [
+      "mao",
+      "pao",
+      "mae",
+      "poe"
+    ],
+    "minimalPairs": [
+      [
+        "mau",
+        "mao"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "dark-l",
+    "order": 9,
+    "titlePl": "Ciemne l na końcu sylaby",
+    "symbol": "ɫ",
+    "ipa": "ɫ",
+    "group": "consonants",
+    "polish": "trap",
+    "summaryPl": "Końcowe l to „ciemne l”, a nie polskie ł.",
+    "explanationPl": "W słowach takich jak Portugal, mal, sol, azul l na końcu sylaby wymawia się jako „ciemne l” [ɫ]: czubek języka dotyka dziąseł za zębami (jak w l), a tył języka jednocześnie unosi się w stronę podniebienia miękkiego.\n\nTo NIE jest współczesne polskie ł (które brzmi jak w). mal (źle) i mau (zły) brzmią inaczej!",
+    "mouth": {
+      "lips": "neutralne, nie zaokrąglaj",
+      "tongue": "czubek przy dziąsłach + uniesiony tył języka"
+    },
+    "polishComparisonPl": "Przypomina dawne, „aktorskie” polskie ł albo l w angielskim słowie „feel”. Sprawdź, czy język naprawdę dotyka dziąseł.",
+    "exampleItemIds": [
+      "mal",
+      "sol",
+      "azul"
+    ],
+    "minimalPairs": [
+      [
+        "mal",
+        "mau"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "r-tap",
+    "order": 10,
+    "titlePl": "Pojedyncze r",
+    "symbol": "r",
+    "ipa": "ɾ",
+    "group": "consonants",
+    "polish": "advantage",
+    "summaryPl": "Pojedyncze r między samogłoskami i po spółgłosce to jedno szybkie uderzenie języka.",
+    "explanationPl": "W caro, hora, obrigado, para r to jedno krótkie uderzenie czubka języka o dziąsła — tak jak w wielu polskich słowach.",
+    "mouth": {
+      "lips": "neutralne",
+      "tongue": "czubek języka uderza raz w dziąsła"
+    },
+    "polishComparisonPl": "Masz przewagę: krótkie polskie r jest bardzo bliskie. Nie przeciągaj go.",
+    "exampleItemIds": [
+      "caro",
+      "hora",
+      "para"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  },
+  {
+    "id": "r-strong",
+    "order": 11,
+    "titlePl": "Mocne r (rr, r- na początku)",
+    "symbol": "rr",
+    "ipa": "ʁ ~ r",
+    "group": "consonants",
+    "polish": "trap",
+    "summaryPl": "rr i r na początku wyrazu to „mocne r” — w standardzie zwykle gardłowe.",
+    "explanationPl": "W carro, rua, Rui i na początku wyrazu wymawiamy mocne r. W standardowym portugalskim europejskim jest to najczęściej dźwięk gardłowy [ʁ] — podobny do francuskiego r albo dźwięcznego polskiego ch. Spotyka się też wariant z mocno zwibrowanym r (jak polskie, ale dłuższe) — jest zrozumiały.\n\nNajważniejsze: caro (drogi) i carro (samochód) muszą brzmieć inaczej.",
+    "mouth": {
+      "lips": "neutralne",
+      "tongue": "gardłowe: tył języka zbliża się do języczka"
+    },
+    "polishComparisonPl": "Polskie ch [x] wymówione dźwięcznie daje dobre przybliżenie. Nie wymawiaj rr jak krótkiego r.",
+    "exampleItemIds": [
+      "carro",
+      "rua",
+      "rui"
+    ],
+    "minimalPairs": [
+      [
+        "caro",
+        "carro"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "lh",
+    "order": 12,
+    "titlePl": "lh — jeden dźwięk",
+    "symbol": "lj",
+    "ipa": "ʎ",
+    "group": "consonants",
+    "polish": "neutral",
+    "summaryPl": "lh to jeden dźwięk — „miękkie l”.",
+    "explanationPl": "W filha, filho, trabalho lh wymawiamy jako jeden dźwięk [ʎ]: środek języka przylega do podniebienia twardego (tam gdzie przy j), a powietrze uchodzi bokami.\n\nW zapisie: lj — ale to nie są dwa osobne dźwięki l + j.",
+    "mouth": {
+      "lips": "neutralne",
+      "tongue": "środek języka szeroko przy podniebieniu twardym"
+    },
+    "polishComparisonPl": "Polskie „lj” jest przybliżeniem. Jeśli znasz włoskie „figlio” — to ten dźwięk.",
+    "exampleItemIds": [
+      "filha",
+      "trabalho"
+    ],
+    "minimalPairs": [
+      [
+        "fila",
+        "filha"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "nh",
+    "order": 13,
+    "titlePl": "nh = ń",
+    "symbol": "ń",
+    "ipa": "ɲ",
+    "group": "consonants",
+    "polish": "advantage",
+    "summaryPl": "nh brzmi bardzo podobnie do polskiego ń.",
+    "explanationPl": "vinho, sonho, senhora, amanhã — nh to [ɲ], dźwięk bardzo bliski polskiemu ń.",
+    "mouth": {
+      "lips": "neutralne",
+      "tongue": "środek języka przy podniebieniu twardym"
+    },
+    "polishComparisonPl": "Masz przewagę: polskie ń jest dobrym odpowiednikiem.",
+    "exampleItemIds": [
+      "vinho",
+      "sonho"
+    ],
+    "minimalPairs": [
+      [
+        "sono",
+        "sonho"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "sz-zh",
+    "order": 14,
+    "titlePl": "Dźwięki sz i ż: ch, x, j, g, końcowe s",
+    "symbol": "sz / ż",
+    "ipa": "ʃ / ʒ",
+    "group": "consonants",
+    "polish": "advantage",
+    "summaryPl": "ch, x, j, ge/gi oraz s/z na końcu sylaby brzmią jak (miękkie) sz i ż.",
+    "explanationPl": "chá → SZA, hoje → Ô-ży. Litera s (i z) na końcu sylaby to sz (três, mas) albo ż przed spółgłoską dźwięczną (mesmo → MÊŻ-mu, Lisboa → liż-BÔ-ă). To dlatego portugalski europejski „szeleści”.",
+    "mouth": {
+      "lips": "lekko zaokrąglone",
+      "tongue": "czubek języka za dziąsłami, nie zawinięty do tyłu"
+    },
+    "polishComparisonPl": "Masz przewagę: polskie sz i ż są zrozumiałe. Portugalskie są trochę bardziej miękkie — coś między sz a ś.",
+    "exampleItemIds": [
+      "cha",
+      "hoje",
+      "mesmo",
+      "lisboa"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  },
+  {
+    "id": "s-z",
+    "order": 15,
+    "titlePl": "Litera s: s, z, sz albo ż",
+    "symbol": "s / z",
+    "ipa": "s / z",
+    "group": "consonants",
+    "polish": "neutral",
+    "summaryPl": "To, jak brzmi s, zależy od miejsca w wyrazie.",
+    "explanationPl": "s na początku wyrazu i ss, ç → s (sopa, caça). s między samogłoskami → z (casa, mesa). s na końcu sylaby → sz/ż (zob. poprzedni dźwięk). Na styku wyrazów przed samogłoską: z (os amigos → „u‿za-MI-gusz”).",
+    "mouth": {
+      "lips": "neutralne",
+      "tongue": "zależnie od dźwięku"
+    },
+    "polishComparisonPl": "Polskie s i z są dobrymi odpowiednikami. Uważaj na casa (z) i caça (s) — to różne słowa.",
+    "exampleItemIds": [
+      "sopa",
+      "casa",
+      "caca",
+      "mesa"
+    ],
+    "minimalPairs": [
+      [
+        "caca",
+        "casa"
+      ]
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "v-w",
+    "order": 16,
+    "titlePl": "v = w",
+    "symbol": "w",
+    "ipa": "v",
+    "group": "consonants",
+    "polish": "advantage",
+    "summaryPl": "Portugalskie v brzmi jak polskie w.",
+    "explanationPl": "vinho, vida, você — v to [v], czyli polskie w. Uwaga: b i v to różne dźwięki (w odróżnieniu od hiszpańskiego).",
+    "mouth": {
+      "lips": "dolna warga przy górnych zębach",
+      "tongue": "bez znaczenia"
+    },
+    "polishComparisonPl": "Masz przewagę: identyczny dźwięk jak polskie w.",
+    "exampleItemIds": [
+      "vinho",
+      "vida"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  },
+  {
+    "id": "diphthongs",
+    "order": 17,
+    "titlePl": "Dyftongi: ai, ei, oi, ou, au, eu",
+    "symbol": "aj ăj ôj ô au êu",
+    "ipa": "aj ɐj oj o aw ew",
+    "group": "vowels",
+    "polish": "neutral",
+    "summaryPl": "Dwie samogłoski w jednej sylabie wymawiamy płynnie, jako jedną sylabę.",
+    "explanationPl": "pai → PAJ, noite → NÔJ-ty, eu → ÊU, mau → MAU. ou w standardzie brzmi jak zamknięte ô (sou → SÔ, estou → ysz-TÔ).\n\nei w normie lizbońskiej brzmi jak ăj (Madeira → mă-DĂJ-ră); w innych regionach często ej. Oba warianty są zrozumiałe.",
+    "mouth": {
+      "lips": "płynny ruch od pierwszej do drugiej samogłoski",
+      "tongue": "płynny ruch"
+    },
+    "polishComparisonPl": "Polskie aj, ej, oj są dobrymi przybliżeniami; au i eu wymawiaj z krótkim u (jak polskie ł w „pał”).",
+    "exampleItemIds": [
+      "pai",
+      "mau",
+      "hoje"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  },
+  {
+    "id": "connected-speech",
+    "order": 18,
+    "titlePl": "Mowa łączona i rytm",
+    "symbol": "‿",
+    "ipa": "‿",
+    "group": "prosody",
+    "polish": "trap",
+    "summaryPl": "Wyrazy łączą się, a nieakcentowane sylaby skracają.",
+    "explanationPl": "Portugalczycy nie mówią „wyraz po wyrazie”. Końcowa samogłoska jednego wyrazu łączy się z początkową następnego, nieakcentowane e znika, a s na końcu wyrazu zmienia brzmienie zależnie od kolejnego dźwięku (mais devagar → MAJŻ dy-wă-GAR).\n\nDlatego w zdaniach pokazujemy dwa zapisy: dydaktyczny (wolny, wyraźny) i naturalny (z łączeniami).",
+    "mouth": {
+      "lips": "rozluźnione",
+      "tongue": "rozluźniony"
+    },
+    "polishComparisonPl": "Polski rytm jest „sylabowy” — każda sylaba podobnie długa. Portugalski jest „akcentowy”: między akcentami sylaby się kurczą. Słuchaj i naśladuj melodię, nie pojedyncze litery.",
+    "exampleItemIds": [
+      "telefone",
+      "verde"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  },
+  {
+    "id": "intonation",
+    "order": 19,
+    "titlePl": "Intonacja pytań",
+    "symbol": "?",
+    "ipa": "↗ ↘",
+    "group": "prosody",
+    "polish": "neutral",
+    "summaryPl": "Pytanie tak/nie ma ten sam szyk co zdanie oznajmujące — różni się melodią.",
+    "explanationPl": "Fala inglês. (oznajmienie — głos opada) / Fala inglês? (pytanie — głos rośnie na końcu). Pytania z zaimkiem pytającym (Como…? Onde…?) zwykle mają melodię opadającą.\n\nUwaga: głosy syntezatora (TTS) nie zawsze dobrze oddają intonację — słuchaj prawdziwych nagrań, gdy będą dostępne.",
+    "mouth": {
+      "lips": "bez zmian",
+      "tongue": "bez zmian"
+    },
+    "polishComparisonPl": "Podobnie jak w polskim („Mówisz po angielsku?”) — tu masz przewagę.",
+    "exampleItemIds": [
+      "fala-ingles-stmt",
+      "fala-ingles-q"
+    ],
+    "minimalPairs": [],
+    "needsReview": true
+  }
+]

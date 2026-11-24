@@ -1,0 +1,222 @@
+[
+  {
+    "id": "w04-l19-s01",
+    "promptPl": "Powiedz, dokąd dziś idziesz lub jedziesz.",
+    "modelItemIds": [
+      "vou-ao-supermercado",
+      "vou-para-casa",
+      "vou-a-praia-vamos-q"
+    ]
+  },
+  {
+    "id": "w04-l19-s02",
+    "promptPl": "Zaproponuj Anie wyjście na plażę.",
+    "modelItemIds": [
+      "vamos-a-praia"
+    ]
+  },
+  {
+    "id": "w04-l19-s03",
+    "promptPl": "Spotykasz kolegę. Zapytaj, dokąd idzie.",
+    "modelItemIds": [
+      "para-onde-vais-q"
+    ]
+  },
+  {
+    "id": "w04-l20-s01",
+    "promptPl": "Nie możesz znaleźć telefonu. Zapytaj, gdzie jest.",
+    "modelItemIds": [
+      "onde-esta-o-telemovel-q"
+    ]
+  },
+  {
+    "id": "w04-l20-s02",
+    "promptPl": "Powiedz, gdzie teraz jest ktoś bliski lub znajomy (w pracy, w domu…). Imiona — dowolne.",
+    "modelItemIds": [
+      "a-ana-esta-no-trabalho",
+      "ela-esta-em-casa"
+    ]
+  },
+  {
+    "id": "w04-l20-s03",
+    "promptPl": "Powiedz, z kim jesteś (np. z Aną).",
+    "modelItemIds": [
+      "estou-com-a-ana"
+    ]
+  },
+  {
+    "id": "w04-l20-s04",
+    "promptPl": "Powiedz, że klucz jest w kuchni.",
+    "modelItemIds": [
+      "a-chave-esta-na-cozinha"
+    ]
+  },
+  {
+    "id": "w04-l21-s01",
+    "promptPl": "Powiedz, jaki dziś jest dzień tygodnia i jaki będzie jutro.",
+    "modelItemIds": [
+      "hoje-e-segunda-feira",
+      "amanha-e-terca-feira"
+    ],
+    "hintPl": "Podaj prawdziwe dni — wzór to tylko przykład."
+  },
+  {
+    "id": "w04-l21-s02",
+    "promptPl": "Wymień dni tygodnia od poniedziałku do niedzieli.",
+    "modelItemIds": [
+      "segunda-feira",
+      "terca-feira",
+      "quarta-feira",
+      "quinta-feira",
+      "sexta-feira",
+      "sabado",
+      "domingo"
+    ]
+  },
+  {
+    "id": "w04-l21-s03",
+    "promptPl": "Powiedz, co robisz w sobotę albo w niedzielę.",
+    "modelItemIds": [
+      "no-sabado-vou-a-praia",
+      "no-domingo-estou-em-casa"
+    ]
+  },
+  {
+    "id": "w04-l21-s04",
+    "promptPl": "Ktoś chce się umówić. Powiedz, w który dzień nie możesz.",
+    "modelItemIds": [
+      "na-sexta-feira-nao-posso"
+    ]
+  },
+  {
+    "id": "w04-l22-s01",
+    "promptPl": "Zapytaj przechodnia, która godzina.",
+    "modelItemIds": [
+      "desculpe-que-horas-sao-q"
+    ]
+  },
+  {
+    "id": "w04-l22-s02",
+    "promptPl": "Spójrz na zegarek i powiedz, która jest godzina (dokładnie albo w przybliżeniu).",
+    "modelItemIds": [
+      "sao-tres-e-meia",
+      "e-uma-hora",
+      "e-meio-dia"
+    ]
+  },
+  {
+    "id": "w04-l22-s03",
+    "promptPl": "Ana proponuje spotkanie. Zapytaj, o której.",
+    "modelItemIds": [
+      "a-que-horas-q"
+    ]
+  },
+  {
+    "id": "w04-l22-s04",
+    "promptPl": "Zaproponuj godzinę spotkania: o piątej.",
+    "modelItemIds": [
+      "as-cinco"
+    ]
+  },
+  {
+    "id": "w04-l23-s01",
+    "promptPl": "Jeśli chcesz, przedstaw kogoś z rodziny (żonę, męża, syna, córkę…). Informacje o dzieciach i rodzinie są zupełnie opcjonalne — możesz mówić o wymyślonej osobie.",
+    "modelItemIds": [
+      "este-e-o-meu-filho",
+      "esta-e-a-minha-mulher",
+      "este-e-o-meu-marido"
+    ]
+  },
+  {
+    "id": "w04-l23-s02",
+    "promptPl": "Powiedz, gdzie mieszka lub jest ktoś z Twojej rodziny.",
+    "modelItemIds": [
+      "a-minha-irma-mora-na-polonia",
+      "a-minha-mae-esta-na-polonia"
+    ]
+  },
+  {
+    "id": "w04-l23-s03",
+    "promptPl": "Poproś grzecznie nieznajomego o pomoc.",
+    "modelItemIds": [
+      "podia-ajudar-me-q"
+    ]
+  },
+  {
+    "id": "w04-l23-s04",
+    "promptPl": "Zamów grzecznie herbatę.",
+    "modelItemIds": [
+      "queria-um-cha-sfv"
+    ]
+  },
+  {
+    "id": "w04-l24-s01",
+    "promptPl": "Przedstaw się nowej osobie w kilku zdaniach: imię, skąd jesteś, gdzie mieszkasz (wiek i rodzina — opcjonalnie).",
+    "modelItemIds": [
+      "eu-sou-polaco",
+      "sou-da-polonia-mas-moro-no-funchal"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w04-l24-s02",
+    "promptPl": "Umów się z kimś: zaproponuj miejsce, dzień i godzinę.",
+    "modelItemIds": [
+      "vamos-a-praia-amanha-q",
+      "no-sabado-vou-a-praia",
+      "as-cinco"
+    ]
+  },
+  {
+    "id": "w04-l24-s03",
+    "promptPl": "Poproś grzecznie o pomoc i powiedz, czego potrzebujesz.",
+    "modelItemIds": [
+      "podia-ajudar-me-q",
+      "preciso-de-ajuda"
+    ]
+  },
+  {
+    "id": "w04-t-s01",
+    "promptPl": "Przedstaw się: imię, narodowość, gdzie mieszkasz, jak się czujesz.",
+    "modelItemIds": [
+      "eu-sou-polaco",
+      "moro-no-funchal",
+      "estou-bem-obrigado"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w04-t-s02",
+    "promptPl": "Powiedz, jaki dziś dzień, która godzina i dokąd idziesz.",
+    "modelItemIds": [
+      "hoje-e-segunda-feira",
+      "sao-tres-e-meia",
+      "vou-ao-supermercado"
+    ]
+  },
+  {
+    "id": "w04-t-s03",
+    "promptPl": "Przedstaw członka rodziny i powiedz, gdzie mieszka. (Opcjonalnie — możesz mówić o wymyślonej osobie.)",
+    "modelItemIds": [
+      "esta-e-a-minha-mulher",
+      "a-minha-irma-mora-na-polonia"
+    ]
+  },
+  {
+    "id": "w04-t-s04",
+    "promptPl": "W kawiarni: zamów grzecznie, zapytaj o cenę i poproś o powtórzenie.",
+    "modelItemIds": [
+      "queria-um-cafe-sfv",
+      "quanto-custa-q",
+      "pode-repetir"
+    ]
+  }
+]

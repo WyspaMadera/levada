@@ -1,0 +1,240 @@
+[
+  {
+    "id": "q-nome",
+    "questionItemId": "como-se-chama",
+    "unlockAfterLessonId": "w01-l04",
+    "topicPl": "O sobie",
+    "hintPl": "Powiedz swoje imię.",
+    "exampleAnswerItemIds": [
+      "chamo-me-ana"
+    ],
+    "usefulItemIds": [
+      "muito-prazer"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "q-tudo-bem",
+    "questionItemId": "tudo-bem-q",
+    "unlockAfterLessonId": "w01-l02",
+    "topicPl": "Powitania",
+    "hintPl": "Odpowiedz krótko, jak w Portugalii.",
+    "exampleAnswerItemIds": [
+      "tudo-bem",
+      "tudo-bem-obrigado"
+    ],
+    "usefulItemIds": [
+      "obrigado"
+    ]
+  },
+  {
+    "id": "q-como-esta",
+    "questionItemId": "como-esta",
+    "unlockAfterLessonId": "w02-l09",
+    "topicPl": "Samopoczucie",
+    "hintPl": "Jak się dziś czujesz? Możesz dodać „obrigado/obrigada”.",
+    "exampleAnswerItemIds": [
+      "estou-bem-obrigado",
+      "estou-cansado"
+    ],
+    "usefulItemIds": [
+      "bem",
+      "cansado",
+      "muito"
+    ]
+  },
+  {
+    "id": "q-de-onde",
+    "questionItemId": "de-onde-e-q",
+    "unlockAfterLessonId": "w02-l08",
+    "topicPl": "O sobie",
+    "hintPl": "Powiedz, skąd jesteś (kraj lub miasto).",
+    "exampleAnswerItemIds": [
+      "sou-da-polonia",
+      "eu-sou-polaco"
+    ],
+    "usefulItemIds": [
+      "ser-sou",
+      "polaco"
+    ]
+  },
+  {
+    "id": "q-fala-pt",
+    "questionItemId": "fala-portugues-q",
+    "unlockAfterLessonId": "w02-l12",
+    "topicPl": "Języki",
+    "hintPl": "Powiedz, jak mówisz po portugalsku.",
+    "exampleAnswerItemIds": [
+      "falo-um-pouco-de-portugues",
+      "nao-falo-bem"
+    ],
+    "usefulItemIds": [
+      "um-pouco",
+      "bem",
+      "mas"
+    ]
+  },
+  {
+    "id": "q-fala-en",
+    "questionItemId": "fala-ingles-q",
+    "unlockAfterLessonId": "w01-l05",
+    "topicPl": "Języki",
+    "hintPl": "Powiedz, czy mówisz po angielsku.",
+    "exampleAnswerItemIds": [
+      "nao-falo-ingles",
+      "falo-um-pouco"
+    ],
+    "usefulItemIds": [
+      "sim",
+      "nao"
+    ]
+  },
+  {
+    "id": "q-onde-esta",
+    "questionItemId": "estas-em-casa-q",
+    "unlockAfterLessonId": "w02-l09",
+    "topicPl": "Gdzie jestem",
+    "hintPl": "Powiedz, gdzie teraz jesteś.",
+    "exampleAnswerItemIds": [
+      "sim-estou-em-casa-e-tu",
+      "estou-no-funchal"
+    ],
+    "usefulItemIds": [
+      "em-casa",
+      "aqui"
+    ]
+  },
+  {
+    "id": "q-fome",
+    "questionItemId": "tem-sede-q",
+    "unlockAfterLessonId": "w02-l10",
+    "topicPl": "Samopoczucie",
+    "hintPl": "Powiedz, czy chce Ci się pić albo czy jesteś głodny/głodna.",
+    "exampleAnswerItemIds": [
+      "nao-tenho-fome-tenho-sede",
+      "tenho-fome"
+    ],
+    "usefulItemIds": [
+      "fome",
+      "sede"
+    ]
+  },
+  {
+    "id": "q-idade",
+    "questionItemId": "quantos-anos-tem-q",
+    "unlockAfterLessonId": "w03-l18",
+    "topicPl": "O sobie",
+    "hintPl": "Powiedz, ile masz lat.",
+    "exampleAnswerItemIds": [
+      "tenho-trinta-e-cinco-anos"
+    ],
+    "usefulItemIds": [
+      "trinta",
+      "quarenta",
+      "vinte"
+    ]
+  },
+  {
+    "id": "q-mora",
+    "questionItemId": "onde-mora-q",
+    "unlockAfterLessonId": "w03-l18",
+    "topicPl": "O sobie",
+    "hintPl": "Powiedz, gdzie mieszkasz.",
+    "exampleAnswerItemIds": [
+      "moro-no-funchal",
+      "moro-na-madeira"
+    ],
+    "usefulItemIds": [
+      "aqui"
+    ],
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "q-filhos",
+    "questionItemId": "tem-filhos-q",
+    "unlockAfterLessonId": "w04-l23",
+    "topicPl": "Rodzina",
+    "hintPl": "Odpowiedz, jeśli chcesz (to pytanie osobiste — możesz pominąć).",
+    "exampleAnswerItemIds": [
+      "tenho-um-filho",
+      "nao-tenho-filhos",
+      "o-meu-filho-tem-cinco-anos"
+    ],
+    "usefulItemIds": [
+      "filho",
+      "filha"
+    ]
+  },
+  {
+    "id": "q-dia",
+    "questionItemId": "que-dia-e-hoje-q",
+    "unlockAfterLessonId": "w04-l21",
+    "topicPl": "Czas",
+    "hintPl": "Powiedz, jaki jest dziś dzień.",
+    "exampleAnswerItemIds": [
+      "hoje-e-segunda-feira"
+    ],
+    "usefulItemIds": [
+      "hoje",
+      "segunda-feira",
+      "domingo"
+    ]
+  },
+  {
+    "id": "q-horas",
+    "questionItemId": "que-horas-sao-q",
+    "unlockAfterLessonId": "w04-l22",
+    "topicPl": "Czas",
+    "hintPl": "Spójrz na zegarek i powiedz, która godzina.",
+    "exampleAnswerItemIds": [
+      "sao-cinco-e-dez",
+      "e-uma-hora",
+      "e-meio-dia"
+    ],
+    "usefulItemIds": [
+      "meia",
+      "um-quarto",
+      "menos"
+    ]
+  },
+  {
+    "id": "q-para-onde",
+    "questionItemId": "para-onde-vais-q",
+    "unlockAfterLessonId": "w04-l19",
+    "topicPl": "Plany",
+    "hintPl": "Powiedz, dokąd idziesz (supermarket, dom, plaża…).",
+    "exampleAnswerItemIds": [
+      "vou-ao-supermercado",
+      "vou-para-casa",
+      "vamos-a-praia"
+    ],
+    "usefulItemIds": [
+      "ir-vou",
+      "para-casa",
+      "a-praia"
+    ]
+  },
+  {
+    "id": "q-quer-cha",
+    "questionItemId": "queres-um-cha-q",
+    "unlockAfterLessonId": "w03-l14",
+    "topicPl": "Kawiarnia",
+    "hintPl": "Odpowiedz: tak albo nie, grzecznie.",
+    "exampleAnswerItemIds": [
+      "nao-quero-obrigado",
+      "sim-sfv-tenho-sede"
+    ],
+    "usefulItemIds": [
+      "queria",
+      "agua"
+    ]
+  }
+]

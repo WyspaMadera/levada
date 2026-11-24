@@ -1,0 +1,1869 @@
+[
+  {
+    "id": "trabalhar",
+    "kind": "word",
+    "pt": "trabalhar",
+    "pl": "pracować",
+    "pronunciation": {
+      "plSlow": "tră-bă-LJAR",
+      "ipa": "tɾɐβɐˈʎaɾ",
+      "notePl": "lh = jeden dźwięk (lj). Dwa pierwsze a są nieakcentowane (ă); akcent na końcu — jak w każdym bezokoliczniku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalhar-trabalho",
+    "kind": "word",
+    "pt": "trabalho",
+    "pl": "(ja) pracuję",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju",
+      "ipa": "tɾɐˈβaʎu",
+      "notePl": "Brzmi tak samo jak rzeczownik „o trabalho” (praca). Akcent przesuwa się na BA.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalhar-trabalha",
+    "kind": "word",
+    "pt": "trabalha",
+    "pl": "(on/ona/Pan/Pani) pracuje",
+    "pronunciation": {
+      "plSlow": "tră-BA-ljă",
+      "ipa": "tɾɐˈβaʎɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falo",
+    "kind": "word",
+    "pt": "falo",
+    "pl": "(ja) mówię",
+    "pronunciation": {
+      "plSlow": "FA-lu",
+      "ipa": "ˈfalu",
+      "notePl": "Akcent na pierwszej sylabie, a otwarte. Końcowe -o → u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-fala",
+    "kind": "word",
+    "pt": "fala",
+    "pl": "(on/ona/Pan/Pani) mówi",
+    "pronunciation": {
+      "plSlow": "FA-lă",
+      "ipa": "ˈfalɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "morar-mora",
+    "kind": "word",
+    "pt": "mora",
+    "pl": "(on/ona/Pan/Pani) mieszka",
+    "pronunciation": {
+      "plSlow": "MO-ră",
+      "ipa": "ˈmɔɾɐ",
+      "notePl": "Otwarte o — jak w „moro”. W bezokoliczniku „morar” o jest nieakcentowane: „mu-RAR”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "onde-trabalha-q",
+    "kind": "phrase",
+    "pt": "Onde trabalha?",
+    "pl": "Gdzie Pan/Pani pracuje? / Gdzie (on/ona) pracuje?",
+    "pronunciation": {
+      "plSlow": "Õ-dy tră-BA-ljă?",
+      "ipa": "ˈõdɨ tɾɐˈβaʎɐ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-no-funchal",
+    "kind": "sentence",
+    "pt": "Trabalho no Funchal.",
+    "pl": "Pracuję w Funchal.",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju nu fũ-SZAɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-em-casa",
+    "kind": "sentence",
+    "pt": "Trabalho em casa.",
+    "pl": "Pracuję w domu.",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalho-aqui",
+    "kind": "sentence",
+    "pt": "Trabalho aqui.",
+    "pl": "Pracuję tutaj.",
+    "pronunciation": {
+      "plSlow": "tră-BA-lju ă-KI.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-trabalha-aqui-q",
+    "kind": "sentence",
+    "pt": "O senhor trabalha aqui?",
+    "pl": "Czy Pan tu pracuje?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR tră-BA-ljă ă-KI?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-trabalha-no-cafe",
+    "kind": "sentence",
+    "pt": "O Rui trabalha no café.",
+    "pl": "Rui pracuje w kawiarni.",
+    "pronunciation": {
+      "plSlow": "u RRUJ tră-BA-ljă nu kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-fala-ingles",
+    "kind": "sentence",
+    "pt": "A Ana fala inglês.",
+    "pl": "Ana mówi po angielsku.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă FA-lă ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-nao-fala-ingles",
+    "kind": "sentence",
+    "pt": "A Ana não fala inglês.",
+    "pl": "Ana nie mówi po angielsku.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă NÃU FA-lă ĩ-GLÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-casa-o-senhor-fala-polaco-q",
+    "kind": "sentence",
+    "pt": "Em casa, o senhor fala polaco?",
+    "pl": "Czy w domu mówi Pan po polsku?",
+    "pronunciation": {
+      "plSlow": "ãj KA-ză, u sy-ŃÔR FA-lă pu-LA-ku?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-em-casa-falo-polaco",
+    "kind": "sentence",
+    "pt": "Sim, em casa falo polaco.",
+    "pl": "Tak, w domu mówię po polsku.",
+    "pronunciation": {
+      "plSlow": "SĨ, ãj KA-ză FA-lu pu-LA-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-ele-tambem-fala-polaco-q",
+    "kind": "sentence",
+    "pt": "E ele? Também fala polaco?",
+    "pl": "A on? Też mówi po polsku?",
+    "pronunciation": {
+      "plSlow": "i Ê-ly? tã-BÃJ FA-lă pu-LA-ku?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fala-polaco-e-um-pouco-de-portugues",
+    "kind": "sentence",
+    "pt": "Fala polaco e um pouco de português.",
+    "pl": "Mówi po polsku i trochę po portugalsku.",
+    "pronunciation": {
+      "plSlow": "FA-lă pu-LA-ku i ũ PÔ-ku dy pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-e-o-senhor-trabalha-hoje-q",
+    "kind": "sentence",
+    "pt": "Muito bem! E o senhor? Trabalha hoje?",
+    "pl": "Świetnie! A Pan? Pracuje Pan dzisiaj?",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! i u sy-ŃÔR? tră-BA-ljă Ô-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-trabalho-no-funchal-ate-as-cinco",
+    "kind": "sentence",
+    "pt": "Sim, trabalho no Funchal, até às cinco.",
+    "pl": "Tak, pracuję w Funchal, do piątej.",
+    "pronunciation": {
+      "plSlow": "SĨ, tră-BA-lju nu fũ-SZAɫ, ă-TE asz SĨ-ku.",
+      "notePl": "até às cinco = do (godziny) piątej.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer",
+    "kind": "word",
+    "pt": "comer",
+    "pl": "jeść",
+    "pronunciation": {
+      "plSlow": "ku-MÊR",
+      "ipa": "kuˈmeɾ",
+      "notePl": "Nieakcentowane o → u; akcentowane ê zamknięte.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-como",
+    "kind": "word",
+    "pt": "como",
+    "pl": "(ja) jem",
+    "pronunciation": {
+      "plSlow": "KÔ-mu",
+      "ipa": "ˈkomu",
+      "notePl": "Zamknięte ô. Brzmi tak samo jak „como” = jak (Como está?).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-come",
+    "kind": "word",
+    "pt": "come",
+    "pl": "(on/ona/Pan/Pani) je",
+    "pronunciation": {
+      "plSlow": "KO-my",
+      "plNatural": "KOM(y)",
+      "ipa": "ˈkɔmɨ",
+      "notePl": "OTWARTE o — inaczej niż w „como” (ja jem). Taka zmiana samogłoski w odmianie (metafonia) jest typowa dla czasowników na -er w PT-PT.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beber-bebo",
+    "kind": "word",
+    "pt": "bebo",
+    "pl": "(ja) piję",
+    "pronunciation": {
+      "plSlow": "BÊ-bu",
+      "ipa": "ˈbeβu",
+      "notePl": "Zamknięte ê; b między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "beber-bebe",
+    "kind": "word",
+    "pt": "bebe",
+    "pl": "(on/ona/Pan/Pani) pije",
+    "pronunciation": {
+      "plSlow": "BE-by",
+      "ipa": "ˈbɛβɨ",
+      "notePl": "OTWARTE e — tak jak w parze como / come: ja bebo (ê), on bebe (e).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "abrir-abre",
+    "kind": "word",
+    "pt": "abre",
+    "pl": "(on/ona/Pan/Pani; coś) otwiera; (sklep, kawiarnia) jest otwarty od…",
+    "pronunciation": {
+      "plSlow": "A-bry",
+      "ipa": "ˈaβɾɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "usagePl": "O café abre às oito. — Kawiarnia otwiera się o ósmej (po portugalsku bez „się”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-como-em-casa",
+    "kind": "sentence",
+    "pt": "Hoje como em casa.",
+    "pl": "Dziś jem w domu.",
+    "pronunciation": {
+      "plSlow": "Ô-ży KÔ-mu ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-bebo-cafe",
+    "kind": "sentence",
+    "pt": "Não bebo café.",
+    "pl": "Nie piję kawy.",
+    "pronunciation": {
+      "plSlow": "NÃU BÊ-bu kă-FE.",
+      "notePl": "Po polsku „kawy” (dopełniacz), po portugalsku forma się nie zmienia: café.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bebo-muito-cafe",
+    "kind": "sentence",
+    "pt": "Bebo muito café.",
+    "pl": "Piję dużo kawy.",
+    "pronunciation": {
+      "plSlow": "BÊ-bu MŨJ-tu kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-come-pao",
+    "kind": "sentence",
+    "pt": "A Ana come pão.",
+    "pl": "Ana je chleb.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă KO-my PÃU.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-nao-bebe-cafe",
+    "kind": "sentence",
+    "pt": "A Ana não bebe café.",
+    "pl": "Ana nie pije kawy.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă NÃU BE-by kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-cafe-abre-as-oito",
+    "kind": "sentence",
+    "pt": "O café abre às oito.",
+    "pl": "Kawiarnia otwiera się o ósmej.",
+    "pronunciation": {
+      "plSlow": "u kă-FE A-bry az ÔJ-tu.",
+      "plNatural": "u kă-FE A-bry a‿ZÔJ-tu.",
+      "notePl": "às przed samogłoską: s → z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-senhor-bebe-cha-q",
+    "kind": "sentence",
+    "pt": "O senhor bebe chá?",
+    "pl": "Czy Pan pije herbatę?",
+    "pronunciation": {
+      "plSlow": "u sy-ŃÔR BE-by SZA?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "boa-tarde-o-senhor-come-aqui-hoje-q",
+    "kind": "sentence",
+    "pt": "Boa tarde! O senhor come aqui hoje?",
+    "pl": "Dzień dobry! Je Pan dziś tutaj?",
+    "pronunciation": {
+      "plSlow": "BÔ-ă TAR-dy! u sy-ŃÔR KO-my ă-KI Ô-ży?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-como-aqui-e-a-senhora",
+    "kind": "sentence",
+    "pt": "Sim, como aqui. E a senhora?",
+    "pl": "Tak, jem tutaj. A Pani?",
+    "pronunciation": {
+      "plSlow": "SĨ, KÔ-mu ă-KI. i ă sy-ŃO-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tambem-a-sopa-aqui-e-muito-boa",
+    "kind": "sentence",
+    "pt": "Também. A sopa aqui é muito boa!",
+    "pl": "Też. Zupa jest tu bardzo dobra!",
+    "pronunciation": {
+      "plSlow": "tã-BÃJ. ă SÔ-pă ă-KI E MŨJ-tu BÔ-ă!",
+      "notePl": "boa = dobra (jak w „boa tarde”).",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "como-sopa-e-pao-e-bebo-uma-agua",
+    "kind": "sentence",
+    "pt": "Como sopa e pão. E bebo uma água.",
+    "pl": "Zjem zupę i chleb. I wypiję wodę.",
+    "pronunciation": {
+      "plSlow": "KÔ-mu SÔ-pă i PÃU. i BÊ-bu U-mă A-guă.",
+      "notePl": "Czas teraźniejszy często mówi też o tym, co zaraz zrobię: Como sopa = Zjem zupę.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nao-bebe-cafe-q",
+    "kind": "sentence",
+    "pt": "Não bebe café?",
+    "pl": "Nie pije Pan kawy?",
+    "pronunciation": {
+      "plSlow": "NÃU BE-by kă-FE?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "hoje-nao-bebo-cafe",
+    "kind": "sentence",
+    "pt": "Hoje não bebo café.",
+    "pl": "Dziś nie piję kawy.",
+    "pronunciation": {
+      "plSlow": "Ô-ży NÃU BÊ-bu kă-FE.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "acordar-acordo",
+    "kind": "word",
+    "pt": "acordo",
+    "pl": "(ja) budzę się",
+    "pronunciation": {
+      "plSlow": "ă-KOR-du",
+      "ipa": "ɐˈkɔɾðu",
+      "notePl": "Otwarte o (czasownik). „acordar” = budzić się — po portugalsku bez „się”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levanto-me",
+    "kind": "phrase",
+    "pt": "levanto-me",
+    "pl": "wstaję",
+    "pronunciation": {
+      "plSlow": "ly-WÃ-tu-my",
+      "ipa": "lɨˈvɐ̃tu mɨ",
+      "notePl": "an = nosowe ã. Zaimek -me stoi po czasowniku, z łącznikiem — jak w „chamo-me”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "usagePl": "O kimś / do Pana, Pani: levanta-se (wstaje). W pytaniu: A que horas se levanta?",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "deito-me",
+    "kind": "phrase",
+    "pt": "deito-me",
+    "pl": "kładę się (spać)",
+    "pronunciation": {
+      "plSlow": "DĂJ-tu-my",
+      "ipa": "ˈdɐjtu mɨ",
+      "notePl": "ei = ăj (norma lizbońska, jak w „Madeira”); wariant „DEJ-tu-my” też jest często słyszany.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tomo-o-pequeno-almoco",
+    "kind": "phrase",
+    "pt": "tomo o pequeno-almoço",
+    "pl": "jem śniadanie",
+    "pronunciation": {
+      "plSlow": "TO-mu u py-KÊ-nu aɫ-MÔ-su",
+      "ipa": "ˈtɔmu u pɨˈkenu aɫˈmosu",
+      "notePl": "tomo — otwarte o. almoço — ciemne ɫ i zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "jedzenie"
+    ],
+    "usagePl": "Śniadanie się „bierze” (tomar), dosł. „biorę małe śniadanie”. W Portugalii tylko „pequeno-almoço” (wersja brazylijska jest inna).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-manha",
+    "kind": "phrase",
+    "pt": "de manhã",
+    "pl": "rano; przed południem",
+    "pronunciation": {
+      "plSlow": "dy mă-ŃÃ",
+      "ipa": "dɨ mɐˈɲɐ̃",
+      "notePl": "Porównaj: amanhã (jutro) = „ă-mă-ŃÃ”. Tu na początku jest „de”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-tarde",
+    "kind": "phrase",
+    "pt": "à tarde",
+    "pl": "po południu",
+    "pronunciation": {
+      "plSlow": "a TAR-dy",
+      "ipa": "a ˈtaɾdɨ",
+      "notePl": "à (a + a) — otwarte a.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite",
+    "kind": "phrase",
+    "pt": "à noite",
+    "pl": "wieczorem; w nocy",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty",
+      "ipa": "a ˈnojtɨ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-se-levanta-q",
+    "kind": "sentence",
+    "pt": "A que horas se levanta?",
+    "pl": "O której Pan/Pani wstaje?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz sy ly-WÃ-tă?",
+      "plNatural": "ă KJO-răsz sy ly-WÃ-tă?",
+      "notePl": "Po pytajniku („a que horas”) zaimek „se” stoi PRZED czasownikiem — jak w „Como se chama?”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "acordo-as-seis",
+    "kind": "sentence",
+    "pt": "Acordo às seis.",
+    "pl": "Budzę się o szóstej.",
+    "pronunciation": {
+      "plSlow": "ă-KOR-du asz SĂJSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levanto-me-as-seis-e-meia",
+    "kind": "sentence",
+    "pt": "Levanto-me às seis e meia.",
+    "pl": "Wstaję o wpół do siódmej (6:30).",
+    "pronunciation": {
+      "plSlow": "ly-WÃ-tu-my asz SĂJZ i MĂJ-ă.",
+      "plNatural": "ly-WÃ-tu-my asz SĂJ‿ZI MĂJ-ă.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "tomo-o-pequeno-almoco-em-casa",
+    "kind": "sentence",
+    "pt": "Tomo o pequeno-almoço em casa.",
+    "pl": "Jem śniadanie w domu.",
+    "pronunciation": {
+      "plSlow": "TO-mu u py-KÊ-nu aɫ-MÔ-su ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "de-manha-trabalho-no-funchal",
+    "kind": "sentence",
+    "pt": "De manhã trabalho no Funchal.",
+    "pl": "Rano pracuję w Funchal.",
+    "pronunciation": {
+      "plSlow": "dy mă-ŃÃ tră-BA-lju nu fũ-SZAɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-tarde-estou-em-casa",
+    "kind": "sentence",
+    "pt": "À tarde estou em casa.",
+    "pl": "Po południu jestem w domu.",
+    "pronunciation": {
+      "plSlow": "a TAR-dy ysz-TÔ ãj KA-ză.",
+      "plNatural": "a TAR-dy SZTÔ‿ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite-deito-me-as-onze",
+    "kind": "sentence",
+    "pt": "À noite deito-me às onze.",
+    "pl": "Wieczorem kładę się o jedenastej.",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty DĂJ-tu-my az Õ-zy.",
+      "plNatural": "a NÔJ-ty DĂJ-tu-my a‿ZÕ-zy.",
+      "notePl": "Określenie czasu na początku zdania nie zmienia szyku: nadal „deito-me”.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "bom-dia-esta-cansado-q",
+    "kind": "sentence",
+    "pt": "Bom dia! Está cansado?",
+    "pl": "Dzień dobry! Jest Pan zmęczony?",
+    "pronunciation": {
+      "plSlow": "BÕ DI-ă! ysz-TA kã-SA-du?",
+      "plNatural": "BÕ DI-ă! SZTA kã-SA-du?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "um-pouco-acordo-as-seis",
+    "kind": "sentence",
+    "pt": "Um pouco. Acordo às seis.",
+    "pl": "Trochę. Budzę się o szóstej.",
+    "pronunciation": {
+      "plSlow": "ũ PÔ-ku. ă-KOR-du asz SĂJSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-seis-e-a-que-horas-se-levanta-q",
+    "kind": "sentence",
+    "pt": "Às seis? E a que horas se levanta?",
+    "pl": "O szóstej? A o której Pan wstaje?",
+    "pronunciation": {
+      "plSlow": "asz SĂJSZ? i ă ky O-răsz sy ly-WÃ-tă?",
+      "plNatural": "asz SĂJSZ? i ă KJO-răsz sy ly-WÃ-tă?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "levanto-me-as-seis-e-meia-e-a-senhora-q",
+    "kind": "sentence",
+    "pt": "Levanto-me às seis e meia. E a senhora?",
+    "pl": "Wstaję o wpół do siódmej. A Pani?",
+    "pronunciation": {
+      "plSlow": "ly-WÃ-tu-my asz SĂJZ i MĂJ-ă. i ă sy-ŃO-ră?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-tambem-as-seis-e-meia-ate-logo",
+    "kind": "sentence",
+    "pt": "Eu também! Às seis e meia. Até logo!",
+    "pl": "Ja też! O wpół do siódmej. Do zobaczenia!",
+    "pronunciation": {
+      "plSlow": "ÊU tã-BÃJ! asz SĂJZ i MĂJ-ă. ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falas",
+    "kind": "word",
+    "pt": "falas",
+    "pl": "(ty) mówisz",
+    "pronunciation": {
+      "plSlow": "FA-lăsz",
+      "ipa": "ˈfalɐʃ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comes",
+    "kind": "word",
+    "pt": "comes",
+    "pl": "(ty) jesz",
+    "pronunciation": {
+      "plSlow": "KO-mysz",
+      "ipa": "ˈkɔmɨʃ",
+      "notePl": "Otwarte o — jak w „come”. Tylko „como” (ja) ma zamknięte ô.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falamos",
+    "kind": "word",
+    "pt": "falamos",
+    "pl": "(my) mówimy",
+    "pronunciation": {
+      "plSlow": "fă-LĂ-musz",
+      "ipa": "fɐˈlɐmuʃ",
+      "notePl": "W czasie teraźniejszym akcentowane a przed m = ă. (Forma czasu przeszłego „falámos” ma otwarte a — poznasz ją później.)",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comemos",
+    "kind": "word",
+    "pt": "comemos",
+    "pl": "(my) jemy",
+    "pronunciation": {
+      "plSlow": "ku-MÊ-musz",
+      "ipa": "kuˈmemuʃ",
+      "notePl": "Zamknięte ê; pierwsze o → u.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sempre",
+    "kind": "word",
+    "pt": "sempre",
+    "pl": "zawsze",
+    "pronunciation": {
+      "plSlow": "SẼ-pry",
+      "plNatural": "SẼPR(y)",
+      "ipa": "ˈsẽpɾɨ",
+      "notePl": "em przed p = nosowe ẽ; końcowe e bardzo słabe.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czestotliwosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-vezes",
+    "kind": "phrase",
+    "pt": "às vezes",
+    "pl": "czasem, czasami",
+    "pronunciation": {
+      "plSlow": "aż WÊ-zysz",
+      "ipa": "aʒ ˈvezɨʃ",
+      "notePl": "s w „às” przed dźwięcznym v → ż. W „vezes” zamknięte ê.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czestotliwosc"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nunca",
+    "kind": "word",
+    "pt": "nunca",
+    "pl": "nigdy",
+    "pronunciation": {
+      "plSlow": "NŨ-kă",
+      "ipa": "ˈnũkɐ",
+      "notePl": "un przed k = nosowe ũ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "czestotliwosc"
+    ],
+    "usagePl": "Nunca bebo café. — Nigdy nie piję kawy. Gdy „nunca” stoi przed czasownikiem, NIE dodajemy „não” (po polsku: „nigdy NIE piję”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comes-sempre-aqui-q",
+    "kind": "sentence",
+    "pt": "Comes sempre aqui?",
+    "pl": "Zawsze tu jesz?",
+    "pronunciation": {
+      "plSlow": "KO-mysz SẼ-pry ă-KI?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-comemos-sempre-em-casa",
+    "kind": "sentence",
+    "pt": "Nós comemos sempre em casa.",
+    "pl": "(My) zawsze jemy w domu.",
+    "pronunciation": {
+      "plSlow": "NOSZ ku-MÊ-musz SẼ-pry ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-vezes-falamos-portugues",
+    "kind": "sentence",
+    "pt": "Às vezes falamos português.",
+    "pl": "Czasem mówimy po portugalsku.",
+    "pronunciation": {
+      "plSlow": "aż WÊ-zysz fă-LĂ-musz pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nunca-bebo-cafe-a-noite",
+    "kind": "sentence",
+    "pt": "Nunca bebo café à noite.",
+    "pl": "Nigdy nie piję kawy wieczorem.",
+    "pronunciation": {
+      "plSlow": "NŨ-kă BÊ-bu kă-FE a NÔJ-ty.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-casa-falamos-polaco",
+    "kind": "sentence",
+    "pt": "Em casa falamos polaco.",
+    "pl": "W domu mówimy po polsku.",
+    "pronunciation": {
+      "plSlow": "ãj KA-ză fă-LĂ-musz pu-LA-ku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-que-horas-te-levantas-q",
+    "kind": "sentence",
+    "pt": "A que horas te levantas?",
+    "pl": "O której wstajesz?",
+    "pronunciation": {
+      "plSlow": "ă ky O-răsz ty ly-WÃ-tăsz?",
+      "plNatural": "ă KJO-răsz ty ly-WÃ-tăsz?",
+      "notePl": "Forma „ty”: te + levantas. Po pytajniku zaimek stoi przed czasownikiem.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-comes-sempre-aqui-q",
+    "kind": "sentence",
+    "pt": "Olá! Comes sempre aqui?",
+    "pl": "Cześć! Zawsze tu jesz?",
+    "pronunciation": {
+      "plSlow": "o-LA! KO-mysz SẼ-pry ă-KI?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-vezes-e-tu",
+    "kind": "sentence",
+    "pt": "Às vezes. E tu?",
+    "pl": "Czasami. A ty?",
+    "pronunciation": {
+      "plSlow": "aż WÊ-zysz. i TU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eu-como-sempre-em-casa",
+    "kind": "sentence",
+    "pt": "Eu como sempre em casa.",
+    "pl": "Ja zawsze jem w domu.",
+    "pronunciation": {
+      "plSlow": "ÊU KÔ-mu SẼ-pry ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-noite-nos-tambem-comemos-em-casa",
+    "kind": "sentence",
+    "pt": "À noite, nós também comemos em casa.",
+    "pl": "Wieczorem my też jemy w domu.",
+    "pronunciation": {
+      "plSlow": "a NÔJ-ty, NOSZ tã-BÃJ ku-MÊ-muz ãj KA-ză.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-casa-falas-polaco-ou-portugues-q",
+    "kind": "sentence",
+    "pt": "Em casa falas polaco ou português?",
+    "pl": "W domu mówisz po polsku czy po portugalsku?",
+    "pronunciation": {
+      "plSlow": "ãj KA-ză FA-lăsz pu-LA-ku ô pur-tu-GÊSZ?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falamos-polaco-as-vezes-portugues",
+    "kind": "sentence",
+    "pt": "Falamos polaco. Às vezes, português!",
+    "pl": "Mówimy po polsku. Czasem po portugalsku!",
+    "pronunciation": {
+      "plSlow": "fă-LĂ-musz pu-LA-ku. aż WÊ-zysz, pur-tu-GÊSZ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "fazer",
+    "kind": "word",
+    "pt": "fazer",
+    "pl": "robić",
+    "pronunciation": {
+      "plSlow": "fă-ZÊR",
+      "ipa": "fɐˈzeɾ",
+      "notePl": "Zamknięte ê, akcent na końcu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "usagePl": "Na razie tylko bezokolicznik: O que estás a fazer? Odmianę „fazer” poznasz w tygodniu 9 (formę „faz” znasz już z „se faz favor”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "agora",
+    "kind": "word",
+    "pt": "agora",
+    "pl": "teraz",
+    "pronunciation": {
+      "plSlow": "ă-GO-ră",
+      "ipa": "ɐˈɣɔɾɐ",
+      "notePl": "Otwarte o; g między samogłoskami miękkie.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a",
+      "czas"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-a-trabalhar",
+    "kind": "sentence",
+    "pt": "Estou a trabalhar.",
+    "pl": "(Właśnie) pracuję. / Jestem teraz w pracy.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ ă tră-bă-LJAR.",
+      "plNatural": "SZTÔ ă tră-bă-LJAR.",
+      "notePl": "estar a + bezokolicznik = to, co robię w tej chwili. Po „a” czasownik zostaje w bezokoliczniku.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-esta-a-fazer-q",
+    "kind": "sentence",
+    "pt": "O que está a fazer?",
+    "pl": "Co Pan/Pani (teraz) robi?",
+    "pronunciation": {
+      "plSlow": "u ky ysz-TA ă fă-ZÊR?",
+      "plNatural": "u ky‿SZTA ă fă-ZÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a",
+      "pytania"
+    ],
+    "register": "formal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-que-estas-a-fazer-q",
+    "kind": "sentence",
+    "pt": "O que estás a fazer?",
+    "pl": "Co (teraz) robisz?",
+    "pronunciation": {
+      "plSlow": "u ky ysz-TAZ ă fă-ZÊR?",
+      "plNatural": "u ky‿SZTA‿ză fă-ZÊR?",
+      "notePl": "estás przed samogłoską: s → z.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a",
+      "pytania"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ao-telemovel",
+    "kind": "phrase",
+    "pt": "ao telemóvel",
+    "pl": "przez telefon (rozmawiać)",
+    "pronunciation": {
+      "plSlow": "au te-le-MO-weɫ",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "usagePl": "falar ao telemóvel — rozmawiać przez telefon (dosł. „przy telefonie”).",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-a-comer",
+    "kind": "sentence",
+    "pt": "Estou a comer.",
+    "pl": "(Właśnie) jem.",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ ă ku-MÊR.",
+      "plNatural": "SZTÔ ă ku-MÊR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "a-ana-esta-a-falar-ao-telemovel",
+    "kind": "sentence",
+    "pt": "A Ana está a falar ao telemóvel.",
+    "pl": "Ana (właśnie) rozmawia przez telefon.",
+    "pronunciation": {
+      "plSlow": "ă Ă-nă ysz-TA ă fă-LAR au te-le-MO-weɫ.",
+      "plNatural": "ă Ă-nă SZTA ă fă-LAR au te-le-MO-weɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "agora-estamos-a-comer",
+    "kind": "sentence",
+    "pt": "Agora estamos a comer.",
+    "pl": "Teraz jemy.",
+    "pronunciation": {
+      "plSlow": "ă-GO-ră ysz-TĂ-muz ă ku-MÊR.",
+      "plNatural": "ă-GO-ră SZTĂ-mu‿ză ku-MÊR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-esta-a-trabalhar",
+    "kind": "sentence",
+    "pt": "O Rui está a trabalhar.",
+    "pl": "Rui (teraz) pracuje.",
+    "pronunciation": {
+      "plSlow": "u RRUJ ysz-TA ă tră-bă-LJAR.",
+      "plNatural": "u RRUJ SZTA ă tră-bă-LJAR.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-o-que-estas-a-fazer-q",
+    "kind": "sentence",
+    "pt": "Olá! O que estás a fazer?",
+    "pl": "Cześć! Co robisz?",
+    "pronunciation": {
+      "plSlow": "o-LA! u ky ysz-TAZ ă fă-ZÊR?",
+      "plNatural": "o-LA! u ky‿SZTA‿ză fă-ZÊR?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "agora-estou-a-comer-e-tu",
+    "kind": "sentence",
+    "pt": "Agora? Estou a comer. E tu?",
+    "pl": "Teraz? Jem. A ty?",
+    "pronunciation": {
+      "plSlow": "ă-GO-ră? ysz-TÔ ă ku-MÊR. i TU?",
+      "plNatural": "ă-GO-ră? SZTÔ ă ku-MÊR. i TU?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "estou-a-trabalhar-mas-as-cinco-vou-a-praia-vamos-q",
+    "kind": "sentence",
+    "pt": "Estou a trabalhar. Mas às cinco vou à praia. Vamos?",
+    "pl": "Pracuję. Ale o piątej idę na plażę. Idziemy (razem)?",
+    "pronunciation": {
+      "plSlow": "ysz-TÔ ă tră-bă-LJAR. măz asz SĨ-ku WÔ a PRAJ-ă. WĂ-musz?",
+      "plNatural": "SZTÔ ă tră-bă-LJAR. mă‿zasz SĨ-ku WÔ a PRAJ-ă. WĂ-musz?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "as-cinco-esta-bem-ate-logo",
+    "kind": "sentence",
+    "pt": "Às cinco? Está bem! Até logo!",
+    "pl": "O piątej? Dobrze! Do zobaczenia!",
+    "pronunciation": {
+      "plSlow": "asz SĨ-ku? ysz-TA BÃJ! ă-TE LO-gu!",
+      "plNatural": "asz SĨ-ku? SZTA BÃJ! ă-TE LO-gu!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "estar-a"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falar-falam",
+    "kind": "word",
+    "pt": "falam",
+    "pl": "(oni/one; Państwo) mówią",
+    "pronunciation": {
+      "plSlow": "FA-lãu",
+      "ipa": "ˈfalɐ̃w̃",
+      "notePl": "Końcówka -am to nosowe „ãu” — jak w „não”, ale nieakcentowane.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "trabalhar-trabalham",
+    "kind": "word",
+    "pt": "trabalham",
+    "pl": "(oni/one; Państwo) pracują",
+    "pronunciation": {
+      "plSlow": "tră-BA-ljãu",
+      "ipa": "tɾɐˈβaʎɐ̃w̃",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "morar-moram",
+    "kind": "word",
+    "pt": "moram",
+    "pl": "(oni/one; Państwo) mieszkają",
+    "pronunciation": {
+      "plSlow": "MO-rãu",
+      "ipa": "ˈmɔɾɐ̃w̃",
+      "notePl": "Otwarte o, jak w moro / mora.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "comer-comem",
+    "kind": "word",
+    "pt": "comem",
+    "pl": "(oni/one; Państwo) jedzą",
+    "pronunciation": {
+      "plSlow": "KO-mãj",
+      "ipa": "ˈkɔmɐ̃j̃",
+      "notePl": "Końcówka -em = nosowe „ãj” (jak w „mãe”, „tem”). Otwarte o.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "jedzenie"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-falam-portugues",
+    "kind": "sentence",
+    "pt": "Eles falam português.",
+    "pl": "Oni mówią po portugalsku.",
+    "pronunciation": {
+      "plSlow": "Ê-lysz FA-lãu pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "o-rui-e-a-ana-trabalham-no-funchal",
+    "kind": "sentence",
+    "pt": "O Rui e a Ana trabalham no Funchal.",
+    "pl": "Rui i Ana pracują w Funchal.",
+    "pronunciation": {
+      "plSlow": "u RRUJ i ă Ă-nă tră-BA-ljãu nu fũ-SZAɫ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki",
+      "praca"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "nos-falamos-portugues",
+    "kind": "sentence",
+    "pt": "Nós falamos português.",
+    "pl": "(My) mówimy po portugalsku.",
+    "pronunciation": {
+      "plSlow": "NOSZ fă-LĂ-musz pur-tu-GÊSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "eles-comem-as-oito",
+    "kind": "sentence",
+    "pt": "Eles comem às oito.",
+    "pl": "Oni jedzą o ósmej.",
+    "pronunciation": {
+      "plSlow": "Ê-lysz KO-mãj az ÔJ-tu.",
+      "plNatural": "Ê-lysz KO-mãj a‿ZÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "em-casa-falam-portugues-q",
+    "kind": "sentence",
+    "pt": "Em casa falam português?",
+    "pl": "Czy w domu mówicie po portugalsku?",
+    "pronunciation": {
+      "plSlow": "ãj KA-ză FA-lãu pur-tu-GÊSZ?",
+      "notePl": "Pytanie do całej rodziny (vocês) — czasownik w 3. osobie l.mn.: falam.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "ola-vais-para-casa-q",
+    "kind": "sentence",
+    "pt": "Olá! Vais para casa?",
+    "pl": "Cześć! Idziesz do domu?",
+    "pronunciation": {
+      "plSlow": "o-LA! WAJSZ PĂ-ră KA-ză?",
+      "plNatural": "o-LA! WAJSZ pră KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "vou-estou-cansado-acordo-sempre-as-seis",
+    "kind": "sentence",
+    "pt": "Vou. Estou cansado. Acordo sempre às seis.",
+    "ptFem": "Vou. Estou cansada. Acordo sempre às seis.",
+    "pl": "Tak (idę). Jestem zmęczony. Zawsze budzę się o szóstej.",
+    "plFem": "Tak (idę). Jestem zmęczona. Zawsze budzę się o szóstej.",
+    "pronunciation": {
+      "plSlow": "WÔ. ysz-TÔ kã-SA-du. ă-KOR-du SẼ-pry asz SĂJSZ.",
+      "plNatural": "WÔ. SZTÔ kã-SA-du. ă-KOR-du SẼ-pry asz SĂJSZ.",
+      "notePl": "Na pytanie „Vais…?” Portugalczycy odpowiadają, powtarzając czasownik: Vou. (= tak).",
+      "needsReview": true
+    },
+    "pronunciationFem": {
+      "plSlow": "WÔ. ysz-TÔ kã-SA-dă. ă-KOR-du SẼ-pry asz SĂJSZ.",
+      "plNatural": "WÔ. SZTÔ kã-SA-dă. ă-KOR-du SẼ-pry asz SĂJSZ.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "e-a-noite-comes-em-casa-q",
+    "kind": "sentence",
+    "pt": "E à noite? Comes em casa?",
+    "pl": "A wieczorem? Jesz w domu?",
+    "pronunciation": {
+      "plSlow": "i a NÔJ-ty? KO-myz ãj KA-ză?",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "register": "informal",
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "sim-comemos-sempre-em-casa-as-oito",
+    "kind": "sentence",
+    "pt": "Sim, comemos sempre em casa, às oito.",
+    "pl": "Tak, zawsze jemy w domu, o ósmej.",
+    "pronunciation": {
+      "plSlow": "SĨ, ku-MÊ-musz SẼ-pry ãj KA-ză, az ÔJ-tu.",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "falamos-polaco-mas-o-meu-filho-fala-portugues",
+    "kind": "sentence",
+    "pt": "Falamos polaco. Mas o meu filho fala português!",
+    "pl": "Mówimy po polsku. Ale mój syn mówi po portugalsku!",
+    "pronunciation": {
+      "plSlow": "fă-LĂ-musz pu-LA-ku. măz u MÊU FI-lju FA-lă pur-tu-GÊSZ!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "czasowniki"
+    ],
+    "reviewStatus": "draft"
+  },
+  {
+    "id": "muito-bem-boa-noite",
+    "kind": "sentence",
+    "pt": "Muito bem! Boa noite!",
+    "pl": "Świetnie! Dobranoc!",
+    "pronunciation": {
+      "plSlow": "MŨJ-tu BÃJ! BÔ-ă NÔJ-ty!",
+      "needsReview": true
+    },
+    "level": "A1",
+    "tags": [
+      "w05",
+      "rytm-dnia"
+    ],
+    "reviewStatus": "draft"
+  }
+]

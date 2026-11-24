@@ -1,0 +1,646 @@
+[
+  {
+    "id": "w11-l61",
+    "week": 11,
+    "day": 1,
+    "phase": 3,
+    "titlePl": "Wczoraj rozmawiałem: czas przeszły -ar",
+    "subtitlePl": "ontem · falei, falaste, falou, falámos, falaram · trabalhei, jantei",
+    "goals": [
+      "Mówić, co zrobiłem wczoraj: czasowniki na -ar w czasie przeszłym",
+      "Odróżniać falamos (teraz) od falámos (wczoraj)",
+      "Odpowiadać „tak”, powtarzając czasownik: Falei, sim."
+    ],
+    "canDo": [
+      "Powiem: Ontem trabalhei em casa. Ontem jantei fora.",
+      "Zapytam: Falaste com o Rui?",
+      "Odpowiem: Falei, sim!"
+    ],
+    "prerequisites": [
+      "w10-l60"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "diphthongs",
+      "textPl": "falei „fă-LĂJ” — końcowe -ei w normie lizbońskiej brzmi jak „ăj” (jak w „Madeira”). Akcent na końcu: fa-LEI, trabalhei „tră-bă-LJĂJ”.",
+      "itemIds": [
+        "falar-falei",
+        "trabalhar-trabalhei"
+      ]
+    },
+    "newItemIds": [
+      "ontem",
+      "falar-falei",
+      "falar-falaste",
+      "falar-falou",
+      "falar-falamos-pp",
+      "falar-falaram",
+      "trabalhar-trabalhei",
+      "jantar-jantei"
+    ],
+    "grammar": {
+      "titlePl": "Pretérito perfeito: czasowniki na -ar",
+      "explanationPl": "**Pretérito perfeito** to podstawowy czas przeszły: mówimy nim o rzeczach, które się wydarzyły i zakończyły (wczoraj, w sobotę, w zeszłym tygodniu). Po polsku: „pracowałem”, „zjadłem”, „poszedłem”.\n\n**Czasowniki na -ar** (falar, trabalhar, jantar…): odcinamy -ar i dodajemy końcówki:\n• eu **falei** · tu **falaste** · ele / ela / o senhor **falou**\n• nós **falámos** · eles / elas / os senhores (i vocês) **falaram**\nTak samo: trabalh**ei**, jant**ei**, morei, visitei, nadei…\n\n**Uwaga: falamos czy falámos?** W Portugalii czas przeszły „my” piszemy z akcentem: *Ontem **falámos** português.* (wczoraj mówiliśmy), a teraźniejszy bez: *Em casa **falamos** polaco.* (mówimy). Słychać różnicę: w czasie przeszłym akcentowane a jest **otwarte** jak polskie a (fă-**LA**-musz), w teraźniejszym **przytłumione** ă (fă-**LĂ**-musz). (Porozumienie ortograficzne pozwala pominąć ten akcent, ale w Portugalii standardem jest falámos.)\n\n**Akcent:** falei, falou — na końcu; falaste, falámos, falaram — na „la”.\n\n**Tak / nie:** zamiast samego „sim” często powtarzamy czasownik: *Falaste com o Rui? — **Falei**, sim.*\n\n**ontem** = wczoraj: *ontem de manhã, ontem à tarde, ontem à noite*.",
+      "table": [
+        [
+          "falei",
+          "(ja) mówiłem / mówiłam"
+        ],
+        [
+          "falaste",
+          "(ty) mówiłeś / mówiłaś"
+        ],
+        [
+          "falou",
+          "on / ona / Pan / Pani mówił(a)"
+        ],
+        [
+          "falámos",
+          "(my) mówiliśmy"
+        ],
+        [
+          "falaram",
+          "(oni / Państwo / wy) mówili"
+        ],
+        [
+          "falamos ≠ falámos",
+          "mówimy ≠ mówiliśmy"
+        ]
+      ],
+      "tableItemIds": [
+        "falar-falei",
+        "falar-falaste",
+        "falar-falou",
+        "falar-falamos-pp",
+        "falar-falaram",
+        "falar-falamos"
+      ],
+      "exampleIds": [
+        "ontem-trabalhei-em-casa",
+        "ontem-falei-com-a-ana",
+        "falaste-com-o-rui-q",
+        "a-marta-falou-com-o-meu-filho",
+        "ontem-falamos-portugues",
+        "ontem-jantei-fora",
+        "eles-falaram-ingles"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d61"
+    ],
+    "exerciseIds": [
+      "w11-l61-e01",
+      "w11-l61-e02",
+      "w11-l61-e03",
+      "w11-l61-e04",
+      "w11-l61-e05",
+      "w11-l61-e06",
+      "w11-l61-e07",
+      "w11-l61-e08",
+      "w11-l61-e09",
+      "w11-l61-e10",
+      "w11-l61-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l61-s01",
+      "w11-l61-s02",
+      "w11-l61-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w11-l62",
+    "week": 11,
+    "day": 2,
+    "phase": 3,
+    "titlePl": "Zjadłem, wypiłem, wyszedłem: -er i -ir",
+    "subtitlePl": "comi, comeste, comeu, comemos, comeram · bebi · saí, saiu · ontem à noite",
+    "goals": [
+      "Mówić w czasie przeszłym czasownikami na -er i -ir",
+      "Mówić, co jadłem i piłem",
+      "Mówić, o której wyszedłem: saí, saiu"
+    ],
+    "canDo": [
+      "Powiem: Comi sopa e bebi uma água.",
+      "Zapytam: O que comeste ao almoço?",
+      "Powiem: Ontem saí do trabalho às seis."
+    ],
+    "prerequisites": [
+      "w11-l61"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "stress",
+      "textPl": "comi „ku-MI”, bebi „by-BI”, saí „să-I” — w czasie przeszłym „ja” akcent pada na KOŃCOWE i. Porównaj: como „KÔ-mu” (jem).",
+      "itemIds": [
+        "comer-comi",
+        "sair-sai-pp"
+      ]
+    },
+    "newItemIds": [
+      "comer-comi",
+      "comer-comeste",
+      "comer-comeu",
+      "comer-comemos-pp",
+      "comer-comeram",
+      "beber-bebi",
+      "sair-sai-pp",
+      "sair-saiu"
+    ],
+    "grammar": {
+      "titlePl": "Pretérito perfeito: czasowniki na -er i -ir",
+      "explanationPl": "**Czasowniki na -er** (comer, beber…):\n• eu **comi** · tu **comeste** · ele / ela / o senhor **comeu**\n• nós **comemos** · eles / os senhores **comeram**\n\n**Czasowniki na -ir** (abrir, partir…): **-i, -iste, -iu, -imos, -iram** — np. abri, abriste, abriu, abrimos, abriram.\n**sair** ma akcenty na i: **saí, saíste, saiu, saímos, saíram** (sa-Í, nie „saj”).\n\n**Nós comemos / abrimos** — ta sama forma co w czasie teraźniejszym. O czasie decyduje kontekst: *Ontem à noite comemos em casa.* (W czasownikach na -er i -ir nie piszemy tu akcentu — tylko w -ar: falámos.)\n\n**Akcent:** comi, bebi, saí, comeu, saiu — na końcu (porównaj: como „KÔ-mu” = jem, comi „ku-MI” = zjadłem).\n\n**Posiłki:** *ao pequeno-almoço* (na śniadanie), *ao almoço* (na obiad), *ao jantar* (na kolację).\n\n**ontem à noite** = wczoraj wieczorem (ontem + à noite).",
+      "table": [
+        [
+          "comi / bebi",
+          "(ja) zjadłem / wypiłem"
+        ],
+        [
+          "comeste",
+          "(ty) zjadłeś"
+        ],
+        [
+          "comeu",
+          "on / ona / Pan / Pani zjadł(a)"
+        ],
+        [
+          "comemos",
+          "(my) zjedliśmy"
+        ],
+        [
+          "comeram",
+          "(oni / Państwo) zjedli"
+        ],
+        [
+          "abri, abriste, abriu, abrimos, abriram",
+          "otworzyłem… (-ir)"
+        ],
+        [
+          "saí, saíste, saiu, saímos, saíram",
+          "wyszedłem… (sair)"
+        ]
+      ],
+      "tableItemIds": [
+        "comer-comi",
+        "comer-comeste",
+        "comer-comeu",
+        "comer-comemos-pp",
+        "comer-comeram",
+        "beber-bebi",
+        "sair-sai-pp",
+        "sair-saiu"
+      ],
+      "exampleIds": [
+        "ontem-comi-peixe",
+        "o-que-comeste-ao-almoco-q",
+        "comi-sopa-e-bebi-uma-agua",
+        "ontem-a-noite-comemos-em-casa",
+        "ontem-sai-do-trabalho-as-seis",
+        "o-rui-saiu-do-cafe-as-tres",
+        "eles-comeram-bolo-do-caco"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d62"
+    ],
+    "exerciseIds": [
+      "w11-l62-e01",
+      "w11-l62-e02",
+      "w11-l62-e03",
+      "w11-l62-e04",
+      "w11-l62-e05",
+      "w11-l62-e06",
+      "w11-l62-e07",
+      "w11-l62-e08",
+      "w11-l62-e09",
+      "w11-l62-e10",
+      "w11-l62-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l62-s01",
+      "w11-l62-s02",
+      "w11-l62-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w11-l63",
+    "week": 11,
+    "day": 3,
+    "phase": 3,
+    "titlePl": "Byłem, poszedłem: fui, foi",
+    "subtitlePl": "fui, foste, foi, fomos, foram (ser i ir) · anteontem · passado · na semana passada",
+    "goals": [
+      "Mówić, dokąd poszedłem: fui ao…, fomos à…",
+      "Oceniać przeszłość: Foi muito bom!",
+      "Używać: anteontem, no sábado passado, na semana passada"
+    ],
+    "canDo": [
+      "Powiem: Ontem fui ao supermercado. No sábado passado fomos à praia.",
+      "Zapytam: Como foi o fim de semana?",
+      "Odpowiem: Foi muito bom!"
+    ],
+    "prerequisites": [
+      "w11-l62"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "foi „FÔJ”, fomos „FÔ-musz”, foram „FÔ-rãu” — zamknięte ô (usta zaokrąglone, w stronę u).",
+      "itemIds": [
+        "foi",
+        "fomos"
+      ]
+    },
+    "newItemIds": [
+      "fui",
+      "foste",
+      "foi",
+      "fomos",
+      "foram",
+      "passado",
+      "anteontem",
+      "na-semana-passada"
+    ],
+    "grammar": {
+      "titlePl": "Ser i ir w czasie przeszłym — te same formy",
+      "explanationPl": "Czasowniki **ser** (być) i **ir** (iść, jechać) mają w czasie przeszłym **identyczne formy**:\n• eu **fui** · tu **foste** · ele / ela / o senhor **foi**\n• nós **fomos** · eles / os senhores **foram**\n\n**Znaczenie wynika z kontekstu:**\n• z **a / ao / à** (dokąd?) → ir: *Ontem **fui ao** supermercado.* — Wczoraj poszedłem do supermarketu (= byłem w supermarkecie).\n• z oceną, opisem → ser: ***Foi** muito bom!* — Było bardzo fajnie! *Como **foi** o fim de semana?* — Jak minął weekend?\n\n**Kiedy?**\n• **anteontem** — przedwczoraj\n• **passado / passada** — zeszły, stoi PO rzeczowniku: *no sábado **passado***, *no mês **passado***, *na semana **passada*** (semana jest żeńska!)\n\nPorównaj z tygodniem 10: *na **próxima** semana* (w przyszłym) ↔ *na semana **passada*** (w zeszłym).",
+      "table": [
+        [
+          "fui",
+          "(ja) byłem; poszedłem"
+        ],
+        [
+          "foste",
+          "(ty) byłeś; poszedłeś"
+        ],
+        [
+          "foi",
+          "był(a); poszedł / poszła; było"
+        ],
+        [
+          "fomos",
+          "(my) byliśmy; poszliśmy"
+        ],
+        [
+          "foram",
+          "(oni / Państwo) byli; poszli"
+        ],
+        [
+          "no sábado passado / na semana passada",
+          "w zeszłą sobotę / w zeszłym tygodniu"
+        ]
+      ],
+      "tableItemIds": [
+        "fui",
+        "foste",
+        "foi",
+        "fomos",
+        "foram",
+        "na-semana-passada"
+      ],
+      "exampleIds": [
+        "ontem-fui-ao-supermercado",
+        "no-sabado-passado-fomos-a-praia",
+        "foi-muito-bom",
+        "foste-a-praia-q",
+        "anteontem-fui-ao-medico",
+        "na-semana-passada-eles-foram-de-ferias",
+        "como-foi-o-fim-de-semana-q"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d63"
+    ],
+    "exerciseIds": [
+      "w11-l63-e01",
+      "w11-l63-e02",
+      "w11-l63-e03",
+      "w11-l63-e04",
+      "w11-l63-e05",
+      "w11-l63-e06",
+      "w11-l63-e07",
+      "w11-l63-e08",
+      "w11-l63-e09",
+      "w11-l63-e10",
+      "w11-l63-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l63-s01",
+      "w11-l63-s02",
+      "w11-l63-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w11-l64",
+    "week": 11,
+    "day": 4,
+    "phase": 3,
+    "titlePl": "Miałem, byłem: tive, estive",
+    "subtitlePl": "tive, teve · estive, estiveste, esteve · há dois dias · doente",
+    "goals": [
+      "Mówić, co miałem: tive muito trabalho, não tive tempo",
+      "Mówić, gdzie byłem i jak się czułem: estive em casa, estive doente",
+      "Mówić „… temu”: há dois dias, há duas semanas"
+    ],
+    "canDo": [
+      "Powiem: Ontem tive muito trabalho. Ontem não tive tempo.",
+      "Zapytam: Onde estiveste ontem?",
+      "Powiem: O meu filho esteve doente. Estive na Polónia há duas semanas."
+    ],
+    "prerequisites": [
+      "w11-l63"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "esteve „ysz-TÊ-wy” — zamknięte ê; estiveste „ysz-ti-WESZ-ty” — otwarte e. To samo słowo, różne samogłoski!",
+      "itemIds": [
+        "esteve",
+        "estiveste"
+      ]
+    },
+    "newItemIds": [
+      "tive",
+      "teve",
+      "estive",
+      "estiveste",
+      "esteve",
+      "ha-dois-dias",
+      "doente"
+    ],
+    "grammar": {
+      "titlePl": "Ter i estar w czasie przeszłym; há = … temu",
+      "explanationPl": "**ter** (mieć): eu **tive** · tu tiveste · ele / ela / o senhor **teve** · nós tivemos · eles tiveram\n**estar** (być — gdzieś, w jakimś stanie): eu **estive** · tu **estiveste** · ele / ela / o senhor **esteve** · nós estivemos · eles estiveram\n\n**Ja ↔ on:** w „ja” jest **i** (tive, estive, fiz), w „on / ona” — **e** (teve, esteve, fez). Uważaj, bo różnica jest mała, a zmienia osobę!\n\n**Ser czy estar — jak w teraźniejszym:**\n• stan, miejsce → **estive / esteve**: *Estive doente.* *Ontem estive em casa.*\n• dokąd (ir) → **fui**: *Fui ao médico.* · ocena → **foi**: *Foi muito bom.*\n\n**… temu = há + czas:** *há dois dias* (dwa dni temu), *há duas semanas* (dwa tygodnie temu). To ten sam czasownik co w *Há uma farmácia aqui perto?* — dosłownie „jest (minęły) dwa dni”.\n\n**Wymowa:** estive / esteve — początkowe e w mowie zwykle znika: „SZTI-wy”, „SZTÊ-wy”.",
+      "table": [
+        [
+          "tive / teve",
+          "miałem / miał(a)"
+        ],
+        [
+          "estive",
+          "byłem (gdzieś, jakiś)"
+        ],
+        [
+          "estiveste",
+          "byłeś"
+        ],
+        [
+          "esteve",
+          "był(a)"
+        ],
+        [
+          "há dois dias",
+          "dwa dni temu"
+        ],
+        [
+          "há duas semanas",
+          "dwa tygodnie temu"
+        ]
+      ],
+      "tableItemIds": [
+        "tive",
+        "teve",
+        "estive",
+        "estiveste",
+        "esteve",
+        "ha-dois-dias"
+      ],
+      "exampleIds": [
+        "ontem-tive-muito-trabalho",
+        "ontem-nao-tive-tempo",
+        "onde-estiveste-ontem-q",
+        "ontem-estive-em-casa",
+        "estive-doente",
+        "o-meu-filho-esteve-doente-na-semana-passada",
+        "o-rui-teve-muito-trabalho",
+        "estive-na-polonia-ha-duas-semanas",
+        "fui-ao-medico-ha-dois-dias"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d64"
+    ],
+    "exerciseIds": [
+      "w11-l64-e01",
+      "w11-l64-e02",
+      "w11-l64-e03",
+      "w11-l64-e04",
+      "w11-l64-e05",
+      "w11-l64-e06",
+      "w11-l64-e07",
+      "w11-l64-e08",
+      "w11-l64-e09",
+      "w11-l64-e10",
+      "w11-l64-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l64-s01",
+      "w11-l64-s02",
+      "w11-l64-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w11-l65",
+    "week": 11,
+    "day": 5,
+    "phase": 3,
+    "titlePl": "Co robiłeś? Fazer w czasie przeszłym",
+    "subtitlePl": "fiz, fizeste, fez, fizemos, fizeram · fiquei · Nada de especial.",
+    "goals": [
+      "Pytać, co ktoś robił: O que fizeste? O que fez?",
+      "Mówić, co zrobiłem: fiz um bolo, não fiz nada",
+      "Mówić, że zostałem w domu: fiquei em casa"
+    ],
+    "canDo": [
+      "Zapytam: O que fizeste no fim de semana? O que fez ontem?",
+      "Powiem: Fiquei em casa. Fiz um bolo.",
+      "Odpowiem: Nada de especial."
+    ],
+    "prerequisites": [
+      "w11-l64"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "fiz „FISZ”, fez „FÊSZ” — końcowe z brzmi jak sz. Ale: fiz um bolo „FIZ ũ” (przed samogłoską z), não fiz nada „FIŻ NA-dă” (przed n — ż).",
+      "itemIds": [
+        "fiz",
+        "fez"
+      ]
+    },
+    "newItemIds": [
+      "fiz",
+      "fizeste",
+      "fez",
+      "fizemos",
+      "fizeram",
+      "ficar-fiquei",
+      "nada-de-especial"
+    ],
+    "grammar": {
+      "titlePl": "Fazer w czasie przeszłym; fiquei",
+      "explanationPl": "**fazer** (robić) jest w czasie przeszłym nieregularny:\n• eu **fiz** · tu **fizeste** · ele / ela / o senhor **fez**\n• nós **fizemos** · eles / os senhores **fizeram**\n\n**Ja ↔ on:** **fiz** (z i) ↔ **fez** (z zamkniętym ê) — jak tive / teve.\n**Wymowa:** fizeste, fizemos, fizeram — akcentowane e jest **otwarte** (fi-ZE-musz), inaczej niż w teraźniejszym *fazemos* (fă-ZÊ-musz).\n\n**Pytanie:** *O que **fizeste** ontem?* (tu) · *O que **fez** no fim de semana?* (o senhor / a senhora)\n**Odpowiedzi:** *Fiz um bolo.* · *Não fiz nada.* (nic nie robiłem — podwójne przeczenie jak po polsku) · ***Nada de especial.*** (nic specjalnego)\n\n**ficar → fiquei** (zostałem): c przed e zmienia się w **qu**, żeby zostało „k”: *Fiquei em casa.* Podobnie pisownia zmienia się w *almoçar → almocei*, *ligar → liguei*.",
+      "table": [
+        [
+          "fiz",
+          "(ja) zrobiłem"
+        ],
+        [
+          "fizeste",
+          "(ty) zrobiłeś"
+        ],
+        [
+          "fez",
+          "on / ona / Pan / Pani zrobił(a)"
+        ],
+        [
+          "fizemos",
+          "(my) zrobiliśmy"
+        ],
+        [
+          "fizeram",
+          "(oni / Państwo) zrobili"
+        ],
+        [
+          "fiquei",
+          "(ja) zostałem"
+        ]
+      ],
+      "tableItemIds": [
+        "fiz",
+        "fizeste",
+        "fez",
+        "fizemos",
+        "fizeram",
+        "ficar-fiquei"
+      ],
+      "exampleIds": [
+        "o-que-fizeste-ontem-q",
+        "o-que-fez-no-fim-de-semana-q",
+        "o-que-fez-ontem-q",
+        "fiquei-em-casa",
+        "ontem-fiz-um-bolo",
+        "nao-fiz-nada",
+        "a-ana-fez-uma-sopa",
+        "o-que-fizeram-no-sabado-q"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d65"
+    ],
+    "exerciseIds": [
+      "w11-l65-e01",
+      "w11-l65-e02",
+      "w11-l65-e03",
+      "w11-l65-e04",
+      "w11-l65-e05",
+      "w11-l65-e06",
+      "w11-l65-e07",
+      "w11-l65-e08",
+      "w11-l65-e09",
+      "w11-l65-e10",
+      "w11-l65-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l65-s01",
+      "w11-l65-s02",
+      "w11-l65-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review"
+  },
+  {
+    "id": "w11-l66",
+    "week": 11,
+    "day": 6,
+    "phase": 3,
+    "titlePl": "Opowiadam o wczoraj + sprawdzian",
+    "subtitlePl": "primeiro, depois, a seguir · Como correu…? Correu bem · sprawdzian tygodnia 11",
+    "goals": [
+      "Opowiadać po kolei: primeiro, depois, a seguir",
+      "Pytać i odpowiadać: Como correu o dia? — Correu bem.",
+      "Sprawdzić wiedzę z tygodnia 11"
+    ],
+    "canDo": [
+      "Opowiem: De manhã trabalhei e a seguir fui ao café.",
+      "Zapytam: Como correu o dia? Odpowiem: Correu bem, obrigado.",
+      "Opowiem o wczorajszym dniu i o ostatnim weekendzie"
+    ],
+    "prerequisites": [
+      "w11-l65"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "r-strong",
+      "textPl": "correu „ku-RRÊU” — podwójne rr to mocne r (gardłowe albo mocno zwibrowane).",
+      "itemIds": [
+        "correu-bem"
+      ]
+    },
+    "newItemIds": [
+      "a-seguir",
+      "cs-como-correu-o-dia",
+      "correu-bem"
+    ],
+    "grammar": {
+      "titlePl": "Opowiadam po kolei; tydzień 11 w pigułce",
+      "explanationPl": "**Po kolei:** **primeiro** (najpierw) → **depois** (potem) → **a seguir** (następnie, potem):\n*Primeiro fui ao mercado. Depois fui à praia.*\n*De manhã trabalhei e **a seguir** fui ao café.*\n\n**Como correu…?** — Jak minął / jak poszedł…? (o dniu, wizycie, spotkaniu): *Como correu o dia?* — ***Correu bem**, obrigado / obrigada.*\n\n**Tydzień 11 w pigułce — czas przeszły:**\n• -ar: falei, falaste, falou, **falámos**, falaram\n• -er: comi, comeste, comeu, comemos, comeram · -ir: abri, saí… saiu\n• ser / ir: fui, foste, foi, fomos, foram (fui **ao** café · **foi** muito bom)\n• ter: tive / teve · estar: estive / estiveste / esteve · fazer: fiz / fizeste / fez · ficar: fiquei\n• kiedy: *ontem (à noite), anteontem, no sábado passado, na semana passada, há dois dias*\n\nNa koniec rozmowa z Aną (przeszłość + plan na jutro), a potem sprawdzian tygodnia (ok. 10 minut + monolog). Wynik wskaże lekcje do powtórki; nie blokuje dalszej nauki.",
+      "table": [
+        [
+          "primeiro… depois… a seguir…",
+          "najpierw… potem… następnie…"
+        ],
+        [
+          "Como correu o dia?",
+          "Jak minął dzień?"
+        ],
+        [
+          "Correu bem, obrigado.",
+          "Poszło dobrze, dziękuję."
+        ]
+      ],
+      "tableItemIds": [
+        "a-seguir",
+        "cs-como-correu-o-dia",
+        "correu-bem"
+      ],
+      "exampleIds": [
+        "primeiro-fui-ao-mercado-depois-fui-a-praia",
+        "de-manha-trabalhei-e-a-seguir-fui-ao-cafe",
+        "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema",
+        "ontem-fiquei-em-casa-nao-fiz-nada"
+      ]
+    },
+    "dialogueIds": [
+      "w11-d66"
+    ],
+    "exerciseIds": [
+      "w11-l66-e01",
+      "w11-l66-e02",
+      "w11-l66-e03",
+      "w11-l66-e04",
+      "w11-l66-e05",
+      "w11-l66-e06",
+      "w11-l66-e07",
+      "w11-l66-e08",
+      "w11-l66-e09",
+      "w11-l66-e10",
+      "w11-l66-e11"
+    ],
+    "speakingTaskIds": [
+      "w11-l66-s01",
+      "w11-l66-s02",
+      "w11-l66-s03"
+    ],
+    "mapStopId": "porto-moniz",
+    "status": "review",
+    "testId": "w11-test"
+  }
+]

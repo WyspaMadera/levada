@@ -1,0 +1,604 @@
+[
+  {
+    "week": 1,
+    "month": 1,
+    "titlePl": "Pierwsze dźwięki i zwroty",
+    "targetLevel": "A0",
+    "goals": [
+      "Rozpoznaję brzmienie PT-PT: akcent, redukcja, nosówki",
+      "Witam się i żegnam o różnych porach dnia",
+      "Dziękuję, proszę, przepraszam",
+      "Przedstawiam się (formalnie i nieformalnie)",
+      "Mówię, że nie rozumiem; proszę o powtórzenie"
+    ],
+    "grammar": [
+      "przeczenie não",
+      "obrigado/obrigada",
+      "chamo-me — zaimek po czasowniku"
+    ],
+    "topics": [
+      "powitania",
+      "uprzejmość",
+      "przedstawianie się"
+    ],
+    "dependsOnWeeks": [],
+    "mapStopId": "funchal",
+    "contentStatus": "review"
+  },
+  {
+    "week": 2,
+    "month": 1,
+    "titlePl": "Pierwsze zdania",
+    "targetLevel": "A0",
+    "goals": [
+      "Używam zaimków i form grzecznościowych",
+      "Mówię, kim jestem i skąd jestem (ser)",
+      "Mówię, jak się czuję i gdzie jestem (estar)",
+      "Mówię, co mam (ter)",
+      "Liczę do 10, używam rodzajników",
+      "Łączę zdania (e, mas, também)"
+    ],
+    "grammar": [
+      "zaimki osobowe",
+      "ser",
+      "estar",
+      "ter",
+      "rodzajniki o/a/um/uma",
+      "liczby 0–10"
+    ],
+    "topics": [
+      "ja i inni",
+      "samopoczucie",
+      "rzeczy codzienne"
+    ],
+    "dependsOnWeeks": [
+      1
+    ],
+    "mapStopId": "funchal",
+    "contentStatus": "review"
+  },
+  {
+    "week": 3,
+    "month": 1,
+    "titlePl": "Rozumiem budowę zdania",
+    "targetLevel": "A0/A1",
+    "goals": [
+      "Rodzaj i liczba mnoga, zgoda przymiotnika",
+      "Mówię, czego chcę (querer, queria)",
+      "Proszę o pomoc i pozwolenie (poder)",
+      "Mówię, czego potrzebuję (precisar de)",
+      "Liczby 11–100, wiek, cena"
+    ],
+    "grammar": [
+      "rodzaj i liczba",
+      "querer",
+      "poder",
+      "precisar de + do/da",
+      "liczby 11–100"
+    ],
+    "topics": [
+      "zakupy (podstawy)",
+      "informacje osobiste"
+    ],
+    "dependsOnWeeks": [
+      2
+    ],
+    "mapStopId": "camara-de-lobos",
+    "contentStatus": "review"
+  },
+  {
+    "week": 4,
+    "month": 1,
+    "titlePl": "Samodzielne używanie podstaw",
+    "targetLevel": "A1",
+    "goals": [
+      "Mówię, dokąd idę (ir)",
+      "Mówię, gdzie coś jest (przyimki)",
+      "Dni tygodnia i godziny",
+      "Przedstawiam rodzinę",
+      "Proszę krótko i uprzejmie",
+      "Sprawdzian pierwszego miesiąca"
+    ],
+    "grammar": [
+      "ir + a/para",
+      "em/no/na, de/do/da, a/ao/à",
+      "godziny"
+    ],
+    "topics": [
+      "rodzina",
+      "czas",
+      "miasto (podstawy)"
+    ],
+    "dependsOnWeeks": [
+      3
+    ],
+    "mapStopId": "camara-de-lobos",
+    "contentStatus": "review"
+  },
+  {
+    "week": 5,
+    "month": 2,
+    "titlePl": "Codzienne czynności",
+    "targetLevel": "A1",
+    "goals": [
+      "Opisuję swój dzień",
+      "Odmieniam regularne czasowniki -ar/-er/-ir",
+      "Mówię, co teraz robię (estar a + bezokolicznik)"
+    ],
+    "grammar": [
+      "presente -ar/-er/-ir",
+      "estar a + infinitivo"
+    ],
+    "topics": [
+      "rytm dnia",
+      "praca i dom"
+    ],
+    "dependsOnWeeks": [
+      4
+    ],
+    "mapStopId": "ribeira-brava",
+    "contentStatus": "review"
+  },
+  {
+    "week": 6,
+    "month": 2,
+    "titlePl": "Rodzina i dom",
+    "targetLevel": "A1",
+    "goals": [
+      "Opisuję osoby i dom",
+      "Rozmawiam krótko w przedszkolu"
+    ],
+    "grammar": [
+      "ser + przymiotniki",
+      "zaimki dzierżawcze"
+    ],
+    "topics": [
+      "rodzina",
+      "dom",
+      "przedszkole"
+    ],
+    "dependsOnWeeks": [
+      5
+    ],
+    "mapStopId": "ribeira-brava",
+    "contentStatus": "review"
+  },
+  {
+    "week": 7,
+    "month": 2,
+    "titlePl": "Kawiarnia i zakupy",
+    "targetLevel": "A1",
+    "goals": [
+      "Zamawiam w kawiarni",
+      "Pytam o cenę",
+      "Rozpoznaję kuchnię maderską"
+    ],
+    "grammar": [
+      "queria / se faz favor",
+      "liczebniki w cenach"
+    ],
+    "topics": [
+      "kawiarnia",
+      "zakupy",
+      "kuchnia Madery"
+    ],
+    "dependsOnWeeks": [
+      6
+    ],
+    "mapStopId": "ribeira-brava",
+    "contentStatus": "review"
+  },
+  {
+    "week": 8,
+    "month": 2,
+    "titlePl": "Miasto, transport, pogoda",
+    "targetLevel": "A1",
+    "goals": [
+      "Pytam o drogę",
+      "Korzystam z autobusu",
+      "Mówię o pogodzie",
+      "Sprawdzian etapowy A1"
+    ],
+    "grammar": [
+      "tryb rozkazujący (podstawy)",
+      "fazer na pogodę"
+    ],
+    "topics": [
+      "miasto",
+      "transport",
+      "pogoda"
+    ],
+    "dependsOnWeeks": [
+      7
+    ],
+    "mapStopId": "calheta",
+    "contentStatus": "review"
+  },
+  {
+    "week": 9,
+    "month": 3,
+    "titlePl": "Moja praca i codzienność",
+    "targetLevel": "A1/A2",
+    "goals": [
+      "Opisuję pracę",
+      "Używam częstych czasowników nieregularnych"
+    ],
+    "grammar": [
+      "fazer, dizer, sair, vir, ver, dar"
+    ],
+    "topics": [
+      "praca",
+      "codzienność"
+    ],
+    "dependsOnWeeks": [
+      8
+    ],
+    "mapStopId": "calheta",
+    "contentStatus": "review"
+  },
+  {
+    "week": 10,
+    "month": 3,
+    "titlePl": "Plany i przyszłość",
+    "targetLevel": "A1/A2",
+    "goals": [
+      "Mówię o planach"
+    ],
+    "grammar": [
+      "ir + infinitivo",
+      "określenia czasu"
+    ],
+    "topics": [
+      "plany",
+      "weekend"
+    ],
+    "dependsOnWeeks": [
+      9
+    ],
+    "mapStopId": "calheta",
+    "contentStatus": "review"
+  },
+  {
+    "week": 11,
+    "month": 3,
+    "titlePl": "Pierwsze opowieści o przeszłości",
+    "targetLevel": "A2",
+    "goals": [
+      "Opowiadam, co zrobiłem wczoraj"
+    ],
+    "grammar": [
+      "pretérito perfeito"
+    ],
+    "topics": [
+      "wczoraj",
+      "weekend"
+    ],
+    "dependsOnWeeks": [
+      10
+    ],
+    "mapStopId": "porto-moniz",
+    "contentStatus": "review"
+  },
+  {
+    "week": 12,
+    "month": 3,
+    "titlePl": "Umawianie i telefon",
+    "targetLevel": "A2",
+    "goals": [
+      "Umawiam spotkanie i wizytę",
+      "Rezerwuję",
+      "Rozmawiam przez telefon",
+      "Test"
+    ],
+    "grammar": [
+      "pytania o czas",
+      "prośby"
+    ],
+    "topics": [
+      "rezerwacje",
+      "telefon"
+    ],
+    "dependsOnWeeks": [
+      11
+    ],
+    "mapStopId": "porto-moniz",
+    "contentStatus": "review"
+  },
+  {
+    "week": 13,
+    "month": 4,
+    "titlePl": "Czas wolny i zainteresowania",
+    "targetLevel": "A2",
+    "goals": [
+      "Mówię, co lubię"
+    ],
+    "grammar": [
+      "gostar de"
+    ],
+    "topics": [
+      "hobby",
+      "plany"
+    ],
+    "dependsOnWeeks": [
+      12
+    ],
+    "mapStopId": "porto-moniz",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 14,
+    "month": 4,
+    "titlePl": "Zdrowie",
+    "targetLevel": "A2",
+    "goals": [
+      "Opisuję samopoczucie u lekarza i w aptece"
+    ],
+    "grammar": [
+      "doer",
+      "ter dores de"
+    ],
+    "topics": [
+      "lekarz",
+      "apteka"
+    ],
+    "dependsOnWeeks": [
+      13
+    ],
+    "mapStopId": "santana",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 15,
+    "month": 4,
+    "titlePl": "Przeszłość w tle",
+    "targetLevel": "A2",
+    "goals": [
+      "Opisuję nawyki i tło w przeszłości"
+    ],
+    "grammar": [
+      "pretérito imperfeito"
+    ],
+    "topics": [
+      "wspomnienia"
+    ],
+    "dependsOnWeeks": [
+      14
+    ],
+    "mapStopId": "santana",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 16,
+    "month": 4,
+    "titlePl": "Opowiadam historie",
+    "targetLevel": "A2",
+    "goals": [
+      "Łączę zdania w opowieść",
+      "Rozwiązuję drobne problemy w przedszkolu",
+      "Test"
+    ],
+    "grammar": [
+      "quando, porque, depois, enquanto"
+    ],
+    "topics": [
+      "historie",
+      "przedszkole"
+    ],
+    "dependsOnWeeks": [
+      15
+    ],
+    "mapStopId": "santana",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 17,
+    "month": 5,
+    "titlePl": "W urzędzie",
+    "targetLevel": "A2",
+    "goals": [
+      "Zadaję pytania i wyjaśniam, czego potrzebuję"
+    ],
+    "grammar": [
+      "pytania pośrednie (podstawy)"
+    ],
+    "topics": [
+      "urzędy"
+    ],
+    "dependsOnWeeks": [
+      16
+    ],
+    "mapStopId": "pico-do-arieiro",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 18,
+    "month": 5,
+    "titlePl": "Dokumenty i rezerwacje online",
+    "targetLevel": "A2",
+    "goals": [
+      "Rozumiem formularze, piszę uprzejme prośby"
+    ],
+    "grammar": [
+      "gostaria de, seria possível"
+    ],
+    "topics": [
+      "Segurança Social",
+      "rezerwacje online"
+    ],
+    "dependsOnWeeks": [
+      17
+    ],
+    "mapStopId": "pico-do-arieiro",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 19,
+    "month": 5,
+    "titlePl": "Usługi i reklamacje",
+    "targetLevel": "A2/A2+",
+    "goals": [
+      "Wyjaśniam problem, składam reklamację"
+    ],
+    "grammar": [
+      "problemy i rozwiązania"
+    ],
+    "topics": [
+      "mieszkanie",
+      "naprawy",
+      "usługi"
+    ],
+    "dependsOnWeeks": [
+      18
+    ],
+    "mapStopId": "pico-do-arieiro",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 20,
+    "month": 5,
+    "titlePl": "Praca, telefon, opinie",
+    "targetLevel": "A2+",
+    "goals": [
+      "Wyrażam opinię",
+      "Test"
+    ],
+    "grammar": [
+      "acho que",
+      "porque"
+    ],
+    "topics": [
+      "praca",
+      "wydarzenia"
+    ],
+    "dependsOnWeeks": [
+      19
+    ],
+    "mapStopId": "machico",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 21,
+    "month": 6,
+    "titlePl": "Doświadczenia i wydarzenia",
+    "targetLevel": "A2+",
+    "goals": [
+      "Opowiadam o doświadczeniach"
+    ],
+    "grammar": [
+      "perfeito vs imperfeito"
+    ],
+    "topics": [
+      "podróże",
+      "wydarzenia"
+    ],
+    "dependsOnWeeks": [
+      20
+    ],
+    "mapStopId": "machico",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 22,
+    "month": 6,
+    "titlePl": "Opinie i porównania",
+    "targetLevel": "A2+/B1",
+    "goals": [
+      "Uzasadniam zdanie, porównuję"
+    ],
+    "grammar": [
+      "mais/menos… do que",
+      "porque, por isso"
+    ],
+    "topics": [
+      "opinie"
+    ],
+    "dependsOnWeeks": [
+      21
+    ],
+    "mapStopId": "machico",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 23,
+    "month": 6,
+    "titlePl": "Naturalne konstrukcje",
+    "targetLevel": "B1",
+    "goals": [
+      "Rozumiem i używam częstych zwrotów"
+    ],
+    "grammar": [
+      "wybrane formuły z conjuntivo"
+    ],
+    "topics": [
+      "rozmowy codzienne"
+    ],
+    "dependsOnWeeks": [
+      22
+    ],
+    "mapStopId": "ponta-sao-lourenco",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 24,
+    "month": 6,
+    "titlePl": "Rozmowy na różne tematy",
+    "targetLevel": "B1",
+    "goals": [
+      "Odpowiadam spontanicznie"
+    ],
+    "grammar": [
+      "powtórka"
+    ],
+    "topics": [
+      "różne"
+    ],
+    "dependsOnWeeks": [
+      23
+    ],
+    "mapStopId": "ponta-sao-lourenco",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 25,
+    "month": 6,
+    "titlePl": "Intensywny trening",
+    "targetLevel": "B1",
+    "goals": [
+      "Pracuję nad indywidualnymi trudnościami"
+    ],
+    "grammar": [
+      "powtórka"
+    ],
+    "topics": [
+      "słuchanie",
+      "mówienie"
+    ],
+    "dependsOnWeeks": [
+      24
+    ],
+    "mapStopId": "ponta-sao-lourenco",
+    "contentStatus": "planned"
+  },
+  {
+    "week": 26,
+    "month": 6,
+    "titlePl": "Porto Santo — egzamin końcowy",
+    "targetLevel": "A2/B1",
+    "goals": [
+      "Symulacje rozmów",
+      "Monolog 2–3 minuty",
+      "Plan dalszej nauki"
+    ],
+    "grammar": [
+      "całość"
+    ],
+    "topics": [
+      "całość"
+    ],
+    "dependsOnWeeks": [
+      25
+    ],
+    "mapStopId": "porto-santo",
+    "contentStatus": "planned"
+  }
+]

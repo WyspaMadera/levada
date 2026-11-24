@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q-w11-sabado",
+    "questionItemId": "onde-esteve-no-sabado-passado-q",
+    "unlockAfterLessonId": "w11-l64",
+    "topicPl": "Zeszła sobota",
+    "hintPl": "Powiedz, gdzie byłeś w zeszłą sobotę: Estive… (gdzie) albo Fui ao / à… (dokąd). Możesz dodać, jak było.",
+    "exampleAnswerItemIds": [
+      "no-sabado-passado-estive-em-casa",
+      "no-sabado-passado-fomos-a-praia",
+      "foi-muito-bom"
+    ],
+    "usefulItemIds": [
+      "estive",
+      "fui",
+      "fomos",
+      "passado",
+      "foi",
+      "doente"
+    ]
+  },
+  {
+    "id": "q-w11-ontem",
+    "questionItemId": "o-que-fez-ontem-q",
+    "unlockAfterLessonId": "w11-l65",
+    "topicPl": "Wczoraj",
+    "hintPl": "Powiedz 2–3 zdania o wczorajszym dniu: trabalhei…, comi…, saí…, fui…, fiz…, fiquei…",
+    "exampleAnswerItemIds": [
+      "ontem-trabalhei-em-casa",
+      "ontem-fiz-um-bolo",
+      "nao-fiz-nada"
+    ],
+    "usefulItemIds": [
+      "ontem",
+      "trabalhar-trabalhei",
+      "comer-comi",
+      "sair-sai-pp",
+      "fiz",
+      "ficar-fiquei"
+    ]
+  },
+  {
+    "id": "q-w11-fim-de-semana",
+    "questionItemId": "como-foi-o-fim-de-semana-q",
+    "unlockAfterLessonId": "w11-l66",
+    "topicPl": "Ostatni weekend",
+    "hintPl": "Oceń weekend (Foi muito bom! / Nada de especial.) i opowiedz po kolei, co robiłeś: primeiro…, depois…, a seguir…",
+    "exampleAnswerItemIds": [
+      "foi-muito-bom-no-sabado-fomos-a-praia",
+      "nada-de-especial-no-sabado-fiquei-em-casa",
+      "no-domingo-fiz-um-bolo-com-o-meu-filho"
+    ],
+    "usefulItemIds": [
+      "foi",
+      "nada-de-especial",
+      "a-seguir",
+      "fiz",
+      "ficar-fiquei",
+      "fomos"
+    ]
+  },
+  {
+    "id": "q-w12-agenda",
+    "questionItemId": "tem-alguma-reuniao-esta-semana-q",
+    "unlockAfterLessonId": "w12-l67",
+    "topicPl": "Spotkania i wizyty",
+    "hintPl": "Powiedz, jakie masz w tym tygodniu spotkania albo wizyty (Tenho uma reunião / uma consulta + kiedy).",
+    "exampleAnswerItemIds": [
+      "amanha-tenho-uma-reuniao-as-nove",
+      "na-quinta-feira-tenho-uma-consulta-as-tres",
+      "nao-esta-semana-nao-tenho"
+    ],
+    "usefulItemIds": [
+      "reuniao",
+      "consulta",
+      "cabeleireiro",
+      "marcar",
+      "semana"
+    ]
+  },
+  {
+    "id": "q-w12-telemovel",
+    "questionItemId": "cs-qual-e-o-seu-numero-de-telemovel",
+    "unlockAfterLessonId": "w12-l71",
+    "topicPl": "Numer telefonu",
+    "hintPl": "Podaj numer w grupach po trzy cyfry (możesz zmyślić). Jeśli trzeba, przeliteruj imię.",
+    "exampleAnswerItemIds": [
+      "o-meu-numero-e-912345678",
+      "e-o-912345678"
+    ],
+    "usefulItemIds": [
+      "o-meu-numero-e",
+      "numero",
+      "cs-pode-repetir-o-numero",
+      "como-se-escreve-q"
+    ]
+  }
+]

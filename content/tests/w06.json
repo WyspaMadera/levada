@@ -1,0 +1,86 @@
+[
+  {
+    "id": "w06-test",
+    "week": 6,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 6",
+    "introPl": "Około 10 minut. Opisywanie osób (ser + przymiotniki), zaimki dzierżawcze (o meu, a minha, o seu, a sua…), dom, „gostar de” i pytania o rodzinę. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w06-t-e01",
+          "w06-t-e02",
+          "w06-t-e03",
+          "w06-t-e04",
+          "w06-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w06-t-e06",
+          "w06-t-e07",
+          "w06-t-e08"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w06-t-e09",
+          "w06-t-e10",
+          "w06-t-e11",
+          "w06-t-e12",
+          "w06-t-e13",
+          "w06-t-e14",
+          "w06-t-e15",
+          "w06-t-e16",
+          "w06-t-e17",
+          "w06-t-e18"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w06-t-e19",
+          "w06-t-e20"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w06-t-s01",
+      "w06-t-s02",
+      "w06-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w06-t-m01",
+        "promptPl": "Mój dom i moi bliscy: opowiedz bez przygotowania o swoim mieszkaniu i o jednej bliskiej osobie (może być wymyślona).",
+        "hintPl": "O meu apartamento é… Tem… quartos. O meu… / A minha… é… Gosta de…",
+        "targetSeconds": 45,
+        "checklistPl": [
+          "Opisałem/opisałam dom lub mieszkanie (é… / tem…)",
+          "Użyłem/użyłam o meu / a minha (albo os meus / as minhas)",
+          "Przymiotnik zgadzał się z osobą lub rzeczą (alto/alta, pequeno/pequena)",
+          "Użyłem/użyłam gostar de (gosta de… / gosto de…)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w06-familia-marta"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w06-l31",
+      "w06-l32",
+      "w06-l33",
+      "w06-l34",
+      "w06-l35",
+      "w06-l36"
+    ]
+  }
+]

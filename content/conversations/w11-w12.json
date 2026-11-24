@@ -1,0 +1,187 @@
+[
+  {
+    "id": "sc-w11-fim-de-semana",
+    "titlePl": "Jak minął weekend?",
+    "topicPl": "Opowiadanie o przeszłości",
+    "level": "A2",
+    "unlockAfterLessonId": "w11-l66",
+    "contextPl": "Poniedziałek rano, spotykasz Anę na schodach. Jesteście po imieniu (tu). Mów o swoim prawdziwym weekendzie — wzory to tylko przykłady.",
+    "turns": [
+      {
+        "speaker": "Ana",
+        "promptItemId": "como-foi-o-fim-de-semana-q",
+        "taskPl": "Powiedz, jak było (możesz od razu zapytać Anę).",
+        "answerItemIds": [
+          "foi-muito-bom",
+          "nada-de-especial",
+          "foi-muito-bom-e-tu-o-que-fizeste-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "o-que-fizeste-no-sabado-q",
+        "taskPl": "Powiedz, co robiłeś w sobotę.",
+        "answerItemIds": [
+          "no-sabado-fui-a-praia",
+          "no-sabado-trabalhei",
+          "nada-de-especial-no-sabado-fiquei-em-casa"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "e-no-domingo-q",
+        "taskPl": "Powiedz, co robiłeś w niedzielę.",
+        "answerItemIds": [
+          "no-domingo-fiquei-em-casa",
+          "no-domingo-fiz-um-bolo-com-o-meu-filho",
+          "no-domingo-fui-ao-cafe-do-rui-e-tu-q"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "estiveste-com-o-rui-q",
+        "taskPl": "Odpowiedz, czy widziałeś się z Ruim.",
+        "answerItemIds": [
+          "estive-sim-fomos-ao-cafe",
+          "nao-nao-estive-com-ele"
+        ]
+      },
+      {
+        "speaker": "Ana",
+        "promptItemId": "e-ontem-a-noite-q",
+        "taskPl": "Powiedz, co robiłeś wczoraj wieczorem.",
+        "answerItemIds": [
+          "ontem-a-noite-jantei-em-casa",
+          "ontem-jantei-fora",
+          "ontem-a-noite-jantei-fora-e-a-seguir-fui-ao-cinema"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w12-consulta",
+    "titlePl": "Umawiam wizytę przez telefon",
+    "topicPl": "Umawianie wizyty",
+    "level": "A2",
+    "unlockAfterLessonId": "w12-l71",
+    "contextPl": "Dzwonisz do recepcji przychodni, żeby umówić wizytę u lekarza. Rozmowa grzeczna. Dzień, nazwisko i numer podawaj swoje (numer może być zmyślony).",
+    "turns": [
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "estou-tel",
+        "taskPl": "Przywitaj się i powiedz, że chcesz umówić wizytę.",
+        "answerItemIds": [
+          "bom-dia-queria-marcar-uma-consulta",
+          "cs-queria-marcar-uma-consulta"
+        ]
+      },
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "para-que-dia-q",
+        "taskPl": "Poproś o termin na jutro.",
+        "answerItemIds": [
+          "para-amanha-sfv"
+        ]
+      },
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "amanha-nao-ha-pode-ser-na-sexta-feira-q",
+        "taskPl": "Zgódź się i zapytaj o godzinę — albo poproś o inny dzień.",
+        "answerItemIds": [
+          "pode-ser-a-que-horas-q",
+          "pode-ser-outro-dia-q"
+        ]
+      },
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "as-dez-e-meia",
+        "taskPl": "Potwierdź godzinę.",
+        "answerItemIds": [
+          "as-dez-e-meia-esta-bem-obrigado",
+          "pode-ser",
+          "combinado"
+        ]
+      },
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "cs-em-nome-de-quem",
+        "taskPl": "Podaj imię i nazwisko (we wzorze: Tomasz).",
+        "answerItemIds": [
+          "em-nome-de-tomasz"
+        ]
+      },
+      {
+        "speaker": "Recepcja",
+        "promptItemId": "cs-qual-e-o-seu-numero-de-telemovel",
+        "taskPl": "Podaj numer telefonu w grupach po trzy cyfry.",
+        "answerItemIds": [
+          "e-o-912345678",
+          "o-meu-numero-e-912345678"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sc-w12-restaurante",
+    "titlePl": "Rezerwacja stolika przez telefon",
+    "topicPl": "Rezerwacje",
+    "level": "A2",
+    "unlockAfterLessonId": "w12-l72",
+    "contextPl": "Dzwonisz do restauracji, żeby zarezerwować stolik na sobotę. Rozmowa grzeczna. Liczbę osób możesz podać swoją; poproś o stolik na ósmą.",
+    "turns": [
+      {
+        "speaker": "Kelner",
+        "promptItemId": "estou-tel",
+        "taskPl": "Przywitaj się i powiedz, że chcesz zarezerwować stolik na sobotę.",
+        "answerItemIds": [
+          "boa-tarde-queria-reservar-uma-mesa-para-sabado",
+          "queria-reservar-uma-mesa-para-sabado"
+        ]
+      },
+      {
+        "speaker": "Kelner",
+        "promptItemId": "cs-para-quantas-pessoas",
+        "taskPl": "Powiedz, dla ilu osób.",
+        "answerItemIds": [
+          "para-duas-pessoas",
+          "para-quatro-pessoas-as-oito"
+        ]
+      },
+      {
+        "speaker": "Kelner",
+        "promptItemId": "para-que-horas-q",
+        "taskPl": "Poproś o ósmą.",
+        "answerItemIds": [
+          "para-as-oito-sfv"
+        ]
+      },
+      {
+        "speaker": "Kelner",
+        "promptItemId": "as-oito-nao-temos-mesa-pode-ser-as-nove-q",
+        "taskPl": "Zgódź się albo poproś o wcześniejszą godzinę.",
+        "answerItemIds": [
+          "as-nove-pode-ser",
+          "pode-ser",
+          "as-nove-nao-posso-pode-ser-mais-cedo-q"
+        ]
+      },
+      {
+        "speaker": "Kelner",
+        "promptItemId": "cs-em-nome-de-quem",
+        "taskPl": "Podaj imię i nazwisko (we wzorze: Tomasz).",
+        "answerItemIds": [
+          "em-nome-de-tomasz"
+        ]
+      },
+      {
+        "speaker": "Kelner",
+        "promptItemId": "muito-bem-ate-sabado",
+        "taskPl": "Podziękuj i pożegnaj się.",
+        "answerItemIds": [
+          "obrigado-ate-sabado",
+          "entao-combinado"
+        ]
+      }
+    ]
+  }
+]

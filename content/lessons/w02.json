@@ -1,0 +1,515 @@
+[
+  {
+    "id": "w02-l07",
+    "week": 2,
+    "day": 1,
+    "phase": 1,
+    "titlePl": "Osoby i zaimki",
+    "subtitlePl": "Ja, ty, on, ona… i „Pan/Pani”",
+    "goals": [
+      "Poznać zaimki osobowe",
+      "Wiedzieć, kiedy mówić „tu”, a kiedy „o senhor / a senhora”",
+      "Mówić o innych: ele/ela chama-se…"
+    ],
+    "canDo": [
+      "Powiem, jak ktoś ma na imię: Ele chama-se Rui",
+      "Zapytam grzecznie: O senhor fala inglês?"
+    ],
+    "prerequisites": [
+      "w01-l06"
+    ],
+    "estimatedMinutes": 12,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "„ele” (on) ma zamknięte ê, „ela” (ona) — otwarte e. Posłuchaj różnicy.",
+      "itemIds": [
+        "ele",
+        "ela"
+      ]
+    },
+    "newItemIds": [
+      "eu",
+      "tu",
+      "ele",
+      "ela",
+      "nos",
+      "voces",
+      "eles",
+      "elas",
+      "voce"
+    ],
+    "grammar": {
+      "titlePl": "Zaimki i formy grzecznościowe",
+      "explanationPl": "Zaimki osobowe są proste — ale w Portugalii ważne jest, **jak zwracasz się do rozmówcy**:\n\n**tu** — „ty”: rodzina, przyjaciele, dzieci, czasem rówieśnicy.\n**o senhor / a senhora** — „Pan / Pani”. Czasownik w 3. osobie — **tak samo jak po polsku** („Czy Pan mówi…?” → O senhor fala…?).\n**você** — istnieje, ale w Portugalii bywa odbierane jako zbyt bezpośrednie. Na początek go unikaj: mów „o senhor / a senhora” albo pomiń zaimek („Fala inglês?”).\n\n**O kimś:** chamo-me (nazywam się) → ele/ela **chama-se** (on/ona nazywa się). Forma „ty” ma końcówkę -s: tu fal**as**, tu cham**as**.\n\n**Zaimki często się pomija**, bo końcówka czasownika i tak mówi, kto działa: „Percebo” = (ja) rozumiem. „Eu percebo” — z naciskiem: JA rozumiem.\n\n**ele** (on) ma zamknięte ê, **ela** (ona) — otwarte e. To dobry trening słuchu!",
+      "tableItemIds": [
+        "eu",
+        "tu",
+        "ele",
+        "ela",
+        "nos",
+        "voces",
+        "eles",
+        "elas"
+      ],
+      "exampleIds": [
+        "eu-nao-percebo",
+        "ela-chama-se-ana",
+        "o-senhor-fala-ingles-q",
+        "tu-falas-portugues-q"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d07"
+    ],
+    "exerciseIds": [
+      "w02-l07-e01",
+      "w02-l07-e02",
+      "w02-l07-e03",
+      "w02-l07-e04",
+      "w02-l07-e05",
+      "w02-l07-e06",
+      "w02-l07-e07",
+      "w02-l07-e08",
+      "w02-l07-e09",
+      "w02-l07-e10"
+    ],
+    "speakingTaskIds": [
+      "w02-l07-s01",
+      "w02-l07-s02",
+      "w02-l07-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w02-l08",
+    "week": 2,
+    "day": 2,
+    "phase": 1,
+    "titlePl": "Ser — kim jestem?",
+    "subtitlePl": "Narodowość i pochodzenie",
+    "goals": [
+      "Odmienić „ser” w czasie teraźniejszym",
+      "Powiedzieć, jakiej jestem narodowości i skąd jestem",
+      "Zapytać o to grzecznie"
+    ],
+    "canDo": [
+      "Powiem: Sou polaco/polaca. Sou da Polónia.",
+      "Zapytam: O senhor é português?"
+    ],
+    "prerequisites": [
+      "w02-l07"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "open-closed-o",
+      "textPl": "W „sou” i „somos” o jest zamknięte (ô). Posłuchaj.",
+      "itemIds": [
+        "ser-sou",
+        "ser-somos"
+      ]
+    },
+    "newItemIds": [
+      "ser",
+      "ser-sou",
+      "ser-es",
+      "ser-e",
+      "ser-somos",
+      "ser-sao",
+      "polaco",
+      "portugues-nac",
+      "ingles-nac",
+      "sou-da-polonia"
+    ],
+    "grammar": {
+      "titlePl": "Ser — „być” na stałe",
+      "explanationPl": "Polski ma jedno „być”. Portugalski ma **dwa**: ser i estar (następna lekcja).\n\n**ser** opisuje to, **kim lub czym jesteś** — tożsamość, narodowość, pochodzenie (ser de…), później też zawód i cechy.\n\nSou polaco. — Jestem Polakiem. (bez rodzajnika, jak po polsku)\nSou da Polónia. — Jestem z Polski. (de + a = **da**, bo mówimy „a Polónia”)\n\n**Rodzaj:** narodowość zmienia końcówkę: polaco → polac**a**, português → portugues**a**, inglês → ingles**a**.\n\n**Uwaga na „é” i „e”:** é (jest) brzmi „E”, e (i) brzmi „i”.",
+      "tableItemIds": [
+        "ser-sou",
+        "ser-es",
+        "ser-e",
+        "ser-somos",
+        "ser-sao"
+      ],
+      "exampleIds": [
+        "eu-sou-polaco",
+        "ela-e-portuguesa",
+        "nos-somos-da-polonia",
+        "o-senhor-e-portugues-q",
+        "nao-sou-ingles"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d08"
+    ],
+    "exerciseIds": [
+      "w02-l08-e01",
+      "w02-l08-e02",
+      "w02-l08-e03",
+      "w02-l08-e04",
+      "w02-l08-e05",
+      "w02-l08-e06",
+      "w02-l08-e07",
+      "w02-l08-e08",
+      "w02-l08-e09",
+      "w02-l08-e10"
+    ],
+    "speakingTaskIds": [
+      "w02-l08-s01",
+      "w02-l08-s02",
+      "w02-l08-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w02-l09",
+    "week": 2,
+    "day": 3,
+    "phase": 1,
+    "titlePl": "Estar — gdzie jestem i jak się czuję?",
+    "subtitlePl": "Ser czy estar?",
+    "goals": [
+      "Odmienić „estar”",
+      "Powiedzieć, jak się czuję i gdzie jestem",
+      "Odróżnić ser od estar"
+    ],
+    "canDo": [
+      "Odpowiem na „Como está?”",
+      "Powiem, gdzie jestem: Estou no Funchal / em casa",
+      "Powiem, że jestem zmęczony/zmęczona"
+    ],
+    "prerequisites": [
+      "w02-l08"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "reduced-e",
+      "textPl": "Na początku „estou” e prawie znika — Portugalczycy mówią „sztô”. Posłuchaj.",
+      "itemIds": [
+        "estar-estou"
+      ]
+    },
+    "newItemIds": [
+      "estar",
+      "estar-estou",
+      "estar-estas",
+      "esta-verb",
+      "estar-estamos",
+      "estar-estao",
+      "bem",
+      "cansado",
+      "em-casa"
+    ],
+    "grammar": {
+      "titlePl": "Ser czy estar?",
+      "explanationPl": "**estar** = „być” **w danej chwili**: samopoczucie, stan, miejsce.\n\nEstou bem. — Czuję się dobrze.\nEstou cansado. — Jestem zmęczony (teraz).\nEstou no Funchal. — Jestem w Funchal.\n\n**Prosty test:** czy to może się zmienić za godzinę albo jutro? Tak → **estar**. To jest Twoja tożsamość, pochodzenie? → **ser**.\n\nSou polaco (zawsze) — Estou cansado (teraz).\n\n**Gdzie?** em + o = **no**, em + a = **na**: no Funchal (o Funchal), na Madeira (a Madeira). Ale: **em casa** (w domu) — bez rodzajnika.",
+      "tableItemIds": [
+        "estar-estou",
+        "estar-estas",
+        "esta-verb",
+        "estar-estamos",
+        "estar-estao"
+      ],
+      "exampleIds": [
+        "como-esta",
+        "estou-bem-obrigado",
+        "estou-cansado",
+        "estamos-na-madeira",
+        "ela-esta-em-casa",
+        "estou-no-funchal"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d09"
+    ],
+    "exerciseIds": [
+      "w02-l09-e01",
+      "w02-l09-e02",
+      "w02-l09-e03",
+      "w02-l09-e04",
+      "w02-l09-e05",
+      "w02-l09-e06",
+      "w02-l09-e07",
+      "w02-l09-e08",
+      "w02-l09-e09",
+      "w02-l09-e10",
+      "w02-l09-e11"
+    ],
+    "speakingTaskIds": [
+      "w02-l09-s01",
+      "w02-l09-s02",
+      "w02-l09-s03",
+      "w02-l09-s04"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w02-l10",
+    "week": 2,
+    "day": 4,
+    "phase": 1,
+    "titlePl": "Ter — co mam?",
+    "subtitlePl": "Mam syna, mam pytanie, jestem głodny",
+    "goals": [
+      "Odmienić „ter”",
+      "Mówić, co mam",
+      "Powiedzieć, że jestem głodny lub spragniony"
+    ],
+    "canDo": [
+      "Powiem: Tenho um filho. Tenho uma pergunta.",
+      "Powiem: Tenho fome / Tenho sede"
+    ],
+    "prerequisites": [
+      "w02-l09"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "nh",
+      "textPl": "W „tenho” nh brzmi prawie jak polskie ń. Posłuchaj.",
+      "itemIds": [
+        "ter-tenho"
+      ]
+    },
+    "newItemIds": [
+      "ter",
+      "ter-tenho",
+      "ter-tens",
+      "ter-tem",
+      "ter-temos",
+      "ter-teem",
+      "filho",
+      "fome",
+      "sede",
+      "pergunta"
+    ],
+    "grammar": {
+      "titlePl": "Ter — mieć (także głód i pragnienie)",
+      "explanationPl": "**ter** = mieć.\n\nTenho um filho. — Mam syna.\nTenho uma pergunta. — Mam pytanie.\n\n**Głód i pragnienie** wyraża się przez „mieć”, a nie „być”:\nTenho fome. — Jestem głodny/głodna (dosł. „mam głód”).\nTenho sede. — Chce mi się pić (dosł. „mam pragnienie”).\nDzięki temu nie musisz się martwić o rodzaj: tak samo powie mężczyzna i kobieta!\n\n**uma** to żeńska forma „um” (jeden/jakiś): um filho, ale **uma** pergunta, **uma** filha (córka). Więcej w następnej lekcji.\n\n**Wymowa:** tem (ma) = „TÃJ”, têm (mają) = „TÃJ-ãj”. tenho w Lizbonie brzmi „TĂ-ńu”, gdzie indziej często „TÊ-ńu”.",
+      "tableItemIds": [
+        "ter-tenho",
+        "ter-tens",
+        "ter-tem",
+        "ter-temos",
+        "ter-teem"
+      ],
+      "exampleIds": [
+        "tenho-um-filho",
+        "tenho-fome",
+        "tem-sede-q",
+        "tenho-uma-pergunta",
+        "ela-tem-uma-filha"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d10"
+    ],
+    "exerciseIds": [
+      "w02-l10-e01",
+      "w02-l10-e02",
+      "w02-l10-e03",
+      "w02-l10-e04",
+      "w02-l10-e05",
+      "w02-l10-e06",
+      "w02-l10-e07",
+      "w02-l10-e08",
+      "w02-l10-e09",
+      "w02-l10-e10"
+    ],
+    "speakingTaskIds": [
+      "w02-l10-s01",
+      "w02-l10-s02",
+      "w02-l10-s03",
+      "w02-l10-s04"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w02-l11",
+    "week": 2,
+    "day": 5,
+    "phase": 1,
+    "titlePl": "Rodzajniki, rzeczowniki i liczby 0–10",
+    "subtitlePl": "o, a, um, uma",
+    "goals": [
+      "Zrozumieć, czym jest rodzajnik",
+      "Uczyć się rzeczowników razem z rodzajnikiem",
+      "Liczyć do 10"
+    ],
+    "canDo": [
+      "Policzę do dziesięciu",
+      "Zamówię dwie lub trzy kawy",
+      "Wiem, że mówi się „o dia”, ale „a casa”"
+    ],
+    "prerequisites": [
+      "w02-l10"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "unstressed-a",
+      "textPl": "Rodzajnik „a” i końcowe -a w „casa” to krótkie, przytłumione ă.",
+      "itemIds": [
+        "o-cafe-a-casa"
+      ]
+    },
+    "newItemIds": [
+      "zero",
+      "um",
+      "uma",
+      "dois",
+      "duas",
+      "tres",
+      "quatro",
+      "cinco",
+      "seis",
+      "oito",
+      "nove",
+      "dez"
+    ],
+    "grammar": {
+      "titlePl": "Rodzajnik — małe słówko, którego nie ma w polskim",
+      "explanationPl": "Przed rzeczownikiem zwykle stoi rodzajnik. W polskim go nie ma (podobnie jak angielskie „the” i „a”).\n\n**o** (męski) / **a** (żeński) — „ten / ta” (konkretna rzecz): o café, a casa.\n**um** / **uma** — „jakiś / jakaś”, „jeden / jedna”: um café, uma pergunta.\nLiczba mnoga: **os** / **as** — os cafés, as perguntas.\n\n**Rodzaj:** zwykle -o = męski, -a = żeński, ale nie zawsze: **o dia** (męski!), **a tarde**, **a noite**. Dlatego ucz się słów **razem z rodzajnikiem**.\n\n**Liczby 1 i 2 mają rodzaj:** um café / uma pergunta, dois cafés / duas perguntas. Od trzech w górę — bez zmian.",
+      "table": [
+        [
+          "o café",
+          "(ta) kawa"
+        ],
+        [
+          "a casa",
+          "(ten) dom"
+        ],
+        [
+          "um filho",
+          "(jakiś) syn"
+        ],
+        [
+          "uma pergunta",
+          "(jakieś) pytanie"
+        ],
+        [
+          "os cafés",
+          "kawy"
+        ],
+        [
+          "as perguntas",
+          "pytania"
+        ]
+      ],
+      "tableItemIds": [
+        "zero",
+        "um",
+        "dois",
+        "tres",
+        "quatro",
+        "cinco",
+        "seis",
+        "sete",
+        "oito",
+        "nove",
+        "dez"
+      ],
+      "exampleIds": [
+        "o-cafe-a-casa",
+        "dois-cafes-sfv",
+        "tenho-duas-perguntas"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d11"
+    ],
+    "exerciseIds": [
+      "w02-l11-e01",
+      "w02-l11-e02",
+      "w02-l11-e03",
+      "w02-l11-e04",
+      "w02-l11-e05",
+      "w02-l11-e06",
+      "w02-l11-e07",
+      "w02-l11-e08",
+      "w02-l11-e09",
+      "w02-l11-e10"
+    ],
+    "speakingTaskIds": [
+      "w02-l11-s01",
+      "w02-l11-s02",
+      "w02-l11-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review"
+  },
+  {
+    "id": "w02-l12",
+    "week": 2,
+    "day": 6,
+    "phase": 1,
+    "titlePl": "Łączę proste zdania + sprawdzian",
+    "subtitlePl": "e, mas, também, ou",
+    "goals": [
+      "Łączyć zdania spójnikami",
+      "Odpowiadać „po portugalsku” powtarzając czasownik",
+      "Sprawdzić wiedzę z tygodnia 2"
+    ],
+    "canDo": [
+      "Powiem kilka zdań o sobie połączonych spójnikami",
+      "Odpowiem: Eu também. Falo um pouco."
+    ],
+    "prerequisites": [
+      "w02-l11"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "connected-speech",
+      "textPl": "„mas estou” — s przed samogłoską brzmi jak z i łączy się z następnym słowem.",
+      "itemIds": [
+        "sou-polaco-mas-estou-na-madeira"
+      ]
+    },
+    "newItemIds": [
+      "e-conj",
+      "mas",
+      "mais",
+      "tambem",
+      "muito",
+      "aqui",
+      "ou",
+      "um-pouco",
+      "cha"
+    ],
+    "grammar": {
+      "titlePl": "Spójniki i odpowiedzi „po portugalsku”",
+      "explanationPl": "**e** (wym. „i”) — i, a\n**mas** — ale\n**ou** — albo, czy\n**também** — też: Eu também. (Ja też.)\n\n**Odpowiedź „tak” po portugalsku:** zamiast samego „sim” Portugalczycy często **powtarzają czasownik**:\n— É polaco? — **Sou.** (Jest Pan Polakiem? — Jestem.)\n— Fala inglês? — **Falo.**\n\n**Imiona z rodzajnikiem:** w Portugalii często mówi się „o Rui”, „a Ana” — to normalne i przyjazne.",
+      "exampleIds": [
+        "sou-polaco-mas-estou-na-madeira",
+        "a-ana-e-portuguesa-e-o-rui-tambem",
+        "cafe-ou-cha-q",
+        "estou-aqui",
+        "e-polaco-q",
+        "sou-resposta"
+      ]
+    },
+    "dialogueIds": [
+      "w02-d12"
+    ],
+    "exerciseIds": [
+      "w02-l12-e01",
+      "w02-l12-e02",
+      "w02-l12-e03",
+      "w02-l12-e04",
+      "w02-l12-e05",
+      "w02-l12-e06",
+      "w02-l12-e07",
+      "w02-l12-e08",
+      "w02-l12-e09"
+    ],
+    "speakingTaskIds": [
+      "w02-l12-s01",
+      "w02-l12-s02",
+      "w02-l12-s03"
+    ],
+    "mapStopId": "funchal",
+    "status": "review",
+    "testId": "w02-test"
+  }
+]

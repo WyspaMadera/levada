@@ -1,0 +1,226 @@
+[
+  {
+    "id": "w08-d43",
+    "titlePl": "Czy jest tu apteka?",
+    "contextPl": "Spacerujesz z Aną po nowej okolicy. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "ana-ha-uma-farmacia-aqui-perto-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "ha-sim-e-ao-lado-do-banco"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-o-banco-e-longe-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-e-muito-perto"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "ha-um-supermercado-aqui-perto-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-o-supermercado-e-longe-mas-o-mercado-e-perto"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "muito-obrigado",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w08-d44",
+    "titlePl": "Jak dojść do banku?",
+    "contextPl": "Spotykasz Martę w mieście i pytasz o drogę do banku. Rozmowa grzeczna: Marta mówi „vire”, „siga” — to gotowe formuły typu „proszę skręcić”, „proszę iść”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "desculpe-onde-e-o-banco-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "siga-em-frente-e-vire-na-primeira-rua-a-direita"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "na-primeira-rua-a-direita-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "sim-o-banco-e-ao-lado-da-farmacia"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-longe-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "nao-e-perto"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "muito-obrigado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "de-nada"
+      }
+    ]
+  },
+  {
+    "id": "w08-d45",
+    "titlePl": "O której autobus?",
+    "contextPl": "Pijesz kawę u Ruiego i chcesz jechać do Funchal. Godziny w dialogach są przykładowe — prawdziwy rozkład sprawdź na przystanku lub u przewoźnika.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "a-que-horas-parte-o-autocarro-para-o-funchal-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "o-proximo-parte-as-dez-e-meia"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-dez-e-meia-e-onde-e-a-paragem-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "e-aqui-perto-ao-lado-do-banco"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "obrigado-ate-logo",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "ate-logo"
+      }
+    ]
+  },
+  {
+    "id": "w08-d46",
+    "titlePl": "Plaża? Pada!",
+    "contextPl": "Dzwonisz do Any. Jesteście w różnych miejscach na wyspie, więc pogoda u Was jest inna.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Tomek",
+        "itemId": "ola-ana-vamos-a-praia-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "hoje-esta-a-chover"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "a-chover-aqui-esta-sol-e-esta-calor",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "aqui-no-funchal-esta-frio-e-esta-muito-vento"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "vamos-amanha-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "amanha-sim-ate-amanha"
+      }
+    ]
+  },
+  {
+    "id": "w08-d47",
+    "titlePl": "Zima w Polsce",
+    "contextPl": "Ana pyta Cię o pogodę w Polsce. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "na-polonia-esta-muito-frio-no-inverno-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "esta-sim-e-aqui-esta-calor-todo-o-ano-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "nao-no-inverno-esta-mais-frio"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-chove-muito-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "as-vezes-tu-gostas-do-inverno-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-gosto-muito-do-verao",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w08-d48",
+    "titlePl": "Gdzie jest przystanek?",
+    "contextPl": "Wychodzisz z przedszkola. Marta pyta, jak wracasz do domu. Rozmowa grzeczna (o senhor).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-vai-para-casa-a-pe-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-hoje-vou-de-autocarro-onde-fica-a-paragem-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "siga-em-frente-e-vire-a-esquerda-e-ao-lado-do-mercado"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "e-longe-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "nao-e-muito-perto-mas-esta-a-chover"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "nao-faz-mal-obrigado-ate-amanha",
+        "isLearner": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "w05-l25-s01",
+    "promptPl": "Powiedz, gdzie mieszkasz i gdzie pracujesz (albo że pracujesz w domu). Jeśli nie pracujesz — wystarczy, gdzie mieszkasz.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "trabalho-no-funchal",
+      "trabalho-em-casa"
+    ],
+    "hintPl": "Jeśli nazwa Twojej miejscowości ma rodzajnik (o Funchal), mów „no Funchal”. Wymowy Twojej miejscowości nie zgadujemy.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w05-l25-s02",
+    "promptPl": "Poznajesz kogoś na festynie. Zapytaj grzecznie, gdzie mieszka i gdzie pracuje.",
+    "modelItemIds": [
+      "onde-mora-q",
+      "onde-trabalha-q"
+    ]
+  },
+  {
+    "id": "w05-l25-s03",
+    "promptPl": "Powiedz o kimś znajomym, gdzie pracuje i jakim językiem mówi. Imiona — dowolne.",
+    "modelItemIds": [
+      "o-rui-trabalha-no-cafe",
+      "a-ana-fala-ingles"
+    ]
+  },
+  {
+    "id": "w05-l25-s04",
+    "promptPl": "Powiedz, jakim językiem mówisz w domu.",
+    "modelItemIds": [
+      "sim-em-casa-falo-polaco"
+    ]
+  },
+  {
+    "id": "w05-l26-s01",
+    "promptPl": "Powiedz, co pijesz, a czego nie pijesz (kawa, herbata, woda).",
+    "modelItemIds": [
+      "bebo-muito-cafe",
+      "nao-bebo-cafe",
+      "hoje-nao-bebo-cafe"
+    ]
+  },
+  {
+    "id": "w05-l26-s02",
+    "promptPl": "W kawiarni: powiedz, co zjesz i co wypijesz.",
+    "modelItemIds": [
+      "como-sopa-e-pao-e-bebo-uma-agua"
+    ]
+  },
+  {
+    "id": "w05-l26-s03",
+    "promptPl": "Powiedz, gdzie dziś jesz.",
+    "modelItemIds": [
+      "hoje-como-em-casa",
+      "sim-como-aqui-e-a-senhora"
+    ]
+  },
+  {
+    "id": "w05-l26-s04",
+    "promptPl": "Powiedz, o której otwiera się Twoja ulubiona kawiarnia lub sklep (godzina dowolna).",
+    "modelItemIds": [
+      "o-cafe-abre-as-oito"
+    ]
+  },
+  {
+    "id": "w05-l27-s01",
+    "promptPl": "Powiedz, o której się budzisz i o której wstajesz.",
+    "modelItemIds": [
+      "acordo-as-seis",
+      "levanto-me-as-seis-e-meia"
+    ],
+    "hintPl": "Podaj prawdziwe godziny — wzór to tylko przykład."
+  },
+  {
+    "id": "w05-l27-s02",
+    "promptPl": "Opisz swój dzień w trzech zdaniach: rano, po południu, wieczorem.",
+    "modelItemIds": [
+      "de-manha-trabalho-no-funchal",
+      "a-tarde-estou-em-casa",
+      "a-noite-deito-me-as-onze"
+    ]
+  },
+  {
+    "id": "w05-l27-s03",
+    "promptPl": "Zapytaj grzecznie sąsiada, o której wstaje.",
+    "modelItemIds": [
+      "a-que-horas-se-levanta-q"
+    ]
+  },
+  {
+    "id": "w05-l28-s01",
+    "promptPl": "Powiedz, co robisz zawsze, co czasem, a czego nigdy (jedzenie, picie, język w domu).",
+    "modelItemIds": [
+      "eu-como-sempre-em-casa",
+      "as-vezes-falamos-portugues",
+      "nunca-bebo-cafe-a-noite"
+    ]
+  },
+  {
+    "id": "w05-l28-s02",
+    "promptPl": "Zapytaj kolegę (tu), o której wstaje i czy zawsze je tutaj.",
+    "modelItemIds": [
+      "a-que-horas-te-levantas-q",
+      "comes-sempre-aqui-q"
+    ]
+  },
+  {
+    "id": "w05-l28-s03",
+    "promptPl": "Powiedz, jakim językiem mówicie w domu (my).",
+    "modelItemIds": [
+      "em-casa-falamos-polaco",
+      "falamos-polaco-as-vezes-portugues"
+    ]
+  },
+  {
+    "id": "w05-l29-s01",
+    "promptPl": "Powiedz, co robisz w tej chwili.",
+    "modelItemIds": [
+      "estou-a-trabalhar",
+      "estou-a-comer"
+    ],
+    "hintPl": "Zacznij od „Estou a…”. Możesz użyć tylko znanych czasowników: trabalhar, comer, falar…"
+  },
+  {
+    "id": "w05-l29-s02",
+    "promptPl": "Zapytaj koleżankę (tu), a potem sąsiada (o senhor), co teraz robi.",
+    "modelItemIds": [
+      "o-que-estas-a-fazer-q",
+      "o-que-esta-a-fazer-q"
+    ]
+  },
+  {
+    "id": "w05-l29-s03",
+    "promptPl": "Powiedz, co teraz robi ktoś inny (Rui, Ana, ktoś z rodziny).",
+    "modelItemIds": [
+      "o-rui-esta-a-trabalhar",
+      "a-ana-esta-a-falar-ao-telemovel"
+    ]
+  },
+  {
+    "id": "w05-l30-s01",
+    "promptPl": "Opowiedz o swoim dniu: o której wstajesz, gdzie pracujesz, gdzie i o której jesz wieczorem.",
+    "modelItemIds": [
+      "levanto-me-as-seis-e-meia",
+      "de-manha-trabalho-no-funchal",
+      "sim-comemos-sempre-em-casa-as-oito"
+    ]
+  },
+  {
+    "id": "w05-l30-s02",
+    "promptPl": "Powiedz, gdzie mieszkają i jakim językiem mówią Twoi bliscy lub znajomi (oni).",
+    "modelItemIds": [
+      "rd-08-03",
+      "eles-falam-portugues"
+    ]
+  },
+  {
+    "id": "w05-l30-s03",
+    "promptPl": "Ktoś pyta, co robisz. Powiedz, co robisz teraz, a co zwykle.",
+    "modelItemIds": [
+      "estou-a-trabalhar",
+      "trabalho-no-funchal"
+    ]
+  },
+  {
+    "id": "w05-t-s01",
+    "promptPl": "Przedstaw się i powiedz, gdzie mieszkasz i (jeśli chcesz) gdzie pracujesz.",
+    "modelItemIds": [
+      "chamo-me-tomasz-muito-prazer",
+      "trabalho-no-funchal"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w05-t-s02",
+    "promptPl": "Opisz swój typowy dzień: rano, po południu, wieczorem. Użyj „sempre” albo „às vezes”.",
+    "modelItemIds": [
+      "levanto-me-as-seis-e-meia",
+      "a-tarde-estou-em-casa",
+      "a-noite-deito-me-as-onze"
+    ]
+  },
+  {
+    "id": "w05-t-s03",
+    "promptPl": "Ana dzwoni: „O que estás a fazer?”. Odpowiedz i zapytaj ją o to samo.",
+    "modelItemIds": [
+      "agora-estou-a-comer-e-tu"
+    ]
+  }
+]

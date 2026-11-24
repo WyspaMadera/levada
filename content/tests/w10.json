@@ -1,0 +1,90 @@
+[
+  {
+    "id": "w10-test",
+    "week": 10,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 10",
+    "introPl": "Około 10 minut. Plany: ir + bezokolicznik (vou trabalhar, vamos jantar fora), określenia czasu (logo à noite, amanhã de manhã, depois de amanhã, este fim de semana, para a semana, no próximo mês), propozycje, zgoda i odmowa (Queres…? porque, combinado), gostava de…, se calhar. Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w10-t-e01",
+          "w10-t-e02",
+          "w10-t-e03",
+          "w10-t-e04",
+          "w10-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w10-t-e06",
+          "w10-t-e07",
+          "w10-t-e08",
+          "w10-t-e09"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w10-t-e10",
+          "w10-t-e11",
+          "w10-t-e12",
+          "w10-t-e13",
+          "w10-t-e14",
+          "w10-t-e15",
+          "w10-t-e16",
+          "w10-t-e17",
+          "w10-t-e18"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w10-t-e19",
+          "w10-t-e20",
+          "w10-t-e21",
+          "w10-t-e22"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w10-t-s01",
+      "w10-t-s02",
+      "w10-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w10-t-m01",
+        "promptPl": "Opowiedz o swoich planach: dziś wieczorem, jutro, w weekend i w przyszłym miesiącu — około minuty.",
+        "hintPl": "Logo à noite vou… Amanhã de manhã… Este fim de semana… Para a semana / No próximo mês… Gostava de… Se calhar…",
+        "targetSeconds": 75,
+        "checklistPl": [
+          "Użyłem/użyłam vou + bezokolicznik (vou trabalhar, vou ficar…)",
+          "Drugi czasownik był w bezokoliczniku (vou ver, nie „vou vejo”)",
+          "Powiedziałem/powiedziałam, KIEDY (logo à noite, amanhã, depois de amanhã, este fim de semana, para a semana, no próximo mês)",
+          "Z samym „ir” nie powiedziałem/powiedziałam „vou ir” (Amanhã vou à praia)",
+          "Użyłem/użyłam gostava de… albo se calhar…",
+          "Połączyłem/połączyłam zdania (e, mas, porque, depois)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w10-planos"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w10-l55",
+      "w10-l56",
+      "w10-l57",
+      "w10-l58",
+      "w10-l59",
+      "w10-l60"
+    ]
+  }
+]

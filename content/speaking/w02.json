@@ -1,0 +1,194 @@
+[
+  {
+    "id": "w02-l07-s01",
+    "promptPl": "Pokaż (w myślach) kolegę i powiedz, jak ma na imię.",
+    "modelItemIds": [
+      "ele-chama-se-rui"
+    ]
+  },
+  {
+    "id": "w02-l07-s02",
+    "promptPl": "Zapytaj starszą panią, czy mówi po angielsku.",
+    "modelItemIds": [
+      "a-senhora-fala-ingles-q"
+    ]
+  },
+  {
+    "id": "w02-l07-s03",
+    "promptPl": "Zapytaj znajomą osobę (ty), czy mówi po portugalsku.",
+    "modelItemIds": [
+      "tu-falas-portugues-q"
+    ]
+  },
+  {
+    "id": "w02-l08-s01",
+    "promptPl": "Powiedz, jakiej jesteś narodowości i skąd jesteś.",
+    "modelItemIds": [
+      "eu-sou-polaco",
+      "sou-da-polonia"
+    ],
+    "hintPl": "Jeśli nie jesteś z Polski — powiedz po prostu nazwę kraju (np. „Sou de…”). Wymowy nazw nie zgadujemy."
+  },
+  {
+    "id": "w02-l08-s02",
+    "promptPl": "Zapytaj panią w biurze, czy jest Portugalką.",
+    "modelItemIds": [
+      "a-senhora-e-portuguesa-q"
+    ]
+  },
+  {
+    "id": "w02-l08-s03",
+    "promptPl": "Ktoś pyta: „O senhor é inglês?”. Zaprzecz i powiedz, kim jesteś.",
+    "modelItemIds": [
+      "nao-nao-sou-ingles-sou-polaco"
+    ]
+  },
+  {
+    "id": "w02-l09-s01",
+    "promptPl": "Ktoś pyta: „Como está?”. Odpowiedz.",
+    "modelItemIds": [
+      "estou-bem-obrigado"
+    ]
+  },
+  {
+    "id": "w02-l09-s02",
+    "promptPl": "Powiedz, gdzie teraz jesteś (w domu, w Funchal, na Maderze).",
+    "modelItemIds": [
+      "estou-no-funchal",
+      "estamos-na-madeira",
+      "sim-estou-em-casa-e-tu"
+    ]
+  },
+  {
+    "id": "w02-l09-s03",
+    "promptPl": "Zadzwoń do przyjaciela: przywitaj się i zapytaj, jak się ma.",
+    "modelItemIds": [
+      "ola-como-estas"
+    ]
+  },
+  {
+    "id": "w02-l09-s04",
+    "promptPl": "Powiedz, że jesteś zmęczony/zmęczona.",
+    "modelItemIds": [
+      "estou-cansado"
+    ]
+  },
+  {
+    "id": "w02-l10-s01",
+    "promptPl": "Jeśli chcesz, powiedz, że masz syna lub córkę. (To zupełnie opcjonalne.)",
+    "modelItemIds": [
+      "tenho-um-filho",
+      "ela-tem-uma-filha"
+    ]
+  },
+  {
+    "id": "w02-l10-s02",
+    "promptPl": "Jesteś głodny/głodna. Powiedz to.",
+    "modelItemIds": [
+      "tenho-fome"
+    ]
+  },
+  {
+    "id": "w02-l10-s03",
+    "promptPl": "Zaczepiasz urzędnika: przeproś i powiedz, że masz pytanie.",
+    "modelItemIds": [
+      "desculpe-tenho-uma-pergunta"
+    ]
+  },
+  {
+    "id": "w02-l10-s04",
+    "promptPl": "Zapytaj gościa (formalnie), czy chce mu się pić.",
+    "modelItemIds": [
+      "tem-sede-q"
+    ]
+  },
+  {
+    "id": "w02-l11-s01",
+    "promptPl": "Policz na głos od zera do dziesięciu.",
+    "modelItemIds": [
+      "zero",
+      "um",
+      "dois",
+      "tres",
+      "quatro",
+      "cinco",
+      "seis",
+      "sete",
+      "oito",
+      "nove",
+      "dez"
+    ]
+  },
+  {
+    "id": "w02-l11-s02",
+    "promptPl": "Zamów dwie kawy.",
+    "modelItemIds": [
+      "dois-cafes-sfv"
+    ]
+  },
+  {
+    "id": "w02-l11-s03",
+    "promptPl": "Powiedz, że masz dwa pytania.",
+    "modelItemIds": [
+      "tenho-duas-perguntas"
+    ]
+  },
+  {
+    "id": "w02-l12-s01",
+    "promptPl": "Przedstaw się w trzech zdaniach: imię, narodowość, gdzie teraz jesteś.",
+    "modelItemIds": [
+      "chamo-me-tomasz-muito-prazer",
+      "sou-polaco-mas-estou-na-madeira"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w02-l12-s02",
+    "promptPl": "Ktoś pyta: „Falas português?”. Odpowiedz zgodnie z prawdą.",
+    "modelItemIds": [
+      "falo-um-pouco"
+    ]
+  },
+  {
+    "id": "w02-l12-s03",
+    "promptPl": "Ktoś mówi: „Estou cansado”. Odpowiedz: ja też.",
+    "modelItemIds": [
+      "eu-tambem"
+    ]
+  },
+  {
+    "id": "w02-t-s01",
+    "promptPl": "Przedstaw się: imię, narodowość, gdzie jesteś, jak się czujesz.",
+    "modelItemIds": [
+      "chamo-me-tomasz-muito-prazer",
+      "eu-sou-polaco",
+      "estou-no-funchal",
+      "estou-bem-obrigado"
+    ],
+    "personal": {
+      "field": "name",
+      "templatePt": "Chamo-me {name}.",
+      "templateItemId": "chamo-me"
+    }
+  },
+  {
+    "id": "w02-t-s02",
+    "promptPl": "Zapytaj grzecznie nową osobę, czy jest Portugalczykiem i czy mówi po angielsku.",
+    "modelItemIds": [
+      "o-senhor-e-portugues-q",
+      "o-senhor-fala-ingles-q"
+    ]
+  },
+  {
+    "id": "w02-t-s03",
+    "promptPl": "Powiedz, że masz pytanie, i zamów trzy kawy.",
+    "modelItemIds": [
+      "tenho-uma-pergunta",
+      "bom-dia-tres-cafes-sfv"
+    ]
+  }
+]

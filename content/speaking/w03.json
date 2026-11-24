@@ -1,0 +1,201 @@
+[
+  {
+    "id": "w03-l13-s01",
+    "promptPl": "Opisz swój dom: czy jest duży czy mały, nowy czy nie?",
+    "modelItemIds": [
+      "a-casa-e-grande",
+      "a-casa-e-nova",
+      "sim-mas-e-pequena"
+    ],
+    "hintPl": "Pamiętaj: a casa jest żeńska → pequena, nova, bonita."
+  },
+  {
+    "id": "w03-l13-s02",
+    "promptPl": "Powiedz, jaki masz samochód (jeśli nie masz — wymyśl).",
+    "modelItemIds": [
+      "tenho-um-carro-pequeno",
+      "o-carro-e-novo"
+    ]
+  },
+  {
+    "id": "w03-l13-s03",
+    "promptPl": "Znajoma pokazuje Ci swój nowy dom. Pochwal go.",
+    "modelItemIds": [
+      "e-muito-bonita"
+    ]
+  },
+  {
+    "id": "w03-l14-s01",
+    "promptPl": "Zamów grzecznie kawę.",
+    "modelItemIds": [
+      "queria-um-cafe-sfv"
+    ]
+  },
+  {
+    "id": "w03-l14-s02",
+    "promptPl": "Zaproponuj przyjacielowi (tu) herbatę.",
+    "modelItemIds": [
+      "queres-um-cha-q"
+    ]
+  },
+  {
+    "id": "w03-l14-s03",
+    "promptPl": "Ktoś proponuje Ci kawę, ale nie chcesz. Odmów grzecznie.",
+    "modelItemIds": [
+      "nao-quero-obrigado"
+    ]
+  },
+  {
+    "id": "w03-l14-s04",
+    "promptPl": "Jesteś z kimś w kawiarni. Powiedz, że chcecie dwie kawy.",
+    "modelItemIds": [
+      "queremos-dois-cafes"
+    ]
+  },
+  {
+    "id": "w03-l15-s01",
+    "promptPl": "W sklepie potrzebujesz pomocy. Poproś ekspedientkę jak najgrzeczniej.",
+    "modelItemIds": [
+      "podia-ajudar-me-sfv-q",
+      "pode-ajudar-me-q"
+    ]
+  },
+  {
+    "id": "w03-l15-s02",
+    "promptPl": "Pukasz do gabinetu. Zapytaj, czy możesz wejść.",
+    "modelItemIds": [
+      "posso-entrar-q"
+    ]
+  },
+  {
+    "id": "w03-l15-s03",
+    "promptPl": "Kolega mówi za szybko. Poproś (tu), żeby powtórzył.",
+    "modelItemIds": [
+      "podes-repetir-q"
+    ]
+  },
+  {
+    "id": "w03-l15-s04",
+    "promptPl": "Ktoś pyta: „Posso entrar?”. Pozwól mu wejść.",
+    "modelItemIds": [
+      "bom-dia-sim-pode"
+    ]
+  },
+  {
+    "id": "w03-l16-s01",
+    "promptPl": "Jesteś w aptece i źle się czujesz. Powiedz, że potrzebujesz lekarza.",
+    "modelItemIds": [
+      "preciso-de-um-medico"
+    ]
+  },
+  {
+    "id": "w03-l16-s02",
+    "promptPl": "Starsza pani na ulicy wygląda na zagubioną. Zapytaj, czy potrzebuje pomocy.",
+    "modelItemIds": [
+      "precisa-de-ajuda-q"
+    ]
+  },
+  {
+    "id": "w03-l16-s03",
+    "promptPl": "Wracasz do kawiarni: potrzebujesz swojego telefonu. Zapytaj, czy tu jest.",
+    "modelItemIds": [
+      "preciso-do-telemovel-esta-aqui-q"
+    ]
+  },
+  {
+    "id": "w03-l17-s01",
+    "promptPl": "Policz na głos od 11 do 20.",
+    "modelItemIds": [
+      "onze",
+      "doze",
+      "treze",
+      "catorze",
+      "quinze",
+      "dezasseis",
+      "dezassete",
+      "dezoito",
+      "dezanove",
+      "vinte"
+    ]
+  },
+  {
+    "id": "w03-l17-s02",
+    "promptPl": "Jesteś na pchlim targu. Zapytaj o cenę stołu.",
+    "modelItemIds": [
+      "quanto-custa-a-mesa-q"
+    ]
+  },
+  {
+    "id": "w03-l17-s03",
+    "promptPl": "Podaj cenę: 35 euro.",
+    "modelItemIds": [
+      "custa-trinta-e-cinco-euros"
+    ]
+  },
+  {
+    "id": "w03-l17-s04",
+    "promptPl": "Policz dziesiątkami od 30 do 100.",
+    "modelItemIds": [
+      "dezenas-30-100"
+    ]
+  },
+  {
+    "id": "w03-l18-s01",
+    "promptPl": "Powiedz, gdzie mieszkasz.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "moro-na-madeira"
+    ],
+    "hintPl": "Jeśli nazwa Twojej miejscowości ma rodzajnik (o Funchal), mów „no Funchal”. Wymowy Twojej miejscowości nie zgadujemy.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w03-l18-s02",
+    "promptPl": "Jeśli chcesz, powiedz, ile masz lat. (Możesz też podać dowolny wiek — to tylko ćwiczenie.)",
+    "modelItemIds": [
+      "tenho-trinta-e-cinco-anos"
+    ]
+  },
+  {
+    "id": "w03-l18-s03",
+    "promptPl": "Zapytaj kolegę (tu), gdzie mieszka i ile ma lat.",
+    "modelItemIds": [
+      "onde-moras-q",
+      "quantos-anos-tens-q"
+    ]
+  },
+  {
+    "id": "w03-t-s01",
+    "promptPl": "Powiedz, gdzie mieszkasz i (jeśli chcesz) ile masz lat.",
+    "modelItemIds": [
+      "moro-no-funchal",
+      "tenho-trinta-e-cinco-anos"
+    ],
+    "hintPl": "Wiek podaj tylko, jeśli chcesz.",
+    "personal": {
+      "field": "city",
+      "templatePt": "Moro em {city}.",
+      "templateItemId": "moro-em"
+    }
+  },
+  {
+    "id": "w03-t-s02",
+    "promptPl": "W kawiarni: zamów grzecznie herbatę, a potem odmów kawy.",
+    "modelItemIds": [
+      "queria-um-cha-sfv",
+      "nao-quero-obrigado"
+    ]
+  },
+  {
+    "id": "w03-t-s03",
+    "promptPl": "Zaczep nieznajomego: poproś grzecznie o pomoc i zapytaj o cenę.",
+    "modelItemIds": [
+      "podia-ajudar-me-sfv-q",
+      "quanto-custa-q"
+    ]
+  }
+]

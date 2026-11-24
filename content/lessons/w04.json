@@ -1,0 +1,541 @@
+[
+  {
+    "id": "w04-l19",
+    "week": 4,
+    "day": 1,
+    "phase": 1,
+    "titlePl": "Ir — dokąd idę?",
+    "subtitlePl": "ao supermercado, à praia, para casa",
+    "goals": [
+      "Odmienić „ir”",
+      "Mówić, dokąd idę: a / para",
+      "Łączyć a z rodzajnikiem: ao, à"
+    ],
+    "canDo": [
+      "Powiem: Vou ao supermercado. Vou à praia. Vou para casa.",
+      "Zapytam: Para onde vais?",
+      "Zaproponuję: Vamos à praia!"
+    ],
+    "prerequisites": [
+      "w03-l18"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "v-w",
+      "textPl": "vou, vais, vai, vamos, vão — portugalskie v to polskie w.",
+      "itemIds": [
+        "ir-vou",
+        "ir-vamos"
+      ]
+    },
+    "newItemIds": [
+      "ir-vou",
+      "ir-vais",
+      "ir-vai",
+      "ir-vamos",
+      "ir-vao",
+      "ao-supermercado",
+      "a-praia",
+      "para-casa"
+    ],
+    "grammar": {
+      "titlePl": "Ir — iść / jechać; a, para, ao, à",
+      "explanationPl": "**ir** = iść **i** jechać. Portugalski nie rozróżnia, czy idziesz pieszo, czy jedziesz: Vou ao Funchal = Idę / jadę do Funchal.\n\nOdmiana jest całkiem nieregularna: **vou, vais, vai, vamos, vão** — naucz się jej na pamięć.\n\n**Dokąd?** Po „ir” stoi **a** (wyjście, krótka wizyta) albo **para** (tam, gdzie zostajesz; zawsze: **para casa**).\na + o = **ao**: Vou ao supermercado.\na + a = **à**: Vou à praia. (à brzmi jak otwarte **a**, inaczej niż rodzajnik „a” = ă)\npara casa — bez rodzajnika (jak em casa).\n\n**Porównanie z polskim:** po polsku „**do** sklepu”, ale „**na** plażę”. Po portugalsku w obu przypadkach **a** + rodzajnik.\n\n**Vamos!** = Idziemy! / Chodźmy! — Vamos à praia? = Idziemy na plażę?\n\n**Dokąd idziesz?** Para onde vais? (w mowie: „pă-RÕ-dy WAJSZ”)",
+      "tableItemIds": [
+        "ir-vou",
+        "ir-vais",
+        "ir-vai",
+        "ir-vamos",
+        "ir-vao"
+      ],
+      "exampleIds": [
+        "vou-ao-supermercado",
+        "vamos-a-praia",
+        "vou-para-casa",
+        "para-onde-vais-q",
+        "a-ana-vai-ao-supermercado"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d19"
+    ],
+    "exerciseIds": [
+      "w04-l19-e01",
+      "w04-l19-e02",
+      "w04-l19-e03",
+      "w04-l19-e04",
+      "w04-l19-e05",
+      "w04-l19-e06",
+      "w04-l19-e07",
+      "w04-l19-e08",
+      "w04-l19-e09",
+      "w04-l19-e10",
+      "w04-l19-e11"
+    ],
+    "speakingTaskIds": [
+      "w04-l19-s01",
+      "w04-l19-s02",
+      "w04-l19-s03"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w04-l20",
+    "week": 4,
+    "day": 2,
+    "phase": 1,
+    "titlePl": "Gdzie to jest?",
+    "subtitlePl": "em, no, na · de, do, da · com",
+    "goals": [
+      "Mówić, gdzie coś lub ktoś jest",
+      "Używać no/na, do/da i com",
+      "Pytać: Onde está…?"
+    ],
+    "canDo": [
+      "Zapytam: Onde está a chave?",
+      "Odpowiem: Está na mesa / na cozinha / no trabalho / com o Rui.",
+      "Powiem, czyje coś jest: a carteira do Rui."
+    ],
+    "prerequisites": [
+      "w04-l19"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "sz-zh",
+      "textPl": "„chave” zaczyna się od ch = sz (miękkie, bez zaokrąglania jak w polskim).",
+      "itemIds": [
+        "chave"
+      ]
+    },
+    "newItemIds": [
+      "onde-esta-q",
+      "com",
+      "chave",
+      "carteira",
+      "cozinha",
+      "trabalho"
+    ],
+    "grammar": {
+      "titlePl": "Gdzie? em, de, com",
+      "explanationPl": "**em** = w **i** na. Z rodzajnikiem: em + o = **no**, em + a = **na**:\nna mesa — **na** stole · na cozinha — **w** kuchni · no trabalho — **w** pracy.\nBez rodzajnika: **em casa** (w domu).\n\n**de** = z, od; oraz „czyj?” (jak polski dopełniacz): a chave **do** carro — kluczyk do samochodu (dosł. „samochodu”), a carteira **do** Rui — portfel Ruiego. de + o = do, de + a = da.\n\n**com** = z (razem z kimś, czymś): O Rui está **com** a Ana. — Rui jest z Aną. Po portugalsku imię się nie odmienia: com a Ana = z Aną. W piśmie „com o / com a” się nie łączą.\n\n**Onde está…?** — Gdzie jest…? Położenie rzeczy i osób → **estar** (jak w tygodniu 2). (O stałe miejsca, np. budynki, Portugalczycy często pytają też „Onde é…?” — wrócimy do tego później.)",
+      "table": [
+        [
+          "em + o = no",
+          "no trabalho — w pracy"
+        ],
+        [
+          "em + a = na",
+          "na mesa — na stole; na cozinha — w kuchni"
+        ],
+        [
+          "de + o = do",
+          "a chave do carro — kluczyk do samochodu"
+        ],
+        [
+          "de + a = da",
+          "a casa da Ana — dom Any"
+        ],
+        [
+          "com",
+          "com a Ana — z Aną"
+        ]
+      ],
+      "exampleIds": [
+        "onde-esta-a-chave-q",
+        "esta-na-mesa",
+        "o-telemovel-esta-na-cozinha",
+        "a-ana-esta-no-trabalho",
+        "o-rui-esta-com-a-ana",
+        "e-a-carteira-do-rui"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d20"
+    ],
+    "exerciseIds": [
+      "w04-l20-e01",
+      "w04-l20-e02",
+      "w04-l20-e03",
+      "w04-l20-e04",
+      "w04-l20-e05",
+      "w04-l20-e06",
+      "w04-l20-e07",
+      "w04-l20-e08",
+      "w04-l20-e09",
+      "w04-l20-e10",
+      "w04-l20-e11"
+    ],
+    "speakingTaskIds": [
+      "w04-l20-s01",
+      "w04-l20-s02",
+      "w04-l20-s03",
+      "w04-l20-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w04-l21",
+    "week": 4,
+    "day": 3,
+    "phase": 1,
+    "titlePl": "Dni tygodnia",
+    "subtitlePl": "Hoje é segunda-feira",
+    "goals": [
+      "Nazywać dni tygodnia",
+      "Mówić, jaki jest dziś i jutro dzień",
+      "Mówić „w poniedziałek / w sobotę” (na / no)"
+    ],
+    "canDo": [
+      "Powiem: Hoje é segunda-feira. Amanhã é terça-feira.",
+      "Zapytam: Que dia é hoje?",
+      "Umówię się: Na quinta-feira posso."
+    ],
+    "prerequisites": [
+      "w04-l20"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "stress",
+      "textPl": "„sábado” — akcent na PIERWSZEJ sylabie, „domingo” — na drugiej. Posłuchaj.",
+      "itemIds": [
+        "sabado",
+        "domingo"
+      ]
+    },
+    "newItemIds": [
+      "segunda-feira",
+      "terca-feira",
+      "quarta-feira",
+      "quinta-feira",
+      "sexta-feira",
+      "sabado",
+      "domingo",
+      "que-dia-e-hoje-q"
+    ],
+    "grammar": {
+      "titlePl": "Dni tygodnia",
+      "explanationPl": "Dni od poniedziałku do piątku to po prostu „dzień drugi, trzeci…” — liczenie zaczyna się od niedzieli:\n**segunda**-feira (poniedziałek), **terça**-feira (wtorek), **quarta**-feira (środa), **quinta**-feira (czwartek), **sexta**-feira (piątek). Weekend: **sábado**, **domingo**.\n\n**Pułapka dla Polaka:** po polsku „piątek” = piąty, a po portugalsku **quinta**(-feira) = **czwartek**! Piątek to **sexta**-feira („szósty”).\n\nW mowie często skracamy: segunda, terça, quarta, quinta, sexta (até quinta! = do czwartku!). Nazwy dni piszemy małą literą.\n\n**W który dzień?** -feira jest żeńskie → **na** segunda-feira (w poniedziałek), **na** sexta-feira. Sábado i domingo są męskie → **no** sábado, **no** domingo.\n\n**Jaki dziś dzień?** Que dia é hoje? — Hoje **é** segunda-feira. (dzień tygodnia → ser)",
+      "tableItemIds": [
+        "segunda-feira",
+        "terca-feira",
+        "quarta-feira",
+        "quinta-feira",
+        "sexta-feira",
+        "sabado",
+        "domingo"
+      ],
+      "exampleIds": [
+        "hoje-e-segunda-feira",
+        "amanha-e-terca-feira",
+        "no-sabado-vou-a-praia",
+        "na-sexta-feira-nao-posso",
+        "no-domingo-estou-em-casa"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d21"
+    ],
+    "exerciseIds": [
+      "w04-l21-e01",
+      "w04-l21-e02",
+      "w04-l21-e03",
+      "w04-l21-e04",
+      "w04-l21-e05",
+      "w04-l21-e06",
+      "w04-l21-e07",
+      "w04-l21-e08",
+      "w04-l21-e09",
+      "w04-l21-e10",
+      "w04-l21-e11"
+    ],
+    "speakingTaskIds": [
+      "w04-l21-s01",
+      "w04-l21-s02",
+      "w04-l21-s03",
+      "w04-l21-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w04-l22",
+    "week": 4,
+    "day": 4,
+    "phase": 1,
+    "titlePl": "Która godzina?",
+    "subtitlePl": "Que horas são? A que horas?",
+    "goals": [
+      "Pytać o godzinę i ją podawać",
+      "Mówić „i pół”, „kwadrans po”, „za dziesięć”",
+      "Umawiać się: A que horas? Às cinco."
+    ],
+    "canDo": [
+      "Zapytam: Desculpe, que horas são?",
+      "Powiem: É uma hora. São três e meia. É meio-dia.",
+      "Umówię się: às cinco / ao meio-dia"
+    ],
+    "prerequisites": [
+      "w04-l21"
+    ],
+    "estimatedMinutes": 14,
+    "warmup": {
+      "soundId": "intonation",
+      "textPl": "„Que horas são?” — pytanie z zaimkiem pytającym: intonacja zwykle opada na końcu.",
+      "itemIds": [
+        "que-horas-sao-q"
+      ]
+    },
+    "newItemIds": [
+      "que-horas-sao-q",
+      "hora",
+      "meia",
+      "meio-dia",
+      "um-quarto",
+      "menos",
+      "a-que-horas-q",
+      "as-cinco"
+    ],
+    "grammar": {
+      "titlePl": "Która godzina?",
+      "explanationPl": "**Que horas são?** — Która godzina? (dosł. „Które godziny są?”)\nOdpowiedź z **ser**: **É** uma hora (1:00), **É** meio-dia (12:00) — liczba pojedyncza. Od drugiej w górę: **São** duas horas, São cinco horas. Słowo „horas” często pomijamy: São três e meia.\n\n**Minuty:** **e** = „i / po”: três **e** dez (3:10), três **e um quarto** (3:15), três **e meia** (3:30).\n**menos** = „za” (dosł. „minus”): São cinco **menos** dez — za dziesięć piąta (4:50). Tak jak po polsku, liczymy do następnej godziny.\n\n**O której?** A que horas? — **à** uma (o pierwszej), **às** duas, **às** cinco, **ao** meio-dia. (a + a = à, a + as = às, a + o = ao)\n\n**Está bem!** = Dobrze! / OK! (zgoda)\n\nW rozkładach i urzędach używa się zegara 24-godzinnego, np. às dezassete horas (17:00).",
+      "table": [
+        [
+          "É uma hora.",
+          "1:00"
+        ],
+        [
+          "São duas horas.",
+          "2:00"
+        ],
+        [
+          "São três e dez.",
+          "3:10"
+        ],
+        [
+          "São três e um quarto.",
+          "3:15"
+        ],
+        [
+          "São três e meia.",
+          "3:30"
+        ],
+        [
+          "São cinco menos dez.",
+          "4:50"
+        ],
+        [
+          "É meio-dia.",
+          "12:00"
+        ]
+      ],
+      "exampleIds": [
+        "e-uma-hora",
+        "sao-duas-horas",
+        "sao-tres-e-meia",
+        "e-meio-dia",
+        "sao-cinco-menos-dez",
+        "desculpe-que-horas-sao-q"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d22"
+    ],
+    "exerciseIds": [
+      "w04-l22-e01",
+      "w04-l22-e02",
+      "w04-l22-e03",
+      "w04-l22-e04",
+      "w04-l22-e05",
+      "w04-l22-e06",
+      "w04-l22-e07",
+      "w04-l22-e08",
+      "w04-l22-e09",
+      "w04-l22-e10",
+      "w04-l22-e11"
+    ],
+    "speakingTaskIds": [
+      "w04-l22-s01",
+      "w04-l22-s02",
+      "w04-l22-s03",
+      "w04-l22-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w04-l23",
+    "week": 4,
+    "day": 5,
+    "phase": 1,
+    "titlePl": "Moja rodzina i krótkie prośby",
+    "subtitlePl": "o meu filho, a minha mulher",
+    "goals": [
+      "Przedstawiać członków rodziny: Este é… / Esta é…",
+      "Używać meu / minha z rodzajnikiem",
+      "Powtórzyć krótkie prośby: Queria…, Pode…?, Podia…?"
+    ],
+    "canDo": [
+      "Powiem: Este é o meu filho. Esta é a minha mulher.",
+      "Powiem, gdzie mieszka ktoś z rodziny",
+      "Poproszę grzecznie: Podia ajudar-me?"
+    ],
+    "prerequisites": [
+      "w04-l22"
+    ],
+    "estimatedMinutes": 13,
+    "warmup": {
+      "soundId": "open-closed-e",
+      "textPl": "„este” (ten) ma zamknięte ê, „esta” (ta) — otwarte e. Posłuchaj różnicy.",
+      "itemIds": [
+        "este",
+        "esta"
+      ]
+    },
+    "newItemIds": [
+      "meu",
+      "minha",
+      "mulher",
+      "marido",
+      "irmao",
+      "irma",
+      "pai",
+      "mae"
+    ],
+    "grammar": {
+      "titlePl": "Moja rodzina: o meu, a minha; este, esta",
+      "explanationPl": "**meu / minha** = mój / moja. Zgadza się z rzeczownikiem — tak jak po polsku: o **meu** filho, a **minha** filha, a **minha** mulher, o **meu** marido. Kobieta też mówi „o meu marido”, bo marido jest męski.\n\nW Portugalii przed meu / minha zwykle stoi **rodzajnik**: **o** meu pai, **a** minha mãe.\n\n**este / esta** = ten / ta (tutaj). Przedstawiając kogoś: **Este é** o meu filho. — To (jest) mój syn. **Esta é** a minha mulher. — To (jest) moja żona. Po polsku mówimy zawsze „to”, po portugalsku este (o mężczyźnie) / esta (o kobiecie). Wymowa: este — zamknięte **ê**, esta — otwarte **e**.\n\n**mulher** = kobieta **i** żona (a minha mulher = moja żona).\n\n**Krótkie prośby — przypomnienie:** **Queria…** (chciałbym / chciałabym), **Pode…?** (czy może Pan/Pani…?), **Podia…?** (czy mógłby Pan / mogłaby Pani…? — najgrzeczniej). Do bliskich: **Podes…?**",
+      "table": [
+        [
+          "o meu pai",
+          "mój tata"
+        ],
+        [
+          "a minha mãe",
+          "moja mama"
+        ],
+        [
+          "o meu marido",
+          "mój mąż"
+        ],
+        [
+          "a minha mulher",
+          "moja żona"
+        ],
+        [
+          "o meu irmão",
+          "mój brat"
+        ],
+        [
+          "a minha irmã",
+          "moja siostra"
+        ]
+      ],
+      "tableItemIds": [
+        "pai",
+        "mae",
+        "marido",
+        "mulher",
+        "irmao",
+        "irma"
+      ],
+      "exampleIds": [
+        "este-e-o-meu-filho",
+        "esta-e-a-minha-mulher",
+        "este-e-o-meu-marido",
+        "a-minha-irma-mora-na-polonia",
+        "a-minha-mae-esta-na-polonia",
+        "o-meu-filho-tem-cinco-anos"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d23"
+    ],
+    "exerciseIds": [
+      "w04-l23-e01",
+      "w04-l23-e02",
+      "w04-l23-e03",
+      "w04-l23-e04",
+      "w04-l23-e05",
+      "w04-l23-e06",
+      "w04-l23-e07",
+      "w04-l23-e08",
+      "w04-l23-e09",
+      "w04-l23-e10",
+      "w04-l23-e11"
+    ],
+    "speakingTaskIds": [
+      "w04-l23-s01",
+      "w04-l23-s02",
+      "w04-l23-s03",
+      "w04-l23-s04"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review"
+  },
+  {
+    "id": "w04-l24",
+    "week": 4,
+    "day": 6,
+    "phase": 1,
+    "titlePl": "Sprawdzian pierwszego miesiąca",
+    "subtitlePl": "Rozmowa na koniec etapu Câmara de Lobos",
+    "goals": [
+      "Przeprowadzić krótką rozmowę z poznanych elementów",
+      "Sprawdzić wiedzę z tygodni 1–4"
+    ],
+    "canDo": [
+      "Przywitam się, przedstawię, powiem, skąd jestem i gdzie mieszkam",
+      "Umówię się na konkretny dzień i godzinę",
+      "Poproszę o pomoc, powiem, czego chcę i potrzebuję"
+    ],
+    "prerequisites": [
+      "w04-l23"
+    ],
+    "estimatedMinutes": 15,
+    "warmup": {
+      "soundId": "connected-speech",
+      "textPl": "„De onde é…?” — w mowie „de onde” zlewa się w „djÕ-dy”.",
+      "itemIds": [
+        "bem-obrigada-de-onde-e-o-senhor-q"
+      ]
+    },
+    "newItemIds": [],
+    "grammar": {
+      "titlePl": "Miesiąc 1 — co już umiesz",
+      "explanationPl": "Po czterech tygodniach umiesz już całkiem dużo:\n\n• przywitać się i przedstawić (formalnie i nieformalnie), powiedzieć, skąd jesteś i gdzie mieszkasz;\n• powiedzieć, jak się czujesz i gdzie jesteś (**ser / estar**), co masz (**ter**);\n• powiedzieć, czego chcesz i potrzebujesz, poprosić grzecznie (**queria, podia, preciso de**);\n• policzyć do 100, zapytać o cenę i wiek;\n• powiedzieć, dokąd idziesz, gdzie coś jest, jaki jest dzień i która godzina;\n• przedstawić rodzinę.\n\nNa koniec — rozmowa z Martą, a potem sprawdzian etapowy (ok. 10 minut). Wynik pokaże, które lekcje warto powtórzyć; nie blokuje dalszej nauki.",
+      "exampleIds": [
+        "sou-da-polonia",
+        "moro-no-funchal",
+        "queria-um-cafe-sfv",
+        "podia-ajudar-me-sfv-q",
+        "vou-ao-supermercado",
+        "sao-tres-e-meia"
+      ]
+    },
+    "dialogueIds": [
+      "w04-d24"
+    ],
+    "exerciseIds": [
+      "w04-l24-e01",
+      "w04-l24-e02",
+      "w04-l24-e03",
+      "w04-l24-e04",
+      "w04-l24-e05",
+      "w04-l24-e06",
+      "w04-l24-e07",
+      "w04-l24-e08",
+      "w04-l24-e09",
+      "w04-l24-e10"
+    ],
+    "speakingTaskIds": [
+      "w04-l24-s01",
+      "w04-l24-s02",
+      "w04-l24-s03"
+    ],
+    "mapStopId": "camara-de-lobos",
+    "status": "review",
+    "testId": "w04-test"
+  }
+]

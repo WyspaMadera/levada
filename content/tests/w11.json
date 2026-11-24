@@ -1,0 +1,90 @@
+[
+  {
+    "id": "w11-test",
+    "week": 11,
+    "kind": "weekly",
+    "titlePl": "Sprawdzian tygodnia 11",
+    "introPl": "Około 10 minut. Czas przeszły (pretérito perfeito): czasowniki regularne na -ar, -er, -ir (falei, comi, saí), nieregularne ser / ir (fui, foi, fomos), ter i estar (tive, estive, esteve), fazer (fiz, fez, fizeste); określenia czasu (ontem, anteontem, ontem à noite, no sábado passado, na semana passada, há dois dias). Wynik pokaże, co powtórzyć — nie blokuje dalszej nauki.",
+    "sections": [
+      {
+        "titlePl": "Słuchanie",
+        "skill": "listening",
+        "exerciseIds": [
+          "w11-t-e01",
+          "w11-t-e02",
+          "w11-t-e03",
+          "w11-t-e04",
+          "w11-t-e05"
+        ]
+      },
+      {
+        "titlePl": "Rozpoznawanie",
+        "skill": "recognition",
+        "exerciseIds": [
+          "w11-t-e06",
+          "w11-t-e07",
+          "w11-t-e08",
+          "w11-t-e09"
+        ]
+      },
+      {
+        "titlePl": "Budowanie zdań",
+        "skill": "building",
+        "exerciseIds": [
+          "w11-t-e10",
+          "w11-t-e11",
+          "w11-t-e12",
+          "w11-t-e13",
+          "w11-t-e14",
+          "w11-t-e15",
+          "w11-t-e16",
+          "w11-t-e17",
+          "w11-t-e18"
+        ]
+      },
+      {
+        "titlePl": "Z pamięci",
+        "skill": "recall",
+        "exerciseIds": [
+          "w11-t-e19",
+          "w11-t-e20",
+          "w11-t-e21",
+          "w11-t-e22"
+        ]
+      }
+    ],
+    "speakingTaskIds": [
+      "w11-t-s01",
+      "w11-t-s02",
+      "w11-t-s03"
+    ],
+    "monologues": [
+      {
+        "id": "w11-t-m01",
+        "promptPl": "Opowiedz o swoim wczorajszym dniu albo o ostatnim weekendzie — około minuty.",
+        "hintPl": "Ontem de manhã… Depois… A seguir… À noite… / No sábado fui… Fiz… Fiquei… Estive… Foi muito bom!",
+        "targetSeconds": 75,
+        "checklistPl": [
+          "Użyłem/użyłam czasu przeszłego czasowników na -ar (trabalhei, falei, jantei…)",
+          "Użyłem/użyłam czasownika na -er lub -ir (comi, bebi, saí…)",
+          "Użyłem/użyłam fui / foi (dokąd poszedłem, jak było)",
+          "Użyłem/użyłam estive / tive / fiz / fiquei",
+          "Powiedziałem/powiedziałam, KIEDY (ontem, anteontem, no sábado passado, há dois dias…)",
+          "Opowiedziałem/opowiedziałam po kolei (primeiro, depois, a seguir)"
+        ]
+      }
+    ],
+    "scenarioIds": [
+      "sc-w11-fim-de-semana"
+    ],
+    "passThreshold": 0.7,
+    "remedialLessonIds": [
+      "w11-l61",
+      "w11-l62",
+      "w11-l63",
+      "w11-l64",
+      "w11-l65",
+      "w11-l66"
+    ]
+  }
+]

@@ -1,0 +1,918 @@
+[
+  {
+    "id": "w02-l07-e01",
+    "type": "listenChoose",
+    "targetItemId": "ela",
+    "optionItemIds": [
+      "ele",
+      "ela",
+      "eles"
+    ],
+    "promptPl": "Posłuchaj. Kto?"
+  },
+  {
+    "id": "w02-l07-e02",
+    "type": "minimalPair",
+    "itemIds": [
+      "ele",
+      "ela"
+    ],
+    "promptPl": "On czy ona? Słuchaj pierwszej samogłoski: zamknięte ê czy otwarte e?"
+  },
+  {
+    "id": "w02-l07-e03",
+    "type": "readChoose",
+    "targetItemId": "nos",
+    "optionItemIds": [
+      "nos",
+      "voces",
+      "eles"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w02-l07-e04",
+    "type": "recallChoose",
+    "targetItemId": "voces",
+    "optionItemIds": [
+      "voces",
+      "nos",
+      "elas"
+    ],
+    "promptPl": "Wybierz „wy”."
+  },
+  {
+    "id": "w02-l07-e05",
+    "type": "fillGap",
+    "sentencePt": "___ chama-se Rui.",
+    "sentencePl": "On ma na imię Rui.",
+    "options": [
+      "Ele",
+      "Ela"
+    ],
+    "answer": "Ele",
+    "fullItemId": "ele-chama-se-rui",
+    "wrongExplanations": {
+      "Ela": "„Ela” = ona. Rui to mężczyzna."
+    },
+    "explanationPl": "Rui to mężczyzna → ele.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w02-l07-e06",
+    "type": "transform",
+    "baseItemId": "ele-chama-se-rui",
+    "instructionPl": "Powiedz to samo o kobiecie, która ma na imię Ana.",
+    "targetItemId": "ela-chama-se-ana",
+    "tiles": [
+      "Ela",
+      "chama-se",
+      "Ana"
+    ],
+    "distractors": [
+      "Ele",
+      "Rui"
+    ]
+  },
+  {
+    "id": "w02-l07-e07",
+    "type": "buildSentence",
+    "targetItemId": "ela-fala-ingles-q",
+    "tiles": [
+      "Ela",
+      "fala",
+      "inglês"
+    ],
+    "distractors": [
+      "falas"
+    ],
+    "promptPl": "Zapytaj: „Czy ona mówi po angielsku?”"
+  },
+  {
+    "id": "w02-l07-e08",
+    "type": "recallSay",
+    "targetItemId": "o-senhor-fala-ingles-q",
+    "promptPl": "Zapytaj starszego pana, czy mówi po angielsku."
+  },
+  {
+    "id": "w02-l07-e09",
+    "type": "recallSay",
+    "targetItemId": "tu-falas-portugues-q",
+    "promptPl": "Zapytaj kolegę (ty), czy mówi po portugalsku."
+  },
+  {
+    "id": "w02-l07-e10",
+    "type": "typeAnswer",
+    "targetItemId": "eu",
+    "promptPl": "Napisz: „ja”."
+  },
+  {
+    "id": "w02-l08-e01",
+    "type": "listenChoose",
+    "targetItemId": "ser-somos",
+    "optionItemIds": [
+      "ser-sou",
+      "ser-somos",
+      "ser-sao"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w02-l08-e02",
+    "type": "readChoose",
+    "targetItemId": "ser-e",
+    "optionItemIds": [
+      "ser-e",
+      "ser-es",
+      "ser-sou"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w02-l08-e03",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ polaco.",
+    "sentencePl": "Jestem Polakiem.",
+    "options": [
+      "sou",
+      "é",
+      "são"
+    ],
+    "answer": "sou",
+    "fullItemId": "eu-sou-polaco",
+    "wrongExplanations": {
+      "é": "„é” = (on/ona/Pan) jest. Z „eu” — sou.",
+      "são": "„são” = (oni/wy) są."
+    },
+    "explanationPl": "eu → sou.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l08-e04",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ da Polónia.",
+    "sentencePl": "Jesteśmy z Polski.",
+    "options": [
+      "somos",
+      "são",
+      "sou"
+    ],
+    "answer": "somos",
+    "fullItemId": "nos-somos-da-polonia",
+    "wrongExplanations": {
+      "são": "„são” = oni/wy są.",
+      "sou": "„sou” = ja jestem."
+    },
+    "explanationPl": "nós → somos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l08-e05",
+    "type": "fillGap",
+    "sentencePt": "A Ana ___ portuguesa.",
+    "sentencePl": "Ana jest Portugalką.",
+    "options": [
+      "é",
+      "és",
+      "sou"
+    ],
+    "answer": "é",
+    "wrongExplanations": {
+      "és": "„és” = ty jesteś.",
+      "sou": "„sou” = ja jestem."
+    },
+    "explanationPl": "O kimś (ona) → é.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l08-e06",
+    "type": "transform",
+    "baseItemId": "eu-sou-polaco",
+    "instructionPl": "Powiedz to samo o Annie, która jest Polką.",
+    "targetItemId": "ela-e-polaca",
+    "tiles": [
+      "Ela",
+      "é",
+      "polaca"
+    ],
+    "distractors": [
+      "sou",
+      "polaco"
+    ]
+  },
+  {
+    "id": "w02-l08-e07",
+    "type": "transform",
+    "baseItemId": "ela-e-portuguesa",
+    "instructionPl": "Zaprzecz.",
+    "targetItemId": "ela-nao-e-portuguesa",
+    "tiles": [
+      "Ela",
+      "não",
+      "é",
+      "portuguesa"
+    ],
+    "distractors": [
+      "sou"
+    ]
+  },
+  {
+    "id": "w02-l08-e08",
+    "type": "recallSay",
+    "targetItemId": "sou-da-polonia",
+    "promptPl": "Powiedz, że jesteś z Polski."
+  },
+  {
+    "id": "w02-l08-e09",
+    "type": "recallSay",
+    "targetItemId": "eu-sou-polaco",
+    "promptPl": "Powiedz, jakiej jesteś narodowości."
+  },
+  {
+    "id": "w02-l08-e10",
+    "type": "typeAnswer",
+    "targetItemId": "ser-somos",
+    "promptPl": "Napisz: „(my) jesteśmy” (ser)."
+  },
+  {
+    "id": "w02-l09-e01",
+    "type": "listenChoose",
+    "targetItemId": "estar-estamos",
+    "optionItemIds": [
+      "estar-estou",
+      "estar-estamos",
+      "estar-estao"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w02-l09-e02",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ cansado.",
+    "sentencePl": "Jestem zmęczony.",
+    "options": [
+      "estou",
+      "sou"
+    ],
+    "answer": "estou",
+    "wrongExplanations": {
+      "sou": "„ser” (sou) opisuje, kim jesteś na stałe. Zmęczenie mija → estou."
+    },
+    "explanationPl": "Zmęczenie to stan chwilowy → estar (estou).",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-l09-e03",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ polaco.",
+    "sentencePl": "Jestem Polakiem.",
+    "options": [
+      "sou",
+      "estou"
+    ],
+    "answer": "sou",
+    "fullItemId": "eu-sou-polaco",
+    "wrongExplanations": {
+      "estou": "„estar” to stan lub miejsce w danej chwili. Narodowość → sou."
+    },
+    "explanationPl": "Narodowość — stała cecha → ser (sou).",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-l09-e04",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ na Madeira.",
+    "sentencePl": "Jesteśmy na Maderze.",
+    "options": [
+      "estamos",
+      "somos"
+    ],
+    "answer": "estamos",
+    "wrongExplanations": {
+      "somos": "„somos” (ser) = kim jesteśmy. Miejsce → estamos."
+    },
+    "explanationPl": "Gdzie jesteśmy (położenie) → estar.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-l09-e05",
+    "type": "fillGap",
+    "sentencePt": "Ela ___ em casa.",
+    "sentencePl": "Ona jest w domu.",
+    "options": [
+      "está",
+      "é"
+    ],
+    "answer": "está",
+    "fullItemId": "ela-esta-em-casa",
+    "wrongExplanations": {
+      "é": "„é” (ser) = kim/jaka jest. Miejsce → está."
+    },
+    "explanationPl": "Gdzie ktoś jest → estar (está).",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-l09-e06",
+    "type": "readChoose",
+    "targetItemId": "como-esta",
+    "optionItemIds": [
+      "como-esta",
+      "como-se-chama",
+      "tudo-bem-q"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w02-l09-e07",
+    "type": "transform",
+    "baseItemId": "ela-esta-em-casa",
+    "instructionPl": "Zamień: powiedz to o sobie (eu) — i że jesteś w Funchal.",
+    "targetItemId": "estou-no-funchal",
+    "tiles": [
+      "Estou",
+      "no",
+      "Funchal"
+    ],
+    "distractors": [
+      "Está",
+      "na"
+    ]
+  },
+  {
+    "id": "w02-l09-e08",
+    "type": "transform",
+    "baseItemId": "estou-cansado",
+    "instructionPl": "Powiedz to o koledze (ele) — i zaprzecz.",
+    "targetItemId": "ele-nao-esta-cansado",
+    "tiles": [
+      "Ele",
+      "não",
+      "está",
+      "cansado"
+    ],
+    "distractors": [
+      "estou",
+      "cansada"
+    ]
+  },
+  {
+    "id": "w02-l09-e09",
+    "type": "buildSentence",
+    "targetItemId": "estamos-na-madeira",
+    "tiles": [
+      "Estamos",
+      "na",
+      "Madeira"
+    ],
+    "distractors": [
+      "somos",
+      "no"
+    ]
+  },
+  {
+    "id": "w02-l09-e10",
+    "type": "recallSay",
+    "targetItemId": "estou-bem-obrigado",
+    "promptPl": "Ktoś pyta: „Como está?”. Odpowiedz."
+  },
+  {
+    "id": "w02-l09-e11",
+    "type": "recallSay",
+    "targetItemId": "estou-no-funchal",
+    "promptPl": "Powiedz, że jesteś w Funchal."
+  },
+  {
+    "id": "w02-l10-e01",
+    "type": "listenChoose",
+    "targetItemId": "ter-tenho",
+    "optionItemIds": [
+      "ter-tenho",
+      "ter-tem",
+      "ter-temos"
+    ],
+    "promptPl": "Posłuchaj. Która forma?"
+  },
+  {
+    "id": "w02-l10-e02",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ um filho.",
+    "sentencePl": "Mam syna.",
+    "options": [
+      "tenho",
+      "tem",
+      "tens"
+    ],
+    "answer": "tenho",
+    "wrongExplanations": {
+      "tem": "„tem” = on/ona/Pan ma.",
+      "tens": "„tens” = ty masz."
+    },
+    "explanationPl": "eu → tenho.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l10-e03",
+    "type": "fillGap",
+    "sentencePt": "Nós ___ fome.",
+    "sentencePl": "Jesteśmy głodni.",
+    "options": [
+      "temos",
+      "têm",
+      "tem"
+    ],
+    "answer": "temos",
+    "wrongExplanations": {
+      "têm": "„têm” = oni/wy mają.",
+      "tem": "„tem” = on/ona ma."
+    },
+    "explanationPl": "nós → temos.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l10-e04",
+    "type": "fillGap",
+    "sentencePt": "Tu ___ sede?",
+    "sentencePl": "Chce ci się pić?",
+    "options": [
+      "tens",
+      "tem"
+    ],
+    "answer": "tens",
+    "wrongExplanations": {
+      "tem": "„tem” to forma dla on/ona/Pan/Pani."
+    },
+    "explanationPl": "tu → tens (z -s).",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-l10-e05",
+    "type": "recallChoose",
+    "targetItemId": "sede",
+    "optionItemIds": [
+      "fome",
+      "sede"
+    ],
+    "promptPl": "Wybierz „pragnienie”."
+  },
+  {
+    "id": "w02-l10-e06",
+    "type": "readChoose",
+    "targetItemId": "fome",
+    "optionItemIds": [
+      "fome",
+      "sede",
+      "pergunta"
+    ],
+    "promptPl": "Co to znaczy?"
+  },
+  {
+    "id": "w02-l10-e07",
+    "type": "transform",
+    "baseItemId": "tenho-fome",
+    "instructionPl": "Zaprzecz.",
+    "targetItemId": "nao-tenho-fome",
+    "tiles": [
+      "Não",
+      "tenho",
+      "fome"
+    ],
+    "distractors": [
+      "tem"
+    ]
+  },
+  {
+    "id": "w02-l10-e08",
+    "type": "buildSentence",
+    "targetItemId": "tenho-uma-pergunta",
+    "tiles": [
+      "Tenho",
+      "uma",
+      "pergunta"
+    ],
+    "distractors": [
+      "um"
+    ]
+  },
+  {
+    "id": "w02-l10-e09",
+    "type": "recallSay",
+    "targetItemId": "desculpe-tenho-uma-pergunta",
+    "promptPl": "Zaczepiasz urzędnika: przeproś i powiedz, że masz pytanie."
+  },
+  {
+    "id": "w02-l10-e10",
+    "type": "recallSay",
+    "targetItemId": "tem-sede-q",
+    "promptPl": "Zapytaj gościa (grzecznie), czy chce mu się pić."
+  },
+  {
+    "id": "w02-l11-e01",
+    "type": "listenChoose",
+    "targetItemId": "cinco",
+    "optionItemIds": [
+      "cinco",
+      "seis",
+      "sete"
+    ],
+    "promptPl": "Posłuchaj. Jaka liczba?"
+  },
+  {
+    "id": "w02-l11-e02",
+    "type": "listenChoose",
+    "targetItemId": "dez",
+    "optionItemIds": [
+      "dois",
+      "dez",
+      "tres"
+    ],
+    "promptPl": "Posłuchaj. Jaka liczba?"
+  },
+  {
+    "id": "w02-l11-e03",
+    "type": "fillGap",
+    "sentencePt": "___ casa",
+    "sentencePl": "dom (ten)",
+    "options": [
+      "a",
+      "o"
+    ],
+    "answer": "a",
+    "wrongExplanations": {
+      "o": "„o” stoi przed rzeczownikami męskimi."
+    },
+    "explanationPl": "casa kończy się na -a i jest żeńska → a casa.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w02-l11-e04",
+    "type": "fillGap",
+    "sentencePt": "___ dia",
+    "sentencePl": "dzień (ten)",
+    "options": [
+      "o",
+      "a"
+    ],
+    "answer": "o",
+    "wrongExplanations": {
+      "a": "„dia” kończy się na -a, ale jest męski: o dia, bom dia."
+    },
+    "explanationPl": "Pułapka: „dia” jest męski → o dia (pamiętasz „bom dia”?).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w02-l11-e05",
+    "type": "fillGap",
+    "sentencePt": "Tenho ___ perguntas.",
+    "sentencePl": "Mam dwa pytania.",
+    "options": [
+      "duas",
+      "dois"
+    ],
+    "answer": "duas",
+    "fullItemId": "tenho-duas-perguntas",
+    "wrongExplanations": {
+      "dois": "„dois” — tylko z rzeczownikami męskimi (dois cafés)."
+    },
+    "explanationPl": "„pergunta” jest żeńska → duas.",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w02-l11-e06",
+    "type": "readChoose",
+    "targetItemId": "oito",
+    "optionItemIds": [
+      "oito",
+      "quatro",
+      "nove"
+    ],
+    "promptPl": "Jaka to liczba?"
+  },
+  {
+    "id": "w02-l11-e07",
+    "type": "recallChoose",
+    "targetItemId": "quatro",
+    "optionItemIds": [
+      "quatro",
+      "cinco",
+      "tres"
+    ],
+    "promptPl": "Wybierz „cztery”."
+  },
+  {
+    "id": "w02-l11-e08",
+    "type": "typeAnswer",
+    "targetItemId": "tres",
+    "promptPl": "Napisz: „trzy”."
+  },
+  {
+    "id": "w02-l11-e09",
+    "type": "buildSentence",
+    "targetItemId": "dois-cafes-sfv",
+    "tiles": [
+      "Dois",
+      "cafés",
+      "se",
+      "faz",
+      "favor"
+    ],
+    "distractors": [
+      "duas"
+    ]
+  },
+  {
+    "id": "w02-l11-e10",
+    "type": "recallSay",
+    "targetItemId": "dois-cafes-sfv",
+    "promptPl": "Zamów dwie kawy."
+  },
+  {
+    "id": "w02-l12-e01",
+    "type": "fillGap",
+    "sentencePt": "Sou polaco, ___ estou na Madeira.",
+    "sentencePl": "Jestem Polakiem, ale jestem na Maderze.",
+    "options": [
+      "mas",
+      "e",
+      "ou"
+    ],
+    "answer": "mas",
+    "fullItemId": "sou-polaco-mas-estou-na-madeira",
+    "wrongExplanations": {
+      "e": "„e” = i (dodanie, bez kontrastu).",
+      "ou": "„ou” = albo."
+    },
+    "explanationPl": "„mas” = ale (kontrast).",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w02-l12-e02",
+    "type": "fillGap",
+    "sentencePt": "Café ___ chá?",
+    "sentencePl": "Kawa czy herbata?",
+    "options": [
+      "ou",
+      "e"
+    ],
+    "answer": "ou",
+    "fullItemId": "cafe-ou-cha-q",
+    "wrongExplanations": {
+      "e": "„e” = i. Pytasz o wybór → ou."
+    },
+    "explanationPl": "Wybór → ou.",
+    "mistakeCategory": "vocabulary"
+  },
+  {
+    "id": "w02-l12-e03",
+    "type": "minimalPair",
+    "itemIds": [
+      "mas",
+      "mais"
+    ],
+    "promptPl": "„mas” (ale) czy „mais” (więcej)?"
+  },
+  {
+    "id": "w02-l12-e04",
+    "type": "buildSentence",
+    "targetItemId": "eu-tambem",
+    "tiles": [
+      "Eu",
+      "também"
+    ],
+    "distractors": [
+      "mas"
+    ]
+  },
+  {
+    "id": "w02-l12-e05",
+    "type": "transform",
+    "baseItemId": "nao-falo-bem",
+    "instructionPl": "Powiedz, że mówisz TROCHĘ po portugalsku.",
+    "targetItemId": "falo-um-pouco-de-portugues",
+    "tiles": [
+      "Falo",
+      "um",
+      "pouco",
+      "de",
+      "português"
+    ],
+    "distractors": [
+      "não",
+      "bem"
+    ]
+  },
+  {
+    "id": "w02-l12-e06",
+    "type": "readChoose",
+    "targetItemId": "sou-resposta",
+    "optionItemIds": [
+      "sou-resposta",
+      "nao-sou-polaco",
+      "eu-tambem"
+    ],
+    "promptPl": "Ktoś pyta „É polaco?”. Co znaczy odpowiedź „Sou.”?"
+  },
+  {
+    "id": "w02-l12-e07",
+    "type": "recallSay",
+    "targetItemId": "falo-um-pouco",
+    "promptPl": "Ktoś pyta: „Falas português?”. Odpowiedz: trochę."
+  },
+  {
+    "id": "w02-l12-e08",
+    "type": "recallSay",
+    "targetItemId": "eu-tambem",
+    "promptPl": "Ktoś mówi: „Estou cansado”. Powiedz: ja też."
+  },
+  {
+    "id": "w02-l12-e09",
+    "type": "listenChoose",
+    "targetItemId": "tambem",
+    "optionItemIds": [
+      "tambem",
+      "aqui",
+      "muito"
+    ],
+    "promptPl": "Posłuchaj i wybierz znaczenie."
+  },
+  {
+    "id": "w02-t-e01",
+    "type": "listenChoose",
+    "targetItemId": "ser-sao",
+    "optionItemIds": [
+      "ser-sou",
+      "ser-somos",
+      "ser-sao"
+    ]
+  },
+  {
+    "id": "w02-t-e02",
+    "type": "listenChoose",
+    "targetItemId": "estar-estou",
+    "optionItemIds": [
+      "estar-estou",
+      "estar-estao",
+      "ser-sou"
+    ]
+  },
+  {
+    "id": "w02-t-e03",
+    "type": "listenChoose",
+    "targetItemId": "ter-temos",
+    "optionItemIds": [
+      "ter-tenho",
+      "ter-temos",
+      "ter-teem"
+    ]
+  },
+  {
+    "id": "w02-t-e04",
+    "type": "minimalPair",
+    "itemIds": [
+      "ele",
+      "ela"
+    ]
+  },
+  {
+    "id": "w02-t-e05",
+    "type": "listenChoose",
+    "targetItemId": "seis",
+    "optionItemIds": [
+      "seis",
+      "sete",
+      "dez"
+    ]
+  },
+  {
+    "id": "w02-t-e06",
+    "type": "readChoose",
+    "targetItemId": "tenho-fome",
+    "optionItemIds": [
+      "tenho-fome",
+      "tem-sede-q",
+      "estou-cansado"
+    ]
+  },
+  {
+    "id": "w02-t-e07",
+    "type": "readChoose",
+    "targetItemId": "a-ana-e-portuguesa-e-o-rui-tambem",
+    "optionItemIds": [
+      "a-ana-e-portuguesa-e-o-rui-tambem",
+      "ela-e-portuguesa",
+      "sou-portugues-sou-da-madeira"
+    ]
+  },
+  {
+    "id": "w02-t-e08",
+    "type": "fillGap",
+    "sentencePt": "Eu ___ cansada.",
+    "sentencePl": "Jestem zmęczona.",
+    "options": [
+      "estou",
+      "sou"
+    ],
+    "answer": "estou",
+    "wrongExplanations": {
+      "sou": "Zmęczenie mija → estou."
+    },
+    "explanationPl": "Stan chwilowy → estar.",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-t-e09",
+    "type": "fillGap",
+    "sentencePt": "Ele ___ português.",
+    "sentencePl": "On jest Portugalczykiem.",
+    "options": [
+      "é",
+      "está"
+    ],
+    "answer": "é",
+    "wrongExplanations": {
+      "está": "Narodowość to stała cecha → é."
+    },
+    "explanationPl": "Narodowość → ser (é).",
+    "mistakeCategory": "ser-estar"
+  },
+  {
+    "id": "w02-t-e10",
+    "type": "fillGap",
+    "sentencePt": "Eles ___ dois filhos.",
+    "sentencePl": "Oni mają dwóch synów.",
+    "options": [
+      "têm",
+      "tem",
+      "temos"
+    ],
+    "answer": "têm",
+    "wrongExplanations": {
+      "tem": "„tem” = on/ona ma.",
+      "temos": "„temos” = my mamy."
+    },
+    "explanationPl": "eles → têm.",
+    "mistakeCategory": "conjugation"
+  },
+  {
+    "id": "w02-t-e11",
+    "type": "fillGap",
+    "sentencePt": "___ casa e ___ café",
+    "sentencePl": "dom i kawa",
+    "options": [
+      "a … o",
+      "o … a"
+    ],
+    "answer": "a … o",
+    "wrongExplanations": {
+      "o … a": "casa jest żeńska, café męski."
+    },
+    "explanationPl": "a casa (ż.), o café (m.).",
+    "mistakeCategory": "gender-article"
+  },
+  {
+    "id": "w02-t-e12",
+    "type": "buildSentence",
+    "targetItemId": "sou-polaco-mas-estou-na-madeira",
+    "tiles": [
+      "Sou",
+      "polaco",
+      "mas",
+      "estou",
+      "na",
+      "Madeira"
+    ],
+    "distractors": [
+      "é"
+    ],
+    "acceptedAnswers": [
+      "Sou polaca, mas estou na Madeira."
+    ]
+  },
+  {
+    "id": "w02-t-e13",
+    "type": "transform",
+    "baseItemId": "ela-e-portuguesa",
+    "instructionPl": "Zaprzecz.",
+    "targetItemId": "ela-nao-e-portuguesa",
+    "tiles": [
+      "Ela",
+      "não",
+      "é",
+      "portuguesa"
+    ],
+    "distractors": [
+      "está"
+    ]
+  },
+  {
+    "id": "w02-t-e14",
+    "type": "typeAnswer",
+    "targetItemId": "tenho-um-filho",
+    "promptPl": "Napisz: „Mam syna.”"
+  },
+  {
+    "id": "w02-t-e15",
+    "type": "typeAnswer",
+    "targetItemId": "estou-aqui",
+    "promptPl": "Napisz: „Jestem tutaj.”"
+  }
+]

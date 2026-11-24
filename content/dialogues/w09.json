@@ -1,0 +1,212 @@
+[
+  {
+    "id": "w09-d49",
+    "titlePl": "Pracuję tutaj!",
+    "contextPl": "Rano wchodzisz z laptopem do kawiarni Ruiego. Jesteście po imieniu (tu). „O que fazes?” to tutaj pytanie o zawód.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "bom-dia-hoje-nao-trabalhas-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "trabalho-sim-mas-hoje-trabalho-aqui",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "aqui-o-que-fazes-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "trabalho-com-computadores-e-posso-trabalhar-aqui",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "muito-bem-eu-faco-o-cafe-e-tu-trabalhas"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "queria-um-galao-sfv",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w09-d50",
+    "titlePl": "Rano na schodach",
+    "contextPl": "Rano wychodzisz z domu i spotykasz sąsiadkę Anę. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "bom-dia-sais-sempre-cedo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "sim-saio-sempre-as-oito-e-tu",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "eu-saio-as-nove-trabalho-perto"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "o-escritorio-e-longe-vou-de-autocarro",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "e-a-que-horas-sais-do-escritorio-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "saio-as-cinco-ate-logo",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w09-d51",
+    "titlePl": "Skąd wracasz?",
+    "contextPl": "Wieczorem wracasz do domu. Przed domem spotykasz Anę. Zwróć uwagę: Ana sama idzie do kawiarni (vou), a Ciebie zaprasza, żebyś poszedł z nią (vens comigo?).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-de-onde-vens-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "venho-do-trabalho-estou-cansado",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "vou-ao-cafe-do-rui-vens-comigo-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "hoje-nao-posso-amanha-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "amanha-esta-bem-a-marta-tambem-vem"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "muito-bem-ate-amanha",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w09-d52",
+    "titlePl": "Telewizja po portugalsku",
+    "contextPl": "Pod koniec dnia rozmawiasz z Ruiem w kawiarni. Jesteście po imieniu (tu).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Rui",
+        "itemId": "ola-o-que-fazes-a-noite-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "depois-do-trabalho-como-em-casa-e-vejo-televisao",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "ves-televisao-em-portugues-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-vezes-mas-nao-percebo-tudo",
+        "isLearner": true
+      },
+      {
+        "speaker": "Rui",
+        "itemId": "nao-faz-mal-eu-tambem-vejo-televisao-em-ingles"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "muito-bem-ate-amanha",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w09-d53",
+    "titlePl": "Co mówi syn?",
+    "contextPl": "Odbierasz syna z przedszkola. Marta mówi szybko — za pierwszym razem nie dosłyszysz. Rozmowa grzeczna (o senhor).",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Marta",
+        "itemId": "boa-tarde-o-seu-filho-diz-que-tem-fome"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "como-pode-repetir-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "o-seu-filho-diz-que-tem-fome"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "ah-ele-diz-sempre-que-tem-fome",
+        "isLearner": true
+      },
+      {
+        "speaker": "Marta",
+        "itemId": "e-diz-que-a-sopa-aqui-e-muito-boa"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "obrigado-ate-amanha",
+        "isLearner": true
+      }
+    ]
+  },
+  {
+    "id": "w09-d54",
+    "titlePl": "Sobota na plaży?",
+    "contextPl": "Ana pyta o Twoją sobotę. Jesteście po imieniu (tu). „Não dá” to potoczne „nie dam rady / nie pasuje mi”.",
+    "level": "A1",
+    "lines": [
+      {
+        "speaker": "Ana",
+        "itemId": "ola-o-que-fazes-no-sabado-q"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "de-manha-trabalho-mas-saio-cedo-as-duas",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "vens-a-praia-comigo-a-marta-tambem-vem"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "as-duas-nao-da-as-quatro-q",
+        "isLearner": true
+      },
+      {
+        "speaker": "Ana",
+        "itemId": "as-quatro-esta-bem-eu-digo-a-marta"
+      },
+      {
+        "speaker": "Tomek",
+        "itemId": "muito-bem-ate-sabado",
+        "isLearner": true
+      }
+    ]
+  }
+]
